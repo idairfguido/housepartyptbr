@@ -1,0 +1,379 @@
+﻿[General]
+Name|Amala
+
+[Dialogues]
+0|E aí?
+0.1|Oi.
+0.2|E aí?
+0.3|E aí, você!
+0.4|E aí, e aí?
+0.5|Ah, você de novo... ugh.
+0.6|Você de novo?
+1|Ah, e aí... Eu deveria dizer... ou talvez, hum... ou talvez eu devesse dizer, hum... boa noite!
+2|É, eu... eu sei. Esta é a casa da Madison, a organizadora de festas extraordinária.
+3|Amala. Meu-meu nome é Amala. Aluguei a casa ao lado. Eu queria experimentar a vida doméstica por um tempo... sabe, eu tento ser uma boa vizinha. Sem outras intenções... nenhuma!
+4|Não, nah nah nah, eu não, hum... esse não é meu estilo. Eu... eu não invado festas, eu-eu sou convidada. É... assim que eu faço.
+5|De qualquer forma, hum... outra coisa que você deve saber é que se vir meu salto preso na cerca, é só porque eu estava tentando dar um presente para a Madison... um salto de sapato, e se ela gostar... eu dou outro.
+6|É, eu mando muitos presentes para a Madison. Sabe, eu tento ser uma boa vizinha. Mandei um buquê de flores, um pouco daquele perfume de banheiro para quando está muito fedorento... Ah! E uma stripper. Sabe, coisas de vizinha!
+7|Então eu estava pensando... por que a Madison não me convida para a festa dela? Parece estranho, né? Talvez um pouco errado, né? Né? ...NÉ?!
+8|Você parece um cara legal, no entanto. Talvez você possa me ajudar a descobrir o porquê? Tipo... me diga o motivo. Você pode me dar um 411 e perguntar à Madison o que diabos está acontecendo, tipo se escondendo? Se infiltrando e coisas assim. Como naquele filme de espionagem.
+8.1|Talvez você possa me ajudar a descobrir o porquê? Tipo... me diga o motivo. Você pode me dar um 411 e perguntar para a Madison o que diabos está acontecendo, tipo, ficar quieta? Se infiltrando e tudo mais. Como naquele filme de espionagem.
+9|Confie em mim, vai valer a pena. Não estou aqui só para fazer novos amigos, eu tenho um plano. Sou como o Indiana Jones procurando um tesouro escondido. E se você me ajudar com isso, eu deixo você ser meu Short Round. Vai lá, me dá uma mão.
+10|Você é demais, cara! É! Agora eu posso parar de chutar essa cerca, já que tenho alguém aqui dentro agora. Mas só para você saber, e para que conste, essa cerca ia cair a qualquer momento.
+10.1|Você é demais, cara! É! Agora eu posso parar de chutar essa cerca, já que tenho alguém aqui dentro agora. Mas só para você saber, e para que conste, essa cerca ia cair a qualquer momento.
+11|Então você pode ir se foder! Tá, talvez eu consiga chamar aquele loiro babaca para me ajudar. Ele parece que faria qualquer coisa por cinco pratas.
+12|Bem, o que a Madison disse? Por que a vizinha atenciosa dela, a Amala, não foi convidada?
+13|Aposto que foi um erro. Ela provavelmente enviou o convite para uma daquelas contas de fãs que não dizem que são eu, mas, ao mesmo tempo, NÃO dizem que não são eu. Eu entendo. Essas coisas acontecem o tempo todo.
+14|Hum... é... eu sou... bem conhecida na... cena profissional de cosplay de Nicholas Cage. E... no ramo de pastoreio de gatos? Hum... você sabe... eu gosto de pastorear... gatos. E... hum, de fazer o triângulo.
+15|Eu? Espera, o quê? Ele disse "vizinha intrometida" ou "vizinha barulhenta"? Não sei por que perguntei. Essas... essas duas são respostas terríveis! Madison, sua vadiazinha... Não, Amala, se segura. O destino me espera lá do outro lado daquela cerca maldita, e eu não vou deixar que me neguem!
+16|Sem querer parecer desesperado... mas, por favor, encontre um jeito de me fazer entrar na festa sem que isso envolva derrubar essa cerca e ser acusado de invasão de propriedade.
+17|Você parece uma pessoa criativa, dá para perceber pela sua... hum... cara. Tem mais de uma maneira de enganar um gato! Hum, quer dizer... fingir que eu não disse nada.
+18|Tá brincando? Olha a minha roupa. Não quero mostrar minha xoxota pra todo mundo enquanto pulo essa cerca.
+19|Droga, você me descobriu, né? Eu estava tentando me manter discreto, mas acho que o segredo já foi revelado. Eeeeeeeeeeeee, haha!
+20|Mas falando sério, me deixa voltar para o saco por enquanto. Não quero usar minha fama. Essa missão é maior do que isso.
+21|Por enquanto, sou apenas a Amala, a vizinha gostosa que já recebeu mais reclamações por perturbação da paz do que pelo menos três bairros juntos. Quer dizer, eu tento não me destacar.
+22|Como está indo o convite para a sua amiga Amala? Estou prestes a começar a chutar essa cerca de novo...
+22.1|Certamente não vai demorar muito para ser convidada, né? Eu fiz um lugar para fazer xixi aqui atrás e já usei várias vezes.
+22.2|Então eu mais a festa é igual a... é mesmo?
+23|Olha, eu deixo você fazer isso se achar que vai me ajudar a entrar. Mas não deixe muita gente saber. Você sabe como as pessoas começam a mandar mensagens rápido. Se a notícia de que estou aqui se espalhar, você vai ter muito mais convidados indesejados. Não consigo nem sair para depilar a vagina sem que alguém tente tirar uma selfie comigo. E geralmente não aparecem na minha cara. Só para você saber.
+24|Ah, qual é, você contou tudo? Eu te disse para não contar a ninguém que eu sou a Doja Cat! A gata deveria ficar na bolsa! Gato. Bolsa. Lembra? Se alguém mandar mensagem para outra pessoa, essa pessoa vai saber que estou aqui, e então o primo dela vai saber que estou aqui, e então a avó, a mãe dela, o cachorro dela, o hamster dela... Quem estou enganando? Eles provavelmente já teriam descoberto de qualquer jeito.
+25|Haha. Muito engraçado. Tá, tudo bem, isso foi um pouco engraçado. Você sabe que não resisto a uma boa piada do Nicholas Cage. ABELHAS! TIREM ESSAS ABELHAS DE CIMA DE MIM!
+26|Eba, conseguimos! Ok, escuta. Ainda não terminei com você. Venha falar comigo assim que eu entrar e eu explico o resto do plano.
+27|Nossa... tentador. O quê, você quer que eu pule a cerca e você coloque as mãos em mim com este vestido que estou usando para me ajudar a passar? Não, obrigada. Me encontre na porta da frente como uma humana normal, ok?
+28|Então... é esta a festa? É um evento exclusivo ou ninguém gosta da Madison?
+29|Putz, agora entendi. É por isso que ela não gosta de mim como vizinha. Porque as festas dela são péssimas. Nossa. Tinha gente fazendo enemas de gelatina até as 4 da manhã! Enfim, deixa pra lá. Parece que a última localização conhecida do Dinolicious é este endereço. É... você está aqui... em algum lugar.
+30|Olha, eu te disse que estou aqui em uma missão. O Dinolicious é uma dessas pessoas aqui, e eu vou descobrir quem ele é.
+31|Você não sabe quem é o Dinolicious? Onde você esteve? Ele é tipo o mais novo e maior fenômeno da dança na internet. Ele é tipo o garoto da mochila, mas do crack. Ou... o "garoto da mochila de crack". Eu não sei. Porra, não importa.
+32|Escute, o Dinolicious é tipo... esse cara ou garota — ninguém sabe — que é viral e está no TikTok, e ele está usando, tipo, essa... fantasia de dinossauro. E como eu disse, ninguém sabe realmente a verdadeira identidade dele. Mas temos que convencer quem quer que seja essa pessoa a dançar comigo, ao vivo, e vai ser a coisa mais incrível que já aconteceu na história da internet.
+33|Mas estou me precipitando. Ei, tenho 90% de certeza que ele está aqui, mas só preciso de uma prova concreta. Vamos nos separar e ver o que encontramos.
+34|Ei, isso é Jurassic Park! Parece que estamos caçando dinossauros de verdade. Isso é emocionante! Rawr! Rawwrrrr! Rawrawrawrawra... parece mais um cachorro latindo do que um dinossauro, mas enfim, você entendeu.
+34.1|Vamos lá, o que é tão difícil? Precisamos encontrar um humano vestido de dinossauro para que ele possa REBOLAR comigo. Tipo um lobo vestido de ovelha, só que é um homem vestido de dinossauro... E NÃO ESQUEÇA DO REBOLAR!
+35|Olha, olha... provas de que a criatura está andando entre nós. Dinolicious trocou de pele e voltou à forma humana. Ele provavelmente sabe que estamos atrás dele... E DO DINOSSAURO.
+36|A caçada continua. Ele não consegue se esconder. Não com um par de bundas assim. Já encurralei muitos dinossauros na minha vida. Vamos continuar.
+37|Ok, é isso que vamos fazer... só precisamos descobrir qual dessas chamadas "pessoas normais" é o Dinolicious. E a única maneira de fazer isso é ver algumas bundas se mexendo. Vamos fazer esses convidados dançarem para que eu possa ver algumas em ação. Meu olho treinado reconhece os movimentos do Dinolicious com um único movimento de bunda. Traga-me essa bunda.
+38|Não, não exatamente. Não. Não essa pessoa. Ele dança como minha mãe...
+38.1|Ah, fico feliz que ele esteja se divertindo, mas, caramba, isso é uma paródia sobre duas pernas.
+38.2|Nnnnnnão! Não tem carne nessa cesta! Sem bunda, sem dinossauro. Próximo!
+38.3|Nnnnnnão! Quer dizer, parece o Bob Esponja Calça Quadrada tentando... tipo... se reproduzir. Próximo.
+38.4|Isso... não pode ser essa pessoa. Isso é twerking reverso. Não faz sentido.
+39|Não. Ele dança como se tivesse problemas nas costas. Só joelhos e sem bunda.
+40|Olha, tenho que ser sincero com você... você tem uma bunda bem chata. E... tudo bem. Thomas Edison tinha uma bunda chata e inventou lâmpadas e outras coisas. Todos nós temos talentos.
+41|Meu Deus. É você! Essa é a BUNDA LENDÁRIA. Aquela de quem a profecia falou! Derek, você é o Dinolicious!
+42|Não negue seu destino! Por favor, me diga que é verdade. Eu preciso saber!
+43|Não, por favor, vamos começar de novo. E-eu sou um grande fã do seu trabalho. Quando se trata de rebolar, eu me curvo aos seus pés... ou à sua bunda. Quer dizer... argh! Eu só quero dançar com você. Eu preciso dançar com você. Por favor?
+44|Não, Derek! Por favor! Eu... nossas bundas foram feitas para se encontrar! É o destino!
+45|Eu... eu assustei meu ídolo. Exagerei? Por favor, você tem que me ajudar a encontrar o Derek! Ele tem que... ele tem que me ouvir!
+45.1|Você tem que me ajudar a encontrar o Derek.
+45.2|Não acredito que assustei o Dinolicious. Estou me sentindo deprimida.
+46|Derek, eu sei que te assustei um pouco, mas não consigo evitar, é a minha natureza. VOCÊ TEM QUE FAZER ISSO. ESSAS BUNDAS DE OURO PERTENCEM AO POVO!
+47|Vou fazer um show hoje à noite, e você está dançando. Aqui. Ao meu lado. Fantasiada. DE BOCA PARA BAIXO, BUNDA PARA CIMA E REBOLANDO COMO SE NÃO HOUVESSEM AMANHÃ!
+48|E o nosso palco... O SEU palco... é bem aqui, gata. Quer dizer, é, parece um quintal agora, e esta é a festa mais decepcionante de todas, mas deixa eu fazer a minha mágica. Vai se arrumar. Preciso do Dinolicious hoje à noite, por favor.
+49|Viu? Eu sei ser persuasiva. E-e fofa. E um pouco... dramática. Um pouco agressiva. Quase louca. Mas-mas funcionou! Não funcionou? Foi ótimo.
+50|Bem, é, tenho que correr para casa e me arrumar para o show. Mas antes de ir, preciso de um favorzinho seu.
+51|Só preciso que você fique aqui, ajude o Derek a se arrumar e, pelo amor de Deus, toque uma música melhor. Essa merda está fazendo meus ouvidos sangrarem. Este é um MP3 player antigo. Não me olhe assim. Não, ele é incrível. Não, ele é burro demais para se conectar à internet, então não pode vazar faixas inéditas. ...E eu sou um gênio.
+52|Veja se você consegue fazer essa coisa funcionar. Assim que eu ouvir a música de lá, eu volto.
+53|Ah, a propósito, você está indo ÓTIMA hoje à noite. Te vejo em breve.
+54|Eu te vejo. Você sempre se sai muito bem. Eu gosto de você assim... bom. Mude essa... música, e te vejo em breve.
+55|Tem pizza no telhado e estou tentando descobrir o porquê, mas não quero que você me veja fazendo isso. Só me deixe viver.
+56|Ei, não é uma má ideia. Pode me ajudar a relaxar. É uma grande noite para mim. Só uma coisinha para acalmar meus nervos, sabe?
+57|Mais álcool? Não sei, gosto de beber, mas não quero ficar muito bêbado. Você não acha que outra dose vai comprometer a nossa missão?
+58|Pronto, é assim que se faz! Mantenha os olhos no alvo, ok?
+59|Ok, ok, ok. Mas esta é a última. E ESTOU FALANDO SÉRIO. Não quero ficar todo desleixado hoje à noite.
+60|Droga, você mal pode esperar, né? Ainda estou sentindo os efeitos daquela última bebida. Agora, o que eu estava... o que eu estava dizendo? Ah, é. Nunca vi um pinto — NENHUM — que dissesse: "Droga, isso é um pinto."... Você não acha isso estranho também? *SOLUÇO*
+61|Bem, agora que você me trouxe mais álcool, primeiro vou beber isso. E depois, vou resolver a crise mundial de pintos. AS PESSOAS ESTÃO COM FOME E NÃO TEM PAU SUFICIENTE!
+61.1|AS PESSOAS ESTÃO COM FOME E NÃO TEM PAU SUFICIENTE!
+62|Ei, ei, escuta! *HIC* Eu tenho que dizer uma coisa: vocês, homens, não têm paus grandes o suficiente. Eu tenho, tipo, um *HIC* sexto sentido para paus, e ele não detecta nenhum... uuuh... vocês todos são indignos do peito que têm entre as pernas! *HIC*
+63|Eu criei arte, seu caipira! Michelangelo pode ficar com o pau dele, porque eu acabei de criar O PAU DOS DEUSES.
+64|ELES ESTAVAM NO MEU CAVALEIRO, SEU IDIOTA! Foda-se a associação de moradores e FODA-SE O MICHELANGELO!
+65|Hã? Que missão? Ah, é, esqueci completamente. Tínhamos uma missão e ficamos bêbados. Tanto faz. Acho que a colaboração entre Doja Cat e Dinolicious não era para ser. Agora posso aproveitar o resto da noite. Tem outra bebida para mim?
+65.1|Acho que a colaboração entre Doja Cat e Dinolicious não era para ser. A essa altura, posso aproveitar o resto da noite. Tem outra bebida para mim?
+66|Não preciso de uma. Sério.
+67|Já chega. Vou te matar!
+68|Cara, sua cabeça podia ser um planeta. Planeta careca. Careca. Planeta careca. Planeta careca.
+69|Me traz essa bunda.
+70|Como assim? Não percebeu que estou procurando pistas? Estou apenas seguindo o instinto, como um detetive de verdade com uma jaqueta de couro.
+70.1|Nossa, desculpe, eu fui... meio que para outro lugar. Talvez você devesse cuidar dessa coisa toda de encontrar pistas.
+71|Eu não tive nada a ver com isso.
+72|PARE DE COLOCAR COISAS ESTRANHAS NAS MINHAS MÃOS!
+73|AGORA ESTAMOS RACIOCINANDO!
+74|Você está me chamando de bruxa? Porque... eu gostaria de me tornar uma.
+75|Eu não preciso... Eu tenho o dinheiro, amigo.
+76|Eu posso matar um homem com isso.
+77|Oooh, é lindo! Parece um personagem daquele jogo com os bichinhos que vivem numa vila e fazem barulhos como...
+78|BATATAS.
+79|Ah! Você tem alguma foto nua nesse celular? Ou quer tirar algumas?
+
+[Responses]
+0142757f-a7e0-4bba-aa95-47f8183bc528|É, droga, vamos encontrar essa primeira mulher pré-histórica!
+01eba833-32fe-49a3-b611-d48a8dd72b19|Por que você não conta a ela que é a Doja Cat?
+0245fad2-02d6-48d6-8e38-bf06619ffa99|A caçada continua.
+068ac3b4-0a6a-4a60-addc-33647d318920|Ok, ok. Até mais.
+079ea1f7-cb1e-405e-8b81-f65fbbb4bbf8|Uau. Bem, de volta à nossa missão?
+07e1d5b0-1daf-4f21-9ef3-d6041a912298|Por que você não pula a cerca?
+0b023fc6-db23-4662-8a67-91696c0675dc|Isso parece uma grande estupidez, então você vai para lá... e eu vou... para outro lugar.
+0cc27aaa-c3c8-47d4-8e14-26b594c8864a|É, isso é estranho.
+0d6996fb-c161-4a3f-81fb-7f5dbcc03f04|Ah, é... aquela coisa de bunda. Vou tentar não esquecer!
+0dde1f9a-3a5e-4753-928b-e70e66cc3642|Não sei, mas você foi o primeiro a usar a palavra "festa".
+0e1f90a3-acce-48a9-bcc3-074858f5e1d6|É, provavelmente você tem razão. Precisamos nos concentrar!
+0f5074a7-ce86-4473-aaf0-0cbc9e80ebd8|Continuaremos caçando.
+0fffd389-38a2-4b4b-ba33-0a3888905378|Ele disse com grande naturalidade...
+119c408f-4a6f-4453-871c-a300ab1369cd|Quem diabos é você?
+12fc8a23-cfd7-476c-9b43-c69f31c24c26|...É! O quê-espera, o quê?
+13bedb9b-ef1e-4b65-b382-fcfde8392407|Mas é divertido.
+14aa261f-f555-4c59-b029-e0c2b7acf205|Por que eu deveria te ajudar?
+1730160a-dc3f-4ad0-a489-5d438e79560b|Não, não se preocupe. Outro não vai doer.
+222c5500-7722-4ac9-9495-27fc3036436f|E então, vamos começar o show!
+2463df71-c22f-40bb-84a1-f894155c04c6|Você poderia entrar usando sua fantasia de Nicholas Cage.
+26fef8db-e7eb-42f6-a63e-b8f9f50cd66f|Ah, não.
+2a2f5000-4152-4a0a-af1c-201a8b5a6dc9|Eu disse à Madison quem você é. Pode entrar.
+2a6dd167-91ef-469f-9f24-bacb83a8f9b2|Como quiser, Doja Cat.
+2ac4e1f8-f07a-4ba2-a0b5-3ddd597f13da|O que você disse sobre pintos?
+2da6427a-3dea-4af1-99b3-f793d18df781|Ele disse que você estava falando muito alto.
+31148d4b-a39f-405c-89a5-7f8468f91fc9|Essa piada foi perfeita.
+34e11fac-36c4-4571-891f-948f00261b40|Vamos fazer poções!
+359e3515-271b-4e53-8c1b-2f87d0fc3ca6|O que você acha que ele disse?
+392809f5-0e26-4fdc-b263-5beb71ab6403|Hum, não. Nem uma. Espero que você esteja se divertindo mesmo assim.
+3aac10e0-460a-4938-9ba7-539354f6c6ab|Como convenço a Madison?
+3bc6f721-8a0b-4557-8b82-00c1b2b1fa39|Sim, mas este dinheiro é da Madison.
+3f597d28-d403-4e45-a7e3-d9dcaafb6d04|Aproveite a festa!
+4380e592-9b78-4c8d-9f7a-91af8cb2dcfc|Paz, irmã.
+438f179e-211f-4b7b-8e1b-4f6f29b4a6fb|Exatamente. Batatas.
+45ae9875-3e65-4865-b81f-51ed7693f339|*Ouça*
+4ca7f9f3-6eab-4654-a823-f858b50d5308|Não vou contar a ninguém.
+4ceaf03c-43cb-414b-a5bf-ab5882f40a14|Conta de fã?
+4d77f07e-3d9f-4473-a2d3-43c7c2ded47b|*Ouça*
+4e550b88-9b3b-47a7-bcf8-194886172b1b|Me chame de Owen porque estou prestes a domar esse dinossauro.
+500a63e6-b462-4492-a990-3e29337314a1|Deixe-me pensar um pouco. Espere um minuto.
+50732156-4c12-4f29-bd4e-70358d8962da|Tentarei não dizer nada, se possível.
+60731982-3157-49d7-b33e-58d7dc950d19|Viva o seu sonho!
+67ce62b1-68a0-46b4-910a-fcb8cfee1d86|Você tem razão.
+69f680c8-1da7-4f71-a474-abbcd2034e3c|Entendo...
+6b273496-91ae-4880-a79d-6ad2825a5837|Você estava tentando derrubar a cerca?
+6c25b8aa-9f13-42b0-b8e5-92cf4b9e759c|Confiar em alguma garota qualquer chutando uma cerca? ...Vou voltar para curtir a festa. Não conte comigo para te ajudar.
+6c60599d-aaed-4594-9576-d1188c09ec9b|Preciso ir! Já volto!
+6f76bb19-729e-44aa-8c23-671b097b0d77|Tanto faz. Boa sorte.
+6f7aa8d9-c025-43c0-a29a-e229e4d08d04|Plano fantástico, Amala.
+70a8e1ef-ec80-4390-9dd8-1fe093305a8e|Foi mal! Me desculpe. Mas vendo pelo lado bom... você pode entrar!
+7108ea86-0cbc-4cf6-a28c-9d2b991b8b12|Do que você está falando?
+71890854-8da6-4816-8579-2745041d5cfa|Ajude o Derek com a fantasia. Troque essa música horrível. Entendido.
+72baf596-604c-42a5-94af-92606c74d84d|Tudo bem, pode entrar! Quer que eu te ajude a pular a cerca?
+74054004-28e0-4b5c-aa16-cb2e60c5e199|É a última. Eu prometo.
+781a566c-51f1-4578-a380-825dc2d77f25|Qual?
+78567aaa-bc92-457a-bb4b-af63c495b91c|Vou ver se consigo encontrar.
+7af238a0-dfee-4563-890f-1777eeb8d661|Hum... claro.
+7eb68cd8-fc4d-48be-9e67-f57943955c94|Bem, eu tentei!
+7ef27074-ec9c-4b02-99c1-0e099fa6c255|Eu conseguiria.
+7f60339f-e391-400f-894b-4a9d1e5eb751|*Escute*
+7f69119c-8a9f-4172-94ab-31e98413ed1f|É, provavelmente não. Nem sei como não fui expulso.
+7ff0cfcd-dbb1-4d17-a74c-90b192713469|...bem, foi exatamente como você imagina.
+81807ed2-f5a1-406d-a28c-e9821867a111|Aguenta firme, ainda estou tentando encontrar um jeito.
+83e1eafc-3e66-4b66-a889-09954ad2062f|Estou trabalhando nisso!
+8cfa0de3-82f7-49db-aa62-9b9b337529eb|Nossa. Que... gentileza sua.
+8d62e030-9996-4719-885f-4534ace0dcec|Missão?
+8ed656e2-db0b-4439-913d-eba41803377f|Esta noite vai ser cheia de piadas idiotas sobre gatos, não é?
+8f73a992-b416-483a-a1e3-40a645cefbe1|Não vamos fugir do assunto.
+9608231c-4e20-4f14-a510-9b39d2521bd2|Acredito em você. Não se preocupe, vou ver o que consigo encontrar.
+a5ec66f5-a474-4007-90af-1bbf16cd2621|Como você quiser, Doja Cat.
+aafa56cd-4398-4309-abec-504605aa21df|Aproveite.
+ab7de561-3f53-4941-86ef-869c3a1adea2|Ainda preciso terminar de retribuir o Nook...
+b0982dd9-5e5c-4990-a13b-466bbf033ce5|*Olha para sua majestosa obra-prima, regozijando-se*
+b1f53005-ae3b-461e-8b26-5fa78b78afbc|Poderia ter sido menos convincente. Mas não sei como...
+b2875733-fdc4-4606-8669-4ce64d7e75f3|Ai, ai...
+b383f429-1c74-4eae-9286-2197d2c398d9|De quantos dinossauros estamos falando?
+b574efe1-5505-433d-9773-752c725902a5|Não é adorável?
+b5a8edd7-71c5-42b6-b4c8-3ae0c6b5262d|Tem certeza de que não está procurando a MINHA bunda?
+b88bc46c-4143-420d-99dd-1915303c81dd|Nossa... tá. Vamos tentar com outra pessoa.
+b916b7ee-2639-4f5c-bfe2-d0316ef6fb27|Madison disse que você pode entrar! Me encontre na porta!
+bbb99327-eab0-42c8-83ce-3cc1515740f7|Não deveríamos estar procurando pistas?
+bd0d0dd2-1139-47cc-8f06-89f9ce7c3b7c|Eu não moro aqui.
+c3970ab1-76f6-47f9-a418-dfdd5e90a724|A Doja é durona.
+c5157394-d460-4930-bb0e-5d3b3f8b5add|Ok!
+c8727452-00b7-46f9-9fa5-ba3b01f2b10b|Não posso prometer nada. Adoro revelar os segredos pessoais dos outros.
+c8b281fc-fc0a-45a2-bbcd-64343a950a3d|Vou ficar aqui a noite toda, pessoal.
+cc4557e4-084a-47ef-9884-2d9ac73299cf|Pare de choramingar e venha aqui.
+ce422434-9489-494c-9e7e-e83957a94da5|Ok. Vou te deixar sozinho com a pizza.
+cf5b1839-8bd7-4021-bc33-b72459ee18cb|Ah. Hum... obrigada?
+d5e2dc46-6b94-4239-911a-f10b37fb813f|Por que você não conta para a Madison quem você é?
+d6e3d4bb-eac8-4eeb-843f-f6c524f5dcdc|Meu rosto e eu esqueceremos com prazer o que você disse.
+dde611e7-71a9-4589-aa64-37f06b5f32a0|Chama-se PA-TA-TA.
+df474465-c77c-4fb3-a3e9-ac8c82c31fea|"Extraordinário", hein? Parece um pouco exagerado...
+e38f0805-22ce-4233-9a07-b90402043974|Esqueça.
+e3dbbf4a-ea03-407e-a6c4-4cc6713230ab|Por que você ainda não foi embora?
+e5f7220b-ce72-4e4a-8c88-4ea579c04654|...Sim, o que ela disse.
+e73f32c7-e7a1-4d81-bf33-273f9fa0048b|Concordo. Foi exatamente o que aconteceu.
+e945db73-1362-4a8b-a17b-40239bf33db6|*Ouça*
+ee13081f-3879-4049-9814-97165270fe6b|Ideia para um futuro videoclipe?
+f1aad9b8-d740-488e-adaf-c201bd21cf79|"Dino" o quê?
+f4823711-e331-48be-b99e-cf8e980feea5|*Ouça*
+f4a673df-9080-46de-a2e8-58a2eb5e92de|Até mais.
+f5eeb9d1-47c2-4e73-a77d-cafd36a2cfab|Eu sei, porra. Já chega disso. Vou embora.
+f6011898-61f5-4b76-8f16-ed7fbcbe0eb8|Na verdade...
+f6a42d51-21c3-4612-8d28-f71ac10f8834|*Você concorda sem jeito agora que sabe que ele é uma celebridade*
+f73256b8-e021-4e85-969c-a9f7e499e6d2|Volto já!
+f7a422c4-bec7-4544-9a99-8cc87545edf7|Tudo o que você precisava fazer era falar com ele cara a cara.
+f95f57ca-8c64-4eb2-9d4c-2bcbc0d900fa|*Fechar*
+f9ee409c-b83e-4a5d-b2dc-dbd304cb24b7|Quer um pouco?
+fe479e5f-c967-4e15-a1f0-ca450bb97764|*Ouvir*
+ff7b2e8c-e4df-4be6-9b33-2f8db6ccdcfd|Já chega de piadas de gato. Essa coisa toda parece besteira. Vou embora.
+
+[Quests]
+fd5bc81d-4fd7-44ac-bbf5-6f052ec8d788FailedDetails|Ah, você esperava algo interessante dessa decisão, não é? Haha! Claro que não! Talvez você tenha sorte na próxima vez!
+fd5bc81d-4fd7-44ac-bbf5-6f052ec8d788Description1|Amala parece completamente fora de si. Ela não parece muito suscetível aos seus encantos ...
+fd5bc81d-4fd7-44ac-bbf5-6f052ec8d788Description|Cara, parece que a Amala está pronta para embarcar nessa onda de loucura. Você vai dar mais bebida para ela ou vai tentar mantê-la focada na missão?
+fd5bc81d-4fd7-44ac-bbf5-6f052ec8d788CompletedDetails|Pois é, você conseguiu. Embebedou a Amala e remodelou o jardim em uma noite. Está feliz agora?
+fd5bc81d-4fd7-44ac-bbf5-6f052ec8d788|Bêbada e Caótica - Amala
+e80339f3-add4-4f9b-bef3-68d388f183e1FailedDetails|Eu realmente paguei por esse DLC só para falhar tão rápido?
+e80339f3-add4-4f9b-bef3-68d388f183e1Description3|
+e80339f3-add4-4f9b-bef3-68d388f183e1Description2|Putz, a Amala é a Doja Cat! Quem diria? Você poderia manter segredo ou jogar a discrição pela janela e conseguir um convite para ela mais rápido. Hmm...
+e80339f3-add4-4f9b-bef3-68d388f183e1Description1|Amala está em uma missão! Ela precisa entrar na festa, mas primeiro: algo parece estranhamente familiar nela. Melhor perguntar por aí.
+e80339f3-add4-4f9b-bef3-68d388f183e1Description|Você conheceu Amala, a vizinha cheia de energia de Madison, que odeia cercas. Converse com ela e descubra por que a pobre Amala não foi convidada para a festa.
+e80339f3-add4-4f9b-bef3-68d388f183e1CompletedDetails|O sonho de Amala de entrar na festa se tornou realidade.
+e80339f3-add4-4f9b-bef3-68d388f183e1|A vizinha misteriosa de Mad
+cceb4ba6-0205-4fa3-b515-e4644e381ce7FailedDetails|Você estragou tudo.
+cceb4ba6-0205-4fa3-b515-e4644e381ce7Description3|Derek é o Dinolicious! Agora convença-o a cumprir seu destino com Doja Cat.
+cceb4ba6-0205-4fa3-b515-e4644e381ce7Description2|Para encontrar o convidado escondido sob esta fantasia de dinossauro, você tem que fazer as pessoas dançarem.
+cceb4ba6-0205-4fa3-b515-e4644e381ce7Description1|A vida... sempre dá um jeito. Assim como você encontrou a fantasia do Dinolicious. A Doja Cat vai ficar super curiosa para vê-la.
+cceb4ba6-0205-4fa3-b515-e4644e381ce7Description|Dinolicious está à solta e sua tarefa é encontrá-lo (ou encontrá-la?).
+cceb4ba6-0205-4fa3-b515-e4644e381ce7CompletedDetails|Derek concordou em dançar como Dinolicious com Doja Cat. Você conseguiu!
+cceb4ba6-0205-4fa3-b515-e4644e381ce7|Caça aos Dinossauros
+128e85ae-2c97-4eeb-be25-1cc78a24455dFailedDetails|Admita, você prefere música de House Party. Psicopata.
+128e85ae-2c97-4eeb-be25-1cc78a24455dDescription|Hora de colocar música de verdade. Você precisa descobrir como conectar o MP3 da Doja Cat ao sistema de som e colocar uma caixa de som do lado de fora para que ela possa ouvir. Você consegue fazer isso, né?
+128e85ae-2c97-4eeb-be25-1cc78a24455dCompletedDetails|Você conseguiu! A música ruim foi substituída e agora a festa pode começar de verdade!
+128e85ae-2c97-4eeb-be25-1cc78a24455d|Coloque aquela música incrível
+
+[Events]
+01707fff-0de7-4b5e-b5ee-d883e1d48e50|Doja Cat não vai voltar a menos que ouça a música, e provavelmente não consegue ouvir da sala. Preciso garantir que ela esteja fora de algum jeito...
+29f1bb11-b517-475e-86dd-d69f5db4dbfb|Acho que ela quer que eu a deixe em paz. Com a pizza. Com a pizza velha pra caramba. ...Melhor não me fazer perguntas, eu acho.
+3b55e3e3-a3e6-4e71-acd9-20558a9af688|Acho que Katherine não é a Dinolicious.
+41d929ed-c98b-4079-900f-2cbcd4d8cea8|Acho que Brittney não é a Dinolicious.
+43236672-dd02-4e15-bdfd-01d93eef3bc4|Acho que a Madison não é a Dinolicious.
+48b48f9c-8cb6-42b3-8782-fd510664589f|Acho que o Patrick não é a Dinolicious.
+565351f3-e9c8-4500-beba-338e9cbc66c9|Acho que a Rachael não é a Dinolicious.
+66ea7026-9560-48df-acc8-3c8a684899e7|Eu deveria esperar. Acabei de dar uma bebida para ela.
+695ec68b-be69-4dfb-bf1b-7ecf7ebbea82|Há algo estranhamente familiar nesta vizinha. Eu deveria perguntar por aí e ver o que encontro.
+6998b778-82ae-4472-8042-c941be93d7ef|Acho que a Vickie não é a Dinolicious.
+7b6f5bec-e2f6-4854-b10c-5abb83538082|Hmm, alguém pode ter tomado o lugar da Amala no tanque. Ou talvez não haja nenhum. Aposto que eu poderia libertar um usando meu charme astuto... ou a falta dele!
+941eec0e-d345-419b-8b90-97e835e6c9db|É, esta foto parece perfeita para mim.
+98fc1e80-aa95-475a-8183-6d426620696d|Acho que a Amy não é a Dinolicious.
+99b5d310-543b-445d-9f5d-583eac5ff566|Acho que a Stephanie não é a Dinolicious.
+b529a239-f196-4c16-b105-190020977e69|Algo me diz que cortei relações com a Amala. Ela não quer mais falar comigo. Se ao menos eu tivesse uma máquina do tempo para reviver esta noite!
+c5e7ab6e-03fc-477c-8d2c-b0406e95dadf|Algo me diz que dar mais álcool a ela não vai ajudar...
+cf4621d2-9749-493e-b1c9-542820d4b229|Algo me diz que ela não tem interesse em colocar isso na boca. Psiu! Que exigente!
+d69f441c-36d9-4f2d-98de-7285f3f0fe3a|Hmm... essa voz. Por que me parece familiar? Quem é esse vizinho misterioso?
+d6bb541e-86cc-4895-af05-419326440277|Hmm... que barulho estranho é esse vindo de trás da cerca? Talvez eu devesse investigar...
+d6f5d8db-fd4e-48a7-9b1e-b67ee7cb3d06|*Você ouve algo lá fora, perto da porta da frente.*
+d72a46bb-3695-4f86-ab61-f20afaace020|Acho que Ashley não é Dinolicious.
+d7468bd6-2f8a-4d42-910a-1c40fc29e5ed|Esta foto não prova nada, exceto que eu não sei tirar fotos.
+eba86eb0-9772-4002-bc98-3ed505c6a5f6|Acho que não sou o Dinolicious. Ah, espera, eu já sabia disso!
+fbefb3ef-1129-45ba-837e-04ddcee1e216|Bem, essa foi uma reação perfeitamente normal.
+
+[Background Chatter]
+BGC1|Vamos lá, Amala, você tem a bunda de uma guerreira amazona. Você é a Mulher-Maravilha, pelo amor de Deus. Derrube essa cerca!
+BGC2|Certo... certo, eu deveria começar a correr. Ok, preciso ser rápido. Rápido. RÁPIDO! ...DYYAAA!
+BGC3|Aqui está... OOH! Pegue essa, sua cerca de merda! Vadia! Puta de... Ai! Oh, Jesus! Ai! Merda! Ai, meu Deus... ah...
+BGC4|Me diga por que, essa vagabunda não me convida. Me diga por que, ela quer me irritar. Me diga por que eu ainda estou tentando invadir... Eu quero um ménage à trois... ou algo assim. Eu não sei.
+BGC5|Ei, você ainda está aí? Eu quero muito ir para a festa, então espero que você esteja progredindo nisso. Eu também preciso peidar, mas não vou fazer isso enquanto você estiver na minha frente.
+BGC6|Vamos lá, Amala, pense. Como diabos vamos entrar nessa festa? Use o método. CFNC. O que o Nicolas Cage faria?
+BGC7|É melhor que esta pizza tenha anchovas, se não tiver... ah, merda, a caixa está vazia! MERDA!
+BGC8|Este hipócrita está sorrindo para mim como se eu fosse a rainha do baile. E eu sou, mas não porque a Madison disse.
+BGC9|Ei, como é que não tem batata frita? Não tem mesmo. Eles não têm nem uma batata frita aqui, quanto mais um saco vazio. Um saco vazio teria sido mais apreciado... do que não ter nenhuma.
+BGC10|Ei, se você dividir a palavra "Gin" em duas sílabas, você obtém "Gin". "Gin". "Gi-n". "Gi-nn". ..."GIII-NNN."
+BGC11|Se pareço uma "menina da porta ao lado", é porque eu literalmente moro ao lado. Então é isso, agora você sabe de tudo.
+BGC12|Diga isso de novo. Não, diga isso de novo. Diga isso de novo! DIGA ISSO DE NOVO! Não, sério. Eu não ouvi isso.
+BGC13|Que vestido é esse? ...Ah, é muito fofo. Sabe... Eu também tinha um... quando tinha sete anos.
+BGC14|Sua peruca tem o formato de uma forma de pizza. Não me olhe assim.
+BGC15|Aspeaspeaspeaspe. ESTE É O METAVERSO?
+BGC16|Ei, só para você saber, Kenny Beats é policial. Ele é definitivamente um agente federal. Se... escuta, se você acha que o Kenny Beats não é um federal, eu não sei em que mundo você vive.
+BGC17|Disseram que meu namorado parece um funcionário de posto de gasolina... É exatamente isso que ele faz.
+BGC18|Ei, olha só esse movimento. O que você acha? É legal? Você gosta? Você gosta de mim? Espera, não, olha pra mim, não, olha pra mim, olha pra mim, olha pra mim... tá, agora tenta... tenta? Tenta.
+BGC19|Droga, esqueci de trazer meus produtos...
+BGC20|Sou gay! Quis dizer DJ. Essa festa precisa de um DJ! OMG OMG Hum, qual é o seu signo? Eu acho... sua energia me diz que é Câncer. Ou talvez Gêmeos. Mas seu lado selvagem me diz que é Sagitário... sim, um Sagitário de verdade. Seus chakras! Eles estão brilhando! ...Uau!
+BGC21|Eu vi o que você disse sobre o X. Seu corpo tem o formato de um goomba. Não fale comigo.
+BGC22|Mal posso esperar para chegar em casa. Eu amo minha casa. Tenho tantas coisas legais lá, tipo... espreguiçadeiras e internet...
+BGC23|Devo começar o show agora?
+BGC24|Se alguém perguntar quem eu sou, diga que sou uma conta de fã, mas na vida real.
+BGC25|Detesto perguntar, mas a Madison convidou apenas nove pessoas ou só nove apareceram?
+BGC26|Eu deveria contratar o Yeti para ser o DJ desta festa. Ele a transformaria completamente.
+BGC27|Caramba, você gosta dessa merda.
+BGC28|Você é o mesmo babaca que me mandou uma foto do pinto dele por mensagem privada!
+BGC29|Dinolicious... Eu sei que você está rebolando em algum lugar por aqui. EU VOU TE ENCONTRAR, QUEIRA VOCÊ OU NÃO!
+BGC30|Bppppprrbpbpbpbprrrrpppbbb... *hic* ...O quê? Não me olhe assim—*hic*!
+BGC31|Você está começando a me irritar. Pare com isso.
+BGC32|Ei, pare com isso!
+BGC33|Ei! Pare com isso!
+BGC34|Se eu pudesse... Eu dobraria o Frank como um cisne de origami e o enfiaria na minha bunda. E digo isso de um jeito muito desrespeitoso!
+BGC35|O Frank já mandou você se servir de uma bebida?
+BGC36|NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAI NAAIIIIII. ...O quê? Pare de me encarar. Não me encare assim. Posso aquecer minha voz em paz? Obrigada.
+BGC37|La la la la la, la... 
+BGC38|Olha, conversamos sobre isso outra hora. Preciso ir.
+BGC39|Anal pode ser muito... uau. Quer dizer, muito... uau.
+BGC40|O vestido é opaco o suficiente? Ou é transparente?
+BGC41|Você acha que eu poderia bombardear o Frank? Quer dizer, eu vou explodi-lo.
+BGC42|Você acha que a bunda dela é de verdade? Não pode ser de verdade. É a coisa mais falsa que eu já vi. É falsa! Essas bundas são claramente falsas!
+BGC43|Ei, não se afaste de mim!
+BGC44|Exatamente. E corrija sua atitude.
+BGC45|Ei, o que há de errado com esses dois esquisitos que invadiram a festa? Eles ficam discutindo sobre Naruto, Final Fantasy, casacos e essas merdas.
+BGC46|Como um cara é picado por um mosquito no cu?
+BGC47|Então Hypnotic não é só colônia?
+BGC48|Eu poderia simplesmente ir até a porta da frente e bater... seria a coisa mais lógica. Mesmo que pareça uma ideia banal e chata. Imagino um novo mundo onde as pessoas arrombam casas como ladrões. Ninguém mais dormirá profundamente.
+BGC49|Na verdade não, mas fiz um pós-apocalíptico onde meus peitos são metralhadoras.
+BGC50|Ah, não, acabei de derramar Whack Spankiel nos meus peitos. Vou perguntar a esse cara gostoso se ele tem um lenço.
+BGC51|Quer dizer, nem tudo tem um motivo, mas pode provar que você é legal. Sabe? E tem gente na internet que paga muito dinheiro para ver esse tipo de coisa.
+BGC52|Bem, sim, mas às vezes é isso que torna legal.
+BGC53|Não tenho mais nada a dizer.
+BGC54|Eu quero dançar. Alguém pode dançar comigo? Dance comigo! Dance comigo!
+BGC55|Ano que vem, vou ter um corpo de arrasar. Vou raspar a cabeça, ganhar músculos e ficar parecido com o Joe Rogan. Esse é o meu objetivo.
+BGC56|Vou ignorar sua resposta mal-humorada e compartilhar minha ideia genial com você. Escute aqui: um aplicativo que te diz a localização exata da lanchonete de tacos mais próxima, não importa onde você esteja no mundo. Vou chamá-lo de Hora do Taco.
+BGC57|Não estou mentindo para você. Emoji: Hora do Taco é o melhor filme já feito.
+BGC58|Estou trabalhando muito no meu autocontrole. Nem sempre consigo agir por impulso.
+BGC59|Tem alguém fumando? Estou me sentindo um pouco chapada. É, com certeza estou chapada. Não consigo mais sentir minhas mãos.
+BGC60|RAT-TA-TATATA! Curvem-se diante dos meus peitos de metralhadora!
+BGC61|Me diz uma coisa, quantos desses filmes têm um emoji de cocô de gravata borboleta?
+BGC62|Vamos encher a garrafa d'água do Frank com absinto. E aí eu vou mijar nela.
+BGC63|Eu poderia subir naquele outdoor e depois fazer tirolesa de lá até o jardim como um agente secreto. É. Agora só preciso de uma tirolesa e um codinome legal tipo... oooh, tipo Coca-Cola. Putz, meus mamilos estão duros de novo.
+BGC64|Uma vez empurrei meu cachorro em um toboágua. Brincadeira. Mentira.
+BGC65|Você entende de tecnologia, né? Gosta de aplicativos?
+BGC66|É, nadar de roupa branca é legal.
+BGC67|Não tem como o Frank ter sido convidado. De quem é a amizade daquele cara?
+BGC68|Esta casa está cheia de fotos de estranhos. Alguém conhece esses caras?
+BGC69|Quando você acha que o Frank vai ficar... legal?
+BGC70|Quando... quando eu vejo seu rosto, eu quero... beijá-lo. Quando eu te vejo, eu quero te beijar.
+BGC71|Onde está o beer pong? Vamos jogar beer pong ou não? Podemos jogar beer pong? Eu sou péssima em beer pong, mas temos que jogar.
+BGC72|Por que as pessoas esbarram umas nas outras? Tem bastante espaço aqui.
+BGC73|*Amala canta "Mulher"*
+BGC74|É, o Frank é péssimo. Droga!
+BGC75|É, eu sei cozinhar. Tá? Uma vez eu coloquei manteiga numa panela e coloquei um daqueles sanduíches sem casca que vendem no supermercado, aqueles com geleia. Minha vida nunca mais foi a mesma. Uma vez eu coloquei endro num ovo e ficou uma delícia.
+BGC76|Você já tentou quebrar uma melancia com as coxas? Aposto que sim.
+BGC77|Você tem que colocar um Oreo no purê de maçã e deixar descansar. Ele fica bem mole e você pode dar uma mordida. É macio e tem gosto de bolo. É incrível.
+BGC78|Você tem que beber o dobro de álcool do que água. Foi o que eu aprendi.
+BGC79|Sabe o que eu tenho feito ultimamente? Eu relaxo. É. Eu relaxo bastante.
+BGC80|Não, seu idiota.
+BGC81|O Patrick é fofo, mas não do tipo "quero te comer". Ele é fofo, tipo...
+BGC82|Não, tipo um cachorrinho! É, eu quero te colocar na coleira e te levar para passear. Ooh, talvez eu possa te colocar numa sacola!
+BGC83|É... mas eu consegui isso depois de concordar em fazer isso.
+BGC84|Malditos contratos...
+BGC85|Droga, eu deveria ter trazido o Alex. Ele teria adorado essa festa.
+BGC86|Não, seu idiota. Esse é o meu gato. O Alex é demais!
+BGC87|Cara, você acabou de contar essa merda pessoal para um completo estranho. Respeito.
+BGC88|Isso são águas passadas, baby. Eu sei que as coisas que eu faço são explosivas. Na outra noite, nós literalmente atiramos em um cara com um canhão.
+BGC89|Não, cara, era só uma terça-feira. Eu faço loucuras às terças.
+BGC90|Bem, eu tenho que dizer, você daria uma rainha negra linda.
+BGC91|...Então, você vai dizer ou não?
+BGC92|Você não parece um fã.
+BGC93|Ah... você seria um personagem realmente cativante em um videogame.
+BGC94|Estou aqui na sua frente. Você não tem internet?
+BGC95|Aquela vagabunda não me convidou. Tentei derrubar a cerca por uns 20 minutos até ela descobrir quem eu era e concordar em me deixar entrar.
+BGC96|Você é escultor? Deixe-me fazer uma pergunta, de artista para artista: como é que todas as estátuas anteriores tinham pintos pequenos? Quer dizer, por que Michelangelo tinha um tão pequeno?
+BGC97|Não, estou falando do cara da Renascença. Ele fez muita coisa... deixa pra lá. Só estou dizendo que deveria haver mais esculturas com pênis gigantes, na minha opinião.
+BGC98|Não parece tão grande assim...
+BGC99|Que porra é essa?
+BGC100|Você está com tesão! Você está com tesão. Você está com tesão pra caralho!
+BGC101|Ah, exatamente o que essa festa precisava. Mamilos.
+BGC102|Legal, exatamente o que essa festa precisava. Corpos nus e tudo mais.
+BGC103|Você sabe que as pessoas te veem, né?
+BGC104|Eeeeeee, olha só você! Esses passos são muito bons!
+BGC105|É, o esforço existe, mas o talento não. Desculpe, mas dançar não é seu ponto forte.
+BGC106|Chuta a bunda dele! Chuta a bunda dele! Chuta a bunda dele!
+BGC107|Porra! Bem na cara!
+BGC108|Curte e se inscreve, seu merda.
+

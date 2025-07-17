@@ -1,0 +1,161 @@
+﻿[General]
+WhichStoryText|Qual história você gostaria de jogar?
+UnderDropDownText|(Você pode adicionar mais histórias baixando-as ou criando a sua própria!)
+StartNewGame|Iniciar um novo jogo
+LoadGame|Carregar um jogo salvo
+VisitWebsite|Iniciar um novo jogo
+DownloadStories|Baixar histórias no nosso fórum
+StoryCreatorHelp|Aprenda a criar sua própria história
+Quit|Exit
+ChooseLanguage|Escolher idioma
+LockedDoor|Parece que você está bloqueado.
+CantDoThat|Você não pode fazer isso.
+
+[Item Names]
+Armchair|Poltrona
+Ashley|Ashley
+Bathroom Door|Porta do Banheiro
+Bed (Left)|Cama (Esquerda)
+Bed (Right)|Cama (Direita)
+Bedroom Closet Door (Left)|Porta do Armário do Quarto (Esquerda)
+Bedroom Closet Door (Right)|Porta do Armário do Quarto (Direita)
+Bedroom Door|Porta do quarto
+Cabinet|Armário
+Cannabis Chocolate|Chocolate de Cannabis
+Couch (Left)|Sofá (Esquerda)
+Couch (Middle)|Sofá (Meio)
+Couch (Right)|Sofá (Direita)
+Drawer|Gaveta
+Dining Chair|Cadeira de Jantar
+Dining Chair 2|Cadeira de Jantar 2
+Mound of Dirt|Monte de Terra
+"The Uncertain" DVD|DVD "O Incerto"
+Fire Pit|Lareira
+Fridge|Geladeira
+Garage Door|Porta da Garagem
+Gutter|Calha
+Hot Tub Stairs|Escada da Banheira de Hidromassagem
+Katherine's Phone|Telefone da Katherine
+Stashbox Key|Chave da caixa de ferramentas
+Laundry Room Door|Porta da Lavanderia
+Lawn Chair|Cadeira de Jardim
+Madison|Madison
+Your Phone|Seu Telefone
+CatNip|Erva-de-gato
+Master Bathroom Door|Porta do Banheiro Principal
+Master Bedroom Door|Porta do Quarto Principal
+Nighstand Drawer 1|Gaveta de mesa de cabeceira 1
+Office Chair|Cadeira de escritório
+ | 
+Sofa|Sofá
+Allergy Medication|Medicamento para Alergia
+Pantry Door (Left)|Porta da Despensa (Esquerda)
+Pantry Door (Right)|Porta da Despensa (Direita)
+Patio Armchair|Cadeira para Pátio
+Pencil|Lápis
+Phone3|Telefone3
+Ashley's Phone|Telefone da Ashley
+You|Seu
+Pouf|Puff
+Slider Door|Porta de Correr
+Closet Door|Porta do Armário
+Sofa (Left)|Sofá (Esquerda)
+Sofa (Right)|Sofá (Direita)
+Room Door|Porta do Quarto
+Spare Room Chair|Cadeira de quarto de hóspedes
+Spare Room Door|Porta do quarto de hóspedes
+Study Door|Porta do estudio
+Upstairs Bathroom Door|Porta do banheiro no andar de cima
+Utility Closet Door|Porta de armário de utilidades
+Vanity Chair|Cadeira da vaidade
+Vickie|Vickie
+Vickie's Panties|Calcinha da Vickie
+
+[Item Actions]
+Sit|Sentar
+Open|Abrir
+Close|Fechar
+Lock|Trancar
+Lay Down|Deitar
+Check Underneath|Verifique abaixo
+Inspect|Inspecionar
+Read Cover|Leia a capa
+Take|Pegar
+Climb|Subir
+Get Out|Sair
+Use With...|Usar com...
+Check|Checar
+Shake|Agitar
+Knock|Bater
+Check Texts|Conferir textos
+Check Reminders|Conferir lembranças
+Remove Shirt|Tirar camisa
+Remove Pants|Tirar calças
+Remove Boxers|Tirar roupa de baixo
+Put On Boxers|Vestir roupas de baixo
+Put On Pants|Vestir calças
+Put On Shirt|Vestir camisa
+Remove Shoes|Tirar calçado
+Put On Shoes|Calçar sapatos
+Unlock|Destrancar
+Talk|Falar
+Give|Dar
+Play|Tocar
+Approach|Abordar
+Doggy|Cachorrinho
+Missionary|Missionário
+Eat Out|Coma fora
+Cowgirl|Vaqueira
+Fuck|Foder
+
+[Item Group Actions]
+
+[Events]
+cd8316ee-a6e1-4ec0-aa33-251ee688c7c3|Tem um vibrador e um DVD aqui embaixo. Vou pegar o DVD. Tem o rosto da Vickie e diz "Gangbang Gótico 16" na frente. Gangbang gótico, hein?
+2db75f33-0552-43ce-b681-0462676f064c|Tem um vibrador e um DVD aqui embaixo. Vou pegar o DVD. Tem o rosto da Vickie e diz "Gangbang Gótico 16" na frente. Gangbang gótico, hein?
+1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|"Chocolate com Cannabis da Srta. Munchie"
+"A única solução totalmente natural para doces quando você não quer sair do sofá por três dias!"
+a69d5ca5-8493-4713-b5d5-ad208098e992|Hmm... parece que o chão aqui é macio, como se tivesse sido escavado recentemente.
+1e3884f5-7aeb-4f11-bb28-fec0015d2614|Nossa, eu nem sabia que esse filme tinha sido publicado! Tem uma nota aqui... Escrito por Vickie.
+b75af56b-127e-40d3-b200-bba120395d21|Ei, tem outro bilhete da Vickie...
+895714b6-29bb-4284-8b5b-179748d68a75|*Uma cópia de 'Gothic Gangbang 16' está dentro da caixa*
+729b3710-f91b-4745-b825-6a3e750ef3e6|Ótimo, uma fogueira! Quem me dera ter uns marshmallows...
+3f1017fb-060f-4b10-b37e-d4debca66c15|Cara, que se foda o clima de fevereiro. Está congelando aqui.
+75463536-54c3-4b6e-8649-053841071c3a|*Se você conseguir empurrar a janelinha acima da máquina de lavar... está pronto!*
+e3f93a94-eb7e-46ad-acbf-4e9894e39c5b|Inspecionar mensagem
+1298b7f3-c87c-4c11-828a-ec43b94043af|*A chave que Vickie tirou dos destroços de uma guitarra*
+3949dbc4-fba4-45d0-8a64-793e48177f3c|*Algo rola para fora do fundo do armário e cai no chão*
+d817d338-b0eb-49c6-985a-473cb2e098d7|É estranho estar aqui sem... pessoas.
+bc197bfa-1aec-47d8-a7fc-2541b08d00a7|Nenhuma mensagem nova desde que a Vickie me mandou. Todo mundo provavelmente está muito ocupado com o Dia dos Namorados.
+bc17eea9-675c-4a60-9e8a-958de9a98152|Aqui estou eu no Dia dos Namorados com um saco de catnip na mão, procurando um gato que eu nem acho que existe. Incrível.
+76f36e79-fac3-416f-b5f1-6d7d0ffbe3b7|Aqui estou eu no Dia dos Namorados com um saco de catnip na mão, procurando um gato de mentira. Perfeitíssimo.
+45c06b5d-4820-4526-9621-a33e87045206|O que diabos eu vou fazer com isso agora? Talvez eu dê para o Derek caso ele perca aquele gato dele de novo...
+b3c4d34c-0250-4e85-810d-7cecd6b9661b|Aqui, gatinho, gatinho!
+9b29aa70-035f-4634-aba3-eea2c63c610f|Estou me sentindo bem idiota. Talvez eu devesse tentar outro quarto.
+a971afa0-abf2-4364-b561-d0d3e24900b2|Estou ficando farto disso.
+bb803b85-ed27-42d4-b068-d18f9427ce0c|Chega, vou confrontar a Vickie e chegar ao fundo disso.
+5d696c32-4307-49c7-b2f4-04ed67df7872|De jeito nenhum. Cansei dessa bobagem. É hora de confrontar a Vickie.
+dc752296-41d8-4ef2-893b-7e45b8dfdd52|É melhor eu descer e deixar a Vickie entrar. Não sei o que a Madison faria se eu entrasse no quarto dela sem a permissão dela.
+4a4ed1ee-9e20-4dc6-9784-f6bf2c8b9758|*Há um recipiente laranja trancado com uma fechadura simples*
+af2dc0ef-222b-415c-b3a5-120deb2213ff|Caramba, isso tem que ser o esconderijo! Vou esperar para contar para a Vickie, até encontrar a chave.
+0ec1d876-57f4-4252-9a5c-ef81882a06ef|*A parte superior da caixa desliza, revelando dezenas de barras de chocolate*
+01bbe632-922a-4e7d-835f-2980879962d7|É uma receita médica... Ela rapidamente despeja o frasco. O animal de estimação de um vizinho está causando uma reação alérgica intensa em Madison, e ela recebeu uma medicação de alta qualidade.
+61da5f39-9276-410c-8385-e9b208120e07|Por que diabos a Mads teria um gato se ela é alérgica? Acho que a resposta é não. Vickie, porra!
+128e0405-97c4-40e3-b7ed-d5aed85c81d4|Um lápis não é uma pista. É um lápis.
+1a3ea259-9aae-47f1-8256-add210c0d3eb|Inspecionar mensagem
+56b4d9e3-f22f-4598-b522-cc9061ce95fb|Eu deveria pegar o objeto para poder ver a tela.
+d3e4448d-6fa7-4127-bb9f-9711ec253c66|Hmm, tem uma mensagem de texto entre Ashley e Madison. Assustador, mas vou conferir a última troca.
+12a8f3c3-d694-49d6-91b2-2eabdd5a6018|Nossa, tem muito texto aqui... se eu continuasse lendo, quem sabe o que eu encontraria.
+f1763535-ebbc-4274-899a-b5186d795928|Ok, vou ler mais uma conversa.
+25e6fb92-86bf-43d3-aef7-a5de0c39d226|*Parece estar bloqueado*
+b184123b-5115-401e-b608-1401a970bd09|*Parece estar bloqueado... mas consigo chegar ao bloqueio daqui*
+80746a36-4608-4f73-87af-624dbd947ccc|Hum. Parece que a porta deste armário não fecha completamente...
+612f50c3-49eb-4d87-b6b9-704fcf3fd6f5|Droga, ela fechou a porta! E não se importava de ter feito alguma coisa boa... Será que tinha como ver o que estava acontecendo lá dentro?
+ae8e98a8-e36d-4a78-bb9a-27e424e31465|Isso não é nada... Ashley vai me matar se descobrir que estive aqui.
+9ff39872-7bae-4cf1-9b08-76789a0870d1|Como se desamarrar a blusa dela já não fosse ruim o suficiente. Se eu entrar no quarto da Ashley, é melhor começar a escrever meu testamento.
+f2463d77-50be-4149-a3f7-68947040b111|Não parece que a Vickie está aqui.
+034b5822-334b-4a93-9f48-db9778f19d81|Vamos fazer isso!
+d72280d1-f48b-47fa-8d9d-73653945b1f0|Droga, olha só ela. Preciso tirar essa calça e minha cueca!
+2b06d45a-353f-4e8b-bd29-08453e5677dd|Você nunca viu... calcinhas usadas recentemente tão impecáveis quanto essas. A Vickie tem um poder mágico!
+
+[Achievements]

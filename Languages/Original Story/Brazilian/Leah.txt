@@ -1,0 +1,1014 @@
+﻿[General]
+Name|Leah
+
+[Dialogues]
+0|Como vai? Está se divertindo? Pode agradecer a mim e ao Sensei Frank por isso.
+0.1|O que está acontecendo? É bom te ver de novo.
+0.2|Ah, olá. Precisa de alguma coisa?
+0.3|Sim? Viu alguma coisa?
+0.4|Mua ha ha ha. Uma risada totalmente maligna, né? O que você quer, aprendiz?
+0.5|Você ousa falar antes que lhe falem? Rápido!
+1|Hoje, você, cai fora! Ufa, quase tive que usar o estilo Templo Shaolin com um filho da puta. Droga... nunca se aproxime de um estranho por trás assim! Você não os conhece, nem de onde eles vêm... A lição número 1 do Sensei Frank. Enfim, eu sou a Leah.
+1.1|Como vai, Dood? Eu disse certo? Tento falar como o Sensei Frank diz. Dood. Dewwwwd... dooouuuuudde? O que é isso...? Deixa pra lá. Eu sou a Leah.
+1.2|Ei, eu sou a Leah. Leah, tipo "Vou te deixar na lama se você tentar alguma coisa nessa festa hoje à noite". Parece legal? Merda, tenho que praticar o que o Sensei Frank me ensinou...
+2|Sensei Frank. Eu gaguejei? Ou talvez você tenha problemas de respeito, né, moleque?
+2.1|Sensei Frank. ...O cara grande e careca que acabou de sair da festa como um homem que definitivamente tem coisas melhores para fazer? Aham. Sabe... aquele cara do drama do pinto mais cedo?
+3|Oooh, tá bom então. Bem, falando nisso, preciso falar com o Frank rapidinho. Ele me colocou em patrulha, e preciso ir me apresentar a ele em intervalos de 5 minutos. Acontece que esqueci meu celular na academia, então fiquei contando de cabeça. Já se passaram exatamente 5 minutos... ou mais, muito mais que isso.
+3.1|Claro. Vou aqui e faço exatamente isso...
+4|Estou aqui com o Sensei Frank. Não estou COM o Sensei Frank, mas sou tipo... o braço direito dele. Nós comandamos as coisas, sabe? Tentamos manter essa festa segura... e, por algum motivo, sem álcool.
+4.1|Estou em uma situação estranha agora, honestamente. Vim aqui com o Sensei Frank. Mas agora... acho que estou voando sozinho e tomando minhas próprias decisões. De certa forma, parece revigorante e emocionante, mas, por outro lado, é meio assustador. Uh, desculpe, você provavelmente não precisava de um livro tão grande sobre o meu estado de espírito agora. Enfim...
+4.2|Não tenho tempo para te contar uma história sobre mim agora, como se estivéssemos em algum RPG ruim, tipo Derek e seus amigos nerds. Acabei de perceber meu verdadeiro poder e tenho coisas para fazer.
+5|Claro que sim, mas não me limito a manter essa coisa em forma. Estou prestes a transformar meu corpo em uma arma. Tenho grandes planos com este meu corpo. Vou abrir um estúdio de autodefesa e tudo mais. Quando as pessoas virem minha aparência, virão correndo... e então MANDARÃO as pessoas para correr.
+5.1|Eu malho. Às vezes, também gosto de malhar batendo em quem me irrita com comentários idiotas.
+6|Calma, ok? Não vamos beber nesta festa... ou, pelo menos, foi o que o Sensei Frank me disse para dizer.
+6.1|Sabe que se você tivesse me dito isso algumas horas atrás, eu teria te dado um chute na bunda, certo? Mas está tudo bem. Estou por conta própria agora que Frank se foi... e minha opinião? Cada um na sua, como diz o ditado. Mas essa merda não é pra mim. Preciso manter esse templo em ótimo estado.
+6.2|Ah, não. Eu não mexo com essa merda. Preciso manter essa arma corporal em ótimo estado. E, para sua sorte, eu não dou a mínima se você ainda estiver com ela em mim, então pode ir à loucura.
+7|Eu não. Estou aqui a trabalho. Segurança, sabe. Mas acho que vi aquela loira com os peitos gigantes na academia. Tem alguma coisa nela, eu definitivamente já a vi antes.
+7.1|Eu não. Estou aqui com o Frank... bem, quer dizer... eu estava aqui com o Frank. Agora acho que estou aqui. Mas talvez eu fique e veja se consigo fazer novos amigos. Parece um grupo interessante aqui.
+7.2|Eu não conheço nenhum desses idiotas. Vim aqui com o Frank, mas foda-se o Frank. Agora estou aqui, e sou uma força a ser reconhecida se alguém se meter no meu caminho!
+8|Do que diabos você está falando? Sai da minha frente enquanto ainda tem uma.
+9|Tudo bem, atenção, moças e homens fracos... Estou olhando para você, camisa florida, garoto de fraternidade. Como você pode ver, essa mancha de merda humana está com o pênis de fora. *Eu dou aulas de como se defender nessas situações*. Esses idiotas que vão e voltam são reais, gente.
+9.1|Sou treinado em bojutsu, cara de merda. Mas... sabe, estou me sentindo enferrujado... como se estivesse louco para treinar. Posso pegar a primeira madeira que eu vir e começar a bater em todo lugar.
+9.2|Yo-sensei, que diabos? Você está carregando umas coisas de qualidade aí embaixo, mas nossa merda era particular! Guarde!
+9.3|Ah, olha só você, campeão... É DISSO que eu estou falando!
+9.4|Nossa... ah, você esperava que eu gritasse de alegria? Você não é tão gostosa assim, aprendizzinha.
+10|Cara, não me faça colocar as mãos em você. Estou tentando manter a calma, mas você está dizendo que eu gosto de você e começando a fazer reféns.
+10.1|Vamos lá! Eu não me inscrevi para repetir a aula! Ah, quer dizer, a menos que você esteja planejando mostrar suas habilidades para todo mundo. Isso é uma atitude de alfa. Respeito.
+11|Ok, ok, faz tempo que não vou a uma dessas aulas de festa. Que bom estar de volta, ha-haaa!
+11.1|Uau, ok, o sensei manda bem dentro e fora do dojo! Sorte sua? Talvez você até descubra por que o chamam de "O Socador"!
+11.2|Uau! Boa forma, Frank. Bem, divirta-se. Ah, talvez você descubra por que o chamam de "O Punho"!
+11.3|Ok, ok, essa festa está uma loucura! Eu poderia fazer mais louco, mas minhas lutas são 1x1, entendeu? Divirta-se e venha me encontrar quando estiver pronto para sentir o toque de um mestre.
+12|Ai, minha doce mãe, Mustafa! Você me deixou louco. Você realmente me deixou louco. Eu nem consigo... tem umas pessoas para quem preciso ligar sobre isso.
+13|Ai, você estragou tudo agora. Estou sob ordens estritas de gritar com qualquer um que beba. Aí vem a dor!
+14|Puta merda, Frank, o que aconteceu?
+14.1|Cabeçada de enfermeira, Sensei! Você viu isso? Não há porta que possa parar o mestre!
+14.2|Não acredito que vocês ficaram parados enquanto o Sensei Frank era atingido. Era o tipo de golpe que eu previa, e eles continuaram vindo, mas enfim, essa merda não funciona.
+14.3|Chale' Sensei, acho que você precisa praticar seu trabalho de pés.
+15|Ah, droga, tudo bem! Mostrem o que vocês sabem fazer, meninas!
+16|Ok! Ele deu um tapa naquele filho da puta do Tommy Brahama, que abandonou o ensino médio, de olhos arregalados! Que tipo de monstro usa camisas tropicais, afinal?
+16.1|De novo não! Droga, o Frank vai ter que arrumar um problema para vocês hoje à noite!
+17|POW! Mostrem para esse merdinha o que é bom, Sensei!
+17.1|Ooooh Derek... se eu quiser ver uma bunda sendo fodida com mais força do que essa, preciso procurar por um minuto. Ei, uh, em que bloco de celas seu irmão está?
+18|Ei! Sai de perto de mim com esses pulmões de fruta! Juro por Deus que se alguma dessas merdas de fruta estragar meu tempo de milha, eu acabo com vocês.
+18|Ei! Sai de perto de mim com esses pulmões de fruta! Juro por Deus que se alguma dessas merdas de fruta estragar meu tempo de milha, eu acabo com vocês.
+19|Ahhhh, tá, eu não sabia disso! Droga, eu adoro aprender coisas novas.
+19.1|Tire as patas de mim, seu cachorro! Porra, você vai me fazer PERDER a cabeça logo logo.
+20|...que você queria morrer hoje à noite.
+21|Você derrotou o Frank sozinho? Droga, se eu não tivesse visto ele nocautear com meus próprios olhos, eu nunca teria acreditado!
+21.1|Oi, eu sou a Leah, a lutadora do Sensei Frank em treinamento. As instruções do Frank eram bem claras: "Leah, na improvável, quase impossível chance de eu entrar em uma briga, você vai ter que me vingar... e também garantir que ninguém desenhe na minha cara." Mas o que é melhor: vingar o perdedor ou aprender com o vencedor? Então, foi você mesmo quem o nocauteou? 22|Que diabos... então você de alguma forma enganou o Frank para que ele levasse uma surra, e você é um mentiroso? Você está a caminho, seu babaca. Acertou em cheio...
+23|Se importa se eu fizer algumas perguntas sobre a preparação mental e a parte física do prédio? O que... não me entenda mal, você é um filho da puta do Tinkleberry, mas não é tão ruim assim. Você deve ter uns movimentos de Bruce Lee. O corpo grande, tipo ogro, do Frank... ele consegue levantar peso, mas velocidade é o segredo. Flutua como uma borboleta e tudo!
+24|Droga... tá, respeito, no entanto. Cuidado nunca é demais. Deveria ter sido mais esperto do que perguntar. Droga, disciplina. Pensamentos impulsionam ações! Merda!
+25|Ah, sensei! Vou te chamar assim agora. É uma coisa. Vamos começar com a parte física! O que isso faz para um ataque mortal?
+25| 26|Bem, é, eu sei, mas é bom ter uma confirmação! Alguma sugestão para deixá-los em melhor forma?
+26.1|É, pergunta boba, sensei! Achei que os meus estavam em boa forma, mas minha barriga sempre precisa de um pouco mais de força. Alguma recomendação?
+26.2|Uhh... tá. Não é a primeira coisa que eu pensaria, mas... nossa. Então, como você sugere que eu fique enorme aí embaixo?
+27|Ok, é isso que eu tenho. Nada de especial até agora, mas estou feliz por não ter ficado parado sem fazer nada a noite toda. Ok, o que vem a seguir?
+27.1|Ok, já estou sentindo um cheiro de merda aqui. Me recuso a acreditar que alguém como você nunca deu um soco no Frank... ou que eu já te chamei de sensei! Prepare-se para levar uma!
+27.2|Huu ... Vamos lá, sensei, o que mais você tem para mim?
+28|Bem, não me arrependo mais. Não sei se você teve sorte com o Frank ou se o seu estilo simplesmente não funciona para mim, mas acho que não vamos nos dar bem como aluno e professor. Paz, eu acho.
+28.1|Ok, estou sentindo um cheiro de merda aqui. Me recuso a acreditar que alguém como você derrotou o Frank... ou que eu te chamei de sensei! Prepare-se para pegar uma!
+28.2|Eeeeaaaah, olhe para você, garota! Meus horizontes se abrem, e caramba, uma bela bomba. Então... você, você realmente me incendiou esta noite, eu tenho que dizer! Não pensei que esta noite seria assim... você tem algum conselho final para o seu MUITO estimado aluno?
+29|Haha... bem, eu meio que estou, e não estou, rindo de você. Primeiro, essa merda é bobagem. Não importa o quão impressionante seja o seu "shake de proteína", ele nunca será minha primeira escolha. Segundo, foi realmente essa a sua frase? Isso foi como... um filme do Quentin Tarantino com o Jet Li, mas com uma fonte de alívio cômico sem fonte e um narrador gripado. 
+29.1|Haha... tá, tô rindo de você e não tô rindo de você. Primeiro, essa merda não tem graça. Não importa o quão importantes esses "exercícios de língua" sejam, eles nunca vão fazer parte da minha rotina principal. Segundo, foi mesmo essa a frase que você escolheu? Isso foi tipo... um filme do Quentin Tarantino com o Jet Li, mas com fonte Comic Sans e um narrador gripado.
+30|Uh, hah... agora não. Putz, que jeito de cagar com uma vibe perfeitamente boa. Valeu pela orientação e tudo, mas tô fora.
+31|Cara, você tá com sorte, eu AMO esse filme! E humildade. Até um ótimo professor precisa de um pouquinho. Mmmmmm, tá. Tudo bem. Vou concordar com sua oferta idiota de "reabastecer", e talvez... talvez seja hora de eu te mostrar uma coisa ou duas. Tá pronto pra essa porra de piroca? Posso te prometer: nisso... não tenho igual. 
+31.1|Você acha que isso vai me impressionar? Você tem sorte que eu AMO esse jogo. Embora eu sempre tenha preferido o tipo "KITTY UPPERCUT!". Mmmmmmm, ok. Ótimo. Acho que é hora de te mostrar uma coisa. Contemple minha maestria na lendária arte de... penis-fu.
+31.2|Ah, você acha que isso vai me impressionar? Você tem sorte que eu AMO esse jogo. Embora eu sempre prefira o tipo "CAT SNAP!". Mmmmmmm, ok. Ótimo. Acho que é hora de te mostrar uma coisa. Contemple minha maestria na lendária arte de... clitóris.
+31.3|Cara, você tem sorte que eu AMO esse filme! E humildade. Até um grande mestre precisa de um pouco. Mmmmmmm, ok. Ótimo. Concordo com sua oferta boba de "reabastecer", e talvez... talvez seja hora de te mostrar uma coisa ou duas. Você está pronto para um pouco desse clitóris? Posso te prometer: nisso... não tenho igual.
+32|Aham, bem... talvez não tenha sido uma fonte de proteína tão ruim, afinal. Esta foi realmente uma noite esclarecedora. Preciso me lembrar de pesquisar um pouco quando chegar em casa. Vou dar uma olhada, sensei. Este cálculo vai ser um saco... devo medir em mililitros ou cm³... ou gramas? Devo perguntar ao sensei sobre a dieta dele? Droga, se controle, Leah...
+32.1|Aham, bem... esta foi realmente uma noite esclarecedora. Para nós dois, eu acho. Vou relaxar com os outros, mas te vejo por aqui, sensei. Em breve, espero. É isso aí, eu acertei nessa também. "Tiger PRONTO!"... Não, isso não funciona.
+32.2|Bem, então... esta foi realmente uma noite esclarecedora. Para nós dois, eu acho. Vou relaxar com os outros, mas te vejo por aqui, sensei. Em breve, espero. É isso aí, você acertou em cheio. "ORGASMO DE TIGRE!" ...Não, isso não funciona.
+32.3|Bem, então... Acho que minha língua se exercitou bastante, não é? Foi uma experiência muito esclarecedora. Talvez eu precise ir para casa e pesquisar mais sobre a língua... Até mais, sensei. A língua precisa de um dia de descanso entre os treinos? Devo perguntar ao sensei se ele tem algum peso pequeno para me emprestar? Droga, se recomponha, Leah...
+33|Hmm, um pouco clichê, mas depois de ver o quanto ainda tenho para melhorar hoje à noite... definitivamente vale a pena ter em mente. Tenho algum método testado e comprovado que possa usar para me superar? E você, sensei? Como se superou, hein? Sabe, se esforçando ao máximo?
+33.1|Hmm, um pouco clichê, mas depois de ver o quanto ainda tenho para melhorar hoje à noite... definitivamente vale a pena ter em mente. Você tem algum método testado e aprovado que eu possa usar para realmente me esforçar ao máximo? E você, sensei? Como você... se esforça até a beira do clímax?
+34|Ensino Médio Central... dica? Se eu quisesse um conselho de nível de ensino médio, você acha que eu te pediria? Escuta, obrigada pela ajuda e tudo mais, mas estou desistindo. Estou fora. Até mais.
+35|Droga, sério? Ok, me siga, rápido. Quer dizer, MUITO rápido... porque estou animado agora! A energia está fluindo! Preciso te perguntar uma coisa particular. Reputação e tudo, além de papo de mestre privilegiado em artes marciais, sabe?
+36|Caramba, ele nem consegue acompanhar o aluno? Não tem como eu respeitar isso. Ou... nossa, esse Sensei Brad voltou? Nossa, odeio ser socorrido! Qual era? Não. Não posso perguntar. Isso vai arruinar a minha marca. Só sorria e aguente firme, Leah. Ou faça uma careta e aguente firme... você é um urso. Rawr.
+37|Com licença, Srta. Lady ou Lety, tanto faz. Tenho uns negócios para discutir com você. Uma oportunidade que pode mudar a minha vida! Vamos a algum lugar onde possamos conversar de verdade, hein? Me siga!
+37.1|Ei! Puta merda, alguém viu para onde o Lettuce foi? Merda, a garota com o nome fofo? Ei, ei. Se você vir... Lety, sim, diga a ela que eu realmente preciso bater nela por alguma coisa. Estarei lá fora.
+38|Você realmente se levantou e me agarrou desse jeito? Estou literalmente prestes a apresentar meu plano de negócios para um estúdio de autodefesa para lidar com filhos da puta como você. Talvez a Lety queira uma demonstração do que eu vou ensinar.
+39|Puta merda? Estou literalmente prestes a apresentar meu plano de negócios para um estúdio de autodefesa para lidar com filhos da puta como você. Talvez a Lety queira uma demonstração do que eu vou ensinar.
+40|É, continue correndo! Você tem sorte de ter investidores em potencial para recorrer. Droga, nem me lembro em que parte do meu discurso eu estava! Esqueça essa garota, Lety, tenho que começar de novo com outra pessoa.
+41|Ah, merda, Frank, você ouviu aqueles tiros? O Ricky Gorduroso e o resto daqueles garotos imundos do parque devem estar voltando para se vingar!
+41.1|Frank! Frank?!... Desculpe, Frank, mas não tenho tempo para sangrar. Vou honrar sua memória, sua vagabunda distraída!
+41.2|Frank! Frank?! Ah... desculpe, Frank, mas não tenho tempo para sangrar. Boa sorte com... o que quer que esteja fazendo. Tô fora!
+42|Não, não vou tocar em nada que o cavalheiro coloque no bolso. Só tenho a sexta sensação de que a tela dele está muito grudenta. Não, eu não.
+42.1|Para que diabos essa mancha de merda usaria esse telefone? Fique longe de mim, tenho coisas mais importantes para resolver.
+43|Para que serve?
+43.1|Você? Não. Não vou fazer nada por você agora.
+43.2|Qual é o sentido, aprendiz? Rápido!
+44|Normalmente, eu assinaria algo assim, mas Frank e eu andamos numa guerra de território com os nômades urbanos ultimamente. Eles gostam muito da nossa academia de ferro-velho e estão travando uma guerra de guerrilha séria para botar as mãos nela. Estamos falando de merda de vomitar fezes. Não posso assinar isso, por princípio.
+44.1|Eles não deram uma escorregada ultimamente? Umas botas, talvez? Claro que não, que se danem.
+45|Quer dizer, sim, eu assino. Ele é um cara legal, e as obras de arte nesta casa são de dar engasgo. Preciso de algo para olhar.
+45.1|Humpf. Tá, tudo bem, eu assino isso. Você não está atendendo aos meus padrões de beleza mesmo. Agora sai da minha frente!
+46|Não, eu não uso mais essas coisas. Eu tinha um tio que serviu no Vietnã. Ele usa uma camisa com a bandeira americana todos os dias. Mas ele também guarda o dinheiro dentro de casa para que o governo não tenha acesso, então não sei se ele gosta ou odeia os Estados Unidos. Enfim, não, não estou usando nada parecido.
+46.1|Parece que estou usando algo com a bandeira americana? Não? Acho que não. Agora pare de me fazer perder tempo com essa bobagem.
+47|Então, você é tutor de crianças ricas, ensinando-as a falar espanhol e tocar marimba, certo? Você deve ganhar muito dinheiro fazendo isso... renda disponível é uma coisa importante...
+48|Ei, ei, escuta, estou abrindo meu próprio dojo de autodefesa naquele shopping perto da rodovia. Agora, como você gostaria de transformar um investimento de apenas US$ 4.000 em-
+49|Não eram 3 quarteirões, eram tipo 1 e meio. Aquele cara estranho, o frango, já foi, acho que está preso. Era a propriedade dele, e quando a lavagem química secar e as pessoas puderem se aproximar do local sem queimar a pele, AQUELA propriedade vai ficar QUENTE. Vai ser um imóvel PRINCIPAL, e é por isso que preciso da sua ajuda...
+50|Não, droga! Eu simplesmente estive onde as pessoas adoeceram. Vai ser um SER. DEFESA. ESTUDO. Eu ensino as pessoas a se defenderem. Em situações de combate? Chutando os agressores no pau?
+51|Não, que diabos? Ok, pergunta simples: você está saindo do bar, algum babaca tenta te agarrar e te levantar para dentro da sua têmpora escondida, o que você vai fazer? ME DIGA! O QUE VOCÊ VAI FAZER?
+52|CARACA! NÃO, VOCÊ VAI FAZER ISSO! RRRRAAAAAAHHH!
+53|Puta merda. Parei e... merda, derrubei outro investidor em potencial. Ei, Lety, me desculpe por ter te derrubado, mas você estava sendo muito burra. Escuta, não sei se você consegue me ouvir, mas se tiver interesse em investir algum dinheiro neste projeto, por favor, *entre em contato* comigo. Talvez essa tenha sido a escolha errada de palavras... entre em contato. Estou indo agora.
+54|Ei, cuidado onde você está jogando merda! Ah, você, estou no meio de algo importante e o som desses poppers me fez ter flashbacks do Frank e estou em guerra com os malditos circenses. Bem, adivinha com quem estou em guerra agora, seu punk?
+55|Uma ameaça à segurança, hein? Deixa eu adivinhar, a garota de óculos chamou alguém de babaca de novo... ou o cara loiro de camisa florida ainda não consegue encontrar o celular. Meu Deus, o que eu não daria por uma boa facada. Isso é uma ameaça à segurança.
+55.1|Acordo de Segurança?! Droga. Olha, eu não consigo trabalhar sem o meu Sensei Frank, e ele está passando por um traumatismo craniano, pelo visto. Vamos ver se ele se recupera, depois falamos sobre a ameaça à segurança dele.
+55.2|Ameaça à segurança? Droga. Olha, eu não consigo trabalhar sem o meu Sensei Frank, e agora ele está um pouco indisposto. Vamos esperar até que ele se recupere, depois trataremos da ameaça à segurança dele.
+55.3|Ameaça à segurança? Isso vai ter que esperar... você ouviu esse estrondo? Você sente essa fúria no ar? Esse é o som e a sensação do meu sensei no calor da batalha! Não vou interrompê-lo em seu momento de glória, então vamos esperar para lidar com a ameaça à segurança dele.
+55.4|Uma ameaça à segurança? Normalmente eu aproveitaria a oportunidade, mas... sem o Sensei Frank aqui para me guiar, eu nem sei o que fazer. Espero que você consiga resolver essa merda sozinho. Me desculpe.
+55.5|Resolva essa merda sozinho, como um chefe de merda, então. Não há nada mais fraco do que pedir para outras pessoas resolverem seus problemas. Merda, que covarde de merda.
+56|Tem uma cobra solta nesta casa? Ok, merda, isso É uma ameaça à segurança! Oh, querida, eu estava esperando... espera, *suspiro* de acordo com meu contrato, eu tenho que escalar todas as questões de segurança para cima na cadeia de comando...
+57|Eu sei, nós temos que... não, eu jurei servir ao Sensei Frank e sou uma mulher de palavra. Temos que falar com ele. Ele vai bolar o plano de ataque.
+58|Isso é... realmente uma ameaça à segurança? Quer dizer, sim, isso é realmente uma bagunça e alguém provavelmente vai levar uma surra por isso. Vou dar uma olhada na cena do crime, eu acho. Quem diabos faria uma coisa dessas?
+58.1|Ha! Que engraçado pra caralho. Quem me dera ter pensado nisso antes que alguém chegasse antes de mim! Preciso ver isso...
+59|Quem diabos faria uma coisa dessas... de novo? Vou dar uma olhada na cena do crime, acho... pode ser uma imitação.
+59.1|De novo? Hahaaaa merda, quer dizer, uma vez é divertido. Duas vezes é... divertido pra caralho! Vou dar uma olhada. Se você descobrir quem é, me avise para eu apertar a mão dele. Supondo que tenha lavado a mão depois, claro.
+60|Sensei Frank, aí está você! Fiquei preocupado por um segundo, você não estava respondendo aos meus cumprimentos.
+60.1|Sensei Frank, aí está você! Você não guardou a bebida? Está tudo bem?
+60.2|Franco! Não me admira que você não tenha conseguido atender meus cumprimentos, você está no meio de uma surra!
+61|Sensei Frank, temos uma, hum... criatura solta aqui dentro. Tem uma COBRA na casa.
+61.1|Bem, se você pudesse, sabe, terminar isso, seria ótimo. Porque temos o que pode ser considerado um problema de segurança muito sério. É uma cobra, Frank!
+62|Frank, mas-
+63|Não, eu não bebo quando estou trabalhando. Isso me dá nos nervos e tudo mais. Aliás, não deixe o Sensei Frank te ver com isso. Só estou olhando.
+63.1|Ei, me dá isso! Tenho ordens expressas de dar uma surra de bebida na bunda de qualquer um nesta festa. Considere isso seu único passe livre. Da próxima vez que eu te pegar... tenho que fazer o que o Sensei Frank disser.
+63.2|Ei, me dá isso! Você não sabe que o Sensei Frank me colocou a serviço de alguém pego com álcool? Eu gosto de você, então vamos fingir que é daquele cara de camisa florida.
+63.3|É, o quê? Ah, você está distribuindo presentes, aprendiz? Não posso prometer que vou beber agora... mas talvez mais tarde eu beba isso bem na frente da bunda de vagabunda do Frank e veja se ele se contorce.
+64|Filhote, quando o Sensei fala, o submisso leal deve obedecer. Frank disse que leu na contracapa de um DVD adulto chamado Shaolin Suck-N-Fuck. Então, acho que é verdade.
+65|O Sensei Frank fez muito por mim. Ele está até me ajudando a procurar um lugar onde eu possa abrir meu próprio estúdio. Não seria certo ir contra as ordens dele. É contra o código. O Código Kick-Ass.
+66|Droga, o jeito que você disse isso foi tipo... se eu tivesse um pau agora, seria difícil. Temos que fazer a coisa certa por todas essas pessoas inocentes. Elas não sabem nada sobre legítima defesa, o que significa que nenhuma delas conseguiria desviar de uma mordida no pescoço. Encontrar essa cobra é a coisa certa a se fazer.
+66.1|Acho que você está pensando nos Sith de Star Wars... mas entendo o que você quer dizer. Vou começar esse estudo de autodefesa em breve... talvez seja hora de começar a tomar minhas próprias decisões. É, isso é bom. É bom, tipo...
+67|Certo! Se fizermos isso, vamos precisar de uma luz. Há muitos cantos escuros neste lugar, e eu não vou simplesmente me esconder nas sombras assim. Já vi esses filmes e não vou morrer antes dos créditos iniciais.
+68|Duvido que Ashley e Madison tenham uma caixa de ferramentas cheia de tudo o que você precisa para evitar que a casa desmorone, incluindo uma lanterna. É melhor a gente pegar o celular de alguém para usar. Veja o que você consegue encontrar.
+69|É, geralmente a gente conseguia, mas eu deixei meu celular na academia. Me distraí vendo um cara batendo um novo recorde no supino. Hmm... "Steve-600" mesmo.
+70|É, é. Espera, e você? Cadê o seu celular?
+71|Isso não responde à minha pergunta... e, no entanto, de alguma forma, responde.
+72|O que... isso significa? Estou começando a achar que você inventou essa história toda. Isso é um pedido de ajuda?
+73|É bem engraçado se for verdade. Ele mal podia esperar para tirar uma foto do bumbum dele até sair do banho? Tinha que ter aquele BRILHO, haha!
+73.1|Isso é bem engraçado se for verdade. Você mal podia esperar para tirar uma foto dos seus peitos até sair do banho? Tinha que ter aquele BRILHO neles, haha!
+74|É, é um sonho meu, abrir um lugar onde eu possa ensinar as pessoas desta cidade a bloquear um soco ou se esquivar e sair de uma situação difícil. O melhor ataque é uma boa defesa, como dizem.
+75|Interessante E um salva-vidas. Estou tão feliz que está tudo dando certo: o Sensei Frank me levou para ver um espaço incrível para alugar outro dia. Pense nisso: eu poderia ser conhecida como Instrutora Leah até o final do mês! Quem sabe você pode ser minha primeira aluna, né?
+76|Ah, não, não, não, acredite em mim. Com grandes poderes vêm grandes responsabilidades e tudo mais. Meu programa será 100% profissional. Fico feliz em saber que você também tem esses valores.
+77|Caramba, você acha que esse é o objetivo? Olha, eu posso ser um filho da puta durão, mas não quero machucar as pessoas, principalmente se elas não merecem. Pessoas como você, eu me preocupo com o futuro. Você pode precisar provar do seu próprio remédio um dia desses.
+78|Cara, eu já tenho uma cobra para caçar. Guarde seu pênis.
+78.1|Por que você tem que fazer isso? Estou tentando proteger esta residência de uma ameaça, e você deveria ser meu parceiro aqui. Você está me deixando louco, cara...
+78.2|Que FOCO. Temos uma cobra para caçar. Guarde sua boceta.
+79|Ok, ok, agora você está se masturbando. Você realmente está com a cabeça no jogo, não é? Droga, estou ficando louco.
+80|Uau, para mim? Não sei dizer o quanto isso vai ajudar a acalmar meus nervos. Chocolate é meu favorito. Valeu, cara.
+81|Lá vamos nós! Vamos brilhar como um diamante com esse telefone. Tudo bem, não sou o Steve Irwin, mas cobras gostam de lugares escuros e úmidos para se esconder. Vamos começar pelo primeiro andar e subir se for preciso.
+82|E você vai correr, meu chapa. Mas não se preocupe, se acontecer alguma coisa, eu estarei lá para dar um golpe de judô naquele filho da puta sem pescoço.
+83|Aqui vamos nós, aqui vamos nós! Podemos acender... segure o botão de parada. Este telefone está bem trancado. Qual é a senha?
+84|Vamos lá, cara. Saia da frente e destranque essa coisa!
+85|Escuro e úmido, meu chapa. E não estou falando da xoxota daquela nerd. Vamos continuar procurando.
+86|Ei, cara, vou ficar olhando para manchas a noite toda se você continuar com essa merda. Lustre isso em outro lugar.
+86.1|Ei, pare com isso!
+87|A garagem... é, é um lugar úmido, se é que eu já vi um. E não estou falando de "Ei, essa grama está úmida pra caramba". Quero dizer, de "Tem cheiro de saco de bolas velho aqui dentro". Estou bem atrás de você, campeão.
+88|Caga na minha bunda e me liga na terça. Você viu o TAMANHO daquela coisa? Achei que estávamos falando de uma cobra de jardim pequenininha! Aquela coisa era o GODZILLA de todos os macarrões perigosos. As apostas mudaram, meu chapa.
+89|O que há de errado com você, cara? Você é muito lento. Você não tem medo, né?
+90|A maioria das pessoas tem que viver a vida com o tempo todos os dias. O que você precisa é de confiança nas suas habilidades.
+91|Posso ser um cavaleiro de armadura brilhante, mas isso não é uma operação de uma mulher só. O que você precisa é de confiança, confiança nas suas habilidades.
+92|Ahhh, agora a culpa é minha? Acho que a realidade é que você nunca enfrentou uma ameaça como essa antes, e isso te faz borrar as calças. Você tem que confiar nas suas habilidades!
+93|O que eu quero dizer é que eu preciso poder confiar em você para me apoiar. E se você não estiver confiante, vou sentir como se minha bunda nua e macia estivesse balançando ao vento. E eu não estou tentando não ficar com marcas de presas na minha bunda hoje à noite, não é.
+94|Isso não é suficiente. Como eu disse, confiança nas suas habilidades. Ou seja, mental... e física. Falando nisso... vamos lá, levante as mãos e me mostre o que você tem.
+95|Confie em mim, não vai ser uma luta. Eu sou legítima defesa, minha querida, lembra? Você ataca, eu bloqueio. Consiga 5 golpes e eu saberei que você tem o que é preciso para me ajudar a levar essa fera de volta para onde ela veio.
+96|Sério, cara? Sério? Eu te peço para provar e você surta e sai correndo? Esquece, eu vou lidar com essa situação sozinho.
+97|Agora é disso que eu estou falando! Não foi bom?
+97.1|Agora é disso que eu estou falando. Com certeza.
+98|Estou te entendendo. Acredite, esse tipo de agressão também está no topo da minha lista. Se esse meu currículo de autodefesa funcionar, eu vou fazer esse treino durante o dia e aquele treino à noite. Excitação 24 horas por dia!
+98.1|Lá vamos nós de novo, mais um cara que acha que eu sou algum tipo de fetichista de luta livre. A quantidade de vezes que me pediram para estrangular um cara enquanto ele se masturba... sério, eu poderia ter clientes todas as noites da semana.
+99|Porra, pelo menos eu sei que posso contar com você. É melhor voltarmos à caça.
+100|Realmente não é hora de fazer truques, mas entendo que esta foi provavelmente a primeira vez que você teve que mover esses bracinhos de macarrão em um tempo. Faça uma pausa e me avise quando estiver pronto para continuar caçando.
+101|Bem, uma cobra tão grande... não pode ser daqui. Devemos ter algum tipo de... situação de "fuga do zoológico" em mãos aqui.
+102|Você não pode estar falando sério. Essa coisa MORA aqui? Me ensina.
+103|Uau, uau, uau, uau! Nossa sessão de sparring terminou na garagem, cara! Você nunca bate em um oponente quando ele não está pronto para isso. Isso é covardia.
+104|Eu estava mantendo AQUELA cobra gigante nesta jaulazinha? Não é à toa que ela veio atrás de sangue. É como quando fizeram aquele bruxo com o pau na testa viver embaixo da escada. 
+105|Eu nem me importaria se a gaiola fosse como a Mansão Playboy das gaiolas de cobras — você NÃO TEM um monstro desses! Vocês, caras do subúrbio, fazem as coisas MAIS ESTRANHAS. Por que estão tentando fazer bichinhos de estimação de feras que foram colocadas na Terra com o único propósito de transar com humanos? Droga...
+106|Nosso próximo passo é continuar procurando, mas espere... Esta gaiola só abre por fora. Aquela trava se abriu. Alguém DEIXOU essa cobra sair! Por que diabos eles fariam isso?
+107|Por mais gentis que fossem as intenções deles, alguém colocou essa festa em uma situação de Defcon 1. Estamos falando de esconder seus filhos, esconder sua esposa, DEFCON 1. E você e eu, vamos resolver isso.
+108|Cara, eu realmente espero poder deixar o Sensei Frank orgulhoso quando terminarmos isso. Com meu estúdio de autodefesa se juntando, eu realmente gostaria do apoio de um herói local como ele.
+108| 109|Era exatamente para lá que eu estava indo. Naturalmente, qualquer aspirante a assassino tentaria cobrir seus rastros o máximo possível. Não se pode tirar impressões digitais de uma cobra assassina, não é? Algo cheira mal... e é crime. Você e eu vamos chegar ao fundo disso.
+110|Entrar nessa? Isso não faz parte de uma peça, garoto. Eu não sou um NPC em um jogo, estou apenas seguindo suas rotas pré-programadas. Eu sou um verdadeiro filho da puta, e depois que eu entrar nessa merda escorregadia, vou abrir o estúdio de autodefesa mais extremo que o mundo já viu.
+110.1|Entrar nessa? Isso não faz parte de uma peça, garoto. Eu não sou um NPC em um jogo, estou apenas seguindo suas rotas pré-programadas. Eu sou um verdadeiro filho da puta, e depois que eu pegar essa vadia escorregadia, vou abrir o estúdio de autodefesa mais extremo que o mundo já viu.
+111|É, é. Então vamos procurar, vamos esperar, você ouviu esse baque? E... foi um SILVO, cara! ALGO ESTÁ GIRO! Encontre essa merda!
+112|É, boa ideia, deve ser aqui o lugar! Sai, cobra-cobra. Eu não quero te machucar, eu só quero te amar! Rápido, entre e acenda sua lanterna para que eu possa bater na cabeça dela!
+113|Nada, né? Droga, pensei que a gente tivesse conseguido! Esse chiado, é como se ela estivesse nos provocando!
+114|Vamos lá, vista suas calças de menino grande e me diga o que tem aí dentro!
+114.1|Tá brincando? Numa hora dessas, com uma corda faminta, nojenta, assustadora e que busca calor, NÃO, quem sabe o quê nas paredes? Eu... é isso. Terminamos.
+114.2|E aí? Encontrou alguma coisa ou o quê?
+114.3|Vamos lá, vista suas calças de menina grande e me conte o que tem aí dentro!
+115|Um cara GRANDE, hein? No comando e... grande? Vamos ver. Agora, foco!
+115.1|Uma menina grande, hein? Toda crescida com grandes atributos? Vamos ver. Agora, foco!
+116|Foda-se, eu vou entrar.
+117|Jesus, cara, eu não consigo continuar fazendo isso sozinho!
+118|Relaxa, relaxa. É tinta spray. O chiado veio de uma lata de spray arremessada, e a merda explodiu dentro de mim quando... Admiti que tentei acertá-la. Porque pensei que fosse a cobra também.
+119|Hmmm, a cobra deve ter derrubado a lata de spray, já que ela rasgou daqui, provavelmente através da parede. Droga, e esta é uma parede externa...
+119.1|Aham. Aquela cobra deve ter derrubado a lata de spray, já que ela rasgou daqui, provavelmente através da parede. Droga, e esta é uma parede externa...
+120|Ei, tudo bem, vamos continuar perseguindo essa coisa até que não haja mais para onde correr. O mais importante é que nos recuperamos.
+120.1|Se você continuar me deixando louco, então é isso, não vamos conseguir. Você foi um dos piores parceiros que já tive!
+120.2|Vamos manter o foco. Você foi atingido ou perdeu um pouco esta noite, então fique calmo.
+121|Lá fora. Essa é a nossa única opção. Estamos quase perto do arame farpado; se aquela cobra pular a cerca, vai ter um monte de donos de chihuahuas tristes por aqui.
+122|Sério? Estamos meio que correndo contra o tempo. Mas claro, vá depilar a bunda ou o que precisar fazer. Venha me encontrar quando estiver pronto.
+123|É assim que eu vejo as coisas: você e eu faremos o que nós, no ramo, chamamos de verificação de perímetro. Uma verificação completa, então não se apresse! Não precisamos andar na cerca o tempo todo, mas temos que ver tudo o que há para ver.
+124|E não estamos mais lidando com um espaço pequeno. Viborita terá muitos lugares para se esconder lá. Se algo brilhar com essa sua luz — como escalar, por exemplo — você grita. Siga-me, entendeu?
+125|Uma arma? Você encontrou uma arma? As coisas ficaram mais interessantes... Por favor, me mostre.
+125.1|Ora, caramba... ora, você encontrou uma espadinha de espuma que as crianças da vizinhança usam para bater na própria bunda. Temos problemas maiores!
+126|*Suspiro* Respire... Vamos dar uma olhada no que você encontrou. Pode ser alguma coisa.
+127|Droga, isso não é só um brinquedo de criança, é uma katana. Eu gosto da era dos samurais, cara! Nós... nós poderíamos estar desvendando um mistério muito mais profundo aqui.
+127.1|Ei, eu encontrei uma maldita katana! Vem cá, cara, é como a era dos samurais! Temos mistérios para desvendar, vamos lá!
+128|Não, tipo como no começo, uma cobra mortal é solta de sua gaiola... e agora encontramos o que poderia ser considerado uma antiga arma mortal... ESSA MERDA É BEM TARANTINO, CARA.
+129|Preciso manter as coisas em perspectiva... estamos no meio de um subúrbio, não no Japão feudal. Mas pense bem! É muita coincidência que esta espada esteja convenientemente aqui, pronta para ser arrebatada por qualquer aspirante a assassino.
+130|Eu entendo o que você quer dizer, mas preciso manter este grupo seguro, com ou sem código. A menos que você encontre alguém que possa me dizer o contrário, tenho que considerar esta espada a ferramenta de um assassino, o mesmo que libertou aquela maldita cobra da gaiola. Aqui, você pode ficar com ela enquanto faz sua pesquisa. Pelo menos isso você mereceu. Preciso pensar, e posso ligar para o Sensei Frank para ver se ele tem alguma opinião sobre tudo isso.
+131|Já era hora!
+132|Exatamente o que pensei, meu aprendiz. Primeiro a cobra, agora a espada. Estamos lidando com um assassino letal, e estou começando a me perguntar se sou o alvo.
+133|Pense nisso: quem é a única pessoa tentando mudar esta cidade ensinando todo mundo a se tornar uma máquina de foder bundas? EU. Para os ladrões e estupradores desta cidade, Eu. Sou. O. Inimigo.
+134|É, estou começando a ver as coisas sob uma nova luz. A menos que você saiba o contrário, essas ameaças não são apenas eventos aleatórios.
+135|Hmmm, tudo bem. Pegue e veja o que consegue descobrir, mas não perca muito tempo tentando descobrir a proctologia exata ou seja lá como se chama. Isso não é CSI. É a vida real, como você pode ver pela situação em que estamos agora. É... enfim, faça sua pesquisa de merda e eu vou dar uma surra no Sensei. Ele pode ter informações vitais sobre nossa presa e esta arma.
+136|É, tudo bem. Eu ia tirar sarro de você por falar com sua mãe... mas ouvi o Sensei Frank falando ao telefone com a mãe dele mais cedo hoje à noite. Se o Sensei Frank faz isso, deve ser algo normal. Só seja rápido. Falando no Sensei, eu posso dar uma surra nele. Podemos precisar dele para acabar com essa cobra e descobrir o assassino.
+137|É o que eu tenho te dito! Só posso contar com uma pessoa nesses tempos de traição e mentira. Eu preciso... do Sensei Frank. No entanto, não quero ir até ele de mãos vazias, então vamos procurar por aquela cobra em mais um lugar primeiro.
+138|Se eu soubesse, não teria pedido para você descobrir. Quer dizer... tenho um palpite. Tem aquela garota, a Amy... sabe... a...
+139|Não. Não. Não. Não é isso que estou dizendo. Não. Só estou dizendo que ela parece ter uma boa ideia sobre várias culturas... localizadas na Ásia.
+140|PSST. Ei, aqui, nos arbustos.
+141|Tentamos nos esconder! Embaixo, BAIXO!
+141.1|Tentamos nos esconder!
+141.2|Tentamos nos esconder!
+142|Então, você trouxe a espada de samurai? Me passa, acho que vi movimento.
+142.1|Ssshhh! Acho que vi movimento.
+143|Claro que sim. Sabe como, quando caçadores querem capturar suas presas, eles se escondem em uma árvore por horas e pintam o rosto para parecerem pedaços de pau e outras coisas?
+144|Bem, eu estou fazendo isso, só que tudo o que tenho é este arbusto e aquela tinta spray que encontramos mais cedo. Meus olhos ardem pra caralho e acho que tem formigas na minha virilha, mas estou completamente invisível a olho nu.
+145|Bem? Com o que estamos lidando?
+146|Droga. Acho que é por isso que ele cheira a cachorro-quente e bunda. Mesmo assim, eu poderia ficar com ele. Calma! Temos movimento!
+146.1|Droga. Provavelmente pertence a algum adolescente daqui. Explicaria por que ele cheira a cachorro-quente e bunda. Mesmo assim, eu poderia ficar com ele. Calma! Temos movimento!
+147|Eu. Te. Disse. Que. Fodido. Vou fazer quem estiver tentando me matar pagar. AQUI DENTRO NÃO. Ali, perto do fogo! Temos movimento!
+147.1|Estou te dizendo, porra. Ele é um assassino, e eu prometo que farei quem estiver tentando me matar pagar. AQUI DENTRO NÃO. Ali, perto do fogo! Temos movimento!
+148|Então, há uma chance de que esta espada não seja nada mais do que um coçador de barba para o pescoço? Talvez eu tenha deixado minha própria escuridão criar sombras onde não há nenhuma... Porra, isso soou profundo. Vou ter um bom senso. Oh merda, perto do fogo... temos movimento!
+148.1|Não consegui encontrar nada sobre isso porque esta espada vem de uma organização secreta, cara. Você acha que eles mantêm anotações detalhadas em uma organização secreta? Que nada! Olha, mais sombras! Perto do fogo!
+148.2|Outra pergunta sem resposta. Essa merda está ficando mais profunda que a última temporada daquele programa de fantasia com todos os peitos e bruxos. Acho que não posso dizer com certeza qual é exatamente a origem dessa espada, mas espere aí! Perto da fogueira!
+149|Sensei Frank... ele realmente me deixou assim. Ele foi pelas minhas costas e fez movimentos. Ele destruiu minha visão. Eu... eu não posso...
+150|A noite toda, você ficou me lembrando da importância de seguir o código, de ter honra. Mas qual o valor do código se o babaca que o criou é um babaca que não consegue ser bom, que abre as portas de um clube de striptease?
+150.1|Agora vejo que você está tentando me irritar a noite toda. É, é, eu consigo ver claramente que não existe código que valha a pena seguir, nenhum Sensei que valha a pena se curvar. As pessoas te ferram, e você só precisa contar consigo mesmo. É... as regras mudaram há muito tempo. Quando chego lá, começo a mudar também.
+150.2|Sinto como se estivesse sendo despedaçado! Metade de mim quer seguir meu código, mas, CARAMBA! A outra metade quer arrancar o pênis do Frank! Tudo isso porque uma PORRA. PORRA. DE COBRA. SAIU. DA. PORRA. DA. SUA. PORRA. DE GAIOLA. Preciso pensar. Sozinho.
+151|Não. Não tem código, nem luz... Só escuridão. E idiotas tentando me matar com espadas de samurai! Foda-se!
+152|O código, lembra do código. Não o código do Frank, o código da LEAH. Eu... ugh! Queria que essas vozes na minha cabeça simplesmente fossem embora! Preciso ficar sozinho. Preciso pensar.
+153|Mas... mas o- ugh, filho da puta!
+154|Esse tem sido o seu plano o tempo todo, né? Me deixando louco, me fazendo perceber que meu sensei era um babaca traidor... Bem...
+155|Ei, mantenha essa luz baixa! Estou caçando.
+155.1|Olá, meu velho amigo. Você esperava me encontrar triste por causa dos meus sonhos destruídos? De jeito nenhum.
+156|Sim, estou nu! Eu precisava me unir ao ambiente. Como um camaleão, sou um Schwarzenegger procurando o Predador agora mesmo. E funcionou! Eu vi a cobra rasgar esses arbustos e depois ir para o telhado. A menos que as asas crescidas daquela cobra tenham encurralado o espanador furtivo.
+157|Certo. É verdade que perdi minhas roupas depois de me despir, mas as vi quando você acendeu a luz. Vire-se e me dê um segundo, então terminaremos isso de uma vez por todas.
+158|E embora me satisfizesse imensamente bater no sempre amoroso Sensei Frank, o fogo do inferno, com a coronha desta katana, não é disso que se trata. Eu só uso a violência como meio de autodefesa. Ou quando a impressora não imprime.
+159|Sério? Isso... com certeza seria apreciado. Onde ele está?
+160|Nossa, isso... não parece um pedido de desculpas tradicional. É algo como "segure o aparelho de som para fora da minha janela" ou... espera, isso é...
+161|Frank, isso é ótimo, mas eu realmente acho que você deveria vir! Não é seguro lá em cima.
+162|É, eu estava puto. Estou puto. Mas a noite toda, meu amigo aqui ficou me lembrando da importância de fazer a coisa certa. Mas, embora tenhamos uma conversa séria sobre como você me tirou daquele espaço, o mais importante é te tirar do telhado em segurança.
+163|Frank está bêbado em seu próprio quarto. Eu já vi isso antes, quando pulamos para uma despedida de solteira e ele tentou despir a stripper contratada. Eu diria que deveríamos deixá-lo sair sozinho, mas não sei, é bem alto. Ele pode cair, quebrar a espinha...
+164|Você tem razão, tem razão! Já superei o código. Não posso falar pelo antigo mestre desta katana, nem por que eles tinham dedos tão pegajosos, mas esta espada me serve bem agora. E depois que eu tirar o Frank daquele telhado, esta lâmina vai ficar pendurada na porta do meu escritório. Só observe.
+165|Ora, obrigada! Infelizmente, temos problemas maiores do que simplesmente ter o Frank preso no telhado com aquela "Pythonidae Constrictus".
+166|Haha, não, mas o Frank vai sofrer muito mais do que uma microagressão se não formos rápidos. Pouco antes de irmos caçar nos arbustos, a Ashley me deu uma liçãozinha. Ela me disse que o Sr. Espremedor costuma ser muito dócil, mas... está quase na hora da comida dele!
+167|Não, a Ashley o alimenta com ratos-toupeira vivos para que ele cresça grande e forte. Caça, espreme, come. Se você não vê o problema aqui... me diga como é o Frank grandão e peludo.
+168|Seu coração está no lugar certo, mas seu cérebro sabe que só temos alguns minutos antes que o Sr. Squeezer coma o maior rato-toupeira-pelado... DE TODOS OS TEMPOS. Seja lá o que for que façamos, precisamos fazer rápido!
+169|Quando você está certo, você está certo. Do meu ponto de vista, temos duas opções. Um de nós tem que distrair o Frank enquanto outro o subjuga. Escolha seu veneno. E não estou falando de uma brincadeira de cobra.
+170|Você quer fazer o trabalho sujo? Tudo bem. Não tem como você derrotar o Frank no corpo a corpo, e com aquela cobra em volta dele, não sei se conseguiria sem levar uma mordida na cara. Então, se eu fosse você, usaria ataques à distância no Frank.
+171|Quer dizer, você precisa encontrar coisas com as quais possa derrubá-lo. A melhor aposta dele seria álcool, mas se ele conseguir jogar, a gente manda ele para longe. Vai ter que bater FORTE nele. Ele vai ignorar essa merda de Liga Infantil. Eu vou ficar aqui, vou mantê-lo convencido de que você está fazendo o trabalho dele de manter a festa sem álcool. Ele vai odiar essa merda.
+172|Frank, seus olhos estão ficando... esbugalhados. Acho que a cobra tem que sair AGORA. MUITO EM BREVE, DICA, DICA.
+173|Eu nem pensei direito. Só agi. Parece que nem todo mundo saiu... Tá bom... Droga, descanse em paz, Sr. Víbora. A Ashley vai ficar brava.
+174|Vamos sair desse espaço alugado e a gente fica quite.
+175|Frank! SIM! É hora de mudar o MUNDO!
+176|Não acredito. Segundos antes de ele cair, eu estava fantasiando com ele quebrando o pescoço na queda. Não sei o que deu em mim, mas quando o vi cair, eu pensei: "Não podia deixar ele se machucar, sabe?"
+177|Eu sei. Vou resolver as coisas com o Frank, para garantir que seja legítimo, mas venha me encontrar em alguns minutos... Acho que tenho algo que você vai gostar... um presente, na verdade. Meu jeito de agradecer!
+178|Certo, certo... Eu definitivamente te devo algo, não é? Bem, eu preparei algo bem especial. Venha comigo.
+179|Esta noite levou muito tempo, e eu estaria em um lugar muito diferente se não tivesse você ao meu lado o tempo todo. Então, como forma de agradecer, apresento... seu presente!
+180|Bem, você claramente não esperava por isso, haha. Só para deixar claro, Frank não está aqui para os seus prazeres carnais. Mas, considerando que ele se despiu em questão de segundos, não posso dizer que ele não encontrará um prazer estranho nisso.
+181|Tchau! Como o primeiro aluno do curso de Autodefesa à Prova de Balas da Leah, você será o primeiro a experimentar meu novo boneco vivo! Brincadeira, Frank.
+182|Frank, como forma de se desculpar por ter perdido a razão, ofereceu seus serviços como escudo de carne enquanto eu te ensino algumas coisas. Então, vamos conferir, mãos ao alto, e não fuja!
+183|Meu amigo, autodefesa é encontrar aquele zen interior. Respire fundo. Sinta o poder interior. Então plante esse maldito pé, mantenha o rosto coberto e desfie o soco para colocar esse desgraçado de joelhos! Certo, Frank, você pode bater nele um pouco mais forte agora.
+184|Você... você conseguiu mesmo! Meu programa de autodefesa funciona mesmo! CLARO QUE SIM! Ah, Frank, você consegue se levantar. Estamos quites agora. E você...
+185|Nada me excita mais do que triunfar sobre o mal com movimentos bem executados. Vem cá.
+186|Haha, tudo bem... meu aluno competente deve estar animado para me mostrar alguns movimentos dele.
+187|Funciona bem aqui. Ninguém vai nos expulsar. Se tentarem... joguem arcos. Só não ousem parar.
+188|Houve um presidente que disse: "Fale baixo, mas carregue um porrete grande". Gosto de usar isso como um mantra de autodefesa para meus alunos, mas para você, acho que o "porrete grande" tem um duplo sentido, com esse seu pau incrível.
+188.1|Patético. Trabalhe nisso, meu aprendiz. Eu te ligo. Ou não. Vamos, Julius Squeezer, precisamos dar um telefonema.
+188.2|Houve um presidente que dizia: "Fale baixo, mas carregue um porrete grande". Gosto de usar isso como um mantra de autodefesa para meus alunos, mas para você, acho que o "porrete grande" se refere à sua proeza sexual.
+189|Você quer ser o negociador? Eu consigo ver que funciona. Escute, é assim que vai ser: Mantenha o Frank em uma conversa por tempo suficiente para que ele consiga passar por uma daquelas janelas, e eu posso derrubá-lo com segurança por trás. Precisa de dicas sobre o que dizer?
+190|Bem, então você não deve ter muito tempo para convencê-lo. Estamos ficando sem tempo. Bem, conversei com a Ashley, e ela só fez um pedido: Seja como for, não machuque o Julius. Claramente, eu não fiz nenhuma promessa.
+191|Tudo bem, eu conheço o Frank muito bem. Como a maioria das pessoas, a bajulação pode render alguns pontos. Fora isso, seus assuntos favoritos geralmente giram em torno de, bem, Frank. E apesar de ser um traidor, Frank tem muito orgulho do seu trabalho. Se ele achasse que eu estava negligenciando a segurança desta festa, tenho certeza de que se sentiria um pouco confuso. Alguma pergunta?
+192|Isso já foi longe demais, Frank. Não quero te machucar, mas aquela cobra fez algo com a sua cabeça. Honestamente, acho que é o fato de você não estar recebendo oxigênio suficiente para esse seu cérebro já gravemente danificado. Acabou.
+193|Frank, aprendi muito sobre o que acredito, e se isso significa salvar sua vida, aquele espaço alugado é todo seu. Eu me rendo.
+194|Se eu tiver que lutar contra a fera, que assim seja. Torne-se um com... Shao-Leah.
+195|Você tem razão. E esse novo vínculo que formei com essa cobra, devo tudo a você. Não sei se você é mestre dos sussurros ou só do chuveiro, mas esta noite me lembrou que o mundo está cheio de Franks. Idiotas andando por aí com travestis tentando me derrubar e destruir meus sonhos. Depois que aceitei isso, ficou muito mais fácil falar com uma língua bifurcada.
+196|Sensei Frank, que bom te ver. Clube de Foda do Frankie, hein? Parece muito intrigante. Com um nome desses, tenho certeza de que você conseguiu um lugar privilegiado. Me conte mais...
+197|Não, Frank é mais do que capaz de lidar com isso. Me conte mais sobre o seu clube... Frank.
+198|AAAGHH! SEU IDIOTA DE MERDA, eu confiei em você! Eu te dei minha lealdade! E você nunca respeitou minha visão por um SEGUNDO! E eu estou com você: a cobra, a katana... você está tentando me derrubar!
+199|Finja-se de bobo o quanto quiser. O plano dele fracassou, e essa cobra, ela me serve agora. Você pode não respeitar minha visão, mas vai me respeitar.
+200|Você, é hora de provar que pertence à minha nova ordem mundial. Caça Frank. Segure-o para mim. Eu, vou fazer uma daquelas caminhadas lentas e furtivas atrás de você, como o cara da máscara de hóquei. Por quê? Porque eu amo esse novo mal.
+201|Você está dizendo que não quer servir ao meu crescente império? Ouviu isso, Julius Squeezer? Nosso amigo aqui quer a caveira dele para adornar meu novo trono!
+202|Frank, receio que este seja o fim da linha.
+203|Oh, meu ex-Sensei ingênuo... Eu não vou lutar com você. Oh, não, não, não... meu aprendiz vai lutar com você. Não é?
+204|Ele não precisa de um segundo para se perguntar quantos de seus preciosos dentes ele pode perder em batalha. Esse sim é um lacaio leal, se é que já vi um. Deus, você vai esfregar meus pés com tanta força depois disso. Se sobreviver.
+205|Você quer vir até mim? Seu tolo, tolo, traidor. Depois de tudo o que você fez para me transformar, você simplesmente joga tudo fora? Frank, abrace Julius Squeezer por mim e nos dê um pouco de entretenimento. Eu danço enquanto pinto a calçada com meu aprendiz de curta duração.
+206|Isso mesmo, seu corpo e rosto patéticos virariam mingau contra os punhos de Frank. Acho que não posso perder meu primeiro e único capanga ainda. Deixe-me mostrar uma coisa; Sua primeira lição na escola de autodefesa da Leah — sem... autoofensas.
+207|Quando eu estava lá fora, nas sombras, xingando o mundo pelo meu estudo idiota de autodefesa, a única coisa que me confortava era a minha raiva. E o jeito como a cobra fazia isso com a língua.
+208|Nada, nada. Minha raiva era tudo o que eu tinha. Cada multa de estacionamento, cada chuveiro que caía do teto do bar, eu pensava em cada coisa que me irritava... e eu liberava.
+209|É. Encontre essa loucura reprimida dentro de você e libere essa merda. LUTE CONTRA A RAIVA, FILHO DA PUTA!
+210|Eu me sinto... me sinto estranho. Não sei se dormi no meu pescoço, mas eu tive o sonho mais louco de dominar o mundo...
+210.1|Argh... essa coisa toda é simplesmente... não. Sabe de uma coisa? ...Foda-se. Eu realmente não dou a mínima mais. Não preciso provar nada para o Frank, nem para ninguém. Aquela vagabunda escorregadia provavelmente já foi embora há muito tempo.
+211|Bem, Frank, só precisaram de algumas fraturas no crânio para você poder vir. Eu fico com o lugar, mas dane-se essa besteira de autodefesa. Eu gosto muito mais da sua ideia de clube. É... "Lounge Iluminado da Leah". Venha para as brigas sem luvas, fique porque você nunca pode ir embora! Mas você pode ir, Frank. Quanto mais cedo, melhor.
+212|Você me serviu bem, servo. Meu desejo por sangue está satisfeito, mas ainda estou com fome de pau. Sirva-me, se você acha que pode me saciar.
+212.1|Você me serviu bem, servo. Meu desejo por sangue está satisfeito, mas ainda estou com fome de xoxota. Sirva-me, se você acha que consegue acompanhar.
+213|Ótimo, você ganhou alguns minutos. Mas não me deixe esperando... Eu poderia pedir para o Julius Squeezer repetir essa língua.
+214|Bem, eu não tenho tempo para essa merda. Eu poderia hipnotizar minha sala de estar ou demitir os idiotas... quer dizer, investidores do capital suado deles. Qualquer coisa além de esperar pela sua bunda. Eu pensei que você fosse mais rápido do que isso, aprendiz.
+214.1|Ei, eu não tenho tempo para essa merda! Você desviou o foco do prêmio, aprendiz. Talvez seja tudo o que você será. Vamos lá, Sr. Squeezer... ou devo chamá-lo de Língua de Pena? É, anéis de verdade, né? Vamos encontrar alguns investidores... ou outro negro...
+215|Faz tempo, deita, aprendiz!
+215.1|Depois de todas as suas ações hoje à noite, você não consegue tirar a roupa! Vista a calcinha!
+216|Que se fodam.
+217|Não consigo nem esperar 10 segundos para me vestir? Droga. Se você está preocupado com a possibilidade de eu sair e surtar, não precisa ficar. Estou me conformando com o que o Frank fez comigo, agindo pelas minhas costas e tudo mais. Só espere, ok?
+218|Meu Deus, Julius-err, Frank? NÃOOOOO!!!!
+219|V-você só... deixou aquela cobra atacá-lo, e você o deixou escapar! Não... não há honra em você. Frank é muitas coisas, mas ele ainda é meu sensei. Ele era meu sensei? Porra, eu tenho que verificar. Mas primeiro... eu tenho que fazer o que todos os aprendizes fazem nos filmes quando seus mestres são derrotados... vingança completa. De você!
+220|Ei, usuário. Devido ao medo que Patrick tem de Leah, o PeneVR não tem permissão para realizar uma varredura padrão nela. As coisas que eu poderia fazer com seu rosto infantil e sua bunda minúscula se descobrisse que ele se opõe a ela... são terríveis demais para palavras humanas. Em vez disso, aproveite uma sessão de treinamento comigo, VirtuaLeah. Não se assuste. Este é um espaço seguro para aprimorar suas habilidades.
+221|Parabéns, usuário, você é realmente poderoso. Qualquer um que o confronte está em uma situação difícil. Eu me curvaria, mas Patrick sentiu que dobrar as costas de Leah daquele jeito causaria morte iminente. Sinta-se à vontade para retornar quando for conveniente. Desconectando.
+222|Você teve um desempenho admirável, usuário. Há 89% de chance de você ter mais potencial e apenas 3% de chance de ser um fracasso total. Eu me curvaria, mas Patrick sentiu que dobrar as costas de Leah daquele jeito causaria morte iminente. Sinta-se à vontade para retornar quando for conveniente. Desconectando.
+223|Estou trabalhando nisso, Frank.
+224|Esse cara é tipo... quebrado ou algo assim. Já o ouvi dizer que eles são famosos por serem rabugentos ou algo assim, o que soa como uma passagem única para a delegacia de litígio se eu colocar nas mãos dele. Mas você, você é apenas um personagem jogável. Não precisa se preocupar com processos por danos pessoais se eu disser para nocauteá-lo. É só a opinião de um combatente altamente treinado.
+225|Você vai querer parar com isso. Minhas ordens são claras: dar uma surra em qualquer um que esteja bêbado hoje à noite. Será que me sinto como um acompanhante para jovens problemáticos tentando beber e transar a noite toda? Pode apostar que sim, mas estou fazendo meu trabalho, droga. Preciso descobrir se isso pertence ao estoque do Frank ou se vou manter as coisas simples e jogar fora. Só para parar, ok? Agora. E não tente essa merda de novo.
+225.1|Ei, espera. O Frank passou esse tempo todo limpando toda aquela porcaria pela casa, e eu não vou ouvir ele reclamar sobre ter que reorganizar o arsenal ou algo assim. Vocês não deveriam estar por aí com álcool, porque vocês são um bando de filhos da puta do Chuck-E-Cheeze. Essa merda de bêbado que vocês estão fazendo, parem. Parem... e vão embora.
+225.2|Ei! Escutem. Por algum motivo, o Frank me disse para abrir uma exceção para vocês, mas vocês me fazem parecer fraco exibindo essa merda perto de mim. Levem isso para outro lugar, ou vou ter que falar com o Frank sobre o seu "passe livre".
+226|Ei! Que porra vocês estão fazendo jogando essa merda fora? Eles não mandaram CLARAMENTE vocês largarem isso? Cara... e eu estava torcendo para não ter que virar uma lata de Whoopass hoje à noite. Ah, bom, esperanças e sonhos, né, filho da puta?
+227|Ooooh. Foda-se essa merda. MERDA!
+228|Sério? A posição dele está sob ataque? Ah, espera, ele já está envolvido em uma briga brutal? Ele precisa de cinco minutos para uma dança interpretativa relaxante? Ah, deixa pra lá. Mais tarde!
+228.1|Ele não consegue proteger uma caixa de madeira de um bando de fracotes? Por que não estou surpreso? Vou dar uma olhada nele, mas só na esperança de encontrar alguém que zombe dele.
+229|Ai, merda! Merda, aí mesmo! Mais um PLUS pra você hoje à noite! Isso também está bom para você?
+229.1|Não pare, não pare, faça- ohhh porra. Psiu, ei, você se sente bem, campeão?
+229.2|Siiiiii-oh SIM! Me dá, aprendiz. Me dá tudo, do seu interior à sua alma!
+229.3|Mmmhmmhmmwaaahaaa sim mmm me dê prazer, seu brinquedo indigno! Empurra, empurra... sim, sim, oh sim! Você fez algo certo pela primeira vez...
+229.4|Ei, quer fazer algo diferente?
+229.5|Cai fora... o que você está fazendo agora?
+230|Espera aí, o quê? Que porra você acha que é isso? O FeelingsFest e o Hug-a-Palooza estão exaustos, sua vadiazinha. Agora pare de brincar!
+231|Você! Aprendiz! Minha energia sexual está transbordando mais uma vez, e seu sensei precisa de... saciedade. Prepare-se e- Oh, oh não, não... não fale. Aliás, vamos fazer algo com essa sua boca. Certo. Agora.
+231.1|Aprendiz! O que você anda fazendo com esse bando de filhos da puta de terceira categoria entre as suas pernas? Cadê seu orgulho? Todo mundo consegue sentir sua energia sexual minguando. É horrível como... um asilo cheio de incels grisalhos. Que vergonha. Se recomponha e prepare-se para satisfazer minhas necessidades de novo em breve.
+232|Não, não me desculpe. Eu realmente não sei se você me faria parar ou algo assim. Prove seu valor, e então talvez. Talvez.
+232.1|Essa merda soou tão idiota saindo da sua boca. Sai daqui.
+232.2|Claro que sim, tenho que manter a garra. Só fique de olho em ninjas, Karens, espiões, Karens que são ninjas... e aqueles caras do parque de diversões fazendo garganta profunda com essa merda flamejante. Nada é mais perigoso do que um homem sem reflexo de vômito. Onde diabos eu ouvi isso? Droga. Aham, onde?
+233|Ei, espera! Eu reconheço uma pergunta perigosa quando ouço uma, e não vou responder.
+233.1|Sabe, alguns filhos da puta se acham uns merdas por causa do tamanho dos tomates. Mas, falando sério? Os tomates são a parte mais feia do corpo de um cara, e ter tomates grandes não é legal. É nojento.
+234|Não, não. Não vou me envolver nisso. Vejo vocês dois mais tarde.
+235|Cala a boca, aprendiz. E sério, Frank? Não é. Não sei como diabos sou eu quem te conta isso, mas não tem ninguém como você por ter testículos de balão.
+236|Não. Foda-se. Eu nem entendia por que era tão importante assim, e já que o Frank se foi... bem, a festa continua, eu acho!
+236.1|Faça o que quiser. Mesmo que o Frank ESTIVESSE aqui, eu não dou a mínima mais.
+237|Uhhh... o que você espera que eu faça com isso? Não estou mais em patrulha, então pode retirar isso. Eu não quero isso. Eu não faço essa merda. Este corpo é um templo e tudo mais.
+237.1|Tire essa merda da minha cara. Se você tivesse me mostrado isso algumas horas atrás, eu provavelmente teria te ferrado, mas posso te ferrar mesmo assim por fazer eu perder meu tempo. Você sabe que eu não vou colocar essa merda nessa obra-prima de corpo. Você viu minha bunda? É. Foi o que eu pensei.
+238|Que porra é essa? Você está... engessada? Qual é, estou tentando causar uma boa impressão com o Frank, e isso NÃO está ajudando. Não quero ter que te ferrar, então se acalme e fique sóbria antes que alguém acabe te dando um soco na cara.
+238.1|Nossa, você precisa mesmo se recompor. Você SABE que o Frank vai te dar uma surra se te pegar bêbado pra caramba, né? Que sorte a minha que ele não me deu uma surra só por te deixar escapar com uma advertência, mas é melhor você se recompor ou vai se dar mal!
+238.2|Ah, olha você bêbado pra caramba. Acho que eu deveria me importar, mas não me importo... então faça o que quiser. Só me deixe em paz e tome cuidado enquanto cambaleia para longe. 
+238.3|Merda, eu poderia ter impressionado o Frank dando um chute na sua bunda bêbada, mas ele não está mais aqui, então... tanto faz. Parece que você precisa ir para a cama, no entanto.
+239|Olha, eu sei que o Frank abriu uma exceção para você por algum motivo. Não sei o que está acontecendo entre vocês dois para ele estar sendo tão leniente, mas eu SEI que preciso informá-lo disso. Agora, se me dá licença, vou fazer exatamente isso.
+239.1|Você sabe que o Frank não abre exceções para todo mundo, certo? Você tem sorte que eu tenho ordens de não te ferrar agora, mas você não pode sair por aí se gabando da sua embriaguez para todo mundo e esperar que ele não reaja. Vou ter que relatar isso ao Sensei, e ei... este pode ser seu último aviso.
+240|Sério? Qual é. Não pense que eu não vi! Escuta, tenho ordens de não te derrubar, mas pode acreditar que o Frank vai ficar sabendo disso.
+240.1|Ei, você! Só porque o Frank te colocou na lista de "não participar" não significa que ele vai gostar dessa merda que você está fazendo. E pode acreditar que eu vou avisá-lo sobre isso. ...A menos que você se importe de tentar me impedir?
+241|Ugh... isso tudo é só... não. Sabe de uma coisa? ...Foda-se. Eu realmente não dou a mínima mais. Não preciso provar nada para o Frank, nem para ninguém. O Frank está abandonando a sua maldita posição da qual ele tanto se orgulha, e ninguém está cuidando de mim... então vou fazer essa festa do meu jeito. Chega disso. Vou me manter firme hoje à noite, e se alguém quiser me atacar, que seja. Aquela vadia escorregadia provavelmente já foi embora há muito tempo.
+241.1|Hmm... droga. Eu provavelmente precisava do Sensei Frank hoje à noite. Ele está sempre certo... Espera... talvez isso seja um teste! Deixando de lado as preocupações com a segurança e focando nas próprias necessidades, você está me dizendo para deixar o destino tomar conta de todos hoje à noite? Se ele consegue dizer "dane-se a segurança"... Acho que eu também consigo! Ou pelo menos, posso tentar. A cobra provavelmente já se foi há muito tempo, então provavelmente estamos seguros.
+241.2|Hmmm... droga! Ele provavelmente precisava do Sensei Frank hoje à noite... aaaah, o que eu vou fazer?! O Sensei Frank costuma ser tão tranquilo e controlado! Foi tão assustador vê-lo tão exausto. Merda, merda, merda! Agora que ele se foi... Acho que não consigo lidar com essa coisa da cobra sozinha. Bem, a boa notícia é que a cobra provavelmente já se foi há muito tempo.
+242|Não. Eu... Acho que terminei com isso. Grande parte da minha motivação para fazer isso e das minhas ideias sobre como abordar a situação vieram do Frank ou dos seus ensinamentos. Não tenho certeza se você algum dia entenderá o quanto o Frank me ajudou e me guiou antes desta noite. Simplesmente não estou com a mente aberta para isso e quero voltar para a festa.
+242.1|É, é. Acho que terminei com isso. Acho que não vou usar os seus ensinamentos esta noite, Frank. É hora de voltar para a festa...
+243|Eu? Estou me fodendo. Mas o Frank voltou para o seu touro, então eu tomaria cuidado com ele.
+244|Não, estou bem. Meu coração ainda está acelerado depois de toda essa excitação de antes. Não precisa de uma dose de açúcar depois disso. Obrigada, no entanto.
+244.1|É a intenção que conta como aprendiz, e isso... não conta como quase nada. Parece que estou com vontade de doces?
+245|Vocês, mortais, querem me foder? Na verdade, vou foder vocês dois e usar vocês para o MEU prazer. Parece muita coisa para aguentar? Demais! É melhor vocês dois estarem prontos para entregar, porque ninguém me faz promessas vazias! Cuidado com o que você deseja!
+245.1|Ele não conseguia ficar longe, não é? Bem, provavelmente é melhor se você viesse de boa vontade, caso contrário, isso teria sido um pouco diferente, porque eu estava pensando que era exatamente disso que eu precisava. Vamos lá. Agora.
+246|Você quer fazer um ménage à trois comigo? Porra, eu nunca fiz isso antes. O Frank me disse que ia ser uma festa maluca, mas eu não esperava por isso, e é por isso que eu só usei essa calça de moletom velha e surrada para começar. Vim direto da academia. Que droga, eu provavelmente até cheiro a academia.
+247|Ah, agora eu sei que vocês estão só brincando comigo. Essas são minhas roupas de ginástica, não lingerie sexy. Acho que vocês dois estão com um pouco de sede demais. Tenho certeza de que vão se divertir juntos. Só que não comigo. Obrigada pela oferta, pelo menos.
+248|É, eu já passei por muita coisa. Obrigada por me lembrar. Minha cabeça está girando agora. O que significa que eu provavelmente não deveria tomar decisões como essa. Escuta, eu agradeço a oferta e o elogio, mas ainda preciso de tempo para processar as coisas.
+249|Cai fora, eu não cheiro tão mal assim! Limpar a bunda com uma lixa seria mais suave do que o que acabou de sair da sua boca. Vou indo antes que você comece a me irritar. "Você não cheira tão mal." Seu babaca.
+250|Hmm, nunca pensei nisso dessa forma. É um bom ponto. Li que sexo queima mais calorias do que correr. Quer saber, foda-se. Eu topo. Espero que vocês dois consigam me acompanhar. Estou prestes a tirar a roupa e malhar!
+250.1|Claro que sim, ainda estou interessado em transar com vocês dois. Vamos lá! Uau!
+251|Vocês dois perderam uma reunião ou algo assim? Por que diabos eu iria querer me juntar a vocês dois, seus babacas, para qualquer coisa, quanto mais para sexo? Vocês têm uns 5 segundos para calar a boca enquanto eu vou embora e reprimo esse pensamento, para começar... começando AGORA!
+251.1|Uau, o Frank não estava brincando quando disse que essa era uma festa maluca. Não é à toa que ele quer impedir vocês dois de beberem. Vocês vão se matar se ninguém intervir! Escutem, eu gosto de vocês dois, então vou fingir que isso nunca aconteceu, mas... tentem ler a sala um pouco melhor da próxima vez.
+251.2|Hã... não. Passo. Vocês me deixaram animado com essa merda mais cedo, mas conseguiram estragar tudo com o jeito que vocês estão agindo. Ééé, não vou aceitar nenhuma desaforo até vocês começarem a agir direito.
+252|Vamos, vistam alguma roupa. Ninguém quer ver isso.
+253|Estou sendo chamado pela recepcionista? Acho que posso dar uma pausa na minha rota depois desta parte. Só não contem para o Frank.
+254|Nossa! Tem alguma coisa louca acontecendo nesta sala agora. Vocês não foram sequestrados, foram?
+254.1|Não sei o que diabos está acontecendo nesta festa, mas vocês estão metido em umas coisas estranhas. Vocês não podem transar regularmente? 
+255|O que é essa festa em casa e exposição de arte? Nunca fui a uma festa com exposição de arte antes. Vai ter leilão mais tarde ou algo assim? Tanto faz, tenho certeza.
+256|Ela é a loira, né? Ela estava lá em cima, no estúdio, da última vez que a vi. Parecia toda triste e tal. Não consegui falar com ela porque estava em patrulha.
+257|Cabelo escuro? Cerca de 1,50 m? Ela parece que consegue correr uma maratona? É, eu já a vi por aí. Eu escuto bastante enquanto ela está em patrulha. Ela parece estar se esforçando muito para ser incluída. Ela é nova no grupo e está tentando encontrar o seu lugar, sabe?
+258|Olha, garota, vou ser sincera com você. Acabei de conhecer essas pessoas hoje à noite, e a única coisa que posso dizer com certeza é que elas são todas malucas. Se alguém está a fim de alguém nessa festa, precisa fazer um exame de consciência.
+
+[Responses]
+5584eb57-f838-4116-bb56-867565c91f69|Sensei-triplo D? Ah, é! Quer dizer, eu o chamo de Sr. Passas, mas, ei, faça você mesmo.
+a31e44f9-b95f-4288-8d53-54e32a6a0d4b|Então, nada de "Sr. Passas"? Tudo bem, eu fico com essa..."
+32c5670e-f3ce-4b18-ada4-3289d1179a9a|É, exercícios de língua! Quer dizer, é bom para fortalecer a língua. *TIRA AS CALÇAS* Acontece que eu tenho o jeito perfeito de aumentar a resistência.
+53479496-4c4c-43ba-93e1-8893def45e5f|Calma. Então você vai me comer, né? Posso dizer que isso é lição de casa?
+c0ae31d7-aec4-4e1c-85b2-0dabe98c191d|Eu não quero morrer virgem!
+e436ba7d-fcac-4e53-8765-e8012481384b|Sim, senhor. ... Ah, isso não foi literal. Entendido.
+fc67c213-bad0-4675-af33-51c800690472|M-m-mas... alguém, uh, fez cocô no micro-ondas!
+57e48dca-3fcf-4775-88e0-c4284e4384b5|Bem... porra. Eu duvido.
+6b5b6bee-c170-4e9f-8b02-0422a2b93130|Você tem? É, quer dizer... você tem!
+992fa833-d6cb-4b31-bf00-d396a36a9665|Nunca pensei que ouviria você dando desculpas para não fazer nada... mas Tanto faz.
+512afb76-77bb-47b3-9cce-fcee1c815262|*Continuar*
+e287feaa-4192-411a-8edc-91678bab9d54|Gosto de onde sua mente está. E você... hã, deitada, amor! (POV)
+7515dd6d-7091-47ba-a05b-54352219024a|Só me beija. Me beija agora mesmo.
+390c1eba-ca36-4ed7-bcbc-67883dc6b7fa|Tenho que experimentar essa boceta. Fique à vontade...
+66ebdf09-8ad3-4c13-809c-594c57433c65|Você poderia me dar uma enquanto?
+116dadbf-b2ce-4891-a156-4d5b75487860|Sessenta e nove! Vire-se muito rápido...
+a3793253-da63-4c34-a893-c073dd8ebd61|Merda, sim. Isso é... você é incrível! Não pare.
+9c14f9d4-ffd2-4811-8c33-de85245311da|Eu vou... Estou quase lá!
+3b81c716-9ee5-4120-9e34-f330adf636eb|Está tudo bem. Eu... Vou continuar fazendo isso.
+f3aea0bc-641f-43e7-a2aa-34448fb02e92|Ah, droga... desculpe, eu Não consigo me conter... Me desculpe!
+835a9b56-ff64-4461-8911-e3d6404654f8|Droga, o saque dela é-deixa pra lá. Desculpe.
+7b0c40d0-6fe5-4750-90e5-18843617d0b2|E-uh... agora estou bem, mas-MFMFFFRRRFMMMRRR!!
+dd6923cc-67f4-4e5a-8b40-4f9cede2d69f|E-uh... agora estou bem, mas-MFMFFFRRRFMMMRRR!! (POV)
+b753d3b4-98b5-4596-9e91-dbeacf749181|Essas porras estão em excelentes condições! Novinhas... mais ou menos, eu deixo você sabe!
+4d0f001c-70e1-4247-9774-9a84302375ce|A cozinha. Preciso garantir que não tem merda queimando lá dentro. Ou qualquer merda, na verdade.
+d1fce1a7-7a8c-4d93-9386-b5c046444b52|Vamos lá para cima. Provavelmente o melhor lugar para assistir aos ninjas da garganta profunda.
+59271ede-a7c0-4e28-8eed-fdf311ec7b4e|Lá fora, perto daquela árvore no quintal. Acho que vi uma Karen nos espionando por cima da cerca!
+a8739efa-6914-4d20-8582-7aaec36440b9|Vamos esquecer... tudo isso e encontrar um lugar para dançar. Parem com isso Música!
+749c35e1-0ab6-4c93-9f67-89c284ddc7eb|... Deixa pra lá. Frank precisa da sua ajuda para proteger a bebida.
+4190470c-4ec3-40d2-ad87-680d99cce08e|Ah, continue nervoso, ou algo assim, sozinho por um minuto. Eu tenho algo para resolver.
+da6c85d0-398e-46c7-acb4-b4005ccb68e5|Eu te li em alto e bom som.
+343fa2a7-b387-4c1b-822c-1580e2875b67|Ah, qual é...
+d9341919-60f2-41e4-a28f-b10d3debef66|Direto ao ponto. Obrigado, Professora.
+9d922c68-61d4-4348-9334-5525561d0458|Ótimo. Acho que não vamos receber uma resposta dela.
+46603982-fb73-402c-a8e6-275070e12d03|*Acena com a cabeça, mantendo cada uma das suas bolas fechadas*
+482e0cf5-7955-4a66-b6f1-ed25df62bb36|Ótimo.
+5e1196ac-8203-4762-a635-25f5b6a64b47|Ótimo. Mais para nós, então!
+091b4f26-712f-4b43-aaf2-9a6368e02f43|*Socorro!* Anotado!
+0ae9de95-3509-4bd5-9b20-1625d8150137|*Arroto* Valeu, amassador. Espremedor de batatas. ... Mmmm-m-m-amassador. Ha!
+084c97b4-62d9-4f7c-aa87-efa3b9b9522e|Sou muito independente *Soluço!* - Não preciso do seu... hum, sofá. Foda-se o seu sofá!
+277719bb-1adf-4648-9295-fee8a30018e2|Psiu, tenho certeza de que o Frank vai ficar bem. Com certeza!
+74b68c91-26d6-4db8-b722-33d7909ef4aa|Argh. Faça o que tiver que fazer, eu Acho...
+75396ae6-0c4e-4edb-8216-aca9b04ee15a|Bem, uh... tá. Tem certeza de que não quer nem dar uma chance a ele?
+bef2b3a2-5c68-4920-adb8-1ba50d5b27eb|*Continuar*
+9d8deb57-5757-4953-b37c-d0d4b4ce98c4|Tá, bom... te vejo mais tarde.
+ad69b456-1f5c-4375-b8bf-8e63913aca05|*Continuar*
+6c2831ad-f2b4-45f4-95a7-1df49fb85e6b|Obrigado, Professora.
+aad9b717-08a6-4d4d-87d9-cb07830a167d|Que boba, o que eu estava pensando...
+1726c69b-e6a8-4e39-bf32-a5246ccb86f6|Entendo, sem problemas.
+0174a45b-a7bc-4b3a-9e9b-38fb7e84eee3|... V-Vickie?
+256f4a84-c3c8-48d8-94db-dab7dbbedbc9|Você cheira muito bem e está linda com esse moletom!
+e024ff3c-eb9f-47c9-980b-a95634fa9c04|Você passou por muita coisa esta noite. Só queremos te ajudar Relaxa.
+712c27dd-3140-4e17-82ac-72c94e185b53|Você não cheira tão mal assim. Nós vamos permitir.
+79d2c6cc-38cf-4434-a8f9-c41c5e727b9e|Sexo é um bom exercício. Considere-o apenas um treino extra.
+88c0c048-a611-4016-81c8-1beff727e192|Espere aí! Tenho algo muito importante para resolver. Tudo bem, Vickie?
+7be6f12a-3076-4db0-bc9d-66ca76988e3b|Bobagem.
+36a7cb4c-9fd0-47ce-98ad-fbe17e841dbe|Desculpe...
+90d7a6b6-f7fe-4670-a980-93b636cb8c83|Desculpe! Droga.
+6bdd3335-80e9-4b34-b0b2-3a011035a90c|Claro que sim, estou pronta! Vicky?
+0848e4e1-cec9-456d-b0d5-bf688347edba|Ok, nossa... culpa nossa.
+06efa910-b9db-4e35-9a90-c59ad16eceb1|Obrigada, Leah.
+40552849-88f6-49f3-97cd-ccd3597f78b0|*Pegadinha bem-sucedida!*
+81821896-1de6-4247-af19-04c03dd37023|*Continuar*
+5d14fb32-27a3-406f-a8cb-5d61921faec9|Acho que você vai se divertir com isso.
+19742f19-fa6c-4d5b-8d50-3037b13f7eff|Obrigada, Leah.
+5d28c4e9-4e5e-45d7-9c4f-3688dab78bc3|Obrigada, Leah.
+7073c4c3-c7b5-47ec-ab50-03dd7559ca4b|Leah! Estou procurando ameaças, mantendo-me alerta e toda essa merda. Quer explorar comigo?
+9e004590-0c05-4432-a669-001c7cd07bc8|Você pode me dizer se prefere pênis grandes ou bolas grandes?
+961aaaeb-d4e2-4b2f-b689-6f90d2fe60e6|Frank saiu do prédio. Você se importa se algum de nós ficar bêbado agora?
+78d50c94-aed7-4955-8624-2648cedd8652|Mestre, você me permite uma bebida agora?
+41648e01-123d-4b1a-a7e8-fe819696cb89|Madison disse que precisava de você quando tivesse um tempinho. Ela está lá em cima, no quarto dela.
+274f2d4e-2be1-442e-8cd1-de5665279f67|Madison está organizando uma exposição de arte no quarto dela e achou que você deveria vir ver.
+267177b0-2812-4097-9dcf-3b702b51f420|Você sabe onde está Brittney?
+83205233-7e95-4ad2-93fb-e481492b26ef|Você teve notícias da Amy?
+f0092c91-9b57-4f2f-a4c8-91504b358940|Você sabe por quem a Brittney tem uma quedinha?
+b216e930-a92a-454c-ad73-b4959a22a6cc|Eu... acho que sim. O que foi aquilo... Sensei Frank?
+9b930143-ddc4-4a20-be9f-3581d034a35b|Nossa! Entendi, percebi. Espera... desculpe, repetir a parte do Frank de novo?
+9c5fe58f-b200-40e4-9c00-dd3919f0e8ca|Não! Eu... não sabia que o Frank tinha um dojo. Estou impressionado.
+f120f4d8-adeb-49f3-aafc-1ec84da3bd15|Nada... Só não tive o prazer de conhecer esse "Sensei Frank"!
+07bf8a37-dfd4-46ec-aa8a-4c8f10eedd51|Ah... tá bom. Tchau, Leah.
+8b9bbedc-c5be-4449-b0a8-fe731691bd1f|Tá bom, tá bom, desculpe!
+3cc75f8c-c03a-4dff-9a4f-628bd235c239|Tá bom, entendi!
+11c7a2ad-099a-4006-ae8f-f8d6c398377b|Preparem-se! É... por que estou me dando ao trabalho?
+23e98e30-e66b-448d-8e31-78e1bcc9960a|R-E-S-P-E-I-T-O... Eu até que poderia usar uma meia para isso...
+8d666f28-514c-4dc4-87b5-e27f55897686|Que bom que você está gostando do show.
+e19859e3-0c98-4fc1-991d-6018d0dd4e4b|É um privilégio, e com certeza... espera... o quê?!
+82a63406-f7bb-4ef4-a9b1-78b23983508a|Te vejo em alguns segundos, então. Horas. Algumas horas.
+77c97caa-1572-43c0-9529-7a78e503e650|Quem você vai chamar? Nut Busters! *Cantarola o assunto... vigorosamente*
+790147e3-bcbf-468e-be0b-0b9efd3908f9|Merda!
+5bf3f70a-e579-4e11-b602-075bd583cde1|Acho que seu trem da tristeza está um pouco atrasado... mas espere, espere...
+fd90ad0a-eda8-4c72-a962-4bf36736de22|Pobre Frank...
+93757319-1aa2-414e-b905-0721408167c5|*CONTINUA*
+a4210fe1-f8e6-43a6-b1b9-7d33dfeb89d2|*RECONHECE DESCONFORTAVELMENTE SUA CELEBRAÇÃO DA VIOLÊNCIA*
+07a5df9f-d73e-4c15-81ad-2677c894949b|*DESCONFORTAVELMENTE RECONHECE SUA CELEBRAÇÃO DA VIOLÊNCIA*
+6472d998-c54c-4e71-9a24-54f979229708|Tá bom, tá bom! Desculpa, Leah.
+d6aad8ed-6492-48c2-80b7-271bfe8fa270|É, ei-, sabe de uma coisa?
+abd35045-0994-4f02-98f6-3cc45cfe5397|Perder o quê, seu sutiã? Heh.
+974d56b9-87aa-42b4-9ff7-ca3492973cf3|O máximo que você sabe? Ah pu-
+ce6d7491-3a9d-4410-9d8c-99fc171dd016|Na verdade, posso ter exagerado em algumas partes dessa afirmação. Tipo, entrar numa briga...
+59c23162-31d0-4d06-a3a0-18a6a5f5aa2e|É. Eu consegui.
+ca839ee2-cb8d-455c-bd49-14fc1f8774ac|Ei, isso foi muito foda!
+b77e318f-205a-42b3-a67f-d985c9e11fa3|Não, não posso revelar meus segredos. Nunca se sabe quem pode ser o oponente um dia.
+52218689-56a8-40c6-9f28-e51f19e8c6fd|Sim, vou te mostrar como projetar um templo desses e, se tiver sorte, a melhor maneira de usá-lo.
+1592ffd9-04ec-4861-9edd-a5b0ef432769|A compaixão é o coração da força, hein... Joaninha. Vá refletir sobre essas lições.
+ec7b1070-956a-41f0-a12a-cee8bd4174af|Essas nádegas... boas para socos, quero dizer.
+76d3a904-a8e9-4538-bf48-7a634a369f9e|A energia flui pelo núcleo. Essa é uma pergunta rudimentar, aluna!
+1ce943ed-9c8a-41c3-a413-34dc809d50d6|Seus quadris darão força aos golpes monumentais.
+a4edf537-32d5-4a83-b818-27e7aedd40bf|Preciso me familiarizar com cada aspecto da fraqueza dela. Vire-se e dobre a cintura.
+5c9510be-ac23-44b5-8540-7f7c7798dae7|Agache-se mais baixo do que nunca. Esforço supremo! Sua beleza não vencerá lutas... se esforce!
+75c38f77-ac70-452b-8b6d-aa4abd88b122|Deite-se de costas e gire os quadris de um lado para o outro. Vigorosamente! Você não pode ignorar o que já é um trunfo!
+1965b6ae-975b-428e-8236-4c16027dc128|Ajoelhe-se e deslize no ar. Isso definitivamente te deixa em forma rápido e tudo mais.
+127e5b3a-53de-4acb-a26f-31ee040c8221|Sinto sua familiaridade com esta lição, mas não seu comprometimento. Mostre-me o seu melhor... "Burpee do Exterminador do Futuro"!
+061ef693-db9e-4092-a74c-64355780d058|Deite-se de costas e se mexa como o verme nojento que você é.
+57c5e786-43f8-4455-8292-9cf264f061f9|Espere... gafanhoto, ah, foda-se.
+d7e7c966-c024-42b4-b6cd-4e34bdf4c305|É sempre inteligente alongar-se antes de qualquer atividade extenuante. Mãos para cima, depois para baixo... Não pare até tocar os dedos dos pés!
+e20b89d1-3ba9-438a-9443-979a74d27c55|Você precisa praticar a agilidade e aprender a se adaptar. Mostre-me como seu corpo consegue alternar entre formas opostas.
+b0181559-d155-4bec-bbdc-e946fc898f4f|Essa atitude desagrada seu sensei! Continue como o, uh... estudante insolente que você é!
+d05e4d12-6918-4b2b-95df-dc3f207f6556|Sim, proteína! Quer dizer... encha seu corpo com ela. *CALÇA RÁPIDA* Acontece que tenho um estoque suficiente para mim esta noite...
+ac949d1c-147c-422c-bce5-d4144d604e6f|Esforce-se constantemente, porque, muitas vezes, somos nós os nossos maiores inimigos.
+dea33080-66ae-4a78-a6bc-ebdd057ba4f3|O que você está sentindo é, uh... excrementos de puro sucesso! É picante! AH, mãe!
+14fbebc4-90f9-4130-ae0d-4706ffd140ee|E... que a paz esteja com você.
+0bc3ec2b-6182-42d3-9959-10489293c32b|Legal. Então, você vai me estragar, né? Posso dizer que isso é lição de casa?
+38404673-4a2a-4dc7-bda2-2f1182e73439|Eu sei, eu sei, eu não fiz Kung Fu Hustle muito bem fora do modo professor. Não é todo dia que eu consigo fazer isso.
+6362d906-1b1d-4372-b917-6c9b706058e6|Droga.
+d0bf24be-6773-454f-a1e2-daae41d2d93a|É, eu treinei para este momento.
+ed04b0ce-3f63-4748-b8bd-7ea80abc8703|Um grande professor é um aluno para a vida toda. Estou pronto para a demonstração deles...
+c55d637e-f135-4c23-b4ee-11a62dbe602f|Te vejo por aí, Leah.
+80484fcd-6656-4d62-9bb3-40673a1ee7a3|É, eu corro muitos círculos ao redor do grande oval do ponto mais alto central...
+6ebd131b-e33e-4a31-8b12-2bfa05d3261c|Curtir isso. Preste atenção enquanto eu canalizo meu Edward Honda interior...
+03ea8974-5224-449b-b756-cb79b4a03cf0|Mas... é central! No meio de tudo, tipo, seu núcleo e... CARAMBA!
+bbc915af-73d3-463d-afc2-498f4bb2511a|Eu reconheço esse privilégio. Vou até estender os braços para trás, para velocidade máxima.
+46b765ab-926b-4f06-bc3d-7c576b769e3c|Merda.
+5e756b06-1eb5-4250-a501-2cf4303d9220|*Continuar*
+0d5bc07c-40bb-44af-9de1-56d834313919|Eu também tenho uma demonstração... DE QUÃO RÁPIDO EU CONSIGO SAIR DAQUI!
+b243669e-b051-4d7c-bb14-4c83334741fb|Eu também tenho uma demonstração... DE QUÃO RÁPIDO EU CONSIGO SAIR DAQUI!
+b3435bc6-0b9b-48db-b560-61aa359f1f4e|Nossa, obrigado pelo treinamento! Você é um ótimo treinador!
+d7a18f87-c556-4428-b213-f2813db99e42|Não quero morrer virgem!
+4ba5182d-8605-4f85-b65a-2768c1d05221|Entendo perfeitamente.
+10623811-bdc0-4ff0-a1ae-d8dca1c0e9db|Uhhhh... os vagabundos.
+b9df4401-1eba-4c4d-95cb-b80a40a1c855|Todos nós queremos que o Derek tire a camisa, e ele só fará isso se houver assinaturas suficientes nesta petição.
+7f132aff-eb88-4379-a357-d0cf1d8e9d08|Merda...
+a29b3f4b-f7ce-45e1-83a7-cbbbd220f1f9|Princípios são importantes, especialmente quando se trata de cocô.
+8b145323-8487-4151-b29c-0111c6566ae1|Adorei, obrigada!
+785bcdd0-ce8b-4c84-8d13-956042ef86fe|Obrigada mesmo assim.
+220bea15-2d64-4882-aec8-3245149a2d66|Ah Rapaz...
+5cda282d-d8a3-4fd5-b969-ffac6e58f325|*Continuar*
+e56fdd57-8446-4991-a31f-5a625de6b2d4|*Continuar*
+b61ff92c-c947-49fa-9fcd-46311b517787|*Continuar*
+5472b6e6-df35-4a8e-ac13-22b035dc6e37|*Continuar*
+00845644-57b7-4456-8e47-991f34d228ac|*Continuar*
+e0cfc622-c9ef-4a37-9ea6-df9346cb61f9|Isso foi um verdadeiro remorso, certo? lá...
+5490140f-ad65-4a16-8eac-7ca4a53908eb|Escorrer pela economia?... Oh. Merda!
+d5de6c1a-5bb6-41c8-97f8-fb4f4bebab29|Sua lealdade não tem limites.
+d159be2c-38ac-4078-98f2-2830ee692e76|Sua lealdade não tem limites..
+8428cfc5-0290-49be-99e2-55f918fda1ac|Tem uma cobra à solta!
+b8e6428f-9a84-43ff-9e73-5dbf79654820|Alguém cagou no micro-ondas!
+ee8cae06-e297-457a-a84a-adaad54efc5e|Alguém fez cocô no micro-ondas!... De novo!
+23fa419c-f384-422b-a1f3-6017decc80b3|Não importa, ele se cuidou.
+4bc4a172-4978-411e-8046-72956ee64aec|Não importa, ele se cuidou.
+fcc0d39a-0369-42ce-8156-0b706488f734|Sua lealdade não tem limites.
+8d8d640a-908d-4b00-89d4-8b338a6023c4|Temos que agir agora! Não estou tentando ser engolido... Bem, não por uma cobra.
+9e7eaf67-b6a0-4370-bc11-577b465ecbd8|Vamos lá.
+89f6aa3a-70d1-4f2a-99f1-32b6cf752525|Um psicopata, é isso.
+70078f9c-adf3-498c-add6-d5449fdb1fde|Obrigado, Leah!
+8fbd40d5-c282-4eed-aba1-a269976ea45f|*Escute*
+88092689-24d1-4d5f-a957-3001433297d8|Vai ficar bem instável lá embaixo se não encontrarmos aquele desgraçado!
+b1f8e36f-8623-46a0-89c6-b46feba36ffa|*Continuar*
+4275dada-1514-43d0-bd11-89539e31902d|*Continuar*
+558ab07c-f8c1-49fa-8cb1-6ef8812b91ad|Ah, que bom saber! Obrigado!
+d2bc875e-6033-4e61-b6db-0e4ee0f6962b|Bem, droga... obrigado pelo aviso.
+139d6a6d-37a6-49f9-b1d1-7dd3772729f6|Às vezes é preciso decifrar um código para acertar com o seu.
+d097aaa8-e29b-4ac6-81ee-fa6442b5e8a5|Não é dever de um aprendiz se rebelar e derrotar seu mestre? Frank é fraco; prove isso capturando esta cobra.
+7d0d6829-632a-435c-81c9-92e38edb6320|E assim nasceu o Código de Leah.
+9b75f0a2-abe3-45ac-b6e7-87e13bd19dc4|PODER Ilimitado!
+3bfe5418-c285-4f98-a005-82b1f3d86181|Então, você quer que eu compre uma lanterna?
+29e0a388-d040-400c-99a7-f14523740f8e|Não deve ser muito difícil.
+b4fd2f09-6c56-49b3-9a7e-7fa4526267f7|Droga... ei, volte para nós!
+d6875d2d-6bb4-4363-862a-b0288d2d5b8b|...Eu peidei.
+062823f0-a544-4178-934b-bdb197de715e|Meu amigo Bobby pegou... e nunca devolveu. Ele disse: "Simplesmente não existem celulares suficientes neste mundo."
+af15d825-70ae-482c-baea-1531a88846cf|Deixei cair no chuveiro enquanto tirava fotos de pinto.
+fc352eff-46be-4b89-a496-6148b1b6400c|Grito.
+e44d669d-7c2b-499a-9101-11982436055f|Não posso dizer mais nada...
+3ab34452-c20d-468b-ae81-f4d6ea3d9f7b|É... Estou muito envergonhado com isso.
+3837ea43-8067-4991-8c35-477d46b64b0d|Não me importo com isso.
+f67d0977-adc2-4432-9d97-41400c298ffc|Nossa, parece interessante.
+43e30927-111b-4aa9-847a-5e2519b44538|Contanto que eu esteja ensinando autodefesa, e não "Noções básicas de intimidação", estou lá.
+34c85434-e610-4569-8f78-8df52a4b6452|Foda-se a autodefesa, me ensine a arrancar os dentes de alguém e eu estarei lá num piscar de olhos!
+79a882d7-92c3-4608-b888-2c2dacc9fdc4|Arigato.
+14b1c580-7fcd-4fad-8240-c8e29c57a115|Só dizendo, eu quero chutar uns traseiros!... É isso aí!
+9d5461fa-b160-4313-8720-03c505e44759|MINHA. ANACONDA. NÃO... ugh, foda-se.
+06aa579b-0e1e-4567-8845-20f7df8eda7d|Droga... você parece irritante! *Risada*
+9261fda8-f263-42ad-8031-9a8a7e054709|Você disse... noz?
+6f536568-093a-44bb-86d7-76526730fdd5|Sem problemas!
+fda33bb2-bf17-4a53-a8e2-c162aff91728|Espero que eu *não* precise.
+b0d70c7a-e33c-4f50-80c4-44f962f2fa44|Vamos lá!
+6edb452c-847e-43d7-b2d6-0c35810a2dd3|Hã...42?
+b16fc045-bfc6-4e67-9537-842cebe94bab|Ok, estou cuidando disso!
+69bb5ed4-39d8-4d5d-bffc-07bd83212f81|Nojento, mas provavelmente correto.
+f60ceaf0-80a1-4b2e-a121-4fbf3d9f38e8|Ops! Desculpe!
+3ca34b93-4940-447d-ac69-4455d24f4cb0|É melhor ter algum tipo de recompensa por isso...
+ea20d5bc-fff7-4bf1-93a6-af8aac7b74ca|É, e ele se move. Eu... nem vi.
+3bf29baf-6989-48d7-9f62-419b079058dd|Em minha defesa, esta é uma situação MUITO tensa!
+d511e737-a3e4-442d-838e-63fa9b2091ab|Como posso ter medo de alguém como você lutando ao meu lado?
+1e0b00a3-c103-49b8-9065-50395d0a1709|Você estava gritando muito alto e não me disse para onde apontar a luz!
+f38bb066-36bc-4ec9-9699-fd58eeeb9e61|O que você está dizendo?
+a2071f41-81e4-4f18-a508-58d034630a21|O que você está dizendo?
+9df5e085-a90e-4f3d-89c0-cc591c0706a8|O que você está dizendo?
+f06ab3ce-7cbc-48cf-99e9-0b30bad20be0|Tudo bem! Vou ser mais rápido com a lanterna!
+5a0345b4-906d-4264-bc6a-f9296c1a5504|Uau, uau, uau, eu não quero brigar!
+be6690e4-3b06-4b35-9d87-2bab6fe22571|Bem, se você insiste...
+ec251747-0329-4b1a-b20f-e63515b9835a|Eu claramente me sinto intimidado por mulheres fortes, ok?
+99530627-0055-45ed-8389-d5f4e57ac0d1|Posso pensar em outra atividade que seria duas vezes melhor, com a mesma quantidade de suor. *Piscadela*
+346d2e96-028f-400e-be03-4647567e9cb6|Você nem estaria trabalhando no fim de semana!
+f610903f-e8b8-40fa-99b5-380eee961dff|Suei bastante, vou me secar. Talvez ver o que mais está acontecendo. Mas já volto!
+c8ce0387-db66-4aa3-9d64-1acba172c1b7|Estou pronto! Vamos perseguir esse desgraçado até os confins da Terra!... Ou pelo menos até o fim da propriedade.
+d29a2fd6-480f-4597-8b14-5edcccd726b5|Meus braços não estão tão moles assim...
+9cdb3345-e1bc-472f-9c37-9685c536ba1d|É mais como uma situação de "fuga do quarto da Ashley".
+7da9ccd5-6131-46f1-839b-1e8ea41aeb52|Bem aqui.
+90428c1e-57eb-4019-8fa5-27272aaa7ec8|Pensei que ia te pegar desprevenido...
+47b742dc-16c5-47ca-ac2f-a692fd6779e1|Acho que você está se lembrando errado.
+688b9e8d-4cea-494e-8ab5-32781f299c10|A culpa é do Rotary Club, talvez da Associação de Moradores. Então, qual é o nosso próximo passo? Vocês ainda estão procurando?
+414c78d4-6b27-457a-a12f-916243bf097d|Alguém queria que a cobra tivesse liberdade para viver a sua vida!
+c8380b74-8b8a-4850-bf39-35b4843afc1a|Alguém quer derramar sangue hoje à noite... com DENTES.
+b7269889-59b2-43bc-971f-7309f09b7b83|Eles vão cantar canções da nossa vitória aqui hoje à noite.
+c9f2725b-ad9f-4b44-964b-c5a397c093e1|É... seria incrível. Ei, vamos continuar procurando aquela cobra!
+4cb13474-437c-4021-9fbe-2f25426d020a|Nossa, você está realmente se metendo nisso.
+993dbee2-ac8e-458e-aba2-5ffdcbd3e264|Certo. Então vamos encontrar essa víbora logo!
+c8ac1cc7-e631-46ea-a495-0016545791b0|Ah, merda!
+6b129427-55b6-42b8-a6a7-c4b8e55ca7ad|*Suspiro* Por que eu tenho que procurar coisas retorcidas em lugares escuros? Tudo bem...
+b8a3ab3d-d0b8-4b94-a28e-1d6ce0180165|Resolvi este mistério! Não há nada de extraordinário ali, e definitivamente não é uma cobra.
+1c3cb897-9127-4071-a4ce-e74db734fec1|O chiado estava mesmo vindo daqui. *Entrega a lata de spray*
+ffc9820f-a412-4782-95a8-84ca02d9f2c2|Merda!
+06d02e48-6d87-439e-aabc-a82b6830b8d0|O chiado estava vindo daqui. *Entrega a lata de spray*
+384f219f-0dff-4229-93fa-5a4502e9a98b|Vou fazer isso, porque eu sou um menino grande, droga!
+671b43a7-f491-48f0-8163-8f1e4ba160b7|Devo estar usando calças de menino porque isso me assusta muito...
+6b2bcce5-b79e-4a72-881a-91d1098a15b7|O chiado estava vindo daqui. *Entrega a lata de spray*
+0e81a241-9469-4ae9-b031-6450489d9fd1|Pode deixar!
+3ba92241-9cf8-4751-af5b-a95127098f38|Tudo bem...
+7e9e0349-6ec9-42bc-adbc-fc64dbd56a85|Céus, céus, você está com veneno na cara toda!
+94428510-95f9-4f86-9340-105e40b4241f|Ah, bem... ficou ótimo em você!
+f9f27979-0403-4b4c-8b7f-da8bff84d0ba|Simplesmente não podemos vencer!
+33a15e1e-1897-4991-aed5-d007bab78e95|Obrigado pelo voto de confiança. Para onde olhamos agora?
+05ac0875-c173-4d82-ac1e-0d52d343233a|Você não precisa se preocupar comigo. Enfim, para onde olhamos agora?
+658b6ec7-aafe-49e6-8f10-6b63f05514d9|Vou tentar não te deixar tão louco!... Certo, para onde agora?
+a07b6cd7-8e10-41cb-9531-30a76ef39cae|Vamos lá! Siga-me!
+7531baaf-884d-4bf0-8d5e-bb6afe788102|Tenho outras coisas para resolver agora.
+3083afa6-f97a-4e3f-a208-bee7bbb95da6|...como ele sabia?
+c0eca483-7bd0-4eec-8174-2184d2e21a56|Estou com você até agora.
+0cbc8cc3-0f2c-4136-8a7b-0cbe7dd2a435|Entendi. Vou deixar a luz pronta!
+85d2d081-e758-4c31-8168-1d63fc85f1e0|Me siga aqui.
+ebd0e5f3-ca38-41d7-9eb8-ae5e79af2861|Siga-me aqui.
+42f78b1c-267a-4503-85ab-7669b1116897|Jesus Cristo, pensei que você gostaria de saber!
+711fa699-1b3d-4447-b483-a58252751390|Ele está aqui... psicopata...
+eaac6350-1b3f-4cd9-96fe-e84c788164cd|Por que diabos o Patrick está usando essa camisa florida?
+af26186d-754a-4360-8543-8c0813206eb7|Ok, ok!
+9fefcea2-431a-44c7-bb5d-a043c631fc84|É, isso está parecendo cada vez mais um assassino escondido entre nós. Com certeza, na minha cabeça.
+5af8082b-a508-47a9-89c3-cca745143d27|Hmmm, são folhas de maconha na lâmina? Vamos ter cuidado, não queremos pensar demais nisso.
+af79b745-0088-4373-9e91-8927e4e8fbea|Você está indo além do Sr. Fantástico com essa.
+668beb8b-836f-4ea8-8858-f60d9522e073|Então agora eu tenho que encontrar um historiador de espadas? Que porra é essa?
+2e509fba-ecc2-4c9e-8437-6dea150798ac|Então... mistérios? Como o Patrick usa essa porra de camisa florida?
+3fb8a2d1-87df-4460-9a0c-36b4af5a144b|Por que você?
+b307e2c2-ded1-465f-921c-359d4bbf6aaf|Quer dizer, sim. Faz sentido.
+ef6afa99-d30b-4283-ab7a-740c236002c2|Talvez eu possa pedir para alguém dar uma olhada nessa katana e verificar sua autenticidade.
+e69ecdfc-13d4-4d82-a67f-5885c71f11c0|Esqueci que preciso ligar para minha mãe e me avisar. Podemos continuar isso mais tarde?
+32c88fc7-c57f-4b21-a245-2d4b255be41b|Não há mais nada em que pensar. Alguém está tentando te tirar do jogo com uma combinação mortal de cobra e espada.
+fcab56a7-247a-49e0-852e-85ea0a90f54c|Sim... na vida real.
+b3cdac05-6678-4330-8ce2-d736dfea86d6|Ela é a número 2 na minha lista de discagem rápida, logo depois da minha pizzaria favorita.
+ff7ab474-fa34-4f2b-8609-0be3e7a0a497|O homem, o mito, o bastardo-... erm, estou com você!
+3ea6d9ac-4e46-4d8f-a026-e7ce42f78d97|Asiático?
+a301c319-0e8f-4c00-92fa-d9ace1bfcd9d|Não diga mais nada. Por favor. Vou ver o que posso fazer.
+b65b60de-efc7-435a-9663-6c1a68dbe481|O quê?
+8addb018-81bb-4759-87a3-4cdc3b0a2006|Ok, vou me esquivar! Meu Deus ---- Jesus Cristo.
+0f1c65ad-0173-4781-81e1-db7a3f158d45|Ok, claro!
+98215f10-5cb5-4523-b62d-f7b205f8fb3c|Ok, claro!
+0e2f7dc7-69e7-4263-97a5-fe3b9fa60513|Ok, aqui está. É, sobre aquela katana...
+84da2c55-dc7f-420c-bff6-07bb5173edd8|Merda, você pintou o rosto com spray?
+118d2017-dbdf-4e8a-bebe-b6eaca30b0fb|Ok, ok! Ei, rapidinho, sobre aquela katana...
+694e3c30-5caa-4aae-8c5a-19ed52e40572|...Sim.
+b2c97660-6f52-4829-bc80-4cffa4420a9d|Com certeza. Enfim, sobre aquela katana...
+6d3b24b0-3b4a-4d9a-b305-071c6f683f31|Amy verificou que não passa de uma espada barata comprada num parque de diversões.
+57e13b7c-ce07-4556-a4fa-7ba6ae0d362e|Temos um problema. Aquela katana é uma ferramenta de destruição direta!
+18a36fc6-5add-49a2-bae7-2af0c55d2e3d|Não consegui encontrar nada. Mistério total... você terá que confiar na sua intuição.
+9fb6b8a3-d1c3-4805-afb2-50f1250fccb7|Ainda acho que a katana é uma ferramenta de destruição direta...
+2f07335c-eef2-42af-bf2e-a5cdbed7e01d|É, nada. Deixa pra lá. Siga o que a sua intuição diz.
+5a6d5e92-2392-4d76-a572-e43dc080c249|Nós te pegamos agora, Cobra-Espere...
+d471fb77-821c-4f80-a813-9679039704d8|Nós te pegamos agora, Cobra-Espere...
+5403ea10-7b76-4eea-9664-fb57ad0dd39a|Nós te pegamos agora, Cobra-Espere...
+703b37cc-6fa8-4f2c-ad76-5792fade812f|Isso foi... bem intenso.
+8c4d48ca-8f3e-4500-b76f-733e16254b79|Leah, você consegue se recuperar disso. Lembre-se do código! Olhe para a luz!
+ff9cab57-5831-4b25-8c45-a2392ed7a8b9|Sim... abra-se para o lado negro...
+33edc444-e6f6-49cb-9d88-e8d908d31647|Ei, espera! Aonde você está indo?!
+42240467-96fd-4439-8d56-3944bfc12c67|Desejo-lhe sorte na sua jornada de autodescoberta. Eu descubro muita coisa. Principalmente na hora de dormir.
+648272f3-3a12-478f-8374-936495012bb4|Leah... ela vai ficar bem.
+e707de46-3a4c-4814-bb3f-95379b36fcd0|*Sorri maldosamente e solta uma risada assustadora*
+03f2ef5a-f5c0-44b1-9e5d-c12ea5764f1c|Shhh...
+c976cc9a-5d3e-494e-8dfa-59f66669eb78|Puta merda, você está pelada!
+9a49d71a-69c4-4317-b81f-88efab4b8015|Leah, a cobra... ESTÁ DENTRO DE VOCÊ!
+60fc76ec-8463-48f5-b54e-16cc0ba6b127|Ah, merda, qual é!
+6ff303bc-f18d-405c-b57b-2611f5e92c07|Tudo bem...
+c2db26e3-ae2f-49bc-98eb-d9bfdc896b6f|Na verdade, eu trouxe o Frank aqui para me desculpar com você.
+b55ebd2e-8367-402b-92d4-653c5997c618|Do outro lado do pátio. Vamos dar uma olhada.
+05bef5f5-ca71-4761-862c-5bcb7dd83684|*Olha para cima, seguindo o olhar de Leah*
+f5c37d7c-5927-4c98-a006-df7305eed122|*Escute*
+63192593-cf37-4004-9c3c-b5d8320a8a1f|Nossa, eu fiz tudo isso?
+de028809-fdad-47ea-b292-0b7cb6af5ecc|Leah, acorda!
+06472f76-9580-4955-990d-60b1cbed035d|Posso ser um risco à segurança, mas gosto da sua atitude!
+2ae3da13-8c23-43fa-9806-6f7696bff76e|É-é, isso foi um insulto à cobra? Estou atrasado na cultura politicamente correta... e se ela se espalhou até aqui?
+e9617b96-a848-47a8-a87a-ad07ea03347e|E daí? Vamos só balançar um saco de comida de cobra e ele vem rastejando! Certo?
+81a67aad-4927-44c4-838a-d5473dba92fd|Uhhhh... meu coração está dizendo "diga pênis". Mas meu cérebro... está reagindo.
+e6ec093f-0f8d-41df-aa7a-c402b9c3e986|Precisamos bolar um plano!
+e61a8684-0230-47ec-9393-005eafb1fa00|Eu derrubo o Frank enquanto você o distrai!
+6717cbaf-9e47-4995-b09a-d196fedf70bd|Deixe-me ser a distração. Você o flanqueia.
+0f4e2947-035a-4b7e-9855-53f67b89a533|Este não é o World of Frankcraft... como assim?
+26dac5f7-df44-4da8-81ca-20789e442bd9|Gostei deste plano. Quebre!
+ab959a2a-21a4-4126-a518-dd7fee914e95|*Continuar*
+2c2932bf-26a5-42e4-a862-c051dcbf7b0c|Porra, ela é mesmo.
+43304e80-afaf-4c96-8d87-b247387ad8a9|Provavelmente gorda.
+93c384de-c8a5-4a1e-8159-cf4eb694cdda|Puta merda, funcionou!
+83343301-4509-431f-bc9c-8e96382d3b44|E realmente valeu a pena!
+5e9a2b16-1f9a-4705-9f89-7ca9d2a0b090|Pode contar comigo, Sensei.
+e56557d4-0aae-4592-911c-8cd78d0a1854|Siiiiiiiiiiiiiiiiii!
+9ed21320-c67f-434f-8006-4cc8ae8c237b|OH, PORRA, SIM! *COMEÇA A RASGAR SUAS ROUPAS* FODA-SE ESSA PORRA DE CADEADO-
+ba380fae-5cd2-4b08-857e-8e1795060823|O que é isso, o que é isso?!
+6b6dc6a7-5643-47d0-a220-c31b4b67e578|O que está acontecendo?
+21e6ef25-da5c-4c09-82dc-92674ae5bce2|O que está acontecendo?
+86d8428c-c231-4262-bea0-f88c42c3041f|Ok, aqui vamos nós.
+354083ed-0b66-494a-8ada-4ec35b65616f|Experimente... tranquilidade.
+cb0c658a-c7f1-4df2-b1b1-0978be726384|Estou ouvindo...
+761931e6-1d1b-4ec7-8d88-72f862e428ab|Por justiça! E sexo!
+189ecd97-c6a9-4528-ab3b-603d4258b3a4|Sim! Mas, ah, esses não são processos anti-regulamentação... vamos acabar com eles! Ou... talvez devêssemos ir para outro lugar?
+a2948f8a-9d25-4c25-8e66-2b84dbf68a6c|Sim! Aqui e agora?
+64b5be47-2931-4217-be99-f6fc07c88f6d|Ah, espere aí. Já volto!
+3b055448-c71b-45b0-a01b-c351635e1b87|Pode contar com isso...
+8804a7bb-fade-4353-bd3d-f900ae0dda2e|Por Deus e pela pátria!
+30452301-98d6-4079-a10b-9a19e6628f97|Sua cara de O vai me assombrar de todas as melhores maneiras!
+54f6b54a-d250-4edf-a506-c49fca7b633b|É, eu adoraria alguns pontos de discussão.
+bf01269e-22da-48e9-8b86-a1632633f348|Confie em mim, eu conheço o Frank muito bem. Estou bem.
+f3e29d73-ca12-4092-ae00-185eea8e507c|Bem, vamos fazer o melhor que pudermos... Ei, Frank!
+a5e7135b-27ac-4c07-a881-b28918deec2f|Eu diria que está bem claro que ele está negligenciando a segurança desta festa.
+6a478b1e-f8a4-43fb-9ae1-b48c447375a7|*Escute*
+879dce1a-bf3c-4c56-b1be-f8a1bcefa2c6|*Escute*
+5224a21b-e001-4368-b741-722f577984e1|Vocês vão cair!
+118dfc0a-d431-428e-8d6c-777fb5b9906d|Leah, acho que te forcei demais.
+404abecc-73e5-4727-b12b-96c28d82d12f|Vamos manter a calma.
+ea3b8b7e-6388-4263-a46a-7ce1e47cd1e0|*Gulp*
+4f4fee77-ac32-4647-86be-6bf56a460415|Eu chamaria isso de "presságio", Frank...
+361a46c2-1ad3-41d2-be88-66b2372c8ed9|Uhhh...
+84fc4ef1-e02f-4856-97ff-148b005f7535|Sua ordem é minha ordem, mestre.
+6c663838-9dd4-4208-a859-ecc0be5c09fe|Isso está ficando fora de controle!
+a596a9dc-c5a3-403e-916b-0ca202327471|Não, não, não! Vou chamar o Frank...
+7642d6d8-e919-4c54-9509-fb3c26410f31|É, eu... Acho que vou dizer não para essa merda que você acabou de dizer.
+ad5acd34-3531-4faa-9641-f4543d7c1db5|Tenho o que você procura, Senhor Leah.
+56aff9ad-5ee8-40db-9bf3-0fa1449d8481|Claro! Estou pronto *agora*, vai, Frank!
+0f7e88b3-532d-4ec0-8593-e6218b01123b|Eu? Não tem como eu vencer o Frank! Sou muito fraco...
+ff06e8f7-af55-4721-bc57-1b87ede11e72|Leah, você foi longe demais. Estou livrando o mundo da sua maldade aqui e agora!
+07380f75-bc36-4c2c-b54f-42aac378212c|Pffffft, eu já pensei muito nisso, en garde!
+b5ce7ae4-dfef-4525-bafb-e2429dd6d515|Ahh, espera, eu amo meus dentes. Afinal, mamãe e papai pagaram por isso. Estou fraco demais para lutar com o Frank agora...
+1c1c8530-32e6-45c7-a275-2033db40e249|Eu consigo... Eu consigo...
+ec7a8dc6-9b8f-4e7b-9c26-5a7823eafcc8|Dê-me seu conhecimento, Lorde Leah.
+441cff76-752c-494b-b356-bd5571be116f|...o quê?
+38cfaeef-6db0-4061-96fe-2b597a19e600|Acho que estou chegando aonde isso vai dar...
+8808fc33-1536-4300-bc23-862f48af07ba|YYAAAAAHHHHH!
+3ed313c9-5e6a-466a-95fb-4b52e7803bbd|É, você realmente deveria comprar um colchão novo. E controlar a raiva.
+b0f49fef-fae4-43d8-bda1-401d4053d965|*Continuar*
+7f899401-2f98-4a97-ac59-5e37c194e1a8|Sim, mestre do *Respiro*. Eu só preciso de um segundo.
+0853e43a-c86c-419b-b351-83aba1bd253a|Uhh, eu te peguei... Vou te mostrar um pouco de pele, ou você pode colocar a língua de volta.
+c47029d3-1aed-4b89-811e-af97ee991885|Fodido, eu sou! Super rápido em tudo... mas não nisso- PORRA!
+3f024ce7-2826-4115-85ae-b572e6496778|Caramba! Espera, eu... acabei de me esquivar de uma bala? Que porra é essa?
+b41b900c-2196-4502-9045-ceadcabb79ac|Ei- bom pra caralho!
+16bf798c-b1a5-42cd-8ec5-f87045c29b5c|Por favor, espere... que tal, você sabe... todos os outros aqui esta noite?
+49024030-ca67-435f-97f7-403abff6a379|Gostei de onde sua mente está. E seu... ahem, deitado, mestre!
+6677e43d-f1da-4a28-b314-dd1884d025bd|Tudo bem, tudo bem. Legal.
+798cc59c-8cae-4092-ba39-1fe3ed0282b7|Cheguei tarde!
+cad38166-60c6-4acd-9d5c-219f91a2a28a|Enlouqueça!
+afd6b2e9-3a36-405f-80df-868ed37c8390|Ok, vamos lá!
+cb9c2de2-5d6c-4b77-abf0-cbe799301f17|*Sair*
+13e3bfe3-562b-494e-a870-7729c8495a61|*Sair*
+bd9fbdd2-c66a-4f08-959a-9619fd1f775b|Deixa eu tentar...
+964e0958-6ab2-40c9-a1a7-2589b2ad355a|Hmmm, ele sempre quis dar um tapa em uma celebridade...
+9853a2e7-b0b5-459d-94f6-047df8dedd45|Nossa, que festa.
+a740ba7b-de19-47a8-a314-367f7f7d76f7|Não, sempre há espaço para sonhos! Droga!
+B1ff166a-6859-4914-b65a-2dd34672861b|...incrível pra caralho.
+42957a50-cbd4-4cfb-8941-416fa7690642|...De nada?
+c3aaaa1d-d4ec-4996-ade8-90ecb5797f2e|Então, qual é a sua história?
+df8eb9b4-a40b-4a08-9274-ee15fdc0e2e0|Aposto que você gosta de malhar.
+0ddd5f1e-3adf-4cc5-8394-2a307a8e7563|Posso te oferecer uma bebida?
+ace689ca-ef0c-40b9-8656-642f74601db1|Como você conhece todo mundo?
+6abe37b1-a3f7-4e46-94fb-45ed0bcf84fb|Por que você não tem mais conteúdo disponível agora?
+cca61945-7e3c-4f62-9e75-dae371877cfe|Por acaso você não teria o número de telefone do Patrick, teria?
+30ccbb46-b9c8-4084-acc6-4ea675d5c0dc|Ei, Leah, você assinaria esta petição para mim?
+57fd65bd-a947-4830-9c09-cd6359124137|Leah, você parece uma patriota. Está usando alguma coisa com a bandeira americana?
+74361fec-4d10-4272-8365-6c7f289505f7|Ei, Leah, acho que o Frank precisa da sua ajuda para proteger a bebida.
+2c56e792-7d72-437e-91ef-90a162b427d7|Há uma ameaça à segurança e preciso da sua ajuda!
+f72cb8eb-2ee4-4c49-bd28-9b272cab9fca|Leah, com certeza vamos atrás daquela cobra.
+a142dee9-3057-4122-aaba-45ab851df0b0|Espere, não podemos usar seu telefone?
+122264ad-8291-4f0c-acc2-6f4654e7e45e|Então, o que é isso, um estudo de autodefesa?
+ca422961-40ea-4d0a-9541-52b6a782fdc0|Alguma ideia de onde devemos procurar a cobra?
+cf6741b8-44ee-4fad-827b-d148e7a815e0|É hora de caçarmos essa cobra. Qual é o próximo passo?
+104b4333-d7da-44d2-a419-1dff3e4693c1|É hora de caçarmos essa cobra! Vamos lá fora.
+d518ab6d-66a8-4b54-bfcc-c2334d5feeb3|Encontrei algo que você talvez queira ver. Há uma espada presa na cerca, logo depois do mirante.
+4e46eeff-f5f4-40a1-8664-2c12dcfc1eb3|A quem devo pedir mais informações sobre a katana?
+c069d530-f42e-48af-9a44-eeaf120d1eaf|A quem devo pedir mais informações sobre a katana?
+96711b68-37bc-44d3-b818-90cf23b67bc3|Ok, acho que consegui nossa lanterna!
+b23e74e4-0cf0-48d4-b325-bb0d32536eb5|Sobre aquela espada...
+e8af08ae-66ce-4c25-b74e-3095968eb9db|Ok, acho que consegui a nossa luz!
+f3aad4d4-0d18-47ff-9552-9145fcc7a7db|Então, sobre aquele presente...
+13e9beda-d015-440c-8c14-2f7937c221eb|Então, sobre aquele triunfo sexual... coisas. É. Eu ouvi pelo menos uma dessas palavras, eu acho.
+a091b9cb-8255-4116-b381-f15e06a1ab7e|Te vejo mais tarde, Leah.
+
+[Quests]
+9939b774-0dc6-47be-8518-296638df8028|...Ele transa como uma abelha?
+9939b774-0dc6-47be-8518-296638df8028Description|Mostre à Leah que você consegue flutuar como uma borboleta e mentir como um político. E faça aquela coisa de abelha também.
+9939b774-0dc6-47be-8518-296638df8028CompletedDetails|
+9939b774-0dc6-47be-8518-296638df8028FailedDetails|
+b4ccc5d8-ad20-488c-b53c-799712a0ca40|Causando um tumulto
+b4ccc5d8-ad20-488c-b53c-799712a0ca40Description|Ashley está escondendo algo que não quer que ninguém veja. Segredos não são divertidos... ou são?
+b4ccc5d8-ad20-488c-b53c-799712a0ca40CompletedDetails|
+b4ccc5d8-ad20-488c-b53c-799712a0ca40FailedDetails|
+ea4c29cf-9935-4fe8-b42a-51d8b0f15e2b|Cobra na grama
+ea4c29cf-9935-4fe8-b42a-51d8b0f15e2bDescription|Você libertou uma criatura de suas algemas, e agora todos na festa estão em perigo! Você precisará de ajuda para restaurar a paz nesta noite.
+ea4c29cf-9935-4fe8-b42a-51d8b0f15e2bCompletedDetails|
+ea4c29cf-9935-4fe8-b42a-51d8b0f15e2bFailedDetails|
+dcb8128c-333c-487e-b45f-2e80e084e5d8|Luz Guia
+dcb8128c-333c-487e-b45f-2e80e084e5d8Description|Leah não sairá para caçar nas sombras sem algo para iluminar o caminho.
+dcb8128c-333c-487e-b45f-2e80e084e5d8CompletedDetails|
+dcb8128c-333c-487e-b45f-2e80e084e5d8FailedDetails|
+7e8bd4e4-8d22-46d4-b8ca-d8e06b3c93c0|Código quebrado
+7e8bd4e4-8d22-46d4-b8ca-d8e06b3c93c0Description|A tutela de Frank está levando Leah ao limite. Você vai levá-la ao limite ou ajudá-la a manter a sanidade?
+7e8bd4e4-8d22-46d4-b8ca-d8e06b3c93c0CompletedDetails|
+7e8bd4e4-8d22-46d4-b8ca-d8e06b3c93c0FailedDetails|
+
+[Events]
+d640f7d1-a120-47fd-acdf-fb7f81feabab|Ok, só preciso dizer as coisas certas para manter o Frank ocupado tempo suficiente para a Leah se aproximar furtivamente por trás dele.
+8a783a1b-0274-479c-aef8-7dd497c48483|O tom exigente da Leah assusta sua libido e a faz agir!
+f4e07b2e-36b5-4c7c-975d-daa923f52fd8|Ele está prestes a gozar... ele tem que continuar!
+08a23d6d-4656-423d-ba8c-3e233287c11f|Estou tão perto... Não consigo... oohhh, porra!
+e5c48744-d202-4482-9dd1-a1a99cc7b62f|Estou tão perto... Não consigo... tem um cone!
+c3bd497c-66a0-4512-ab59-706d931a5785|Ela está tão perto que eu deveria tirá-la!
+49099c3b-14cf-446c-a174-dd95eae812ce|Acho que preciso me dar bem com a Leah primeiro.
+282ee64f-2ced-493e-9dd5-1546b049520e|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
+a9ea77f5-cf08-4355-aa2b-1cda6fa8d638|Não tenho certeza se o Frank consegue nos ouvir... Eu deveria tentar aproximá-la um pouco mais dele.
+fff23fea-7df3-4028-8f01-5cf6e1f51d2b|Bem, não sei se... ah. Ele está se levantando! Deve ser toda a adrenalina que sobrou da nossa caça às cobras. Falando nisso... porra, nós o perdemos!
+0178153d-0e36-40e2-88e1-00894b77788b|Caramba! Acho que posso dizer que a Leah não vai ajudar muito esta noite...
+12f6b5d9-c888-4513-bdb1-b6df3dded0e3|Acho que ela está inconsciente. Bons sonhos e tudo mais...
+c59e5a98-8915-49b2-af22-4d7adb805fd8|Preciso ficar completamente nua para a Leah. Ordens do Mestre!
+1d455ee1-179b-4a74-b5d4-88c0d0e35eab|Ei, e eu? É... é, talvez eu fique de boca fechada por enquanto.
+887af881-07fd-4ee2-807f-e7acbc646f36|A Leah está superfocada em encontrar essa cobra... É melhor eu fazer o mesmo, por enquanto.
+f4c733b1-c58c-4dd4-b3b0-de5b4f81ff9c|Parece que a Leah está atrás da Lety...
+b4cd08c1-0bd8-4384-9d3e-fbeeca99daff|Parece que a Leah ainda está resolvendo as coisas com o Frank. Preciso falar com ela em breve.
+dbb2cbb8-3114-4940-bd5e-71bd44a285f3|Legal, então o álcool está suspenso hoje à noite? Ufa, que festa de merda vai ser essa.
+f7c6dcbf-17c1-4e7e-910d-f18299c6a0f8|Então... uma festa sem álcool. Patrocinada por alguém conhecido como "sensei". Em que porra eu me meti?
+4dabcb61-3e74-4031-8a9b-fa371953d79c|Merda, é melhor eu tentar ensinar... alguma coisa a ela. Ou pelo menos desafiá-la? Se eu errar ou prejudicá-la, ela vai perceber e me roubar. Mas ela me parabenizou... talvez haja espaço para um vínculo entre aluno e professor se eu fizer isso?
+681bd60e-1b53-46b4-9235-d72e39f3d046|Legal. Eu sou um babaca astuto. Não tem como dar errado!
+b3aa2a65-e41c-4a79-8737-0912e4563405|Isso... é tão idiota. Ela vai me matar. Certo.
+1d61a3c4-a797-4e5b-9192-c3e636adf7cd|Ok, baseado nessa expressão... um pouco demais?
+364b833a-d679-4eb3-8a52-55e67c22f44d|Meu Deus, acabei de repetir algo que vi em um infomercial? Da TV a cabo? Espero que ela me mate agora.
+c8a7d7f3-7090-4906-9950-caf2857ce8c5|Parece bom. Eu vi em um mangá uma vez. Ela deve ter sorte, eu até a notei. Espera, é verdade?
+1a817430-154d-4c8d-ad5c-bbdd10463dab|...Eu sou um babaca.
+0b074e17-3441-4b8c-ac2a-07819715cc00|"Rápido demais"? Parece que é melhor eu acompanhar a Leah enquanto ela... gasta a energia? É melhor eu me preparar para ir, rápido.
+f54272f4-005c-4952-b98b-128bdc3b294e|Coloque a cueca, agora, CARAMBA, MEU TEMPO ESTÁ ACABANDO! Preciso acompanhar a Leah!
+dbe63d31-2743-41e4-91d7-9de6dd531586|É, eu também não quero mais falar sobre esse fracasso. Acho que são só esses ossos velhos. Ou as tortas pop. Malditos biscoitos demoníacos!
+f8f79edf-9993-48c1-b1c1-377f4b283025|Merda... Espero conseguir escapar dela!
+94832778-1866-4ecc-84d0-03e7ea461ddb|Merda... Espero conseguir escapar dela!
+30cd2690-f4fb-4e73-9cf4-460cb1721949|Sua fuga bem-sucedida adicionou um pouco de energia aos seus passos, aumentando um pouco sua velocidade de combate!
+52b7a64f-7567-4753-af8b-7b764eb76fd9|Merda, a Leah voltou a jogar, e mais agressiva do que antes... Talvez eu ainda precise de uma "saída" para a Lety...
+1e3f58ad-1139-4f22-86f0-35b72b364663|Merda, Lety, não sei se consigo te salvar... por favor, me dê uma boa resposta...
+30e1b927-f0b6-459d-bf37-12ce67bf9951|Porra. Descanse em paz, Lety.
+a9606136-f135-455a-a6c3-8bb55810588d|Ah, sim, acho que tenho parte da culpa pela... condição do Frank. Tenho certeza de que ele estará se sentindo melhor do que nunca em alguns minutos. Espero...
+e3d7920c-764b-4090-90a0-abb7b0d2c793|Ah, sim, acho que tenho parte da culpa pela... condição do Frank. Tenho certeza de que ele estará se sentindo melhor do que nunca em alguns minutos.
+0079bcff-1cb6-44a5-b7a6-fafec33236dd|Ah, sim, acho que tenho parte da culpa pela... situação atual do Frank. Tenho certeza de que ele estará pronto para ir em alguns minutos. Quem me dera...
+d0f04c2c-dedc-47ba-8aea-d2ddc80dcebd|Para onde diabos ele queria que eu apontasse a luz?
+00a22812-8034-4108-9a3f-7f982b5f8570|Ela não pode estar falando sério, pode?
+0de99824-6b42-45b3-8a03-23fb2f3f437c|Compucompa faz um som suspeito...
+8664f266-0eb6-4bec-b3b5-9e92ce22e5fb|*Tosse, causando um leve gosto de espaguete*
+4f11f6f0-1721-4669-a6d0-c45bbd8b816b|Veio de algum lugar próximo... provavelmente de outro lugar escuro, imagino. Assustador!
+d3798af5-3c79-4a8f-8463-576f3a93c986|Ainda bem que sou tão rápido. Aquele armário era quase assustador demais, até para mim!
+7bf41324-b36a-4c21-9e06-10c2cb0f2be8|Caramba... eu realmente preciso ir lá?
+1678e62f-5ba7-4ee4-9dc2-3719e2f2a8d7|Ei, a Leah pareceu gostar da minha coragem! Ser criança grande é legal!
+873f7d9f-d6f5-405e-abd0-bf422e160dcb|Não vejo uma expressão de decepção como essa desde... bem, desde todo o ensino fundamental.
+db6f55a7-d696-4b1e-964d-db8cdc00cbfc|Embora Leah seja uma ótima companhia, podemos progredir mais se nos separarmos...
+aa4d7602-aa5e-473b-8657-75d702e70daa|Se Leah precisa de provas de que esta espada não passa de um sonho molhado de um weaboo, então encontrarei alguém que possa comprovar isso. Ou, eu poderia simplesmente deixar a mente dela correr solta, eu acho.
+c02fa01b-9777-4974-8f88-460243ed66b9|Meu sentido aranha me diz que o que eu disser a seguir terá grandes consequências.
+27ab1f48-8dbc-40d1-a982-2a1cd54ec08e|Leah tira a katana de você.
+1717e5f0-541a-47d0-87ae-d210048a00f3|Aquela era a voz da Leah? Ela disse algo sobre o Bush?
+546db76b-8bd2-4ef4-aafd-3a02cceae525|Ah, é verdade, ela está se escondendo nos arbustos... "em" é a palavra-chave.
+4f36aed1-3658-4fad-8358-32667c26097a|É melhor eu escolher as palavras com cuidado...
+c1170576-2a42-4c90-8c56-58be0b952b86|A cabeça brilhante... o corpo sem pelos... ah, porra, por que estou visualizando tanto?
+c7717925-c913-4eb2-814b-a9b2ae9e55d2|Preciso encontrar algo para jogar! Parece que a Leah quer mesmo que eu pegue... heh.
+9cea0e15-ec34-4dcb-b5b4-1d435cf7ce73|Droga... Estou ficando sem tempo.
+c32de859-86ea-469e-b85b-0ad340036031|Eu realmente pensei que meu presente seria outra coisa...
+17366ab5-e828-4867-8618-feec43ba34b9|Pressione a barra de espaço (padrão) para entrar no modo de combate e, em seguida, clique com o botão esquerdo (padrão) para atacar.
+f5cde353-f20b-406c-9e04-58735939b5c0|Você se sente um pouco mais rápido... e um pouco mais forte. E também, por algum motivo... mais forte? Sim. Muito mais forte.
+36a6c238-de88-4df7-bc95-4a6600990db8|Compucopia emite um bipe suspeito...
+eb01d7b8-eb9f-4b4e-b750-dbc252a88b0a|Compucopia emite um bipe suspeito...
+a811b8ad-bc63-4d0a-9a9e-4dbb7f827be8|Tudo bem, preciso dizer as coisas certas... Mantenha-o ocupado por tempo suficiente para que Leah se aproxime furtivamente por trás dele.
+23c98951-80f9-4161-a321-0668574b3133|Frankie... onde você está? Argh, no que estou me tornando? O mal é bom, mas será que é realmente quem eu sou?
+3cf19d26-10e6-49f1-a95d-0ed9b0fe7cae|Leah pode arruinar esta festa... e potencialmente a civilização humana. Embora eu esteja sonhando com o apocalipse há muito tempo, você talvez queira considerar onde residem minhas lealdades...
+1c83fde3-c6b2-43f2-a8a8-b528e1eb1145|Frankie... onde você está? Argh, no que estou me tornando? O mal é bom, mas será que é realmente quem eu sou?
+68a22dbc-3e39-4921-b5cd-6b4313d9c812|Não é inteligente, NÃO É INTELIGENTE!
+c5cd5abe-3834-490e-a3a4-a1a02eff23ba|Frank parece bem louco e fora de si... talvez ele não esteja tão durão como sempre.
+da382c02-0441-47fb-a194-f51f4230f2db|Computador apitando de forma suspeita...
+aed3b895-2615-4f4c-8bf5-1430d66ea22c|Tudo bem. Eu tenho m-m-m-bolas de metal!
+60106cc2-147d-4072-a658-815367194481|Todo telemarketing que liga na hora do jantar... toda vez que o Wi-Fi cai no meio de um filme pornô... TODA FRANQUIA DE CIÊNCIAS CHEIA DE DINHEIRO ARRUINADA POR FACULDADES CORPORATIVAS. DESCULPE. ISSO.
+c41909f7-8796-405d-a42d-bcc8f47d3126|Melhor tirar a roupa e ir buscá-la... parece que é agora ou nunca!
+504e0145-422c-4269-9c35-06f1d9b67606|Não consigo olhar!
+d27cca5b-006f-4f17-9304-892e0db0e70a|Provavelmente é um jogo final, Classe S, Mítico... porra, sou um perdedor. Meu pênis... não está pronto. Droga.
+fc32d4dc-2c20-4845-8239-8e52269711a3|Ugh, essa foi uma merda de close-ah...
+7a7d91f8-323a-4c16-8cb5-5ee2edd7bcd1|Porra! Essa cobra é tipo o Flash!
+84649cbd-fc1b-48bc-ad4a-060b6e3d033f|Uhhh... Eu realmente, realmente espero que tenha sido um draft ou algo assim.
+fd04334c-f940-4769-be5a-d8cbcbabe0bb|Uhhh... Eu realmente, realmente espero que isso tenha sido um rascunho ou algo assim.
+b36c2350-3cea-4b12-a2d8-e5ef430eff4f|Porra! Isso é... uma cobra cuspidora? Ela vai morrer? Malditos sejam meus modos covardes!
+8fe9a06c-7729-4db1-991d-b33e17a97bdc|A Leah acabou de socar uma porta aberta?
+15c6d919-17a7-4032-ba69-49b467e42a75|Suas experiências com Leah aumentaram sua resistência em 2,94 fucktons métricos! Isso reduzirá a frequência com que você é atordoado e reduzirá bastante o dano que recebe! *Clique quando estiver pronto para outra mensagem...*
+14be4516-5d64-4f93-94be-b24a632f9f8e|Além disso, você levou a sério as dicas de autodefesa de Leah e pode bloquear ataques segurando o botão direito do mouse (padrão) no modo de combate! Além da sua resistência, bloquear faz com que os golpes causem metade do dano. Mas tome cuidado, bloquear um golpe consome bastante resistência e, se você estiver com pouca resistência, não bloqueará com eficácia! *Clique quando estiver pronto para outra mensagem...*
+304c4266-533c-4b0a-95ce-834d778c674b|Seja paciente, use seu bloqueio e contra-ataque rapidamente enquanto seu alvo estiver vulnerável! Mas tenha cuidado; alguns lutadores altamente habilidosos têm um ataque que pode atordoá-lo através de um bloqueio, então não fique parado. Bons tanques não ficam parados no fogo. Boa sorte! *Clique para sair*
+fe28b69c-0820-43c2-9a1a-9590c607520c|Você liberou sua fúria interior! Suas taxas de dano e regeneração de energia aumentaram bastante, e sua resistência também aumentou um pouco, permitindo que você receba mais alguns golpes. Hhhhooolllaaaa, canhão de vidro! *Clique quando estiver pronto para outro prompt*
+02b13bd5-66d7-4ae7-8ae2-df8185afc5e7|Você também desbloqueou novos movimentos no modo de combate! Usando os controles padrão, pressione a barra de espaço e clique com o botão esquerdo para atacar. Você tem quatro conjuntos de movimentos. Novos movimentos são ativados segurando uma tecla de movimento (W, A, S ou D por padrão) e atacando. Cada conjunto de movimentos ativará uma animação aleatória, mas todos os movimentos dentro de um conjunto de movimentos funcionarão da mesma forma. Movimentos mais fortes usarão mais "energia" de ataque, então fique de olho no medidor! *Clique quando estiver pronto para informações sobre os movimentos*
+0d35b8a9-45fb-4596-ac0a-d00c3ac2c139|O conjunto de movimentos padrão é usado quando nenhum botão de movimento é pressionado e você ataca. Agora você tem mais duas animações neste conjunto de movimentos. Às vezes, elas causam 25% mais dano do que seu soco básico e são muito rápidas. Pew Pew! *Clique quando estiver pronto para mais informações sobre o conjunto de movimentos*
+3f4a68aa-9a39-4296-8939-ded216599179|Se você segurar 'A' ou 'D' (padrão) e atacar, ele usará um gancho de esquerda ou direita. Esses golpes sempre causam 25% a mais de dano e são relativamente rápidos. *Clique quando estiver pronto para outra mensagem sobre suas bobagens de ninja*
+4ecad4be-2036-48b9-b957-03a82b61f502|Os próximos dois golpes são ataques mais fortes que têm um pequeno tempo de recarga após serem usados, então certifique-se de acertar! Se você segurar 'W' e atacar, usará um leve ataque de balanço para frente ou uma estocada. Esses golpes sempre causam 50% a mais de dano. *Clique quando estiver pronto para outra mensagem sobre seu maldito ninja*
+2d9c7e7d-bbd9-414a-96bf-356ef2cc6da9|Finalmente, se você segurar 'S' e atacar, usará um "movimento poderoso". Eles sempre causam 75-100% a mais de dano. Eles também quase sempre resultam em um atordoamento mais longo no personagem. Além disso, o efeito de atordoamento de um movimento poderoso ignorará o bloqueio do personagem. Então... esquive-se com as teclas de movimento e movimentos terrestres poderosos para atordoar o inimigo e continue com um DPS incrível! Aumente esses medidores! Boa sorte! *Clique para sair*
+9cd6f3c5-4517-42f0-81a9-0190cce2378a|Você ainda não teve nenhum treinamento de combate, então suas habilidades são, bem... nenhuma. Usando os controles padrão, pressione a barra de espaço para entrar no modo de combate. Você verá sua saúde no canto inferior direito da tela. Se clicar com o botão esquerdo, você usará um jab básico. Se acertar um personagem, ele se tornará seu alvo de combate, e você verá a saúde dele no canto superior direito da tela. *Clique quando estiver pronto para mais ajuda em combate*
+03d2bc67-5906-4c59-8d99-e6d83932691c|Com cada ataque, você usará parte da sua "energia" de ataque, como mostrado no canto inferior esquerdo da tela. Se sua energia estiver muito baixa, você não poderá usar certos ataques (se os tiver desbloqueado) ou mesmo atacar! A energia se regenerará sozinha. Correr em modo de combate reduzirá sua regeneração de energia pela metade. *Clique quando estiver pronto para mais ajuda em combate*
+a5b81096-5ebc-406a-b96f-4fee178acbe8|Se um personagem te atingir, você sofrerá dano e poderá ficar atordoado, permitindo que ele ataque novamente. Muitos personagens podem bloquear seus ataques, reduzindo o dano que você causa. Personagens diferentes apresentarão diferentes níveis de perigo e, dependendo da sua habilidade, estatísticas de combate e movimentos desbloqueados, eles podem não ser vencíveis. Você pode aumentar suas estatísticas de combate completando certas ações menores e desbloquear conjuntos de movimentos completando certos conteúdos. Boa sorte! *Clique para continuar*
+874b642e-40c4-4dd0-be7d-1881151e5e0b|Como você está apenas começando seu treinamento, Leah não vai te revidar... por enquanto. *Clique para sair*
+424db808-b3a3-4827-9bfe-33458a41f6c7|Parecia que foi por pouco. Estou com tesão pra caramba...
+0aef7b22-ea25-49cf-872f-7b6a9707e908|Acho que estou no caminho certo...
+95d3c06f-9c29-4dee-bf6f-d202cd31d94c|Caramba, parece que a cobra está a quilômetros de distância... E eu cortei meus mamilos. FML
+
+[Background Chatter]
+BGC1|Preciso lembrar que ainda preciso assistir aos meus replays hoje à noite. Será que tem alguma coisa que eu possa usar como saco de pancadas por aqui... tem aquele garoto loiro...
+BGC2|Será que alguma dessas pessoas conseguiu algum dinheiro? Podem ser investidores em potencial...
+BGC3|Está vendo aquele pássaro lá fora? Eu dou um soco nele se for preciso. Pássaro do caralho.
+BGC4|É isso que vocês chamam de festa? Me sinto como um acompanhante num baile de escola para crianças cegas.
+BGC5|Já disse, não sei por que não podemos servir álcool. Só estou fazendo o que me mandam.
+BGC6|Preparar a refeição é meu momento favorito da semana. Isso, e assistir caçadores amadores de animais na internet. Os filhos da puta estão SEMPRE se mordendo.
+BGC7|Alguém aqui assiste ao acesso público? Estou pensando em comprar um desses horários, sabe, para ensinar técnicas básicas de combate. Você não quer aprender a melhor maneira de chutar alguém na cabeça? Eu poderia te mostrar isso... toda terça-feira às 3 da manhã.
+BGC8|É, a Leah estava lutando Kung Fu... os chutes dela deixam as putas chorando. Você consegue sentir aquele estrangulamento apertando...
+BGC9|E aí, sabe aquele shopping que apareceu no noticiário recentemente? Estou juntando dinheiro para alugar um lugar lá. Abrir meu próprio estúdio de autodefesa!
+BGC10|É, eu sei, mas é por isso que o mercado está aquecido agora. Posso conseguir o lugar barato, porque ninguém quer ficar perto! É perfeito! Além disso, fez com que... guardasse frango nos dutos de ventilação e essas coisas.
+BGC11|Não, olha, você está puxando os cotovelos demais quando segue com o soco. O que você quer fazer é manter esses filhos da puta na direção do seu peito e, sempre que não der o golpe, usar os punhos para proteger o pescoço.
+BGC12|Bem, parece que você precisava de ajuda. Você estava reclamando do Lorde Cordray Grundlebitch ou sei lá o que te batia toda vez que você... fazia LURP? LORP? Seja lá o que for que você disse. "Relâmpago, relâmpago!"
+BGC13|Você está dizendo que eu não sou durão? Porque eu sou bem durão, né? Teve uma vez que eu estava num bar e um cara estava tocando uma música que eu não gostava, um rock cristão bem ruim, e eu fiquei tipo: "Ei, foda-se!" E aí ele disse: "Ei, foda-se." E eu fiquei tipo: "Não, cara! Foda-se." E aí eu lutei com ele com os meus punhos. Porque eu sou durão.
+BGC14|Repare em mim... Sensei.
+BGC15|Ah, olha só, o Sensei sabe rebater! É por isso que ele é meu sensei. Sensei, FRANK, porra.
+BGC16|Merda, por que você não revida? EI, RACHAEL! O que você estava dizendo sobre "mecânica de combate" ou algo do tipo de novo?
+BGC17|É, e eu sei quem você é. Vi suas caixas de DVD debaixo da cama do meu primo. Tenho a impressão de que você também não se importa muito. Sabe, se você estiver pensando em fazer um "endosso de celebridade", eu estou querendo abrir um-
+BGC18|Droga, eu entendo... mais ou menos.
+BGC19|Sensei Frank, chamando o Sensei Frank, tenho uma ligação não hostil comigo, e estamos chegando com informações vitais sobre uma merda que está acontecendo. É... Merda, ele está sempre ocupado demais para atender.
+BGC20|Hmmm, o Sensei Frank não está no posto de comando. Ele deve estar fazendo uma verificação de perímetro lá fora.
+BGC21|Ah, merda! O que foi isso?! Rápido, luz ali!
+BGC22|Agora chegou! Veja bem aqui! Acendam a luz aqui!
+BGC23|Agora é por aqui, porra! Vocês precisam ser mais rápidos!
+BGC24|Não vamos sair desta garagem até eu conseguir, garoto!
+BGC25|Vamos lá, me mostrem o que vocês sabem fazer!
+BGC26|Não acredito que nem descobri com o que exatamente estávamos lidando, só aproveitei a oportunidade para provar meu valor. Talvez o Sensei Frank esteja certo, não estou pronto para me virar sozinho...
+BGC27|Esse cara... O Sensei Frank teria um dia de glória com vocês, cara.
+BGC28|É, poderia ser pior. Talvez eu tenha que ficar vagando no escuro com algum babaca. Então, é isso.
+BGC29|Nada por aqui... Vamos continuar andando.
+BGC30|Se eu quisesse ficar tateando no escuro, eu iria a um cinema pornô. Acende essa luz!
+BGC31|Já que estou falando com você, deixa eu te perguntar: você acha que os caras vão ter problema em fazer aula de autodefesa com uma garota como eu? Não, nem precisa responder isso, eu sou uma vadia.
+BGC32|Hmmm, ainda nada. Qual é aquele jogo japonês em que você é um super espião e se esconde numa caixa de papelão e essas coisas? Essa cobra é igual àquela cobra. Vamos continuar procurando.
+BGC33|Sem querer desrespeitar, mas você já reparou no Sensei Frank dançando? Eu o encontrei no banheiro mais cedo e ele estava fazendo todos aqueles movimentos sensuais na frente do espelho. Isso é algo que os caras normalmente fazem? Enfim...
+BGC34|Nossa, olha só. Eu vi uma coisa brilhante lá na frente, acenda essa luz!
+BGC35|O que temos aqui?
+BGC36|Estou farto dessa porra de cobra escondida nesse quintal!
+BGC37|Ah, você está ferrado agora! Aí vem a dor!
+BGC38|E só para você saber, acho que vou ficar bem com essa coisa toda de "Frank destruindo meus sonhos". Eu tinha que ter em mente o que estávamos falando: ser fiel ao código dele e tudo mais. Há muitos outros espaços para alugar na cidade. Meu estúdio de autodefesa não vai a lugar nenhum.
+BGC39|Ei, Frank, preciso falar com você. Pode parar de dançar um segundo?
+BGC40|Podemos não ser mais parceiros na caça ao crime juntos, mas achei que devia te avisar que, sim, aquele retardatário que estava me ajudando esta noite está assumindo suas funções oficiais de estragar esta festa.
+BGC41|Ah, desculpe, o que eu quis dizer é que nosso novo amigo está recolhendo todas as bebidas de todo mundo. Sabe, ser um verdadeiro pé no saco, mas sem dirigir sob efeito de álcool esta noite, não senhor!
+BGC42|Não, mas é o seguinte, eu realmente acho que eles vão fazer isso para te irritar. Sabe, talvez até pensem em abrir a própria operação, onde eles entram e dão uma festança. Pode ser muito ruim para os negócios.
+BGC43|Então, o que você acha, sabe, descer e voltar ao trabalho?
+BGC44|Frank, seus olhos estão ficando... esbugalhados. Acho que a cobra precisa sair AGORA. O MAIS RÁPIDO POSSÍVEL. DICA, DICA.
+BGC45|Ei, Frank, acho que nosso novo amigo ainda está acumulando o álcool de todo mundo...
+BGC46|Frraaankk!
+BGC47|Vamos lá, gata!
+BGC48|Vamos lá, bate nessa bunda! Mas só na defesa.
+BGC49|MMMWWAAA HAA HAHAHAHA HAAAA!
+BGC50|Ele é meu acompanhante agora. Isso é tudo que você precisa saber.
+BGC51|Ahhh, olha quem é! Como vai, "sensei"? Hehehe...
+BGC52|Ei, cara, vou ficar vendo manchas a noite toda se continuar com essa merda. Passa isso para outro lugar.
+BGC53|Ei, para com isso!
+BGC54|Não é uma merda?
+BGC55|Ooooo o quê. O. Ferrado? Só que não. Qual é, garoto...
+BGC56|Tudo bem, atenção, moças e homens fracos... Estou olhando para você, cara de fraternidade de camisa florida. Como pode ver, essa mancha de merda humana está com o pau de fora. *Eu dou aulas de autodefesa nessas situações*. Esses exibicionistas são DE VERDADE, gente.
+BGC57|Sou treinado em bojutsu, cara de merda. Mas... sabe, estou me sentindo enferrujado... como se estivesse a fim de treinar. Eu poderia pegar a primeira madeira que eu visse e começar a bater.
+BGC58|Yo-sensei, que diabos!? Você está carregando umas coisas de qualidade aí, mas a nossa merda era particular! Guarde isso!
+BGC59|Jesus Cristo, olha só você, campeão... agora é DISSO que eu estou falando!
+BGC60|Nossa... ah, você esperava que eu gritasse de excitação? Você não está carregando TANTO calor, seu pequeno aprendiz.
+BGC61|Nossa, é. Nunca pensei nisso dessa forma, mas aposto que bolas grandes realmente atrapalham algumas poses de artes marciais...
+BGC62|Caramba, é muito difícil ver o Sensei Frank se render daquele jeito.
+BGC63|Aquele filho da puta traiçoeiro tem o que merece. Boa viagem.
+BGC64|Ei, nada mal! Eu poderia ir para a pista de dança e te mostrar alguns dos meus passos. Quer dizer... se eu não estivesse aqui na segurança, é claro. Preciso me concentrar na minha carreira, sabe?
+BGC65|Nada mal, nada mal! Notei que aquele garoto tem uns gingados!
+BGC66|Hum... você chama ISSO de dança? ...Ou alguém derramou gelo na sua calça? Eu realmente não sei dizer...
+BGC67|Então... onde diabos foram parar as minhas roupas? Então, que...! Droga, eu tive um SONHO MOLHADO de dominação?... Preciso ligar para o meu terapeuta.
+BGC68|Cara, não me faça colocar as mãos em você. Estou tentando manter a calma, mas você está apontando como se fosse começar a fazer reféns.
+BGC69|Vamos lá! Eu não me inscrevi para repetir as aulas! Ah, quer dizer, a menos que você esteja planejando mostrar suas habilidades para todo mundo. Isso é um movimento de alfa. Respeito.
+BGC69|Vamos lá! Eu não me inscrevi para repetir as aulas! Ah, quer dizer, a menos que você esteja planejando exibir suas habilidades para todo mundo. Isso é um movimento de alfa. Respeito. BGC70|Ok, bem, agora você está se masturbando. Você realmente está com a cabeça no jogo, não é? Droga, estou ficando louco.
+BGC71|Ok, ok, faz um tempo que não vou a uma dessas festas. Que bom estar de volta, ha ha!
+BGC72|"Uau! O Sensei Frank manda bem dentro e fora do dojo! Sorte sua, né? Talvez você descubra por que o chamam de "O Punho!"
+BGC73|"Uau! Boa forma, Frank. Bem, divirta-se. Ei, talvez você descubra por que o chamam de "O Punho!"
+BGC74|Uhhh, droga, garoto. Você é selvagem...
+BGC75|Ha! É isso aí, garoto, abrace essa selvageria interior!
+BGC76|O Sensei Frank tem sido bom para mim, mas às vezes me pergunto se ele tem os meus melhores interesses em mente. Sou leal demais, mas preciso garantir que um dia alcançarei meus próprios objetivos.
+BGC77|Claro, ninguém sem treinamento vai vencer uma luta contra o Sensei Frank. No entanto, eu provavelmente conseguiria treinar alguém para vencê-lo, SE a pessoa estivesse devidamente motivada. No entanto, não consigo ver isso acontecendo. O Sensei Frank e eu somos muito próximos.
+BGC78|Estou feliz que eles estejam mudando toda essa besteira de princesa da Disney. Eu adoro mulheres que não precisam de um homem para salvar o dia. Agora elas estão simplesmente salvando o dia. ESSA é uma princesa com quem eu me identifico.
+BGC79|As artes marciais fizeram mais do que me ensinar a enterrar qualquer babaca que tente me agredir na rua. Sou fisicamente mais forte, mentalmente mais esclarecido e consigo controlar minhas emoções, a menos que precise usá-las como arma. Acredite em mim. Tem muita coisa acontecendo lá em cima. Muita energia reprimida. Se eu alguma vez explodir uma junta ou algo assim, pode ser perigoso para todos ao meu redor. Então, como você está?
+BGC80|Será que eu conseguiria vencer o Sensei Frank numa luta? Nunca pensei nisso. Ele me ensinou muito e planeja me ajudar a abrir meu estúdio um dia. Isso significa muito para mim. Acho que nunca vou me imaginar machucando-o.
+BGC81|Como você pode melhorar na luta? De muitas maneiras, tipo, ah, sei lá... exercício! Mexa-se um pouco! E não se esqueça dos suplementos. Você pode comer ou beber bastante para se recuperar depois de um treino, manter os reflexos afiados ou ganhar músculos. E o mais importante... você tem que estar preparado para tudo. Assuma riscos, descubra coisas sobre o mundo, sobre si mesmo... e sobre potenciais inimigos. Você nunca sabe quais ações podem te tornar um pouco mais forte, mais rápido ou mais resistente. Não é como se a vida fosse um videogame e você recebesse uma pequena mensagem na tela informando que acabou de aumentar seu poder de combate ou algo assim.
+BGC82|Aquele quadro em cima do sofá realmente me assusta, cara. Algumas vezes me peguei olhando para ele em transe. Então percebi que não tinha contatado o Sensei Frank em 10 minutos. Estou te dizendo. Tem algo sinistro naquela coisa.
+BGC83|Aquela porra de foto em cima do sofá, cara. Foda-se essa merda. Nem eu me meteria com esse tipo de energia sombria. Nada maligno deveria emoldurar. Isso é uma porra de possessão esperando para acontecer.
+BGC84|Tudo bem. Se você não pode vencê-los, junte-se a eles, hein? Eu entendo você.
+BGC85|A gente não vai sair dessa garagem até você jogar os balanços em mim, moleque!
+BGC86|Essa porra de garota... O Sensei Frank teria um dia de campo com você.
+BGC87|Oooooh o quê. A. Merda? Simplesmente não. Vamos lá, baby...
+BGC88|Tudo bem, atenção todas as mulheres e todos os homens fracos... Estou olhando para você, cara da fraternidade de camisa florida. Como vocês podem ver, essa maluca está com os lábios vaginais de fora. *Eu dou aulas de como se defender nessas situações*. Esses exibicionistas são REAIS, gente.
+BGC89|Ok, bom, agora você está brincando com a sua vagina. Você realmente está com a cabeça no jogo, não é? Droga, estou pirando.
+BGC90|Garota... não me faça colocar as mãos em você. Estou tentando manter a calma, mas você está agindo de forma muito nojenta agora.
+BGC91|Ugh, garota, pare com isso. O que diabos você está pensando agora? Por que eu continuo me inscrevendo para esses empregos de segurança? Toda vez...

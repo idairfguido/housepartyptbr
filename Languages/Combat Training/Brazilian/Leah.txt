@@ -1,0 +1,26 @@
+﻿[General]
+Name|Leah
+
+[Dialogues]
+0|Enter dialogue text here.
+
+[Responses]
+
+[Quests]
+
+[Events]
+1b950363-7fd9-45d5-9118-69d834ddba4c|Nããão, não estou pronto! ...Espere...
+7fb901ea-0e29-4f80-9b4c-3eb9ea1a5a8d|Você acorda em um lugar estranho, parecido com uma arena. Na cama ao lado, há uma maleta um pouco pegajosa, da qual você pode ouvir murmúrios fracos e incoerentes...
+b3537f3e-34d6-47c4-af20-1ad69e496900|Que se danem os meteorologistas e as maletas ímpias em seus traseiros imprecisos e/ou mentirosos! Merda!
+009d077d-2f20-4da2-b115-f25534d27388|Duas pessoas com cara de infelizes acabaram de aparecer por aqui! Parece que você vai ter que lutar para escapar! Você pode alternar entre as configurações de combate pressionando o botão "Y" e escolhendo uma opção. Pressione "F1" para obter mais ajuda ou use a opção "Ajuda" na maleta. O combate começará assim que você atingir um deles.
+13b9e13a-3051-4b6a-a4e0-5b0c1d978be4|Nota pessoal: não confie em meteorologistas ou em maletas cobertas de líquidos... pelo menos isso não é tão ruim quanto eu pensava.
+7798b347-1a16-43f2-bcc2-e30616d3a641|Uma chuva descontrolada aparece! Parece que você vai ter que lutar para escapar! Você pode alternar entre as configurações de combate pressionando o botão "Y" e escolhendo uma opção. Pressione "F1" para obter mais ajuda ou use a opção "Ajuda" na maleta. A luta começará assim que você acertar o careca.
+ffd2014c-5469-4f85-a4b5-1024da7f60af|Ha! É! Você vai ver essa merda? Ninguém? Ei, espe-
+dfec02f5-3d13-4d74-a12a-7506c5b0cb98|Pressione "F1" para obter mais ajuda no jogo. Para combate, aqui estão os princípios básicos. Com os controles padrão, a barra de espaço alterna o modo de combate. Isso limitará sua capacidade de interagir com objetos e alternará sua interface para a interface de combate. Você verá sua saúde no canto inferior direito, sua energia (para atacar e bloquear) no canto inferior esquerdo e, se você atacou alguém, a saúde dessa pessoa estará no canto superior direito.
+357411c5-c8aa-44b9-a75b-303efa5f237e|Usando os controles padrão, você pode usar um ataque básico clicando com o botão esquerdo. Acertar um inimigo reduz a saúde dele com base na sua força versus a resistência dele e se ele está bloqueando. Ser atingido reduz sua saúde com base na força do inimigo versus a sua resistência e se você está bloqueando. Se você desbloqueou a habilidade de bloquear, pode bloquear com o botão direito do mouse. Bloquear custa uma pequena quantidade de energia, mas reduz pela metade o dano que você recebe. Correr em combate também custa energia, na forma de uma taxa de regeneração de energia reduzida pela metade.
+8b6c67da-367c-40fc-8e9f-eb4c1ac6b3f6|Ataques consomem energia. Se você ficar sem energia, não poderá atacar ou bloquear. Quanto mais forte o tipo de ataque, mais energia ele consome. Se você tiver energia suficiente para usar um ataque ou bloqueio, o ícone dele acenderá acima da barra de energia. Nesta área de treinamento maluca, você pode pressionar "Y" quando não estiver no modo de combate para alternar entre as várias configurações de combate que você encontra na História Original. Se você vencer uma luta, lançaremos um novo modo para você jogar.
+15e54b92-474c-4961-9c5c-c6214a50e65f|Quando você tiver uma habilidade de combate alta, desbloqueará novos movimentos (tente a configuração de combate ofensivo pressionando "Y"). Ataques normais são ativados ao ficar em pé e clicar com o botão esquerdo. Às vezes, causam 25% a mais de dano, são muito rápidos e consomem pouca energia. Ataques de "Uppercut" são ativados pressionando o botão esquerdo ou direito (A ou D por padrão) e clicando com o botão esquerdo. Eles sempre causam 25% a mais de dano, são bem rápidos e consomem um pouco mais de energia.
+f1a52c81-b6be-4e36-817e-0d34b2dbac5e|Pressionar para frente (W por padrão) e atacar usará um chute com alcance frontal extra. Esses golpes sempre causam 50% a mais de dano, mas são executados um pouco mais lentamente e consomem uma boa quantidade de energia. Por fim, pressionar para trás (S por padrão) e atacar usará um "movimento poderoso". Eles causam de 75% a 100% a mais de dano, sempre atordoam o inimigo por mais tempo e podem atordoar (mas não causar dano) durante um bloqueio, mas são executados lentamente e consomem muita energia.
+ef7dc12e-4bfc-488e-a8d3-fd1f7e755b05|Com a build de combate "sem treinamento"... bata e corra. Você gastará energia rapidamente e não será atingido com muita frequência. Você também não causará muito dano. Usar a build "ofensiva" exigirá mais uso de corrida em combate e evasão, mas você pode punir um erro do inimigo com um golpe poderoso e, em seguida, dar sequência a um jab ou, se for cuidadoso, um ataque mais forte. Usar a build "defensiva" é tão simples quanto bloquear e revidar. Só tome cuidado; alguns personagens também usam golpes poderosos e quebrarão seus bloqueios! Boa sorte!
+
+[Background Chatter]

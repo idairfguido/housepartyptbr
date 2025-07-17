@@ -1,0 +1,45 @@
+﻿[General]
+ControllerXSensitivityText|Sensibilidade do controlador X:
+ControllerYSensitivityText|Sensibilidade do controlador Y:
+UseLegacyIntimacyText|Intimidade herdada/POV:
+AudioSettingsText|Configurações de áudio
+GameplaySettingsText|Configurações do jogo
+DLCButtonText|Compre aqui!
+ResetCSCPrefsText|Redefinir preferências do CSC
+ResetTutorialsText|Redefinir tutoriais
+ShowTutorialsText|Mostrar tutoriais de história:
+DLCInfoText|(DLC não instalado)
+FontTypeText|Fonte:
+FontSizeText|Tamanho da fonte:
+UseLegacyIntimacyDisclaimerTextPauseMenu|(Não recomendado)
+SettingsHeaderText|Configurações
+StreamerModeInfoText|(Silencie músicas protegidas por direitos autorais e permita a censura)
+StreamerModeText|Modo de transmissão
+DoneText|Pronto
+DMCAModeTooltipText|Silenciar todos os áudios protegidos por direitos autorais
+DMCAModeLabelText|Silenciar música DMCA:
+DMCAModeInfoText|(Silenciar todos os áudios protegidos por direitos autorais)
+QuitGameText|Sair do jogo
+RightHandMode| Modo de Mão direita:
+PauseText|Pausa
+LoadGameText|Carregar Jogo
+SaveGameText|Salvar Jogo
+RestartGameText|Reiniciar
+MainMenuText|Menu Principal
+ShowFPSWarningText|Mostrar aviso de FPS:
+PlayChatterAudioText|Tocar sons de bate-papo:
+ShowDialogueText|Mostrar Textos De Diálogo:
+AudioText|Sonido:
+MusicText|Musica:
+InvertMouseYText|Inverter eixo Y:
+MouseSensitivityText|Sensibilidade do mouse:
+PatchLinkText|Pegue aqui!
+CensorNudityText|Censurar Nudez:
+ShowChatterSubtitlesText|Mostrar legendas de bate-papo:
+ConfirmContinueWithoutSavingCancelText|Porra, não
+ConfirmContinueWithoutSavingConfirmText|Por favor, Dood
+ConfirmContinueWithoutSavingPromptText|Continuar sem salvar resultará em perda de progresso e muita vergonha!
+Continuar?
+InstructionsButtonText|Instruções
+InputConfigurationButtonText|Configuração de entrada
+GraphicsSettingsText|Configurações gráficas

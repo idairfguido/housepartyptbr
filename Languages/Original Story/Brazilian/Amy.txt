@@ -1,0 +1,630 @@
+﻿[General]
+Name|Amy
+
+[Dialogues]
+0|Oi, denovo.
+0.1|Oi, oi. Sou a Amy.
+0.2|O fogo é tão lindo!
+0.3|Oi, bonitão. Que coincidência te encontrar aqui...
+1|Muito maduro, garoto...
+2|Meu Deus. Preciso de um choque de realidade. Isso aconteceu mesmo? Que nojento. Argh.
+3|Bem, obrigada. O prazer é todo meu!
+4|Acho que perdi a vontade de viver...
+5|Desculpa, garoto. Não para mim.
+5.1|Desculpa, gata, eu não curto muito essas coisas. Da última vez, misturei isso com meus remédios para TDAH, uhuu. Aquela sensação estranha de ter que ligar para os seus pais para te tirarem da cadeia por uma acusação de atentado ao pudor...
+6|Meu Deus, eu adoro eles! Vi eles em um show semana passada, e eles estavam ainda melhores do que quando os vi na semana anterior! Você é fã?
+7|Isso é "Thirty Seconds to Mars", idiota. Brendon Urie é o vocalista do Panic! Odeio quando caras dizem coisas só para te irritar. Acho que essa sala de bate-papo acabou.
+7.1|Hum, isso é "Thirty Seconds to Mars", idiota. Qual é a sua intenção, garota? Você está mentindo para causar uma boa impressão? Nossa, como eu odeio isso. Seja você mesma se quiser ser sua amiga.
+8|Bem, cada um com o seu gosto, certo? Contanto que você não os odeie, ainda podemos ser amigos.
+9|Desculpa, garoto. Não estou interessado...
+9.1|Ei, garoto, escuta. Seja lá o que for, não estou interessado, ok? Acho que já tivemos interação suficiente por uma noite.
+10|Você não ouviu? O irmãozinho dela foi preso por metanfetamina! Saiu no noticiário e tudo mais. O coitado do Derek teve que tirá-lo da cadeia e consertar a situação. Ele praticamente criou aquele garoto. O Derek está falido. Ele não presta.
+11|Ei, garoto, acho que você devia se deitar um pouco...
+11.1|Ei, garota! Acho que você devia se deitar um pouco. Você não parece muito bem.
+12|Ei, ei, ei. Desculpe, pessoal. Eu não queria interromper nada. Vou indo agora...
+13|Que porra é essa, cara? Você está fazendo isso aqui?
+14|Ah. Acho que eu estava nas nuvens. Bem, sou novo na cidade e estou tentando entrar para uma irmandade. Me colocaram em uma caça ao tesouro como iniciação. Termina amanhã, e ainda tenho muita coisa para fazer. Estou pensando em sair da festa para tentar terminá-la. Muitas das coisas da lista são... bem... constrangedoras, e eu não conheço muito bem as pessoas aqui.
+14.1|Ah, nada demais, só estou imaginando todas as maneiras que eu posso fazer o Frank te bater... na verdade... aaaaa ... Se isso for muito constrangedor para você, é só me dizer e eu vou entender. Acho que eu morreria se tivesse que fazer isso sozinho.
+14.2|Ah, não muito. Só estou imaginando como seria incrível se eu estivesse em outro lugar e não estivesse falando com você agora. E VOCÊ?
+15|Nossa. Certo. Então vou ficar aqui para ver o que a gente consegue. Obrigada!
+16|Vamos ver... a primeira coisa que eu não tenho é... meu Deus, um cartão de crédito vencido, e não pode ser meu. Entende por que eu não posso pedir para essas pessoas que eu mal conhecia? E as coisas só pioram!
+17|Nossa, foi tão legal da Madison te deixar ficar com o cartão de crédito antigo dela! Estou tão feliz que as pessoas que conheci hoje sejam tão legais!
+18|Certo... a próxima coisa que eu preciso é... meu Deus, preciso de uma camisinha de um estranho. Se isso for muito constrangedor para você, é só me dizer e eu vou entender. Acho que eu morreria se tivesse que fazer isso sozinha.
+19 | Nossa! Obrigada! Nem quero saber como você conseguiu isso!
+20 | Hmm... vamos ver. Ah, aqui está uma que eu ainda não tenho. Preciso convencer meu melhor amigo a tirar a camisa e me dar. Esse aí seria o Derek, logo ele. Ele é muito tímido. Duvido que você consiga convencê-lo a fazer isso...
+20.1 | Hmm... vamos ver. Ah, aqui está uma que eu ainda não tenho. Preciso convencer meu melhor amigo a tirar a camisa e me dar. Esse aí seria o Derek, logo ele. Droga, ele nem tem mais a camisa. Espero que você ainda consiga pegá-lo...
+21|Que bom plano! Talvez você consiga! Claro que assino!
+22|Meu Deus, não acredito que você fez isso! Que engraçado! Não vou mentir, está ficando meio engraçado.
+23|Deixa eu ver... meu Deus, bem. Essa não vai ser tão fácil. Preciso de calcinhas de mulher. Elas não podem ser minhas, e você tem que tirá-las de alguém. Boa sorte com essa...
+24|Meu Deus, não acredito que você realmente fez isso. Isso me deixa louco. Quem te deu a calcinha dela? Quer saber, esquece, eu não quero saber. Estou arrasando nessa caça ao tesouro, e é só isso que importa. Preciso ficar de olho no prêmio!
+25|Desculpe, mas a história só vai até aqui para scrims. Mais novidades em breve!
+26|Hmm. Deixe-me ver o que sobrou que não foi feito. Ops. Não sei... os últimos requisitos estão ficando bem excêntricos. Eu quero muito fazer parte da irmandade, mas não tenho certeza se vale a pena me rebaixar. O que você acha?
+27|Sabe de uma coisa? Você tem razão. Pensando bem, é meio idiota se esforçar tanto para fazer parte de um grupo. Não sou eu. Fico feliz que tenhamos tido essa conversa. Estou muito feliz em te conhecer.
+28|Você tem razão. Foda-se. Honestamente, sair da minha zona de conforto pode me beneficiar. Para ser completamente honesto, algumas dessas coisas me excitam...
+29|Hmm. Acho que as próximas são fotos que eu deveria tirar com meu celular. Primeiro, preciso de uma foto de alguém usando a bandeira americana de alguma forma.
+30|Nossa, acho que não! Perfeito. Vou tirar uma foto!
+31|Nossa, cara. Eu sei que você disse que faria qualquer coisa para me ajudar, mas não achei que fosse isso literalmente! Droga, pensei que estávamos chegando perto. Ok, divirtam-se vocês dois!
+31.1|OOOoooh bem, uau, ok, eu... oh. Uau. Legal. Excelente. Isso é... simplesmente ótimo. Vou voltar para a festa, talvez eu me divirta sendo enganado por todos os outros aqui esta noite. Vocês dois se divirtam muito.
+31.2|Oh, merda. Desculpe. Eu... pensei que estávamos nos dando bem. Devo ter interpretado mal. Jesus, e eu normalmente nem me apaixono por garotas. Deus, isso é constrangedor. Vou deixar vocês dois em paz. Preciso organizar meus pensamentos. Merda!
+32|Bem, ainda sou novo na cidade, mas tenho certeza de que encontrarei outras maneiras de fazer amigos. Agora, quero ir para a fogueira. Isso me lembra de casa, em Rhode Island. Naquelas noites frias, acendíamos uma fogueira no quintal com um chocolate quente. Bons tempos. Enfim, você quer vir?
+33|Eu sei, né? Tem algo numa fogueira que me relaxa. Talvez eu seja piromaníaco! Acho que sempre apreciei as pequenas coisas. O que você gosta de fazer para relaxar?
+33.2|Olha, eu entendo o que você está fazendo, mas... desculpe, não me desculpe.
+34|Ah. Isso é... interessante...
+35|Olha, cara, eu entendo que você está tentando me impressionar, mas não precisa se esforçar tanto. Eu só quero saber mais sobre você.
+35.1|Ei, garoto, escuta. Eu entendo que você está tentando me impressionar, mas não precisa se esforçar tanto. Eu só quero saber mais sobre você.
+36|Ah, olha você com os acessórios! Você não estaria tentando ganhar pontos comigo, estaria?
+37|Bem, você é um doce. Estou feliz por ter te conhecido. Eu estava preocupado em não fazer muitos amigos aqui. Parecia mais fácil em casa. Talvez seja só eu, mas parece diferente de alguma forma.
+38|Ei, eu sou de Rhode Island, não de Long Island, garoto. Você estava me ouvindo ou esperando uma oportunidade para enfiar a língua na minha garganta?
+38.1|Ei, eu sou de Rhode Island, não de Long Island. Você estava ouvindo alguma coisa que eu estava dizendo ou está apenas esperando uma oportunidade para enfiar a língua na minha garganta?
+39|Ok, talvez tenha sido uma má ideia. Prazer em conhecê-lo. Estou indo embora.
+40|Sabe de uma coisa, você tem razão. Não vejo por que é diferente aqui. Tenho certeza de que há pessoas de qualidade em todos os lugares. Você só precisa procurá-las.
+41|É, desculpa, garoto. Acho que não.
+41.1|É. É que eu não estou a fim. Garota, desculpa. Vou deixar passar.
+42|Sabe de uma coisa? É totalmente diferente para mim transar com um cara numa festa, mas te conhecer foi muito divertido e diferente. Tudo o que você fez me ajudando com a caça ao tesouro foi incrível, e acontece que você consegue ter uma conversa com seu pau sem pensar a cada cinco minutos. Isso é muito legal!
+42.1|Sabe de uma coisa? É totalmente diferente para mim ficar com uma garota aleatória numa festa, mas te conhecer foi muito divertido e diferente para mim. Quer dizer, tudo o que você fez para me ajudar com a caça ao tesouro foi incrível, e acontece que você consegue simplesmente relaxar e conversar. Isso é uma grande vantagem!
+43|Eu nunca fiz isso antes, mas acho que esta é minha última chance de agir como uma universitária. Me siga.
+44|Argh. Por favor, não mencione minha mãe. Vamos parar de falar antes que eu mude de ideia...
+45|Olha ali. Tudo isso e um pouco de senso de humor! Considere-me apaixonada!
+46|Nossa! Você encontrou chocolate quente? Obrigada por tentar me fazer sentir em casa. Agradeço! Você se superou completamente, mas não estou reclamando!
+47|Acho que é uma ideia incrível. O que você tinha em mente?
+47.1|Então, você gostou do que viu? Estou inspirando mais ideias incríveis?
+47.2|Quem diria que se pavonear poderia ser tão divertido, né? Falando nisso... você tem algum pedido?
+47.3|Me divertindo? Ok, eu também.
+47.4|Ah, sim, sim, com certeza! Vou seguir seu exemplo... claramente minha mente está focada em outras coisas.
+47.2| 48|Acho que deveríamos fazer algo pelas outras pessoas primeiro...
+49|Bem... Acho que hoje é seu dia de sorte...
+50|Hã... Não me entenda mal. Eu gosto de você. Não tenho problema em me divertir um pouco, mas acho que isso pode levar as coisas um pouco mais longe do que eu gostaria. Que tal fazermos algo diferente?
+51|Ah... é tão grande. Hum... ah, eu disse isso em voz alta?
+52|O que aconteceu? Estou meio ocupado...
+53|Desculpe, garoto. Parece que sua atenção está em outras coisas além de me ajudar. Estou bem de agora em diante. Obrigado.
+53.1|Olha, garoto, me desculpe, mas parece que sua atenção pode estar mais focada em outras coisas além de me ajudar, pelo que vejo. Estou bem de agora em diante. Mas, mesmo assim, obrigado.
+54|Mrph ermph emperermp rahngerurmpgh!
+54.1|Estou um pouco ocupado aqui...
+55|Era disso que eu estava falando quando disse que estas ficam um pouco mais ousadas. Preciso de uma foto minha com uma calcinha "Goodbye Kitty". Não sei onde vou encontrar algo assim. Me avise se tiver alguma ideia.
+56|Nossa, você está incrível hoje! Elas parecem um pouco pequenas, mas acho que não terei uma opção melhor. Ok, vou experimentar e tirar uma foto.
+57|Vejo que você decidiu se juntar a mim. Não se preocupe. Depois de tudo o que você fez por mim, acho que você merece um show.
+58|Continuando... Agora, preciso de uma foto minha nadando nua com pelo menos mais duas pessoas. Hmm. Acho que vou fazer isso, mas preciso de mais duas pessoas para fazerem isso comigo. Acho que você não está a fim, não é?
+59|Por que você não fica com a blusa por enquanto? Vamos descobrir quem mais vai.
+60|Nããão, de jeito nenhum, cara. Eu não vou ficar pelado primeiro. Preciso desse item, mas não tenho confiança para ficar pelado primeiro. Convença a Brittney a tirar a roupa primeiro, e eu faço isso.
+60.1|Nããão, cara! Eu não vou ficar pelado primeiro. Eu realmente preciso desse item de caça ao tesouro, mas não tenho coragem de liderar essa. Você tira a roupa da Brittney primeiro, e eu vou atrás.
+61|Ok, tudo bem para mim. Sério, isso é meio emocionante. Vamos lá!
+62|Ah! Hum... certo!
+63|Eu te desafio. Me dá!
+64|Ok, vou fechar os olhos e fazer isso. Aqui vou eu!
+65|Não acredito que vou fazer isso. Aqui vou eu...
+66|Ah! Certo! Fiquei tão imersa no momento que esqueci disso!
+67|Ah! Que pergunta! Sério, eu adoro beijos no pescoço. Nunca disse isso em voz alta para ninguém.
+68|Não, na verdade não. Mas tudo tem uma primeira vez, né?
+69|Claro. Eu teria que deixar todos nus para completar essa caça ao tesouro!
+70|Sinceramente, achei um pouco estranho você querer me ajudar com a minha caça ao tesouro no começo, mas você é um cara tão legal, e eu estou destruindo essa caça!
+70.1|Sinceramente, achei um pouco estranho você estar tão ansioso para me ajudar com a minha caça ao tesouro no começo. Mas você acabou se revelando muito legal. Acho que posso dizer que agora somos amigos.
+71|Para ser sincero, Brittney. Os peitos dela ficam tão lindos por dentro dessa blusa que não consigo parar de pensar em como eles ficam quando saem!
+72|Por que você não escolhe a Brittney dessa vez? Parece que estou no meio de um conflito!
+73|Ah, merda, você tem razão! Fiquei tão entretido no momento que esqueci. Deixa eu preparar uma cena!
+74|Bem, isso foi muito divertido, mas estou ficando tímido aqui parado assim. Devíamos fazer isso de novo algum dia. Vou entrar...
+74.1|Bem, isso foi muito divertido, pessoal, mas estou ficando muito constrangido. Devíamos fazer isso de novo, no entanto.
+75|Ah. É, acho que sim. Desculpe... Eu estava... hum... olhando. Ok, aqui vou eu...
+76|Porra, de jeito nenhum! Vamos mesmo conseguir? Vamos lá!
+77|É, desculpe. Isso tudo é novidade para mim. Nunca estive tão... aberta, eu acho. De repente, fiquei muito tímida. Ao mesmo tempo, estou tendo sentimentos que nunca tive antes. Sentimentos estranhos... como se eu estivesse realmente excitada com tudo isso. É tudo tão confuso.
+78|Sério. Quer saber, esquece. Tenho que descobrir isso sozinha; este não é o lugar...
+79|Mas acho que estou gostando. Sabe... Não consigo mentir sobre como isso me faz sentir. É difícil superar aquela vozinha na minha cabeça que me diz que isso é ruim por algum motivo.
+80|Não sei. Acho que preciso pensar um pouco mais sobre tudo isso. Obrigada por toda a sua ajuda, mas acho que devemos deixar isso para lá por enquanto.
+81|Eu... acho que você tem razão. Eu deveria ouvir meus sentimentos e me aceitar! Obrigada pela sua ajuda. Descobri coisas sobre mim esta noite que eu nunca soube, mas vou pensar sobre isso mais tarde. Por enquanto, vou fazer algo que nunca fiz antes. Dane-se! Estou entre amigos de qualquer maneira, certo?
+82|Sabe de uma coisa, você tem razão. Além disso, se eu fosse um cara, estaria rasgando a minha camisa. Argh, isso é tão injusto. Acho que vou me divertir um pouco, mas não quero enlouquecer. Não tem sentido na minha camisa, certo? Obrigada pela conversa!
+83|Hum, não poderíamos ir para um lugar um pouco mais reservado?
+84|Ei, a banheira de hidromassagem te deixou excitado por alguma outra coisa? Meu Deus, não acredito que disse isso. Ainda estou tentando me acalmar. Obviamente, ainda tenho muito trabalho a fazer.
+85|Ei, bonitão. Devo dizer que gostei do prêmio no final da caça ao tesouro. E não estou falando apenas de entrar para o clube. Bem, estou falando de "entrar", mas não do clube.
+85|Ei, bonitão. 86|Droga, é isso que posso esperar agora que estou a caminho de receber minhas cartas? Eu amo a faculdade!
+87|Parece que você já tem planos esperando por você. Eu vou... comer merda.
+88|Ai! Ufa, machuquei a ponta do meu dedo do pé. Por que essa é a pior dor do mundo?
+88.1|*Para si mesma* Bem, Amy, talvez eu devesse procurar amigos em outro lugar.
+89|Ummmm, obrigada, Stephanie. Farei exatamente isso mais tarde.
+90|Ei, cara, ouvi você conversando com a Stephanie. Ela é muito prestativa quando não está, sabe, chapada.
+90.1|Ei, cara, ouvi você conversando com a Stephanie. Ela é muito prestativa quando não está, sabe, chapada. Ah, é a Amy. Sou novo nesta cidade, então não interprete esta conversa que estou forçando como algo mais do que meu desespero para fazer novos amigos. Só consigo passar um número limitado de noites com meu gato, sabia?
+91|Você sabe que sou novo aqui, né? Não sei sobre a vida dela. Mas eu sei sobre as pessoas, e se eu tivesse que chutar, conviver com as mesmas pessoas a vida toda e ficar onde você nasceu e cresceu pode fazer você pensar muito sobre o futuro. Foi por isso que eu saí da minha cidade. Isso e o que eu fiz com o prefeito, mas eu não falo sobre isso.
+92|Não sei, cara! Deixe as pessoas viverem suas vidas. Mas elas não estão sendo realmente aproveitadas agora... Se houvesse uma emergência médica, aposto que a Stephanie sabe que pode fazer algo para ajudar. Mas isso é totalmente hipotético. Porque criar uma emergência médica do nada seria um desastre... né?
+93|Mas se uma emergência médica acontecesse do nada, sem a ajuda de ninguém, seria bem engraçado se acontecesse com aquela garota, a Katherine, que disse, e eu cito: "Só porque você é chinesa não significa que você seja mais inteligente do que eu." Isso seria bem engraçado... mas só se uma emergência médica acontecer "do nada".
+94|Correto. Só se acontecer "do nada", bem, vou embora agora e agir como se nunca tivéssemos conversado sobre isso. Porque não conversamos. Tchau!
+94.1|Correto. Só se acontecer "do nada", bem, vou ficar aqui enquanto você vai embora e agir como se nunca tivéssemos conversado sobre isso. Porque não conversamos. Tchau!
+95|Katherine, dá uma chance a ela. Steph sabe brincar de médica. Ela está pensando em estudar esse tipo de coisa. Ela até aceitou que terá que largar as drogas e o álcool para isso! Não é ótimo?!
+96|Foda-se! Stephanie desmaiou! Alguém venha ajudar!
+96.1|Ah, merda, o que foi isso? Foi... foi a Stephanie? Rápido, alguém ajude ela!
+97|Você viu como eu fiz a Stephanie ir ajudar a Katherine? Não sou muito de me vingar, principalmente quando estou tentando ser amiga, mas não gosto muito da Katherine. Steph, não sei muito sobre ela, mas ela parece meio babaca. Só pensei: por que não ver o que posso fazer pela minha amiga Katherine? Hehehe
+98|Arte? Meu pai é curador de um museu de arte e minha mãe é uma fotógrafa premiada dos anos 80. Ela tem histórias malucas daquela época, como a vez em que tomou ácido com o Sr. T... aff, preciso relaxar. É, eu entendo de arte.
+99|Nunca ouvi falar de nenhuma festa que exija uma escultura. Eu deveria ter feito uma escultura? É uma festa do tipo "traga sua própria escultura"? "BYOS"? Espero que ninguém tenha pegado o pinguim que a Ashley trouxe para a garagem. Era isso que eu usaria como base para a minha escultura, mas ela pareceu querer.
+100|Caramba!
+101|Hum, hum, não conte a ninguém, mas eu definitivamente acabei de tomar um Hyperall. Eles me foram prescritos para me ajudar a estudar, mas também me tornam muito sociável. E hoje à noite eu vou fazer uns amigos, nem que seja a última coisa que eu faça. Ou a primeira coisa que eu faça. Quer ser meu amigo?
+102|Tenho quantos eu precisar. É tudo o que tenho a dizer sobre o jeito.
+103|Não consigo piscar, meu Deus, por que não consigo fechar os olhos? O... hum... bem, não consigo parar de olhar para isso! É, sim, é ótimo, sim! Estou tão feliz por estarmos todos aqui com essa arte!
+103.1|Não consigo piscar, meu Deus, por que não consigo fechar os olhos? Ma... hum... bem, não consigo parar de olhar para isso! Mesmo que eu queira muito! Merda, eu disse isso em voz alta?
+104|Hmmm... é algo sobre o Purgalicious, ou algum drama feminino. Mas ele não me contou muito sobre o segundo...
+105|É, cara... o gato dele? Ele nunca te contou sobre o "pequeno Pergie"? Hã. Enfim, aconteceu alguma coisa com o Pergie. Não conversamos sobre isso, mas eu o vi chorando e conversando com a Steph sobre algo mais cedo... Acho que tinha a ver com o Pergie.
+105.1|Purgie? É, ele está obcecado por aquela bolinha de pelos. Achei que algo pudesse ter acontecido. Eu o ouvi conversando com a Stephanie mais cedo, mas ainda não tive a chance de colocar o papo em dia. O Purgie sumiu? Cara, que chato. O Derek provavelmente precisa de um abraço agora.
+106|Ei... O Derek disse que você me chamou de "Boneca de China" e que "quer me amar por muito tempo". Espera, não estou me precipitando quando pergunto, qual é o problema, cara?
+107|Uhhh, que... não, ele LITERALMENTE não está. Você estava transando agora? Nossa... hora de ir. Fique longe de mim.
+108|Uh, sim, incrivelmente. Como você não entende isso?!
+109|Bem, tudo bem. É, eu gostaria que isso não tivesse acontecido, mas pelo menos parece que você está disposto a crescer um pouco... Acho que te vejo por aí. Seja uma boa menina.
+110|Ah, tá, sim, sim! Qualquer coisa para me distrair de ranger os dentes! Esses malditos Hyperalls, cara!
+111|Então é isso? Está... chegando. Espera, ele piscou para mim?!
+112|Bem, precisa de ação. Por que chamam de "O Pensador"? Ou "O Grito"? É porque isso está literalmente acontecendo na arte. Nossa, pareço tão profundo agora. Meu pai ficaria tão orgulhoso.
+113|Desculpe, o que estou dizendo é que você precisa de ação aqui. O que esse passarinho vai fazer? Desculpe, estou tentando me conter para não usar bobagens. O que esse passarinho bobo vai fazer?
+114|A verdade nua e crua sobre a arte é que a melhor arte é aquela que é sexual. É por isso que existem cucos e pelos na maioria das artes antigas. Elas eram todas sobre sexualidade. Você tem que dar um pouco de sexualidade a esse pinguim. Quer dizer, ele tem um buraco na virilha. Coloque um pouco de pássaro nesse passarinho malvado! 
+114.1|O segredo sujo da boa arte, que poucas pessoas sabem, é que a melhor arte geralmente é aquela que provoca algum tipo de resposta sexual no observador. É por isso que há tantas caudas e pelos pubianos na arte antiga. Este pinguim precisa de sex appeal. Quer dizer, ele tem um buraco na virilha. Isso é o oposto de sex appeal. É quase como se algo estivesse faltando. Não vou especular sobre como resolver isso — isso é problema seu —, mas tenho certeza de que você é criativo o suficiente para descobrir algo. Mas, na minha opinião... não use comida. Isso seria um pouco estranho e nojento.
+115|Muita arte moderna tenta dizer algo. Trata-se de enviar uma mensagem para a pessoa que aprecia a arte. Este pinguim não está dizendo muita coisa agora. Ele tem uma placa e tudo. Tente usar esse espaço para enviar sua mensagem.
+115.1|A maior parte da arte moderna tenta dizer algo. É tentar mandar uma mensagem para a pessoa que aprecia a arte. Este pinguim não está falando muito agora. Mas ele tem uma placa e tudo. Tente usar esse espaço para passar sua mensagem. Mas não seja tão óbvio, tipo, eu não recomendaria nada hipercomercializado. Sem muito dinheiro ou política, isso já foi exagerado.
+116|Ugh, que porra é essa? É como se alguém tivesse colocado uma vela perfumada no meu olho!
+117|Ugh, eu não queria acreditar na Katherine, mas ela estava certa. Os caras literalmente só querem uma coisa, e é nojento pra caralho! Você é nojento!
+117.1|Pare com isso! Meu Deus! EU NÃO GOSTO disso. O que há de errado com você?
+117.2|Porra... por favor, pare! Por favor! Meu Deus... Eu não consigo fazer isso... Eu só queria conhecer pessoas e talvez terminar algumas caças ao tesouro previsíveis. Eu não posso... Vou embora. Eu NUNCA vou te perdoar por fazer isso.
+117.3|Porra... por favor, pare! Por favor! Meu Deus... Eu não posso fazer isso... Eu só queria conhecer pessoas e talvez terminar algumas caças ao tesouro previsíveis. Não posso. Cadê o Derek?! Argh, esquece. Vou garantir que ele saiba disso!
+117.4|Ei, o que houve? Mãos para você, gata! Eu não sei se você gosta disso!
+118|Ah, sim, isso é tão bom. Como... como eles se sentem? Ah, seja safada quando responder... ninguém fala sacanagem comigo!
+119|Meu Deus, perfeito. Por favor... sim!
+120|Ah, quer saber... esquece. A gente só tem que... entender a essência.
+121|Isso é realmente maldade sua... ou você está apenas "vivendo a sua verdade"? Merda. Relevante, mas não engraçado nem sexy, Amy. Bom, pelo menos você acha TUDO ISSO sexy, certo?
+121.1|Cara! Tempo! Tem gente por aí!
+122|É, em que contexto? Eu sei o que são, se é isso que você está perguntando.
+122.1|Uhh, nossa... é dois a dois hoje à noite, hein?
+123|Ahhh, claro, a espada Katana, usada por guerreiros samurais. Do Japão. Que sábio da sua parte vir até mim com essa pergunta, gafanhoto. Por favor, deixe-me ver a espada.
+123.1|Você já jogou a bola uma vez hoje à noite, e AGORA está presumindo que eu entendo de armas ninja. Não. Estou. Interessado.
+124|Sim, sim, esta espada tem muitas histórias para contar. Mas receio que minha visão não venha de graça.
+125|Não posso continuar com isso. Eu ia te ferrar pelo resto da noite, mas você já me ajudou a riscar algumas coisas da minha lista de caça ao tesouro, então ganhou algum crédito comigo.
+125.1|Está claro que você não está pronto para aprender mais sobre esta reverenciada arma ancestral. Continue me ajudando com minha caça ao tesouro para aprender mais sobre seu significado e sobre você. Então, e só então... você estará pronto. Sem perguntas. Agora cace, gafanhoto!
+125.2|Está claro que você não está pronto para aprender mais sobre esta reverenciada arma ancestral. Somente embarcando em uma jornada épica de descoberta você será capaz de entender o significado da katana e de si mesmo. Felizmente, tenho um teste pronto para você... uma caça ao tesouro!
+126|Sem dúvida! Isso é quase ofensivo! 1. Sou descendente de chineses e 2. Nasci em Rhode Island.
+127|Mas não preciso ser um guru samurai japonês para saber que essa espada é algo que um garoto gordo compraria num parque de diversões. Olha, até diz "Propriedade do Kurt" aqui. Essa espada é lixo! E grudenta, então pode retirar.
+128|Você acertou. O Derek foi uma das únicas pessoas que se dignaram a conversar com um novato como eu. Ele é um cara legal. Ele me disse que vocês se meteriam em coisas realmente estúpidas no passado.
+128.1|É, não sei se você sabe disso, mas o Derek e eu dividimos uma aula juntos. Nós dois fomos em busca de notas A fáceis, então fizemos Introdução à Nave Espacial Fictícia, o que é irônico porque a matemática por trás das viagens na velocidade da luz é INCRÍVEL. Aliás, é legal combinar um rosto com todas as histórias que ele contou sobre você. Ele me contou umas histórias bem profundas do espaço sideral.
+128.2|Você é a pessoa que o Derek disse que era macia como manteiga? Imagino que um cara tão em forma quanto o Derek esteja usando algum tipo de creme de soja na torrada matinal, porque VOCÊ não é o cara.
+129|É verdade que vocês tentaram formar uma boy band antigamente? E o nome da banda era mesmo "Softass Boys"? Como grande fã de música, eu aprecio isso. Como grande fã de boy bands que odeiam, só consigo achar que é a coisa mais ridícula que já ouvi. Mas também meio fofa.
+130|Ah, não! Espero que esteja tudo bem. Vou procurar... obrigada por me avisar!
+131|Ah, não! Quando você expõe sua arte para o mundo, você quer separá-la do mundo! Porque o mundo é MUITO bonito. Aí, em algum lugar oposto à Terra... em algum lugar PLANO! Ah, não, e! AYYYYYYY... se a peça tiver uma conexão pessoal com alguém, exiba-a em algum lugar ESPECIAL para essa pessoa! Estratégia artística de ponta de 2020, mano!
+132|Você está cheio de boas ideias hoje à noite, não é? Sorte sua... minha cabeça está exatamente na mesma coisa. Só um segundo...
+133|Obrigado, mas estou bem. Este "cenário" me serve muito bem por enquanto.
+133.1|Ah, uma mudança de ares, hein? Que ótima ideia! Vamos começar com, hmmm... sei lá... algum lugar onde você não esteja?
+133.2|Como um vilão! Quer dizer... uh... é... desculpe. Estou totalmente pronto! Para onde devemos ir?
+134|Ah, essa é, uh... uma pergunta e tanto! Isso é tipo verdade ou desafio? Acho que eu teria que escolher o tamanho do pênis. ... Posso ter uma pergunta diferente agora?
+135|Como é? Sou sino-americano, não "étnico", e sou da porra de Rhode Island!
+136|Ei, ei, ei, calma. Me corrijam se eu estiver errado, mas acho que não somos próximos o suficiente para termos essa conversa. Talvez tentar amolecer uma garota antes de me aprofundar nas minhas preferências sexuais?
+137|Ok, não vou ter essa conversa com nenhum de vocês agora. Vou procurar outra coisa para fazer enquanto vocês dois resolvem isso.
+138|O quê? Eca, não. Deixa eu adivinhar. Esse babaca te arrastou para isso. Jesus Cristo, sua missão hoje à noite é me ofender de todas as maneiras possíveis? O que te faz pensar que eu ficaria remotamente bem com algo assim? Sai de perto de mim.
+138.1|Ummmm, puta merda, o que está acontecendo agora? Acho que preciso de um adulto. Espera, eu sou um adulto. Droga. Odeio ser um adulto e você estar me fazendo lidar com isso. Hum... uh, quer dizer, vocês dois parecem legais, mas eu não me sinto confortável o suficiente com nenhum de vocês para... bem, isso. Ok, estou indo agora porque não sei mais o que dizer. Ok, tchau!
+138.2|Quer dizer, sim, eu ESTAVA superentusiasmada, mas isso foi antes e agora é agora. Você tem agido como uma vadia desde antes, e eu não gosto dos seus joguinhos. Honestamente, toda essa situação está ficando suspeita a essa altura. Por que você não deixa com o trio por enquanto, pelo menos até me convencer de que não está só brincando comigo?
+139|Merda, eu uh. Nossa... Quer dizer, eu pensei que ser um pouco mais ousada abriria novas oportunidades, mas nunca pensei... Quer dizer, nossa, nós dois juntos? Ao mesmo tempo? Mas como poderíamos...? Quer dizer, sim. A resposta é sim. Só sei que é a primeira vez que faço algo assim e-
+139.1|Nossa, você REALMENTE quer que eu me dedique a essa vida de irmandade, não é? Bem, eu disse que aceitaria hoje à noite. Além disso, nunca fiquei com uma atriz pornô antes. Aposto que você poderia me mostrar uma coisa ou duas. Que droga, nunca fiz um ménage à trois! Merda, estou fazendo isso de novo, não estou? Onde é que eu fico falando porque estou nervosa? Hum. É. A resposta é sim. Ficar com você foi o ponto alto da minha mudança para cá. E agora... agora com vocês duas. Nossa. Merda, nem acredito que isso está acontecendo na MESMA noite. Quer dizer, eu sei que provavelmente...
+140|Uhhhh... uh huh...
+141|Sabe de uma coisa? Acho que o vi dando para a Brittney guardar. Deve ser algum tipo de coisa estranha de confiança loira, porque Madison se ofereceu para trancar no cofre dele e ele a ignorou completamente. Foi meio engraçado, na verdade, e provavelmente a única razão pela qual me lembro de tudo isso.
+142|Excelente. Você voltou E está se expondo. Ganhei na loteria?
+143|A Madison precisa de mim? Ah, tá. Estranho, mas... claro. Diga a ela que estarei lá em cima.
+144|Meu Deus. Meu Deus. Me desculpe, Madison, eu não queria... Quer dizer, eu não vi nada... Quer dizer... Eu vou... recuar e fingir que não vi nada. ... Meu Deus, uh... é... Desculpe, desculpe, desculpe...
+144.1|Caramba, eu não tenho ideia de que tipo de exposição de arte é ESSA, mas a escola de arte para a qual meus pais me mandaram certamente não me preparou para nada assim.
+145|O quê, outra? Não era bem o que eu esperava indo para uma festa na casa da Madison, mas estou super a fim. Pode contar comigo.
+146|Brittney? É, acho que a última vez que a vi foi lá em cima, mas faz um tempo que não a vejo. Espero que ela esteja bem.
+147|Pânico?! Vocês são incríveis! Vi vocês duas vezes no último mês e pretendo voltar na semana que vem. Devíamos ouvir vocês juntos algum dia. Sei todos os detalhes sobre vocês que ninguém mais sabe. Vai ser como assistir a um filme com comentários do diretor!
+148|Nossa, é, sinceramente, eu estava pensando a mesma coisa! Sou de Rhode Island! Sinto muita falta de lá também... Tinha uns amigos incríveis lá, mas senti que precisava sair da rotina e começar uma nova aventura. Então, aqui estou!
+149|Vocês são definitivamente o grupo mais louco que já conheci, mas eu gosto muito da vibe. Obrigada por se esforçarem para me fazer sentir bem-vinda!
+150|One Direction? Blegh, vocês deveriam conversar com a minha irmã. Vocês duas podem desmaiar com traições tão complacentes. Só vou em uma direção, e é para longe desta conversa.
+151|Bem, acho que algumas pessoas odeiam suas cidades natais, mas eu amava a minha. Rhode Island foi um lugar incrível para crescer. Aliás, falando sério, você está mesmo em posição de insultar o sotaque de alguém? Não quero dizer que o seu seja ruim, mas provavelmente soa tão estranho para os moradores de Rhode Island quanto soa para você.
+152|Eca, eu odeio filmes sangrentos. Tipo, eu consigo curtir um bom filme de terror, e até gosto daqueles que são estranhos e mexem com a sua cabeça e te deixam com medo de ir para a cama sozinha, mas qual é o problema com cenas sangrentas e nojentas? Eca. Eca mesmo. Desculpa, criança, mas você está por conta própria se essa é a sua praia. Definitivamente não é a minha.
+153|Meu Deus, isso é... perfeito. Você é incrível, Brittney, obrigada! Era exatamente o que eu precisava agora. Essa pode ser a coisa mais atenciosa que alguém já fez por mim! 
+154|Ah, Brittney! Isso é tão fofo e eu adoro a vibe. Posso ser uma garota progressista, mas quem não ama uma flor bonita? Eu realmente aprecio o gesto. Obrigada!
+155|Uhhh, você sabe que eu só entrei para a irmandade para me encaixar, né? Eu nem curto esportes, nem tenho muito interesse em irmandades, para ser sincera. Quer dizer, claro, estou tentando, mas sou super cética. No entanto, eu DEFINITIVAMENTE não sou o tipo de garota que faz dedos do meio gigantes de espuma em eventos esportivos. Eu diria que é aí que eu traço o limite, mas eu meio que o tracei MUITO antes de chegar a esse ponto! Desculpe, pode retirar sua... mão gigante de espuma.
+156|Meu Deus, você está falando sério? Porque eu estava sentindo essa vibe com você e não tinha certeza se estava mesmo sentindo essa vibe ou se era só uma vibe de festa e... O que eu estou dizendo é, é, vamos relaxar em outro lugar. Talvez lá em cima, no quarto de hóspedes?
+157|NÃO USADO
+158|Meu Deus, vocês... vocês estão falando sério? Essa é a festa mais louca que eu já fui até agora, e eu fui à festa de 40 anos do prefeito em Rhode Island... Isso é um nível totalmente novo de "incrível pra caralho"! Ok, vamos lá! A gente devia subir para o quarto de hóspedes em frente ao estúdio. Eu não vi muita gente entrando lá, e a gente podia ter um pouco de privacidade! Nossa, estou tão animada e excitada agora.
+159|Ei! Estou meio ocupada agora. Quem sabe a gente se põe em dia daqui a pouco?
+160|Brittney? Sério, não, eu não a conheço muito bem. Já tentei falar com ela várias vezes, mas ela sempre fica meio sem graça e depois tudo desanda. É meio estranho, pra ser sincera. Talvez ela seja só uma daquelas garotas que precisa se aproximar de alguém. Enfim, é, eu realmente não sei!
+161|Nossa. Hum... obrigada! Agradeço muito!
+
+[Responses]
+a25654fd-820d-4960-89e9-c7910293bea2|Engraçado você perguntar, eu... ah. Claro. Deixa pra lá então.
+c689f46a-486b-49b7-9736-6109c4bd9a8a|Pode-se dizer que ele já me deu a camisa do corpo... é isso, certo?
+24d83433-403f-42ce-ab7a-8fcbb81fa8d0|Às vezes eu coajo outras mulheres a se despir em festas!
+3641fe47-aa0e-4aea-90f2-ceaeeb5415e1|O que você acha de me adicionar à sua lista de caça ao tesouro?
+f670ae78-a032-4351-8b63-79fdb5877f4b|Amy, como uma fanática por lingerie, preciso ver esse sutiã adorável!
+fa683a9a-5380-4c09-9336-5661f2fa6c21|Calma, gostosa, vamos dar uma pausa!
+ad01e531-460c-4a52-a88a-bc057e36f65c|Faz um tempinho que ninguém me faz um boquete.
+5ad53369-4e64-4965-a27e-58eea45ab540|Só relaxa e deixa eu te olhar um instante...
+4ebc6d9a-1467-4174-a8d6-f37707bed8a3|Deixa pra lá, me ignora. Isso é perfeito pra caralho.
+3bb44eb0-bcd0-4cca-b3ac-77133e71b404|Deita de costas, preciso te provar.
+5f9b96fa-dab6-410f-99f8-fd3f44d1fe92|Tudo que sobe tem que descer... tá, brega. Só coloca essa boca em mim.
+fec8d2d8-5408-4b8d-b3a2-ed8b7eeac15c|Traga esse rostinho lindo um pouco mais para perto...
+5f29d04a-aea2-4af6-9635-9367068d95ed|Estou gozando! Merda!
+7b6d86b9-c4d5-45e3-a93d-564cbb192aff|Sessenta e nove!
+5c437b02-566a-494e-a0c7-280386c61052|Deite de costas, preciso te provar.
+b42829a1-9af4-4e3f-87fa-de3223716f24|Traga esse rostinho lindo um pouco mais para perto...
+d7f39583-05f4-4835-ba8f-ef0b67a14748|Não aguento mais, Amy. Preciso te foder.
+19a06525-6dd2-46e2-bd8f-859c2426785f|Não aguento mais, Amy. Preciso te foder. (POV)
+d545d632-0c65-4764-b48c-11ca97b74d38|Oh, shhh, Amy! Quase lá... aqui estou eu... Hoderrrr!
+2d9a9238-5733-44e0-852d-1da6ed906f4a|Na minha humilde opinião, a Amy Pelada é a melhor Amy!
+44c69c11-7a77-4d16-81ac-fa4e89dbab9f|Sim, sim, seria mesmo. Falando em Steph e alta velocidade, preciso ir!
+0aa339e9-4905-44e6-bbc1-cf8f04182f88|Por que a Steph não parece interessada em nada além de festejar?
+02fa03ef-a990-4569-a2b2-52508f1e67d2|Consegui, consegui. Nota mental: é só esfregar do jeito certo...
+e008b6c3-cb81-46bd-98c7-649eb4cd8210|É, isso não está me ajudando muito.
+01f09b98-3d08-443e-8d5a-77703b8bb10e|Vamos ficar perto daquele quadro maluco perto do armário de bebidas. Porque isso é normal.
+b6f8549d-2be0-4937-9ee5-5f8b284328f6|Vamos ver o que está acontecendo lá em cima.
+21fc7870-39ad-430d-8133-fd2207b55c82|Vamos lá fora!
+03b370b5-fc46-420b-8574-a8c36d9c571c|Está ouvindo? Essa música é incrível! Vamos ver se alguém dança.
+da9185b7-cfbc-40bd-a9d8-a2a9ab9aee99|Hm, bem, o Derek parecia chateado com uma... 'emergência escolar'. ...É. Vamos ver.
+f54ecfd6-2dd6-4067-9568-a9afb24f0bec|Então tá.
+4e9577d1-dfca-4e98-be0c-586d6af8ceea|Na verdade, não importa. Este lugar está acontecendo!
+2954118e-5dc3-4181-8775-fbd3bb45dd35|E que resposta! Obrigada!
+91c796c9-3333-49f5-ab68-6df89341d560|Ei. Eu definitivamente merecia esse ponto.
+8d586ca2-5ef6-4cd4-9fe6-f81cbc693b0a|Devidamente anotado, Amy. Devidamente anotado.
+a542d157-0e62-4436-bff5-147664993097|Acho que não posso te culpar...
+21d4fd4d-d62a-4673-93c9-26866e36524d|M-m-mas...
+3fd6f270-5700-48cb-a89c-a9975b5219cd|Aham, Vickie?
+ede65d54-dd82-40ea-8c2b-c114efdd21ea|Viu? Esse é o som de estar 100%, total e completamente pronto.
+faf43962-4671-4910-91a1-f1a04bb64dda|Ótimo, obrigada, Amy.
+73721eb2-de41-433b-8b91-051bf78613ba|Obrigado, Amy!
+6fc7d3b9-e12b-403e-b5e2-582e36ff65ff|*Pegadinha bem-sucedida!*
+efa72360-3bf9-4ad5-aae1-d3d232d64232|*Continuar*
+dccc8650-6c09-4761-85e1-5ff27f714a17|Somos pessoas muito artísticas.
+4e847838-8029-4e22-b322-bff22f8fada7|Obrigado, Amy!
+5719e069-5229-41b3-8e5d-f2ce38306d9e|*Fechar*
+d78b4037-c8d0-4e1b-b593-1ea9e30df640|*Fechar*
+d82d0ae6-83cb-4264-b3a1-8f99dceaeee2|*Fechar*
+8987cdb5-9891-46a1-9d54-654748d46100|*Fechar*
+cab2a6bf-0fb5-4f63-86c1-7bb0ec63074f|*Fechar *
+08d7a719-3e0e-44b3-a38f-ba3dd4f1a3ad|*Fechar*
+d67db424-6aa4-4f2e-b8cc-fec07f68116a|*Fechar*
+b60f62f7-dec7-4e10-9e1f-05b3dc6b88cc|*Fechar*
+42a1f9ec-0a38-48be-9651-898f5aceb07a|*Fechar*
+a5dc9a52-0aca-425b-84e0-b383136c8ced|Pode me chamar de Cupido porque acabei de atirar duas flechas de amor.
+1eee1f64-bedb-45b2-8f62-b3db13786fba|Digite seu texto de resposta aqui.
+bed9c0d5-8fb8-4c24-bcb2-c1fb2cc07071|Você não acha que deveríamos tirar uma foto para lembrar deste momento precioso?
+22ddf5c8-89a4-4558-b1c1-88c950363704|Sem problemas.
+6bb19fe5-b1c2-4188-a827-a36d608f254f|E aí! Só relaxando, né? Que tal mudar de ares?
+ce022fab-1c6c-4531-b31e-520aca510507|Só queria perguntar: o que é melhor: bolas grandes ou pênis grandes?
+16253156-cd27-4081-8439-0c2a28b60160|Oi, Amy, você viu o celular do Patrick? Não consigo encontrá-lo.
+cc6969ce-35fb-48e8-823d-38ca1b122eab|Você ouviu alguma coisa sobre o gato desaparecido do Derek?
+9dff5d6e-b485-4b6f-949c-bb96c62a3f64|Madison disse que precisa de você quando tiver um minuto. Ela está lá em cima, no quarto dela.
+cec3a115-1ba5-4bd9-bdc4-2d6b582a0afc|Madison está organizando uma exposição de arte no quarto dela e queria que eu te convidasse.
+26d92945-8843-46e9-a20f-06d41b23f3ec|Você sabe onde está a Brittney?
+d26f08a4-aeeb-4b6f-8b5f-7dfbba662892|Você sabe alguma coisa sobre a Brittney ter uma queda por alguém?
+4ba32380-a71f-4039-9cca-fd871d7e5947|Ei, aquele chocolate quente que ouvi dizer que você adorava? ...Para sua informação, talvez eu tenha tido uma pequena participação.
+c08e7271-d92f-436d-821d-34a099eb4de1|Vamos mudar isso, o que você acha?
+a48ad37a-7b84-49e9-95f9-d535a5d1aa17|Estraga-prazeres.
+1af4882e-8fd9-4748-ad66-9ff25daf073d|O quê?
+b9b895f6-67f4-4c60-9f46-de54cfa4d835|Mas essa cantada era ótima!
+9de34f65-8e8b-4d6e-8708-8ef18c7c4b79|Ah, bem... merda!
+593f9580-9491-480c-813d-40aea8823b82|Sinceramente, são bons, mas não são os meus favoritos.
+ae6a4392-4750-406b-9d5f-4309904288aa|É, eu adoro o vocalista deles! Jared Leto é o melhor!
+df4160c4-354d-4ebe-8f1f-2202b252a501|Caramba, tô ferrado...
+bd5c0908-eca9-43cb-b93e-2ba326b1a159|*Suspiro*
+4133056a-0f3e-4a42-9630-9651727e413a|É.
+6bade183-c342-4ab4-ae16-fbb25d649ec3|Foda-se essa merda. Odeio caças ao tesouro. Boa sorte.
+7743dfbd-f41d-4d75-8f6e-53e39c0c0342|Eu posso te ajudar. Sou muito bom em encontrar coisas!
+5f630314-917a-46da-8999-a1ee60f5aab8|De jeito nenhum! Estamos bem por aqui, Frank! Pensei que fosse uma cerveja... alarme falso!
+828a1556-f4b3-4880-b325-4c97b4afaeaf|Sem problemas!
+b22532d1-55a2-418b-b9d7-df52eb08a682|Deixa comigo!
+42ab3106-b66b-415f-809e-e5b54bc3d4a8|Ah, é mesmo, ela é a melhor!
+e971534b-7c1c-4e29-8428-334f02e9f7d7|Eu cuido disso!
+335eabc2-2337-484e-b41e-ac5647b037df|É, provavelmente é melhor não fazer isso...
+92942ba1-76a6-4ecb-9d44-4c63dff3af9f|Vou dar um jeito!
+152e09d5-4d83-40e4-a968-74b73e83a5bb|Às vezes me surpreendo...
+33e774f1-d83a-4d0b-b3e1-52ef07fbbc9b|Eu faço o meu melhor.
+72f9c2e4-eee7-449f-93a9-3cc233c2200d|Você esqueceu com quem está falando?
+5bd4d13d-047c-4588-b262-2f93fd635252|Para com isso, mãe!
+447361e4-6781-464a-b344-a84812f5e83f|Muito obrigada por tudo o que você faz por nós, os criadores do House Party!
+4283e8b3-d0b3-4bb0-993b-359616a0ae5c|Mantenha a dignidade. Que se dane o clube. Você vai se arrepender se entrar para eles!
+d68684af-90e7-469f-9fc3-6ab58dc9d8c0|Entrar para um clube universitário pode abrir muitas portas para você. Eu faria o que eles pedem. É só um pouquinho de diversão, né?
+2050adfb-d94f-40f4-b1e5-15540b4ecfa8|A sensação é a mesma!
+93b65666-113b-47bf-bf66-691a466bc4e0|Essa é a minha garota!
+3154e95c-84b3-4aba-b866-6353359d3a1c|Vou ver o que posso fazer.
+e5057258-d57c-440b-a92c-a3146046e87e|Caramba.
+d3b752b2-eeb1-4f03-bd21-946c1e0e388d|Eu não falo com ninguém de Rhode Island. Desculpe, isso acabou.
+29f311ca-ac8d-4e1d-aa7a-9ba27bbac485|Sim, claro, parece ótimo! Eu adoraria ir com você!
+b82550f0-d25c-4f47-a0bd-e243643247b5|Ouça Panic!! at the Disco! Obviamente!
+d5d322f2-986d-494d-bf32-7c2678b1a8d1|Normalmente, vou ao campo de tiro e dou umas tacadas.
+325c537b-7f0d-4071-89bd-b451938f2dca|Procuro a companhia de pessoas interessantes como você.
+46ba8be4-7e2b-4567-86e8-bafd1c52b66b|Costumo sentar em uma banheira cheia de gelatina de morango.
+58826663-e91f-44ba-9766-ab276d2a2610|Às vezes, chantageio mulheres para fazerem striptease em festas!
+f9545e42-a0d6-4d34-9c88-107e9cd33dd3|Só quero te conhecer melhor.
+8d695ac0-3e08-46ef-a111-b8d7872894c4|Você pode me culpar? Você é tão sexy.
+a21bf7a0-81ca-484c-8cb3-37696c49ccfe|Long Island parece um lugar interessante. Eu adoraria visitar um dia.
+fa586ca4-f2b7-4b36-8f56-c286811e087f|Não importa onde você está, mas quem você é.
+705239eb-22b7-4d83-81c1-cdec9caedb54|Falando nisso. Devíamos nos beijar!
+edcc1915-0521-4a79-b5e7-eb3e56fecc8a|Desculpe. Tenho um aparelho auditivo por causa de um acidente com a cadeira de jardim.
+4fe55812-2d16-463a-a88e-de6434665838|É, para mim é mais ou menos a cada seis minutos.
+4585cc77-a83f-4c60-9878-f10e5d019886|Então, quando posso conhecer sua mãe?
+28eee6a2-b5bf-442e-8c10-d8790af1a414|Foi um prazer conhecê-lo!
+1fc5cc4f-33e3-4e33-9dab-15e9a3daee28|Vá em frente!
+a9e3b323-8bd2-489a-b5f6-2536779d3e22|Droga!
+7e0096bb-129e-4279-9c48-50085000f9f6|É assim que eu faço.
+4aab29a3-eea0-4c9a-b268-fbf1b74faf4b|De nada.
+cd1ba5fc-e107-44db-b35e-863d754de644|Você pode me defender, por favor?
+08737fa9-8b45-48cb-ac8c-29b16328328d|Posso dar uma olhada nos seus seios?
+8c7f0a0f-8ff9-4e72-a0dd-92dd4793ac71|Vamos vestir sua camisa.
+c2e3fb5a-f46f-496e-8e45-53d4fbca5a39|Você poderia tirar a calça para mim?
+ba5df538-3a59-4b1f-a461-226d05708584|Isso pode parecer contraintuitivo, mas eu adoraria que você vestisse a calça.
+89722919-95fc-4915-b412-6cc6764390dd|Posso ver o que tem por baixo dessa calcinha?
+b34de681-4fdc-47a8-9f77-c417dc3964d3|Coloque sua calcinha de volta. Ela era tão fofa!
+7dfb4b80-7995-486c-ac1b-1a7f388ba940|Faz tempo que não faço um boquete.
+e6da15c8-e756-475b-8b9f-6ca0b947b388|Que tal eu comer sua buceta?
+ce8e2bd3-c337-4b03-8c17-d1c860e8ffea|Não aguento mais, Amy. Preciso te foder.
+eff22684-44b0-46ab-905f-f275adff549b|Não aguento mais, Amy. Preciso te foder.
+2d2a0712-b518-4e2a-ae82-7570e86ea5ee|Sabe de uma coisa? Esquece. Você não pode fazer isso.
+41b03b48-9ee2-46fb-afc6-cf9445532c5a|Certo. Já estou cuidando!
+9928aac8-fefa-48a2-8c3c-a9c0010649ca|Sim, por favor!
+40331136-0200-4210-ac38-c24c6261323a|Então tá...
+40c9c675-4b56-4e68-a44b-f7e5602efecc|De nada.
+382b1ce5-cc83-4eb8-b29c-7f102a8d6da1|Vamos para o Sixty-Nine!
+c404c250-0c86-4947-9c44-f36173f50474|Suba em cima de mim!
+d33a39b5-b9ee-48a5-aa56-d93458e5cb59|Deixe-me subir em cima!
+08fbcf41-adff-407e-a491-3a0488cadfb7|Deixe-me seguir você!
+18a8841e-27d0-4c1a-b064-5814e88bab85|Me pega.
+e8b2e8b1-c661-4c61-88bb-a4441fa267e2|Ah, certo. Desculpe. Esqueci que você estava ocupado...
+94e0f695-9cd3-4c76-8715-87a5086b08b4|Vou ver o que posso fazer.
+8a0cfa96-2839-4b74-9f2d-37560d3fa8c9|Parece bom!
+bce2aff1-e4eb-4f46-b754-dd7684a1ce63|Nossa! Ela nem está brava!
+71a3ac12-cd42-4276-a727-3f271d13bc46|Claro, tiro a roupa agora mesmo se você quiser.
+bde5ceaa-423c-487c-bc1e-8cdf0d3d12e4|Desculpe, acabou. Você está exagerando.
+10bd409c-a1c4-4d27-ad9b-b95bfae26201|Já estou cuidando disso!
+920a76f0-8c99-42b7-a479-af5feb8e7071|Siga meu exemplo quando chegarmos lá!
+ee0cc4e8-3fe1-4598-94a9-f7bbd754b8b9|Qual é o seu lugar favorito para ser beijado?
+916cbbb6-b045-44d2-94fc-19e5641c8a54|Você já beijou outra mulher?
+feb2c6a0-8f46-46a5-9cb3-a16f657e4d50|Se você pudesse criar uma regra que todos aqui tivessem que seguir, qual seria?
+02123f59-ff3f-4bad-a25e-5c6395b6f385|O que você achou de mim quando nos conhecemos?
+68bbccb8-36b9-4e3c-990e-3592171db5f2|Quem você gostaria de ver pelado nesta festa?
+8448e0a6-8e1c-465a-a04a-0885505a8034|Sabe de uma coisa? Esquece. Mudei de ideia.
+daad6ea3-78a3-491a-9272-fdaefab6efbf|Desafio você a tirar a camisa!
+6ba07402-19cb-4fa2-8571-14c56594e78c|Desafio você a tirar a calça!
+635f51a4-2460-4ae8-89aa-345e920025b7|Espere, mudei de ideia.
+2f5261b7-c023-4f10-adce-3cd51c7f3a72|Sim!
+d1cc5a89-7dcd-407f-b5ff-8ab11e985dc1|Mal posso esperar!
+bcbf0b35-a907-48ea-908b-78532a59c385|O que você faria sem mim?
+965c6709-7d02-4f3e-b5d8-98c6f607e5be|Anotado.
+dbd23c61-60a8-40f6-a715-291d428425a7|Claro que sim!
+e27e6c4f-6e68-47ef-9c43-b5d87e157eba|Boa resposta...
+6f4b51d4-d596-47ba-92ad-4c8a1ee2f7bb|Fico feliz em ajudar!
+b740c085-4f2b-4e4e-9ede-c3be4461b102|Concordo!
+fe77eaee-3489-4fc3-b50f-607b587e073f|Justo.
+b2674040-2f6b-479c-a49b-2184c082c6c4|Adoro quando estou certo...
+53ab76f6-3278-4a34-9d73-ddbab127aa53|Estarei logo atrás de você!
+809d84eb-9a06-4d27-a97d-c2dc5cbb973f|Ou algo que estou esperando há muito tempo.
+f899c15e-514f-46b2-8ba1-c0086f1b3fe6|Vá em frente...
+9dba38fc-4e85-4666-89f5-a5f2e8acaded|Consultei meu pênis e concordamos: você sem roupa é melhor do que com roupa.
+cb31f6cd-d3e8-4893-a638-5ef42adbec47|Você está só pelado. Não é grande coisa. Não deixe sua insegurança tomar conta de você!
+45c1bd26-6af5-4b0e-aece-3ca2d1739b32|Vamos jogar pedra, papel e tesoura. Se você perder, suas roupas saem!
+4bfc6230-280e-409c-be0a-4384d803f7d5|Bem, se está te excitando, você parece gostar?
+6fe37da4-c848-4517-af1d-5c6f0fe37f67|Ah, droga, eu estraguei tudo.
+569a4974-d67b-42a9-aeb3-7b8c6f71e2d5|Foda-se essa voz! Você não deveria ter vergonha de ser você mesmo!
+adcd7b93-40a4-406e-9de3-9c31aa1e9427|E se estiver errado? É a vida. Você tem que tomar suas próprias decisões.
+b135e34b-4ca7-49c6-91d6-aea4450eea01|Claro!
+c2116e92-f671-4ebd-a68c-649e06af29b6|Eu te apoio 100%!
+43b8ca83-c0a2-4013-8060-cd8ab2e959fe|A qualquer hora!
+d7290916-9f14-45ce-bff4-ffee395cc20d|Certo. O que eu estava pensando?
+8efd01c6-e429-4d27-8018-d169187445b9|Ah, certo... vamos ver se todos vão embora ou se eu consigo fazê-los ir embora.
+813b6133-7b14-49ff-a823-34873f335978|Que bom que consegui causar uma boa primeira impressão.
+e5431ff8-bb83-49a7-baf7-1ed6bec1d388|*Ouvir*
+cf6498cf-88fb-4023-a36d-f01e142f50cd|*Fim*
+f0b6acc9-23fb-4afe-9bdc-52821fc54e7e|*Fim*
+d9b13cd1-bb08-4ad0-b640-bed4020c723c|Bem, e se eu mostrasse a ele do que sou capaz?
+b47ce39c-852b-4fe1-8d71-f7274e5ac8be|Bem...
+e9d85511-5b24-42b1-b23c-88e03f7eef18|Ah, certo, claro.
+805bc2bc-7f1e-49ec-bc5b-0bb0b871b599|Correto... Só se acontecer "do nada".
+a343737e-0998-49bb-b63c-c50d7fadf879|Do que estamos falando?
+6fa5575c-630e-4216-a955-bd82e27504b5|Do que estamos falando?
+44577682-43cc-4c6d-ac85-27748a69b650|Ainda não falamos sobre drogas...
+789c63d0-8e01-4269-9d79-9d9fe2dca77a|Foda-se!
+4812fbad-53bb-419f-9bb9-78aa0ef555c4|Nossa... Bom, preciso fazer uma escultura...
+1f83db7f-a51f-4266-9929-6e8e27a2df8e|Pare! O que está acontecendo com você?
+a37ad37f-b814-4537-9597-84ef99aab015|Pinguim?! É meu.
+c6dfe2a3-d7c3-46a1-a11f-b9445b98ce6d|Ok, Sr. Pinguim, aí vou eu!
+92ef15b2-cd07-42db-a351-3255fedf6f16|Quantos comprimidos mais desses você tem?
+85bcefd9-bd9a-463a-a06f-154d8f37a71d|Tenho pelos no pinguim da garagem!
+94108298-3c14-4857-8779-1e35bcbfc205|Hã, ok... bem... o pinguim da garagem é meu!
+89f5de2b-8749-4126-a5d5-790f49197b30|Claro!
+3c4f469b-f41e-4158-ac0c-812565bc9761|É... sinto o mesmo, obrigada, Amy.
+927b07ae-b1c0-466d-84b2-5a434b2a9545|Purgar... o quê?
+344181d3-8954-4595-aa9e-7287ad2d52ee|Obrigada, Amy.
+8b5c845e-b2d1-4c91-8fbb-32208b477e85|Acabei de transar com uma garota de quem ele gosta, e ela está inventando coisas, eu acho. Então, se você pensar bem, ele é o racista. Literalmente Hitler.
+cf2e4099-13f3-4ba1-aee0-03664fe240ca|Amy, tudo o que posso dizer é "Eu não fiz isso". Notícias falsas. Eu sei que isso não significa muito. Quão insultuoso é isso... exatamente?
+cdcfa6be-0981-458c-acd4-9b23725a2fe4|Te vejo mais tarde!
+7fd8790b-218c-4c0e-84a9-d9fda02f19ab|É um território desconhecido para mim, honestamente. Mas vou tentar. Desculpe se sua noite foi arruinada por tudo isso.
+365a804e-25b4-43ad-9069-bfc8b71f80c4|Adeus!
+13d19157-5629-4de6-a881-f581e17c365e|Hmm, não. Então, o que você acha que está faltando?
+5e6a5140-6afa-46c0-8874-ba5f8c6f220c|Foco!
+e6bbe8e3-bd2c-4e11-927a-de233b427304|Pássaro girando... pássaro girando? Hmmm...obrigada, Amy!
+24b2bd9f-dc70-4e40-884a-5aebe7dc988f|Hmm, ok. Preencha o buraco com sexualidade. Entendi.
+ca9b12af-8a92-45fd-a06c-18e2ae9fb273|Ok, então ele muda de sinal? Hmm...
+00db87db-0bec-4001-a0b0-5b9773529837|Ah, foi mal!
+0e9bcb63-c985-4a33-9310-77082a985b1a|Anime-se, Amy.
+09aa3bd9-a5f2-4bbe-b718-7c68c5690381|Isso não parece bom...
+aa67a001-a5e9-4328-a451-1c47667a03cc|Eles poderiam ser maiores, sinceramente...
+9aa0c902-a802-49f3-aa6d-a79044227de2|Vou explorar cada centímetro dos seus peitos perfeitos, Amy.
+6506651f-ef33-4d76-85ee-c50d942cf50e|QUE PEITOS MACIOS! EU GOSTO!
+202ed1df-196c-4770-9ccd-f72458142d34|Eu tento satisfazer!
+5010cb8c-5b03-4e50-8a7d-c1111cba563f|Bem, desculpe...
+d30f4006-abc9-4f99-ab1a-49ec546ee43b|Incrível!
+d740b5b4-43c6-4ad9-b75e-c05d25f5ee77|Ops.
+91cfe681-8ff6-4df0-b9e0-f4264761fa46|Eu esperava que você pudesse dar uma olhada nesta katana que eu tenho e me dizer se ela é autêntica ou não.
+55c0c6d8-08dc-4203-87ce-fbc387f54c05|Hã?
+f4527e46-0dc5-4caf-b697-ff383da1a52b|Isso foi estúpido, esquece.
+d73ef4b8-d153-4dc5-8c22-92dc3e9c0dce|Eu esperava que você pudesse dar uma olhada nesta katana que eu tenho e me dizer se ela é autêntica ou não.
+3c2dc889-3608-42ed-b46e-7d316af88421|*Dê a katana a ele*
+0f721a39-96bc-4195-88c3-84345accb30a|Mas!... Droga.
+cb79b54d-bd49-4dac-86d8-fc49c63573de|*Dê a katana a ele*
+817f71b0-ff51-4923-bb02-80901bf343f1|Diga-me, o que preciso fazer para ser abençoado com o seu conhecimento?
+6ea60637-10e3-4258-91cd-63edf849642f|Então... acho que você não sabe, uh, coisas de Samurai?
+0948e716-ce95-48c5-95e7-99740fc03b99|Como você disse, sábia Amy!
+b37ba084-f2c5-4224-8268-ffd12e3b0ea0|Droga, me desculpe se te ofendi.
+24bb4e9d-cce0-4663-a01c-e47917d2f614|Obrigada pela orientação.
+ce521c66-22a7-4dda-8ff7-0ee0d0c51e43|Ah, ele fez, não fez?
+b5c2725a-05c9-443b-b892-acd6d7f55564|Isso foi ruim, mas eu gosto de comer saudável.
+00dfd0af-c1bb-4c0f-99fa-559732398d11|Os Softass Boys estavam destinados ao estrelato. Uma pena que fomos direto para a reabilitação.
+379f1aa5-f5ae-4de7-929d-f0ad02987904|Claro!
+e46aca27-b6d4-4760-b086-5b6763115ab8|...Uau. Já vou. Lembre-se de piscar, Amy.
+41d0203e-a237-4851-92aa-2466de457492|Oi, Amy. Prazer em conhecê-la!
+898b8cb0-9027-46ea-8bab-112704ad7cbe|Perdi meu número de telefone. Posso pegar o seu?
+fb881678-9d85-4f63-a6ec-8585c25515ef|Ei, uh... você sabe onde posso comprar maconha?
+0ecaf771-1177-46a6-9440-29fa1cd03082|Essa música me lembra uma do Panic! at the Disco...
+c8cbd89d-6406-433e-8182-b323cb1c9e24|Você sabe por que o Derek parece deprimido, né?
+a8b638db-f9d5-4072-8189-2bf9d933e04b|Você parece bem pensativo. O que está pensando?
+a1f703a1-6636-4744-a3e8-dc8cd0597f79|Deixe-me dar uma olhada em um desses itens na sua caça ao tesouro.
+b7649b73-2d6f-447b-bc91-36f0e1b298de|Pegue isso, assine esta petição para fazer o Derek tirar a camisa! Ele não pode dizer não se todo mundo assinar!
+ae420ed9-fbf8-4a86-89b4-d13fcc3d639e|Agora é sua chance! A Brittney está na banheira de hidromassagem usando uma calcinha fio dental com a bandeira americana.
+918136bb-ab62-434b-a114-a586d1bf645f|O que você vai fazer agora que decidiu contra o clube?
+61b547bb-2b97-4d5c-8398-de93de425396|Isso é tão relaxante!
+7099b449-46c9-408a-9494-537e1dfc17ff|O que você acha de irmos para um lugar mais reservado...
+145440fb-07e5-4f19-9f1e-adc38fcc4976|Que tal nos divertirmos um pouco?
+67fc40a8-e41c-4522-b4f9-bff7dc5f492c|A Brittney vai ficar nua na banheira de hidromassagem se você fizer isso primeiro.
+93df72e3-f835-4571-bc3f-6c6b6d51ee96|Vamos para a banheira de hidromassagem. Eu tenho um plano.
+9fcdc7ab-2487-4424-b4da-4f9fdbb70c08|Amy, você está falando a verdade ou está sendo ousada?
+fb3a5f3a-802d-4a9f-bb7b-1cafa79710a5|Você não acha que deveríamos tirar uma foto para lembrar deste momento precioso?
+4f6a3bf6-f0eb-4302-be6b-15b890652b60|Bem, estamos esperando por você!
+097e9f68-7bbd-4cdd-a1b0-34036cee808f|Agora é sua chance de tirar essa foto! Depressa!
+985c4d40-88a1-41e1-9475-3b6a20e43e3e|Vamos para a banheira de hidromassagem! Tem uma oportunidade para tirar uma foto, se é que você me entende...
+3eb4c058-930e-481d-a168-9da2bfdb5445|Ei, por que você saiu da banheira de hidromassagem? Estávamos começando a nos divertir!
+72a040ab-2d45-425b-b0c7-1b137b6a96d3|Por que a Steph não parece interessada em nada além de festejar?
+2905d404-57f5-4fd6-9767-d70f516e0fb5|Ei, você entende alguma coisa de arte?
+b3526275-e531-4e42-9d6a-dc4d455b7b02|Ei, Amy, você está perto o suficiente do Derek para saber qual verme acabou de entrar na bunda dele?
+dd3bf625-72e8-4215-9270-0fd5f12c4900|Ei, você pode vir ver minha escultura?
+b7c39d0b-4c3c-4638-a8ef-17bd44e6c261|Ei, Amy, o Derek estava te procurando. Algo sobre uma emergência escolar!
+7fdeeee1-e4f0-49fe-a58f-010929417034|Ei, Amy, vamos sentar perto da lareira!
+3ddd736f-059e-4cb6-a638-3da44c844cb3|Ei, Amy... você, uhhh, sabe alguma coisa sobre katanas?
+561f3306-6f55-4d3a-a696-8bea502b961f|Você pode me ajudar com a katana agora?
+6f1b01fb-f0b9-4459-9531-b745497de0f4|Ei, Amy, o Derek estava te procurando. Algo sobre uma emergência escolar!
+88c52c4b-137e-4109-9ed5-acde1b373fd6|Você pode me ajudar com a katana agora?
+fdc8cfdf-6b86-4c30-897b-735a5000d471|O Derek te contou alguma história sobre mim?
+f5f2a6c4-2c0a-4ced-854e-cc217d3c0cb1|A Vickie não está linda agora? Você, ela, eu... isso. Uma *imensa* oportunidade para uma selfie, hein? O que você acha, Vickie?
+a7ffa76f-acaf-4c8c-b753-aed51ce178db|Então, onde você recomendaria que eu colocasse esta escultura?
+117acf1f-4708-40fa-b411-5dc4643f9f7d|Até mais, Amy.
+
+[Quests]
+29b1b343-be3e-497f-bdda-48fba914c9d5|Caça ao Tesouro
+29b1b343-be3e-497f-bdda-48fba914c9d5Description|Amy precisa de alguns itens exóticos para uma caça ao tesouro. Você é a melhor pessoa para ajudá-la!
+29b1b343-be3e-497f-bdda-48fba914c9d5CompletedDetails|Ótimo trabalho, Super Detetive! Você terminou a Caça ao Tesouro! Hora de falar com a Amy e ver se ela está a fim de algo mais ...
+29b1b343-be3e-497f-bdda-48fba914c9d5FailedDetails|Chega de caça ao tesouro da Amy. Você está mais qualificado para procurar ovos debaixo de arbustos ou algo assim.
+29b1b343-be3e-497f-bdda-48fba914c9d5Description1|Você encontrou um cartão de crédito antigo para a Amy. Não é muito arriscado, afinal. Bem, não para alguém com a sua ética. Talvez o próximo pedido dela seja um pouco mais interessante ...
+29b1b343-be3e-497f-bdda-48fba914c9d5Description2|Você deu uma camisinha para a Amy. Sem uso. Não como da última vez. Converse com ela novamente para ver quais outros itens sem uso ela precisa para sua jornada na irmandade.
+29b1b343-be3e-497f-bdda-48fba914c9d5Description3|Graças a você, Derek agora está sem camisa, e Amy está mais perto de terminar sua caça ao tesouro! Qual poderia ser o próximo pedido de Amy?
+29b1b343-be3e-497f-bdda-48fba914c9d5Description4|Você concordou e gentilmente comprou algumas roupas íntimas e as deu para Amy. Ela parece imersa em pensamentos. Seu próximo pedido pode ser um desastre.
+29b1b343-be3e-497f-bdda-48fba914c9d5Description5|Sendo a pessoa elegante que você é, você convenceu Amy a continuar sua caça ao tesouro. Hora de ver o que ela precisa agora!
+29b1b343-be3e-497f-bdda-48fba914c9d5Description6|Você ajudou Amy a tirar uma foto cheia de estrelas para o Instagram! Chegou a hora de ver o quanto Amy valoriza um colega Patriota ...
+29b1b343-be3e-497f-bdda-48fba914c9d5Description7|Você deu a calcinha velha que roubou da Madison para a Amy. Ela ficou muito feliz, como qualquer um ficaria. Hora do próximo passo na caça ao tesouro.
+461f5585-c0ac-4f59-b8ba-7af9e9600f90|Perseguindo Amy
+461f5585-c0ac-4f59-b8ba-7af9e9600f90Description|Você convenceu Amy a desistir da caça ao tesouro e conquistou a confiança e o carinho dela. Até onde você consegue ir agora? Consegue ficar a sós com ela para um momento sensual?
+461f5585-c0ac-4f59-b8ba-7af9e9600f90CompletedDetails|
+461f5585-c0ac-4f59-b8ba-7af9e9600f90FailedDetails|
+
+[Events]
+9b9e340d-6792-42ef-969d-cfec1687ce01|Eu preciso encontrar um jeito de voltar às graças dela se eu quiser a ajuda dela com alguma coisa hoje à noite.
+4773be27-c9bf-437b-b73e-6077d7058b69|Estou tão perto... Não consigo... droga!
+2bd07ad6-9f30-4dba-b07d-d9f1426c85d4|Está quase acabando, eu preciso continuar!
+c6c83c64-581e-4fe5-8967-b53f29e920ea|Ela está quase lá, eu preciso fazê-la gozar!
+81c1bd7e-9964-4501-93c5-e1f291073d8b|Estou tão perto... Não consigo me segurar!
+703bf329-2570-4b0e-8ab9-f4aa3620366f|Estou tão perto... Não consigo... droga!
+2ef4c0b8-0978-4a6b-9459-f3452c378216|Hm, ela *estava* muito perto de gozar. Talvez ela precise de uma pausa por um momento...
+6e569081-d394-4ec7-854e-c4d2b70ce883|Hm, ela *estava* muito perto de gozar. Ela pode precisar de uma pausa por um momento...
+5ef85b09-ca6e-4b86-a174-a01dfab301f4|Ok, legal! Só preciso garantir que a Britt fique na banheira de hidromassagem por um tempo. Ela pareceu bem relaxada, então preciso mantê-la longe de qualquer encrenca...
+8dc1de6e-a04c-41f6-a8f7-50cc77448ac3|Melhor ir ver a Amy. Você consegue!
+ea09f4c3-1fb6-4aeb-88d1-86bb20768260|Parece que a Stephanie é meio que uma médica em treinamento. Ou uma psicopata.
+b36d37f8-a14d-4fb2-97bb-297ae4630f10|Pensando bem, agora não é a melhor hora para mandar a Amy conversar com o Derek. Talvez mais tarde.
+f6f31aa3-2177-4932-83cf-a7b832fb527c|Nota mental: entre nas graças da Amy. Pense, pense, ai-ai. Nossa, isso doeu.
+3c9419a7-ee95-4bca-8460-3b7bd3910be7|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
+19fa1602-7521-4e47-aa01-5b5eaf1a362f|Parece que eles vão ficar conversando docemente um com o outro por um tempo. Eu deveria me esconder no armário da Ashley...
+9e9e773a-bf0c-492d-9472-7dceb1c749c7|Não tenho certeza se o Frank consegue nos ouvir... Eu deveria tentar aproximá-la um pouco mais dele.
+59e55b00-2be2-4b7a-8ab8-587cbedccca9|Hm, faz um tempo que não vejo a Brittney na banheira. Preciso ter certeza de que ela ainda está lá.
+995675c3-1689-44f9-81eb-5e2f8597bb02|Hm, eu sei que a Vickie deveria estar na banheira de hidromassagem, mas tecnicamente... ela está nua o suficiente para o desafio da irmandade da Amy? É melhor eu ter certeza, e não deixar a Amy chateada no processo.
+5b5927ed-308f-47aa-9c0b-125e964227d1|Hã? Ah, sim... Acho que esta é uma área com bastante movimento. Vamos ver se conseguimos ir para outro lugar.
+11cbfb1a-2bcd-448b-92c1-63577c5f9348|Podemos estar bem perto... talvez um de nós precise recuar um pouco mais para garantir que ninguém nos veja.
+7f40d0cb-61f7-4f11-b535-5cec2e5ab0af|"Na verdade, ufa! Vou precisar de alguns momentos para "recarregar" antes de poder me divertir de verdade..."
+12b759ab-ccb0-45fb-8386-b2fad0be5482|"A Amy talvez precise de alguns momentos para... "se recuperar" da nossa última transa íntima. A garota está tããão cansada. Ebaaa eu!"
+ad3ef501-db82-40a5-bbce-ce5b784d1960|"Na verdade, ufa! Vou precisar de alguns minutos para "recarregar" antes de poder me divertir de verdade..."
+1deb925d-6489-4e91-a880-a8354c7a198f|"A Amy pode precisar de alguns minutos para... "se recuperar" da nossa última transa íntima. A garota está amarrada. Ebaaa!"
+df2e5afd-9fcd-4125-bf00-f8f34fc99f2c|Hmm, acho que a Amy está pronta para se trocar no banheiro de hóspedes do andar de cima. O que será que a está segurando? Ah, é mesmo. Eu ainda tenho a chave? Vou ter que ficar de olho nela caso ela tente entrar de novo...
+cb162e9a-93cd-4148-aa44-9a0aefe195c9|Hm, será que a Amy tirou uma foto da Britt? Talvez não. Eu deveria dar uma olhada.
+a109cbb6-7d0e-44ab-9d59-2a7bef3840e3|Que foto! Agora é subir para o show de verdade...
+14d53bc9-2831-438f-a655-89e212f87663|Que ótimo que a Amy compartilhou um pouco do seu passado comigo. Tenho certeza de que a informação será útil...
+dbb274bf-982b-4bc1-bbb4-90c5b28d7e2c|Hmm... Acho que eu deveria ter feito com que ela se interessasse um pouco mais romanticamente por mim antes de perguntar algo assim...
+f780d0b2-3020-43e3-bc4e-ed24e90829b2|Ah, ela parece irritada. Talvez ela me desse mais uma chance, considerando o quanto eu ajudei...
+602f1304-7d55-4285-b29f-641dfaefbdc8|É melhor eu ir ver quem... quer dizer... está comendo ela. Nota para mim mesmo: tentar ser um cavalheiro.
+dee41fa3-25b5-455e-9abb-699410487dc4|Hmm... talvez eu pudesse ter feito melhor... ela ainda parece confusa com toda a situação...
+013aaec1-64cd-4c57-a673-fd1c5b72e201|Hmm. Acho que a teria convencido mais do que apenas tirando a blusa... Se ao menos houvesse um jeito de voltar e repetir a experiência...
+2d09af81-b9d2-4ac6-85da-f761ad1bcea2|Parece que a Stephanie está se preparando para ser médica. Ou ela é louca.
+fa30e68c-4931-48ef-ac74-46643295c620|Ei... tente deixar a Katherine doente... veja se a Stephanie aproveita a oportunidade... Não é uma má ideia, Amy.
+485eceb6-96d6-4669-abb0-0f63e9ffecde|Boa ideia, Amy... mas estou bem na sua frente! Espero que a Stephanie aproveite a oportunidade para ajudar a Katherine...
+da75e0f3-2096-48d5-a10b-9132a96eac1b|Ah, espera... parece que preciso pedir permissão primeiro, pelo menos uma vez. Que pena, sou tão perdoável.
+ff7dfc1f-632b-46a0-a3b8-9bb880bfc8ce|Olha eu, me virando nessas situações sociais como um chefe! Amigos, pffft, quem precisa deles?
+148e828f-37bd-43bc-8530-5a6888d2686e|Se essa não foi uma opinião "especializada", não sei o que é. Eu deveria dizer à Leah que não há um plano de assassinato... ou posso continuar deixando ela pensar que há...
+e121c69f-c5e6-4525-9293-80f7f111fec4|Eu sou um cara Taserosuave. É verdade. Como eu pude esquecer isso?
+e92a0d55-c2c7-4cd1-9ccf-6eeca7fd056c|Apartamento, e algum lugar que Madison ache... especial? Ou pelo menos talvez confortável.
+33b7727f-2df7-42c5-accf-4390f30d8b4f|Ah? Ah, sim... Acho que tem muita gente aqui. Vamos ver se conseguimos ir para outro lugar. 
+653f3ec6-a49c-49bb-9c32-33116de01c47|Podemos estar bem perto... talvez um de nós só precise recuar um pouco mais para que ela tenha certeza de que ninguém nos verá.
+542b0fb9-f110-4b66-ba28-389ba9638e6c|Ela parece um pouco irritada agora. Eu deveria ficar por perto e estar pronto para apresentar o pinguim quando chegarmos lá.
+7b6f5bec-e2f6-4854-b10c-5abb83538082|Hmm, alguém pode ter pegado o assento da banheira de hidromassagem que a Amy queria. Ou ele pode estar simplesmente lotado. Aposto que eu conseguiria esvaziá-lo usando meus encantos... ou a falta deles!
+c51d8c8a-962e-45e9-9a3e-c2a5b9f0fd45|Uhhh, não sei o que a Amy vai fazer aqui, já que parece que o pinguim está acabado. Hora de falar com a Madison!
+d598fc62-d13d-4a55-b3d7-fbe5cf9091da|Preciso me aproximar do pinguim para realmente entender os comentários dele! Parece que o Hyperall não está ajudando a paciência dele...
+2408b6f1-ade0-4c23-82d5-89597ec12c03|A Amy provavelmente não quer ficar na casa de outra pessoa sem roupa... Nunca dei a ela um bom motivo para ficar.
+276fba04-61eb-42a7-b349-b32991a38093|A Amy provavelmente não quer ficar na casa de outra pessoa sem roupa... Nunca dei a ela um bom motivo para ficar.
+923d97d5-0d20-4617-8507-4ab8b4a36a3f|Amy não quer isso agora.
+7f1ea28d-8a11-47cc-a9d5-40980ce8a49b|Amy não quer isso agora.
+12b581a1-d38f-4289-a241-fc9c9d7535d5|Amy não quer isso agora.
+b510abcc-8a08-4b5d-aec7-2e622c84ffa0|Amy não quer isso agora.
+42fecbc7-e14c-446b-8318-2856ebed6fa4|Amy não quer isso agora.
+98b2815b-b75c-4301-aa85-a0e5b63e99ea|Amy não quer isso agora.
+ad62fc17-22b2-4cfe-aa70-29d95c96fb3f|Amy não quer isso agora.
+
+[Background Chatter]
+BGC1|Juro, li uns dez livros sobre como conhecer gente nova, e quase todos dizem a mesma coisa: não seja esquisito pra caralho.
+BGC2|É, irmandade é praticamente a melhor maneira que eu conheço de fazer amigos rápido. Dizem que é como comprar amigos, então pensei em comprar em grandes quantidades. É por isso que eu estudo na faculdade comunitária!
+BGC3|Eu tinha um café por aqui em algum lugar, mas tive que me livrar dele. Foi um pesadelo quando se misturou com a minha medicação para TDAH.
+BGC4|Aquele Derek, ele é mesmo um gato. Argh, "ele é mesmo um gato"? Eu disse isso mesmo? Que diabos há de errado comigo?
+BGC5|Qual é a sua preferência, tipo, o que você gosta? Por favor, não diga "sequestrar mulheres jovens". Odeio quando conversas começam assim, elas nunca terminam bem.
+BGC6|Arte é uma coisa complicada. Meus pais sempre me ensinaram a encarar qualquer trabalho com a mente aberta.
+BGC7|Receitas de Hyperall são super fáceis de conseguir. É só dizer ao médico da universidade que ler te cansa ou que seu colega de quarto morreu. Eles te dão qualquer coisa se seu colega de quarto morrer.
+BGC8|Não, eu não acho que o Frank seja um cara mau. Acho que ele só quer ser um macho alfa. E a versão dele de Alfa está estragando a diversão de todo mundo!
+BGC9|Esses chinelos tornam incrivelmente difícil me misturar. É só uma questão de tempo até eu tropeçar de novo.
+BGC10|Ah, você viu aquele filme sobre o morador de rua aprendendo a nadar? Foi o filme mais emocionante desde aquele em que o caubói tem que comer sua cabra para sobreviver.
+BGC11|Você ouviu falar daquele cara rico que salvou uma vila em Papua Nova Guiné?
+BGC12|Gina, a Gine-o quê?
+BGC13|Ei, Katherine, quer me ajudar com uma caça ao tesouro? Você parece o tipo de garota que daria a calcinha para alguém que acabou de conhecer hoje à noite, né?
+BGC14|Nossa... vadia.
+BGC15|Precisa de mim para alguma coisa? Meu Deus, seu pau tá arrebentando o zíper. Isso é metal, cara, como você está fazendo isso?
+BGC16|Como você está se sentindo, Derek?
+BGC17|O Hyperall tem muitos efeitos. Aposto que seu pênis também está encolhendo.
+BGC18|Quer dizer, tivemos uma conversa de 10 minutos sobre a história das ferrovias. Eu não teria conseguido sem o Hyperall.
+BGC19|Eu sei que foi burrice fazer isso, mas enfiei a mão naquele chinelo de inseto e ele ficou completamente mole. Que droga, que droga, que droga.
+BGC20|Ah, então você está em todas as redes sociais, né? Deixa eu escanear seu QR code e a gente pode trocar um Twatsnap, ou Bangstagram -
+BGC21|Parece que alguém tem uns segredos digitais sujos no álbum de fotos...
+BGC22|Espera... o quê? Dan, você já teve que resgatar uma criança humana para uma caça ao tesouro?
+BGC23|É, vou praticar a arte de me esquivar de conversas das quais não quero participar. Desculpa, Derek... vai fazer uma escultura ou alguma coisa estranha na garagem.
+BGC24|Meu Deus. O quê... por quê? Sério, cara, por quê? É isso. Você me convenceu. Eu oficialmente decidi. Vou arrumar minhas coisas e voltar para Rhode Island. Tipo, amanhã.
+BGC25|Fácil, tive que fazer xixi num lugar aleatório como parte de um desafio de irmandade, e agora meu nome está numa lista que eu nunca quis ter.
+BGC26|Muito maduro, garoto...
+BGC27|Ah... é tão grande. Hum... ah, eu disse isso em voz alta?
+BGC28|"É, eu sei tudo sobre as lendárias "joias de família" do Frank. Bem, não tipo... TUDO sobre elas. Eu não as conheço intimamente nem nada. É, ele. Como eu poderia? Você... E-isso é LOUCURA. ...Eu tenho que ir agora."
+BGC29|Ah, álcool é liberado agora? Não sei... da última vez que bebi em uma festa, acabei pelado na Prefeitura... ah, merda. Acho que não devo falar sobre isso. Como está indo a sua noite?
+BGC30|Nossa, a Stephanie me chamou para dançar com ela. Eu ia acabar me envergonhando. Eu nunca gostei muito de dançar. Pelo menos não tanto quanto o Derek. Ele é incrível e super competitivo!
+BGC31|Nossa, esses passos de dança são interessantes. Não muito melhor que o meu, então não posso dizer muita coisa!
+BGC32|Sim, Derek! Arrasando como sempre! Adoro vê-lo fazer o que faz.
+BGC33|Nossa, que passos de dança incríveis! Eu respeito isso. Eu não conseguiria dançar nem se a minha vida dependesse disso! Você pode ser tão bom, se não melhor, que o Derek!
+BGC34|Nossa, Frank, eu ouvi os boatos, mas nossa. Ok. Eu... hum... bem, acho que oficialmente já vi de tudo agora!
+BGC35| 
+BGC36| 
+BGC37| 
+BGC38| 
+BGC39| 
+BGC40| 
+BGC41| 
+BGC42| 
+BGC43|Que porra é essa, cara? Vai fazer isso aqui?
+BGC44|Ei, ei, ei. Desculpem, pessoal. Eu não queria me intrometer. Já vou indo...
+BGC45|É, sou novo na cidade. Mesmo assim, foi bom ter conhecido novos amigos tão rápido. Este grupo me recebeu de braços abertos. Bem, pensando bem... Acho que eles não me receberam oficialmente. Eles só reconheceram, silenciosa e sem jeito, que eu estava aqui. Pelo menos acho que agora eles reconhecem que eu faço parte do grupo. ... Merda, agora você está me fazendo questionar tudo. Podemos falar de outra coisa?
+BGC46|Madison me deixou usar o banheiro do quarto dela lá em cima, e eu vi o celular dela na pia. Será que ela sabe que o deixou lá? Eu ficaria nervoso se deixasse meu celular daquele jeito. Talvez eu devesse contar a ela. Ou talvez eu esteja pensando demais. Acho que é a casa dela. Não acho que alguém aqui faria algo maldoso com ela. ...Fariam?
+BGC47|"Parece surreal me afastar de todos os meus amigos e lugares favoritos e ter que começar de novo. Estou tentando impressionar esta irmandade para conseguir mais "amigos livres", mas... algumas das tarefas de iniciação deles parecem um pouco estranhas e quase inatingíveis."
+BGC48|...e a última coisa que direi sobre isso é... lá em Rhode Island, eu fazia muitas fogueiras no quintal com meus amigos. Adorávamos relaxar e conversar sobre a vida, nossos sonhos e filosofias. Se estivesse frio na primavera ou no outono, às vezes minha mãe saía e nos trazia xícaras de chocolate quente. Até hoje, chocolate quente ainda traz muitas lembranças. Ah, desculpe, fiquei um pouco distraída pensando nisso tudo. Estou bem? E você?
+BGC49|Hum, alguém deveria fazer alguma coisa sobre o quão bêbado o Patrick está? Tenho quase certeza de que ele já foi embora. Ela me perguntou mais cedo se eu sabia onde estavam as calças dela, e ela está usando.
+BGC50|O que houve com a Brittney? Ela parece um pouco nervosa hoje à noite. Você sabe o que está acontecendo com ela? Toda vez que fazemos contato visual, ela apenas sorri e desvia o olhar.
+BGC51|Eu entendo perfeitamente, Madison. É exaustivo receber só uma pessoa, quanto mais uma festa. Lembro de uma vez que convidei o prefeito de verdade para minha casa e fiquei em pânico. Eu... ah, merda... Eu não deveria falar sobre isso. Vou me meter em encrenca algum dia. Hummm, então... Como está o tempo, hein?
+BGC52|Isso parece bem profundo, Patrick. Meus pais gostam muito de arte e, sinceramente, aposto que uma obra criativa como essa venderia por milhões.
+BGC53|Cara, todo mundo já viu De Volta para o Futuro.
+BGC54|Ooooo bem. Para começar, não sei por que me envolvi nessa conversa, mas, felizmente, agora posso encerrá-la.
+BGC55|Ah, não, Stephanie, sinto muito pelo que aconteceu com você! Isso parece horrível!
+BGC56|Sabe, normalmente eu teria uma reação ao ver alguém pelado aleatoriamente, mas, como você pode ver, essa festa também tomou um rumo interessante para mim hoje à noite. A união faz a força?
+BGC57|Nossa, isso me lembra de quando precisei fazer xixi em um lugar aleatório como parte de um desafio de irmandade. Agora, meu nome está em uma lista que eu nunca quis estar.
+BGC58|Nossa. Eu não esperava que a festa fosse nessa direção.
+BGC59|Bem, Hello Kitty. Ok, isso foi ridículo. Desculpe. Mas a sensação ainda está lá.
+BGC60|Que diabos? Ah, não, não, não, não. É isso. Você me convenceu. Estou oficialmente decidida. Estou arrumando minhas coisas e voltando para Rhode Island. Tipo, amanhã.

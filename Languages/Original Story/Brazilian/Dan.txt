@@ -1,0 +1,337 @@
+﻿[General]
+Name|Dan
+
+[Dialogues]
+0|Olá!
+0.1|Ei, cara, hein... você deu um jeito de nos tirar daqui?
+0.2|Ei, cara, você deu um jeito de nos tirar daqui? PELO AMOR DE DEUS.
+0.3|Sabe, eu só achei que você devia saber... Acho que você está fazendo um trabalho fantástico. Na vida, jogando esse jogo, sendo uma pessoa legal. Puta merda, cara, você é demais!
+1|Ei, você é o Chet? A gente tem que falar com um "Chet" depois de pousar. Olha, não estou querendo ser babaca, mas definitivamente tinha que ter algum tipo de almofada grande para amortecer a nossa queda daquele balão.
+2|Espera aí, Arin, isso não parece o BJ Scooters Board Games and Buffet. Puta merda! Cara, acho que a gente falsificou o nosso lançamento aéreo! Podemos ter uma falha de nível 69 nas mãos.
+3|Cara, precisamos ligar para o Brent. Ou para o Vernon ou para o Avi. Ou... Meu Deus, Arin, nossos celulares ainda estão no balão! Ah, e ele decolou completamente sem a gente. Era isso que eu queria, era exatamente isso que eu queria. Que droga! Eles não têm motor, não têm asas, não deveriam funcionar! É UMA BOLA DE BASQUETE NO CÉU!
+4|É isso mesmo, você devia ter visto a carnificina em Minneapolis.
+5|Sem telefone? O que você é, um Amish?
+6|A gente acredita em você, cara! Mas caso você estrague tudo, a gente vai ver o que dá.
+7|Nossa, cara, você acabou de dar as coisas dos outros? Que coisa feia. Vocês devem ser tipo uma gangue de motoqueiros ou algo assim. Eu já fui de uma gangue! Eles nos chamavam de "Os Raspadinhas de Limão".
+8|PERDA DE TEMPO!
+9|No-Chet, por favor, venha! Venha rápido!
+10|É o Arin, ele... Eu não sei! Ele está pirando, cara!
+11|Não é uma pessoa que errou, só venha!
+12|Você está vendo isso? Ele está pirando! Que diabos está acontecendo com essa pintura?
+13|Arin, pare de fazer esse barulho, cara! Você vai ter algum tipo de colapso. ALGUM TIPO DE ATAQUE MENTAL! Você tem que consertar isso. Eu não posso levar isso para o palco se for assim. Só vai confirmar os rumores de que ele é um Zognoide disfarçado, fingindo ser humano. ...Não confirmado! Por favor, conserte meu amigo No-Chet!
+14|Eu não disse que bati nele, No-Chet! Use suas palavras e-
+15|Arin! Você está vivo! Cara, foi como se você tivesse sido decepcionado ou algo assim. Você fez xixi um pouco? Tudo bem se fizer um xixi um pouco.
+16|A garota da foto?
+17|Temos que tirar você desta casa, cara. Meu Deus, tem xixi por todo lado!
+18|Salve, bravo explorador de masmorras, conquistador de mulheres e destruidor de bebidas. Você veio em busca de dinheiro e prestígio, sem dúvida.
+19|Não negue, humilde guerreiro. Cantam canções sobre suas vitórias por todas as terras. Você é quem precisamos derrotar... NIPDIPIKUS, O FRIO.
+20|NÃO, SEUS MALDITOS! Ele é um demônio terrível, que se alimenta de peixes e almas!
+21|Serei seu mestre de masmorras enquanto viajamos por uma campanha de intrigas angustiantes. Agora, precisamos que você construa sua ficha de personagem e, claro, precisamos que obtenha alguns dados de 20 lados. Trouxe um caderno?
+22|Antes que nossa grande jornada narrativa comece, alma corajosa, precisamos das chaves do seu carro.
+23|Assim como seu celular, para que possamos usar um aplicativo para combinar uma carona até nosso destino, grande guerreiro.
+24|Arin, isso não está funcionando. As pessoas simplesmente não entregam suas coisas porque acham que isso as ajudará a derrotar um pinguim. Por que não posso fazer uma campanha normal, como planejamos fazer no programa ao vivo, mas em vez de estar no programa ao vivo... estamos AQUI!
+25|Bem, parece que você conhece este deserto melhor do que nós. Onde devemos procurar primeiro?
+26|Legal! Viu, é isso que eu gosto em você, No-Chet. Você é um cara com ideias incríveis. Precisamos de mais pessoas como você. Arin, vamos lá, vamos roubar algumas chaves de carro.
+26.1|Que recurso maravilhoso você é, No-Chet. Vou sonhar com você me matando enquanto durmo. Com a sua mãe. Ok, tchau!
+27|Nossa, essa é uma katana foda! Viu esses movimentos? O Ninja Brian me ensinou esses movimentos. Enquanto você saía com as garotas, eu estava estudando espadas... com o Ninja Brian.
+28|Nossa, sabe de uma coisa? Pessoalmente, isso não é minha praia, mas o Arin provavelmente apreciaria muito aquele pau mole.
+29|Ah, você não deveria. Você é um verdadeiro charme, de cabo a rabo. Mas se você não encontrar um jeito de tirar o Arin e eu dessa CASA ESQUECIDA POR DEUS, vou colar esta flor, sabe de uma coisa... é uma flor muito bonita. Me corrija.
+30|Ei, chocolate é o meu favorito! Muito obrigada! Espera, eu te devo favores sexuais agora? Sabe de uma coisa, é melhor você devolver isso. Precisamos manter as coisas profissionais.
+31|Já consigo ver pela aparência desta chave que ela não vai me tirar daqui. Tenho um pressentimento sobre esse tipo de coisa. Tipo, o Arin quer enfiar essa chave no seu olho mágico...
+32|E você disse que não vai comer o dia todo para guardar espaço para a fartura de peito bovino à vontade.
+33|Ah, obrigado, mas eu não estou muito a fim dessas coisas processadas. Eu tenho vivido na floresta com ursos, aprendendo a pescar salmão direto do rio. Olha, eu não sou peludo!
+34|Ayyyy, agora eu posso te girar... FODA-SE!!!!
+35|Talvez devêssemos cobrir nossos rostos humanos e correr pela propriedade até que alguém nos dê um jeito de sair!
+36|Não, nada de álcool para mim, obrigado. Eu tenho que me manter calmo neste território desconhecido. Aquele garoto loiro fica me olhando como se eu fosse me dar um chute na bunda. Mas eu vou chutar a bunda dele. Ou assistir a bunda dele levar um chute. Alguma coisa vai acontecer com um burro.
+37|Ei, o que você sabe, é um vazio finito onde meus itens são armazenados. Mas sem pênis. E quanto a isso?
+38|Eu não quero!
+39|Não, obrigado, mas agradeço o esforço.
+39.1|Não, obrigado!
+40|Ah, você encontrou, mas não as chaves do carro. Sério?
+41|Ah, No-Chet, você fez isso? É maravilhoso. Olha, Arin, são pequenas Starbombs. Um pouco rudimentares, mas dá para ver que o No-Chet se esforçou para nos dar um presente porque estávamos tristes.
+42|Nossa, bem, nesse caso, este é um produto de alta qualidade, diferente de tudo na indústria altamente competitiva de bombas de banho. Eu adoro este produto, as Mini Bombas de Banho Starbomb™ oficiais!
+43|Eu também me pergunto, Arin. Nós... nós temos uma equipe de exploração aérea?
+44|Vamos lá! Vamos, No-Chet! Testemunhe a nossa glória!
+45|Não, Chet, acho que a honra de soltar essas mini bombas de banho™ é sua. Depois de tudo o que você fez por nós, encontrando essas bombas de banho™, sem ser o Chet... isso mesmo. Jogue uma, grandão.
+45.1|Não, Chet, acho que a honra de soltar essas mini bombas de banho™ é sua. Depois de tudo o que você fez por nós, encontrando essas bombas de banho™, sem ser o Chet... isso mesmo.
+46|Você, uh... pode ir em frente e jogar uma dessas bombas estelares agora, amigo. Eu quero muito ser resgatado.
+47|Obviamente, estamos apenas criando o protótipo dessas pessoas com bombas de banho; o produto final, é claro, trará uma delícia para a sua experiência na banheira.
+48|Ah, qual é, o Grande Gato ainda não perdeu as esperanças. Por enquanto, seus drones mágicos estão vasculhando os céus por nós. Eles vão nos encontrar em breve. Então venha comigo até a fogueira e vamos aquecer nossos ossos cansados. Vamos, amigo!
+49|Ah, essa coisa velha. É o que ganhamos por pedir em grandes quantidades. Eu não deixaria o Arin ver isso. Poderia muito bem queimá-lo, No-Chet.
+50|É?
+51|Eu também, amigo! Vamos pedalar!
+52|O que você tem para nós, No-Chet?
+53|Você não tem planos, tem? Tsk, tsk, tsk, No-Chet, No-Chet, No-Chet...
+54|Não, Arin, o No-Chet está falando sobre nos enviar para o show ao vivo via realidade virtual; projetar nossa consciência em uma representação física projetada de nós mesmos no palco. O que é real. E não precisa fazer perguntas.
+55|Não, cara! Seremos projetados virtualmente diretamente no palco em patinetes BJ. Vai ser igualzinho ao de verdade! Tomara que as Lovelies não se importem muito por não poderem sentir o nosso cheiro.
+56|Tá bom, cara, continue inventando essas ideias incríveis e depois quebre-as. Definitivamente não é mentalmente incapacitante.
+57|Então, tipo o nosso cabelo? Tem tantas maneiras de obter DNA, e eu não me sinto confortável com 90% delas.
+58|O que seria uma tarefa mais simples e trabalhosa para hoje à noite? Talvez a gente consiga juntar 100 moedas e não passar, já que uma turma de dança do CLOG WITH A STARTING ...
+59|Katherine, se ser vista ao seu lado enquanto essa imagem existir for a pior coisa que me acontecer esta noite, então... Ainda assim, vou ter uma noite horrível. Mas você é adorável! Mas esta noite está péssima. Mas você é adorável.
+60|Baybay! Ah, Arin, esse robô gosta da Dave Matthews Band! Que estranho!
+61|Eu adoro De Volta para o Futuro! Vamos nessa!
+62|Arin, CompuCompa pode ser todos os estereótipos terríveis que existem sobre universitários se envolvendo com robôs... mas eu realmente acho que isso pode funcionar. Além disso, preciso fazer xixi e não estou com vontade de tirar minha xoxota agora! Eu vou primeiro! Uhuu!
+63|
+64|Estou bem aqui, e não era um campo, era o meu quarto.
+65|Arin, não tome essa terceira cerveja. Você é um sujeito incapacitante e insuportável.
+66|É, eu sei! Você transformou o Arin no alcoólatra furioso, incapacitante e insano que ele é, e eu não me importo. Por que você fez isso, No-Chet?
+67|Concordo com o No-Chet, de olho no prêmio, Big Cat.
+68|Franklin, conte-me sobre você. Pelo que entendi, você odeia cantar e adora bater em bundas em massa.
+69|Nossa, um verdadeiro homem da Renascença. Conte-me outras coisas sobre... suas lixeiras.
+70|Frank, não sei se você quer isso.
+71|Meu Deus! Arin! O Clube D ficou realmente mais intenso desde a última vez que você me contou.
+72|Não, não podemos ficar aqui! Vocês são todos loucos! Aquela loira de óculos fica me olhando como se quisesse enfiar minha cabeça na parede. E o mais louco é que estou começando a querer que ela faça isso. O QUE ESTÁ ACONTECENDO COMIGO?
+73|Bem, você parece gostar muito de dividir, No-Chet. Por que não divide aí, porque meus olhos estão ardendo?
+74|Eu sou o Danny. Eu sou o que não é o Arin.
+75|Caramba! ...Você está vivo!
+76|Que pênis enorme!
+77|Pessoalmente, isso não é minha praia, então... não, obrigado, mas agradeço o esforço!
+
+[Responses]
+e87c9318-33ae-46e5-85ca-7f2ee0180043|Ok, ok, ok.
+73f1afc1-21da-4ff5-a06b-af8157f8da18|Estou tentando provar que pintos são mais importantes que bolas. Gostaria de debater o assunto?
+01d98155-56ae-45e6-912a-97d01572ba7a|Hum. Não, Chet.
+1785cdb0-b2f0-460e-8e82-3729c4c805e3|Vocês estão em um lugar diferente para sexo oral, pessoal...
+1768311a-a296-483d-b8ac-97ccd3c37842|Relaxem, pessoal, quem sabe vocês conhecem gente! Mais especificamente, loiras.
+cf9b59a9-92df-4cc8-9064-c77b7d6bce90|Bem, vocês podem ter um problema... porque eu não tenho celular.
+63fcb7e5-ee5c-406e-bd2d-0b141549a2e1|Sou usuário exclusivo do Myspace e do AIM para todas as formas de comunicação.
+f1009229-7e44-45d5-afd1-149d79b283d6|Isso me dá muita confiança, cara.
+732a4827-8294-40c6-81ab-4d9d8a481811|Agora me chamam assim.
+09666626-96c5-4263-be67-2147413a710c|Ah, sim... com certeza.
+d4b3792b-a2f0-4b51-ad4d-a96472540168|E aí?
+8b182404-4f71-474d-9385-6506ff30e2e2|É, não estou muito surpreso. Você já conheceu essas pessoas?
+2eb338c1-b36f-4db5-98e4-46b2625c3bfd|Ok!
+d2038b83-4184-4654-ba6e-086ca7d96237|Não faço ideia. É um pouco hipnotizante e I-BWWWWAAAAAAAAAOOOOWWWRRR-desculpe! Desculpe. Desculpe. Desculpe...
+98a6e5b8-568c-43eb-8f8f-dc228289c467|Acho que vou ver o que posso fazer.
+5017ea45-2b85-4cbb-8540-c5b244d48a85|Ok, perigo e preocupação. Ei, parece melhor!
+d34444c4-0bf5-4fb2-8a2e-151f99c31e1c|*Escute*
+71f65531-a872-4636-9fc6-a330e041ea2b|Isso é muito... xenófobo da sua parte, Arin. Ela parece ser uma boa moça.
+aaaf0591-2534-4abc-8553-c9e6041dd8e1|O lado positivo é que a madeira parecia um pouco seca...
+1d2584bc-bf73-4c71-aec7-197e253b243d|Não. Eu, como a maioria das pessoas, não esperava encontrar você falando assim quando cheguei aqui.
+a17ecb0f-d6d5-4da8-8a5c-ce27b8f0c5bf|É um pinguim de plástico, cara.
+c8318a0d-8475-47d8-bdbc-aee86804e04b|Tem ar suficiente aqui para você?
+1c7f7d96-a608-46f9-be52-e4940a8e0bf5|De novo, eu não esperava que isso coubesse na garagem, então não.
+26eb4656-bb12-4b67-ab95-e180da7f7de2|Uhhhh... que porra é essa, cara?
+bb3d2cfe-f0b6-42ae-a92a-f9c253fb4720|Sem chaves e sem telefone, você terá que chamar um carro de outra forma.
+4f77e565-bd97-4d50-b92e-fe52e11a3f27|Bem... por acaso, eu tenho um telefone comigo. Não é meu, mas aqui está.
+17c23296-41c1-4503-9655-3c189e539858|*Escute*
+25ddcc36-ec29-41cb-a659-ebe8c091f67b|O quintal!
+25118dcf-bfc4-488a-a45f-0772819f8a46|O primeiro andar é uma boa opção.
+ea0d5ad2-cbf5-457c-81aa-e364b0d56bde|Tente o segundo andar.
+402210c3-5f0c-4f10-ae3e-04fa6037a8e5|Pfftt, porra, se eu sei. Eu realmente não dou a mínima.
+8afb40b4-7eb7-446a-b8be-b3efce00a31d|Pensando bem... Acho que ouvi errado. Desculpe!
+e9e91306-90d4-4435-8c7d-1e7255799156|Boa sorte!
+88325852-bd81-4d5a-9851-a640b16a0d4f|Nunca vi o filme Blade Runner, mas acho que seria o personagem principal com essa coisa no quadril.
+0560e754-1fb7-4ac9-9ebe-2edf8245f529|Então isso é mais coisa do Arin? Entendo...
+4d8cfcac-3098-4028-91bb-fe00f077aed0|Bem, eu não consegui esconder meus sentimentos por muito tempo.
+fe1ef369-fac6-4e46-bb37-a2d1ec422dd2|Cheguei tão perto!
+7d702df8-da2d-4e1f-be8c-efc95b246fbb|Você é sábia, como uma raposa velha.
+daa214c0-e8a6-4be0-89b5-66874e3c8ad7|Ele te entregou sem nem pensar.
+ee61d0c5-04d1-4ed0-8710-641ca997074f|Bem, você NÃO é um furry...
+9d06da0b-b4c8-4e94-bff4-9126253d54df|Tudo bem, acho que você se divertiu com os dedos. Retiro o que disse.
+0674b284-7f7c-49d5-907a-0a45bde39d1c|Isso... não seria a coisa mais ridícula que poderia acontecer hoje à noite. Preciso me esforçar mais, meus amigos.
+06eb75e2-9fc1-4598-871f-ec56640b09d1|Ah, é o Patrick. As chances são boas de que isso aconteça.
+05728b35-52fa-42e8-95cc-326e4ceab3df|De onde vem?
+ef8c6563-6146-4284-bd66-22e53232ddcf|Então eu vou me foder.
+36049754-c5da-4c7d-961c-ddee32f046f5|Que saco.
+41438a69-2988-4910-bde0-e144c3cd51ca|Você nunca encontrará chaves ou amor com essa atitude.
+9ce24ea1-a103-4d94-a0b3-3d494005ce62|Ah, eu não-
+65373b40-69a9-4314-8b70-c2a5673f668b|Eles parecem um pouco derrotados pela queda.
+19ebc3cd-a317-44f0-a321-a8bd44e5346b|*Escute*
+f29bb697-9217-4291-8ac6-3e8588998949|Viva!
+bf11dc3d-3b9d-489c-bab0-d3c52a942e21|Ah, vou derrubar um. Vou derrubar um grandão.
+99a3865a-d29a-4038-be20-d4f5b4d528a4|Certo, certo. Jogando na banheira de hidromassagem.
+ceec15f3-392f-4079-a282-f31e90884c57|Dê às pessoas o que elas querem!
+b5bea98a-6383-4e79-bf97-8b2cb1276f86|Vamos lá, gato grande.
+46c59cd3-9f7f-47fb-8620-330648a44d82|Queime-os, você disse? Hmm...
+583389a3-33c5-4381-b727-afcb93326894|*Escutem*
+aa13f420-2751-47f1-b898-a8f6eb40574c|Adeus, amigos! Vou sentir saudades!
+93fd14a0-3142-40b6-8425-306b00ffd255|E se eu dissesse... que existe uma realidade além desta? Um mundo virtual.
+d1ae033b-5ca4-4e03-89e2-02601512ae96|Hum, uh... primeiro, vamos todos tirar as calças!
+84c66f8f-1fdf-466a-9fbd-b8fc11c4d98f|Estou trabalhando nisso, mas achei que seria um bom primeiro passo.
+24de3a60-d005-4b0e-a291-2dca4e17fa0a|*Cale a boca e deixe o Dan explicar*
+eba3ab95-6d60-45fe-8331-d6b137a7e7dd|Você definitivamente tem um cheiro "único".
+560d92dd-4015-46e9-a25a-c40a45065e85|Vamos fazer isso!
+04c2bbfd-9660-4b51-bf7b-3f322d580fad|Shhhh. Vou guardar suas peças até conseguirmos um comprador.
+7ad6882f-22c6-47d1-bf40-481364c1dfe9|Jesus Cristo!
+a20d5238-d88d-453e-ab3e-d8f06b5b3974|*Faz uma careta visível e continua ouvindo*
+2c9261c5-aae5-4d47-bf2f-26b6e0331c3c|Tire essas referências dos anos 90 daqui.
+68bb3ef9-b54f-45a4-9a2e-f69490c2d075|*Ouvir*
+546de3bd-11ef-47a8-a970-c3e64b988161|*Ouvir*
+0f849fb4-f36e-4115-8075-879316bbed1f|Igual a um campo, mas com almofadas fofinhas em vez de cocô de cachorro! ...eu acho.
+cf467643-b65d-4221-94fa-272a551a92f3|Vamos lá, você sabe que quer.
+954e3454-b6f3-43cf-bae7-fc65e0981ee1|Porque... É, eu queria que o VA do Arin cantasse bêbado. *Tosse* Olha só, é-
+d70256b8-3c62-4737-9d41-95e4f70ce6c3|Com certeza. Só... tome um pouco para ficar sóbrio.
+44ce5032-058b-41ae-b045-a25017784165|*Ouça*
+a893216f-9025-45ac-b58a-3ec53e2e924d|*Ouça*
+a108c5d8-7745-4d37-b331-8c401b05942d|*Ouça*
+ee6d710d-fe71-4149-a124-b1535735d48a|Profundamente intencionado... espera, esse não é outro significado para "o D", é?
+e038ce28-f5ab-408e-ad10-549dd5430053|Bem-vindo ao inferno.
+e73e8b8d-eca8-4a44-9031-22b8deec7cb5|Eu poderia deixar ficar...
+f92e9592-3623-4be5-b3a8-5beef35a840f|Mas... você está bem?
+9ed5d1ad-bd6a-4b2e-9b43-883e28090eab|Por pouco. Você realmente caiu naquele Ataque do Frankie Crusader-Thunder, seu idiota!
+23cea3b1-dc52-4886-adad-b8135fce8a7e|É isso... é isso. É isso. É isso.
+6b38d522-d2c4-4430-88e3-754b50517b93|E aí, Dan, acabei de ouvir alguém dizendo que ia dar o fora. Provavelmente vale a pena encontrá-lo, né?
+bd7ba5f6-0a27-4d46-8633-93f2715c65d6|Alguém de vocês, caras fortes, consegue abrir esta maleta?
+1ae6af1c-c15f-41f9-b885-dbe6c7affa56|Escute aqui, Grumps: eu tenho um plano para te tirar daqui.
+0290ea15-add0-4f54-9894-b10bc09a2754|Preciso de uma foto sua. Com Katherine
+dae230e3-f044-417a-b86f-5ec34474c053|Não seria mais fácil se você relaxasse e ficasse aqui esta noite?
+339a05eb-7957-4ebe-9b34-a8e5cda9b3fa|Eu peidei.
+cfdd882d-75f7-4716-99e6-1ef0f73e997f|Então... qual Grump você é?
+97b7f38b-6b83-47c0-9a60-243ef5ef1d05|Uh... E-uh-ok, até o próximo grupo de diálogos.
+
+[Quests]
+
+[Events]
+444c182a-1ec2-4d82-b0bf-65a4a03c072b|Não tenho certeza se o Frank vai conseguir nos ouvir... Eu deveria tentar aproximar um pouco mais o Dan dele.
+0bed7b7d-fac5-4538-bd03-aed1da307026|Bem, além dos telefones que roubei impiedosamente... mas não seria muito ético entregá-los.
+33ada4dd-a096-4af3-b40e-468e8d9264a3|Se a Katherine descobriu como trazê-los para cá, ela provavelmente tem uma boa ideia de como tirá-los daqui... mas isso pressupõe que ela tenha coragem de deixá-los ir. Tenho quase certeza de que também ouvi algo cair no chão pouco antes deles...
+8d14a6f0-747d-4c3e-925a-744f8b75503b|Parece que os Grumps vieram para ficar, pelo menos por enquanto...
+b7dca458-3799-4389-bc69-61e73bb907fa|Parece que os Grumps vieram para ficar, pelo menos por enquanto. Sem dúvida, eles encontrarão maneiras de me lembrar que estão tentando escapar deste lugar. Deve ser divertido! Para mim.
+b2cd2efe-5bcd-4f5c-8750-4cb0e5d40b57|Porco-espinho. Meu Deus, que som é esse? Dan e Arin estão consumando o relacionamento ou Arin está mesmo com tanta dificuldade? 
+e9b346cd-d405-4984-8598-2072a253cd7b|Eu sabia que havia algo incompleto nessas coisas. Os produtos químicos queimaram minhas mãos quando os toquei...
+a2676416-d2c6-46b5-a610-f9ea0fe76f25|A sensação de uma única e bela lágrima escorrendo pela sua bochecha... te enche de determinação! Sua resistência, força e velocidade de combate aumentam ligeiramente!
+3c366026-83bd-43e7-9bb4-40a69f9833ec|A sensação de uma única e bela lágrima escorrendo pela sua bochecha... te enche de determinação! Sua resistência e força de combate aumentam ligeiramente!
+84bd5d41-f2d7-4bbc-921d-12967242c5aa|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua velocidade e força de combate aumentam um pouco!
+c7857f14-9da1-4172-ad40-4225720a201a|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua força de combate aumenta um pouco!
+f48e9aec-5482-418b-9605-f8537a1eca27|É melhor eu fazer companhia aos Grumps...
+fe57df7f-99ab-41e6-9f64-95e8fe4174aa|Ok, eles já tiveram tempo suficiente. Os Grumps agora estão prontos para a grande sessão de fotos. 
+53dcfd4e-2ade-4aa3-bdda-c274905aedff|Dar um telefone e deixar os Grumps se acalmarem tão facilmente? Não sei se os desenvolvedores do jogo permitiram. Afinal, eles são pênis. Hmmm, então que se danem esses pênis e tentem de novo, ou evitem transar completamente...
+39b76c3c-5b52-4950-a91d-51490b118611|O telefone da Madison ainda está bloqueado e, portanto, inútil. A menos que os Grumps tenham pó mágico para desbloquear o telefone, o que duvido. Não seria lendário...
+c6a0d8e9-e688-4019-a507-f1f68f3e5e36|Dar um telefone e deixar os Grumps se acalmarem tão facilmente? Não sei se os desenvolvedores do jogo permitiram. Afinal, eles são pênis. Hmmm, então que se danem esses pintos e tentem de novo, ou evitem transar de vez...
+dbb089c7-3aa2-4d08-bbc9-d362c96016d7|Porra, já tivemos uma conversa inútil sobre essa chave. ... Sinto que acabei de resumir esse conteúdo. "Inútil."
+814bca86-8657-4443-8da8-dbe95d5790a2|Porra, já tivemos uma conversa inútil sobre essa chave. ... Sinto que acabei de resumir esse conteúdo. "Inútil."
+8f0fc9ba-a922-43a6-99df-da2e555fa77f|Acho que os Grumps nunca mais deveriam chegar perto do Compucompa. Por mais... ele... ela... tanto faz, queiram.
+5c72a12b-20cd-4265-88aa-c04de0d8fe0b|Dan não quer isso agora.
+
+[Background Chatter]
+BGC1|Eu disse que queria ser chamado de Homem do Rabo Sexy, não de Rabugento 2!
+BGC2|Meu Deus, isso deveria ter sido muito melhor planejado!
+BGC3|Arin, você quebrou seu taco no... "incidente".
+BGC4|Provavelmente podemos nos meter em alguma encrenca por aqui, mas você precisa entender, Arin e eu estivemos guardando nossas próprias encrencas a semana toda. Usamos truques, podemos acabar nos metendo em alguma bobagem.
+BGC5|É isso aí, colega. Raspadinhas de limão, uni-vos!
+BGC6|Bah Nah Ba Nahh, o No-Chet está agachado, ele vai fazer alguma coisa furtiva agora, ele vai fazer alguma coisa furtiva agora...
+BGC7|Olha, é isso que eu adoro ver em um videogame. Outros jogos permitem escalar grandes montanhas ou navegar por vastos mares. Neste jogo, você pode vasculhar o lixo.
+BGC7|Olha, é isso que eu adoro ver num videogame. Outros jogos permitem escalar montanhas enormes ou navegar por vastos mares. Neste jogo, você pode vasculhar o lixo. BGC8|Arin, estou tentando ver alguém levar uma surra! Pelo menos alguma coisa finalmente aconteceria neste jogo.
+BGC9|O que eu não me lembro é que Beer Pong era um jogo single-player. Acho que jogaria Beer Pong com apenas um jogador... como perdedor. Você é um perdedor, No-Chet, sua vadiazinha?
+BGC10|Derek, você realmente não parece entender o que eu quero dizer.
+BGC11|Defina. Defina para mim o que é um furry, porque se ser furry significa que você gosta de personagens animais, então você é culpado! E se isso significa que você também gosta de se vestir de animais e fazer sexo com outras pessoas vestidas de animais, BEM, ENTÃO VOCÊ É CULPADO DE NOVO!
+BGC12|O Chet não fez um pequeno uh-uh e um pequeno ah-ah.
+BGC13|Com cuidado, com cuidado... Você quase consegue alcançar. Droga, queria poder colocar meus dedos longos de pianista nas suas mãos grandes, fortes e carnudas. Seríamos os melhores leitores da cidade.
+BGC14|Temos certeza de que é um celular? Parece uma imitação de MP3 de baixa qualidade. Tipo um Zune ou algo assim.
+BGC15|Arin!
+BGC16|Ou outra coisa.
+BGC17|Jesus, não — o Chet é tão rápido. Olha a postura dele correndo!
+BGC18|Ah, graças a Deus! Aquela música estava me deixando louco. DOOOOO-DO DO DOOOO, DO DO DOOOOO, DO DO D—ELE NUNCA PARA!
+BGC19|Provavelmente também estamos em filmes pornô, só não estamos fazendo o mesmo tipo de coisa. Qual é o seu nome, cara?
+BGC20|É, o nome dele pode ser Donghauser, mas ele tem aquela faísca. Aquele fator... ou melhor, o FATOR DIDDLE?
+BGC21|Temos conversado com alguns produtores, uh, em Hollywood, sobre trazer o DIDDLE KID para a tela grande. A maioria dos atores nem chega perto de assinar um contrato para um projeto como este.
+BGC22|Mas você, algo me diz que você tem aquela mágica do ding-dong-diddly.
+BGC23|Bom, bom, bom. Não esperávamos te ver aqui, Coruja da Revelação.
+BGC24|Espera... Arin... você ouviu isso? Arin Hanson será o primeiro homem a ter implantes de ouro no próprio ânus! A CORUJA DA REVELAÇÃO ESTÁ ARRUINANDO OS EVENTOS DA NOSSA PRÓPRIA VIDA!
+BGC25|NÃO! SE SOUBÉSSEMOS, ISSO NÃO VAI ACONTECER. VOCÊ NÃO VAI TER A BUNDA QUE SONHOU! FIQUE LONGE DE NÓS, CORUJA DA REVELAÇÃO!
+BGC26|Isso NÃO faz sentido.
+BGC27|Arin, existe ALGUMA ciência por trás disso? E o fato de você ter sonhos febris tão vívidos que parecem a vida real... isso não é ciência.
+BGC28|É, bem, que tal eu te assustar para te acordar? Tipo, OI, YA PA PA!
+BGC29|NÃO!
+BGC30|Arin, sai da porra da banheira.
+BGC31|Arin, você vai querer ver isso.
+BGC32|Pense nisso, Arin: pense em todos os casacos que cabem neste armário. Casacos para o inverno, casacos para o outono ventoso, até casacos para eventos formais.
+BGC33|Eu quero essa vida para você. Você merece.
+BGC34|Concordo, gatão. Vamos lá. Contamos com você, não-Chet.
+BGC35|Muito obrigado!
+BGC36|Vamos roubar umas chaves de carro!
+BGC37|Não utilizado
+BGC38|Não utilizado
+BGC39|Bem, isso é interessante, Arin, porque um dos nossos companheiros de festa acabou de me informar que Vickie Vixen é, na verdade, uma atriz pornográfica. De onde você acha que a reconhece?
+BGC40|Não utilizado
+BGC41|Por favor, meninas, essa violência nunca é a solução! Uma vez bati na minha irmã como retaliação, e depois ela me incendiou!
+BGC42|Sim! Ou na criança humana!
+BGC43|Não! O quê? Uma criança humana? O quê-não-o quê? Isso é loucura... é loucura...
+BGC44|Isso mesmo, nada de bater em pequeninos também. Vocês, crianças saudáveis, vão precisar desses pintinhos quando a primavera chegar. Então, mantenham-nos limpos!
+BGC45|É o seu simpático vizinho, o Spider-Chet!
+BGC46|Minha irmã me incendiou uma vez!
+BGC47|Shh, quieta, Madison... porque é hora... de uma música!
+BGC48|Irmãs são amigas que têm o mesmo sangue, irmãos são amigos que têm o mesmo sangue, irmãos e irmãs.
+BGC49|Nas palavras do meu pai, você é muito talentoso, Dan! Eles não conseguiriam lidar com isso porque você é MUITO TALENTOSO!
+BGC50|Quase casual demais.
+BGC51|É o que eu tenho dito a ela. Katherine, eu gosto de você.
+BGC52|Não utilizado
+BGC53|Não seja tão mau, Arin. É óbvio que o No-Chet tem tornozelos fracos. Olha só!
+BGC54|Awww, o No-Chet está tentando dar em cima daquela dançarina. Que adorável. Olha como ele está assustado!
+BGC55|Conte-nos seus segredos, HOMEM-DAS-SOMBRAS.
+BGC56|Não diga socos, Arin. Aliás, nem diga barriga de grávida.
+BGC57|É, vá se aconchegar na banheira de hidromassagem, No-Chet. Só não fique lá muito tempo, ou suas partes mordiscadas vão ficar todas schnibidby-bah.
+BGC58|Você... me decepcionou muito.
+BGC59|Eu sei, mas, sabe, eu gosto de imaginar o melhor cenário para as pessoas. Talvez ele tenha um filho para alimentar em casa.
+BGC60|Ah, cara, por que todo mundo tem que bater naquele cara? Ele parece legal.
+BGC61|Olha só, o No-Chet está devolvendo a bebida daquele alcoólatra! Você é um cara legal, No-Chet.
+BGC62|Arin, por favor, vamos deixar essa mulher em paz para que ela não fique mais aqui.
+BGC63|Só dois caras dançando porque querem que a Brittney não perceba que ela tem um gigan-
+BGC64|Ah, merda, esqueci: essa era a única coisa que eu não deveria ter mencionado. Vamos... vamos agora.
+BGC65|Arin, você está sem fôlego só de me explicar isso. Ninguém consegue fazer isso!
+BGC66|Obrigado! Você está ouvindo isso, Arin?
+BGC67|Arin, Arin. Levanta, Arin.
+BGC68|Certo, Arin. Vamos ver se eles têm sorvete aí dentro.
+BGC69|Vamos ver se eles têm confeitos, mas não os chame de Jimmies na frente dessas pessoas. Essas pessoas com certeza vão te dar outra coisa.
+BGC70|Caramba! Aquela ali é uma dançarina. Não faço ideia de onde ela conseguiu uma cobra, mas o conjunto todo é uma performance muito envolvente.
+BGC71|Katherine? Espera aí, você é a mesma Katherine que vive participando do nosso concurso de Maior Fã do Game Grumps? Tudo faz sentido agora!
+BGC72|NÃO é assim que você coloca seu nome no topo do ranking de Maior Fã do Game Grumps, mocinha! Vá até o seu carro e ligue o motor agora mesmo!
+BGC73|É chá de ervas, um chocolate quente com calda ou alguém fez uma bola curva e cozinhou um ovo de deus?
+BGC74|Cara, eu realmente achei que íamos tirar um telefone daquilo. Foi uma performance magistral.
+BGC75|Arin, guarde esse pênis, é hora de irmos!
+BGC76|Arin, Arin, está tudo bem.
+BGC77|Nossa, nossa mercadoria defeituosa queima muito bem! Tá vendo isso, Arin? É muito colorido.
+BGC78|Eu sinto muitas coisas por segundo. Tipo meus dedos, eu sinto como se eles estivessem realmente AQUI agora, sabe o que quero dizer? Tipo eu e meus dedos, estamos realmente neste momento.
+BGC79|TAMBÉM — EU SEI — EU TAMBÉM ME SINTO ALTO. EU TAMBÉM ME SINTO ALTO! Estou muito feliz com a posição do meu maxilar agora. É, é, estou chapado, ah, é, estou chapado. Sinto que o Dan está na casa dos 20 e voou no tempo para sair com meu amigo Aaaar-iiiin.
+BGC80|Nossa, Arin, você arrasou. Só falta o Ninja Brian aqui e já estaremos na onda. A ZONA DO TOM, QUERIDO!
+BGC81|E sandálias e Natal, e vapores químicos e FELICIDADE.
+BGC82|E eu não sou tão rabugento assim!
+BGC83|Rápido, para os nossos corcéis, Arin! Uhuu!
+BGC84|Nunca vamos esquecer VOCÊEEEEEE!
+BGC85|Sem Chet, Sem Chet, Sem Chet...
+BGC86|É isso aí, Arin! Em um movimento criativo que quebrou a imersão e foi preguiçoso, nosso escritor de missões decidiu que EU explicasse todos os detalhes técnicos de como essa história funcionaria. Porque, segundo ele, é um prazer ouvir, e no fim das contas, nada disso importa.
+BGC87|Puh puh puh! Puh! Puh puh!
+BGC88|Esta caixa de diálogo está correta, No-Chet. Não temos muito tempo antes que os Lovelies comecem uma confusão total.
+BGC89|Espere um minuto, se eles tivessem um bloqueador de sinal... e não conseguíssemos sinal no balão de ar quente... pft, não, provavelmente sem conexão.
+BGC90|Não utilizado
+BGC91|Só lembre que temos um show hoje à noite, Arin. Não estou dizendo que ele tem um problema com bebida, mas ele bebe o tempo todo, todos os dias.
+BGC92|Arin, chega, esse cara vai te dar um chute na bunda!
+BGC93|Arin: Eu realmente não quero ser um Brian Amargo, mas o que estamos fazendo? Temos que ir para o Game Grumps Live!
+BGC94|Quer que eu te distraia...
+BGC95|Arin, está tudo bem? Vamos entrar!
+BGC96|Ei, sai do Big Cat! Você sabe que ele tem dedos quebradiços!
+BGC97|Arin! Não morra! Ainda tem tantos jogos ruins pra jogar! Como esse! Ainda temos que refazer esse! Ah, porra, ainda temos que refazer esse.
+BGC98|Ai! Não é assim que a gente expressa raiva, cara! Uma vez, bati na minha irmã em retaliação e ela chorou. Nunca esqueci como isso me fez sentir. Espero que você se lembre das MINHAS lágrimas pelo resto da vida.
+BGC99|Vamos lá! Vou ver estrelas a noite toda agora! Pisca, estrelas, pisca, estrelas, pisca-Deus! Droga, não-Chet!
+BGC100|Ha! Essas nuvens são fracas, mano.
+BGC101|Eu adoro empanadas!
+BGC102|Aqui, repita sua fala.
+BGC103|Este lugar vai me derrotar. O Ross deve ter criado esse jogo maldito...
+BGC104|Você disse "seja o tarado"?
+BGC105|Maaaass Aaaarin!
+BGC106|Arin, eu realmente não quero ser uma Sandra Salgada, mas o que estamos fazendo?! Temos que ir para o Game Grumps Live!
+BGC107|Com licença.
+BGC108|Enquanto você estava com as garotas, eu estava estudando espadas.
+BGC109|Meu Deus, este lugar...
+BGC110|DOOOO-DO DOOOO, DO DOO DOOOO, DO DO... mmm, foi uma performance magistral. Não foi? ...Bom.
+BGC111|Ai, meu Deus, Arin!
+BGC112|Arin, qual é!
+BGC113|Calma, cara...
+BGC114|...Eu tenho um pequeno UH-UH e um pequeno AH-AH!
+BGC115|*Suspiro* Cara... Não acredito que isso está acontecendo. Lembra quando começamos a jogar esse jogo, e agora estamos TÃO ENTREGUES. Tão dentro da tradição. Meu Deus.
+BGC116|É, uau... ummmm... agora estou fedendo.
+BGC117|Tanto faz, cara, não somos pagos para isso...
+BGC118|Gato Grande, acalme-se, ou o Sr. Negócios vai ter que liberar os negócios.
+BGC119|Loucura! Que loucura.
+BGC120|Que porra é Gangnam Style?
+BGC121|Nunca ouvi falar disso, acho que ninguém ouviu.
+BGC122|Qualquer porto em uma tempestade!
+BGC123|Você viu esse dedo de espuma, Arin?
+BGC124|Alguma coisa vai acontecer com um idiota.
+BGC125|P-CLUUUBB.
+BGC126|Acho que isso vai te matar...
+BGC127|E nós somos os Game Grumps! E vamos cair fora daqui! ...Meu Deus, fizemos isso sem problemas e dentro do código!
+BGC128|Meu Deus, tem xixi por todo lado!
+BGC129|Que pênis enorme!
+BGC130|Olha só, o No-Chet está devolvendo àquele alcoólatra o seu meio de ficar bêbado!

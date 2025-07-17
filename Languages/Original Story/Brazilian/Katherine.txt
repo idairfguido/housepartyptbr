@@ -1,0 +1,718 @@
+﻿[General]
+Name|Katherine
+
+[Dialogues]
+0|Precisa de alguma coisa?
+1|Típico. Finja que está fazendo um favor para a garota e pegue umas bebidas para ela na esperança de que ela fique bêbada para perder as inibições e tomar decisões ruins, e aí você pode ter a chance de transar com alguém hoje à noite, certo? Acho que vou deixar passar.
+2|Argh. Pode sonhar.
+3|É, ele é meu namorado. Ele deveria me encontrar aqui, mas está sendo um babaca.
+4|Que tal pararmos de conversar agora?
+4.1|Hum. Desculpe, mas eu NÃO vou ter uma conversa com você assim. Eu não conseguiria me conter de rir. Vista uma roupa horrível. Babaca.
+5|Que fofo. Queria que ele sentisse o mesmo.
+6|Nossa, isso foi meio filosófico mesmo. Você pode até ter um cérebro escondido aí em algum lugar.
+7|Sabe de uma coisa? Na verdade, eu até gostaria de fazer isso. Meu namorado ainda é um babaca.
+8|Ah, certo, a camisinha antiálcool dele. Bem, as regras dele não me afetam porque ele não bate em garotas, então diga a ele que o álcool é para mim. Eu mesma iria buscar, mas meu sinal é bom neste quarto.
+9|Argh. Eu não a suporto. Ela é tão burra. Mas, ei, veja o lado bom. Como ela tem mais inteligência que você, você tem mais chances de transar com ela hoje à noite do que eu.
+10|Desculpe, tenho algumas mensagens e ligações importantes para atender que não quero perder, e este é o único quarto que tenho. Você vai ter que dar um jeito.
+11|Boa ideia! Ok, estou pronta. Vamos, tire a foto!
+12|Aquele Frank de merda. Que babaca. Que se foda. Parece que meu namorado não vem, e este parece ser o único jeito de eu beber álcool hoje à noite. Acho que uma foto rápida não vai fazer mal nenhum. Rápido, tira a foto!
+13|Que diabos? Uma foto rápida é uma coisa, mas eu não vou ficar pelado com todas essas outras pessoas. Se você conseguir esvaziar a sala, eu te dou uma foto.
+14|Hã. Acho que as pessoas desmaiadas e bêbadas no chão contam como se não estivessem na sala. Tudo bem. Se esse é o único jeito de eu conseguir uma bebida hoje à noite, que seja. Rápido, tira a foto.
+15|Aquele pervertido de merda! Que se foda. Vou trocar umas palavras com ele!
+16|Acho que isso não é da sua conta agora, né?
+17|Então, se eu não estivesse de óculos, eu seria só uma vagabunda burra? Você não está se ajudando, cara. Tenho outras coisas pra fazer, se não se importa.
+17.1|Que coisa mais idiota de se dizer. Não preciso parecer inteligente, EU SOU inteligente. No entanto, não posso dizer o mesmo sobre sua escolha de conversa fiada. Não consigo dizer se você está tentando fazer amizade ou flertar comigo, mas de qualquer forma, considere isso um fracasso.
+18|Ops. Eu pareço que bebo essa merda?
+19|Meu namorado está sendo mau o suficiente comigo hoje à noite, não preciso que você o piore, seu babaca. Guarde essa desculpa patética para um babaca!
+20|Idiota de merda. Quem diabos você pensa que é? Espere até meu namorado descobrir isso! Vou te dar uma surra!
+20.1|Sabe de uma coisa, eu nem vou esperar meu namorado. Vou te dar uma surra!
+21|É, percebi que ele é o típico babaca. Se você conseguir dar um jeito nisso, me avise e eu ajudo se puder.
+21.1|Ah, desculpe. Você queria um tapinha nas costas por isso? Ainda não vejo uma bebida na minha mão. Talvez se você tivesse insinuado isso, eu ficaria mais receptivo ao seu pedido de atenção.
+22|Argh. O sinal de celular aqui é horrível! Tem que ter um lugar nesta casa com sinal melhor.
+22.1|Que diabos? Não tenho sinal de celular. Tem algum lugar nesta casa com sinal decente?
+22.2|Droga. Não tem sinal em nenhum outro lugar. Preciso tentar em outro lugar.
+22.3|Você vai mesmo usar minhas próprias armas contra mim? Você não pode INVASORTAR a Rainha do Glamour. Quer dizer, pode; é muito irritante. Ou sai com essa coisa ou desliga.
+23|Que idiota! Bem, eu não vou ficar pelado no meio desta festa com toda essa gente por perto. E o sinal de telefone nesta casa é horrível. Tenho muitas mensagens importantes para enviar, e parece que tenho o melhor sinal aqui. Me dê um bom serviço se quiser uma foto dos meus peitos.
+24|Você é cego, idiota? Tem muita gente por aí. Não vou ficar pelado aqui.
+25|Ah, é, parece que não tem ninguém por perto. Acho que essa é a sua chance. Certo. Me diga o que fazer.
+26|Estou de olho em você. O que eu devo fazer?
+27|Certo. Como eu devo posar?
+28|Acho que você tem razão. Espero que o Frank faça.
+29|Você está indo longe demais, cara. Esquece. Já terminei. E me dá uma bebida!
+29.1|O Frank disse que queria meus peitos e você já os tem. Só posso presumir que ele está tentando conseguir mais de mim para seus próprios interesses pessoais. Não tenho ideia do que você está aprontando, mas desculpe, não vou morder a isca. Pegue o que você tem e me traga uma bebida. Minha paciência está se esgotando e você já bebeu o suficiente.
+30|Tem uma câmera, gênio?
+30.1|Deixa eu ver... ugh, você sabe que precisa de uma câmera funcionando, né?
+31|Ops, parece que eu bebo essa porcaria?
+32|Eu não bebo cerveja nem vinho dessa porcaria. Me dá um bom gole de rum em vez dessas outras porcarias.
+33|Essa é a minha bebida, gata! Sabe de uma coisa? Acontece que você não é tão ruim assim. Eu diria que você tem 75% de chance de tirar minhas calças hoje à noite, principalmente considerando o quão ruim meu namorado é e que você já viu meus peitos.
+33.1|É isso aí, gata! Em breve, Spandex Daddy será uma lembrança distante e difusa. Mas, com os Grumps, por outro lado, eu nunca vou conseguir beber a mesma diversão que tive hoje à noite. No entanto, como você provou que sabe aceitar ordens muito bem, eu coloco sua probabilidade de virar um fantoche de satisfação em cerca de 75%.
+33.1|É isso aí, gata! 33.2|Porra, é isso aí! Essa é a minha bebida, gata! Sabe, você não se saiu tão mal assim. Eu diria que você tem 75% de certeza de que consegue entrar na minha calça hoje à noite, principalmente considerando o babaca que meu namorado está sendo.
+34|Que bom que você perguntou. Sinto que sou a única que precisou mostrar um pouquinho de pele para conseguir uma bebida, e se tem uma coisa que eu odeio mais do que a Stephanie, é ser tratada injustamente. Acho que é a sua vez de se exibir. Se você conseguir ficar nua na frente de todo mundo aqui na festa, então TALVEZ eu te use para um pouco de diversão. Só não se esqueça de quem manda aqui.
+34.1|Que bom que você perguntou. Hmmm, sabe de uma coisa? Acho que você deveria se exibir um pouco primeiro. Quero ver com o que estou trabalhando e se você está se divertindo. Se você conseguir se exibir para todo mundo na festa, TALVEZ eu te use para um pouco de entretenimento. Só não se esqueça de quem manda aqui.
+35|Droga, eles me viram!
+36|Tá bom, vai se foder, cara.
+37|Ah, é isso! Esqueci que pedi para você fazer isso. Às vezes eu me faço rir com as coisas que invento.
+38|Sabe de uma coisa? É. Meu namorado é o rei de todos os filhos da puta hoje à noite. Transar com você seria um bom castigo para ele. O pior que poderia acontecer é ele te dar uma surra, mas eu vou ficar bem, então vale a pena. Ah, e preciso de algumas coisas primeiro, se você não se importar. Siga-me.
+38.1|Claro, eu poderia ir de novo. Siga-me.
+38.2|Claro, eu poderia ir para outra rodada. E não se incomode com toda essa porcaria que eu pedi antes. Eu só quero transar. O dia de sorte dele, eu acho. Vamos, idiota. Siga-me.
+39|Bem, o que você está esperando? Me foder.
+39.1|Com gente no quarto? O que diabos há de errado com você?
+39.2|Você vai fechar a porta, idiota? Já é ruim o Frank ter uma câmera cheia de fotos dos meus peitos. Eu não preciso mostrar o resto de mim.
+39.3|Tire a roupa, idiota.
+39.4|Tire a roupa, idiota.
+39.5|Tire a roupa, idiota.
+39.6|Tire a roupa, idiota.
+39.7|Parece que você precisa de um momento. Volte quando estiver pronto para outra rodada.
+40|Uhh. É, acho que isso funcionaria. Boa ideia! Certo. Uma última coisa. Vou precisar de uma garrafa d'água. Por que você não me compra uma, e eu estarei pronta quando você voltar?
+40.1|Mmm. É, acho que isso funcionaria. Boa ideia! Certo. Uma última coisa. Vou precisar de uma garrafa d'água. Vá buscar uma para mim. Fatie, pique!
+41|Cowboy manso. Preciso de algumas coisas primeiro. Primeiro, preciso de algo para me aquecer, se é que você me entende. Gosto de fazer isso sozinha, então não fique pensando, só encontre algo que eu possa vestir.
+41.1|Devagar, querida. Preciso de algumas coisas. Primeiro, preciso de algo para começar, se é que você me entende. Gosto de fazer isso sozinha, então não fique pensando, só encontre algo que eu possa vestir.
+42|Muito inteligente. Certo, acho que é isso. Estou pronta.
+42.1|Muito inteligente. Bem, acho que é isso. Preciso de um tempinho para me aquecer, então vá para algum lugar que... não seja aqui. E nem pense em se esconder no banheiro ou no armário. Só por segurança, talvez você devesse sair completamente desta área. Ah, e trancar a porta ao sair. ...Ei, linda. Hora de um prazer orgânico e totalmente natural...
+43|Não.
+44|Gostou do que viu? Depressa com essa água. Não tenho o dia todo.
+45|Que bom que você percebeu que precisa me incluir também. É bom poder ver com o que estou trabalhando.
+46|É mais assim que eu gosto.
+47|Tire essas pessoas daqui! Preciso de um tempo sozinha!
+47.1|Posso te dar um tempinho sozinha? Volte mais tarde.
+47.2|Posso ter esquecido da minha, hã... "rotina de aquecimento", mas ainda não quero você me olhando enquanto eu me despojo. Vá para algum lugar longe da minha vista... ou, pelo que me importa, apenas olhe para a maldita parede por um momento. ...E então, só então... você conseguirá me contemplar.
+48|Bem, era exatamente o que eu precisava. Não foi tão estranho eu ligar para o meu namorado e deixá-lo ouvir tudo, foi? 
+49|Que tal pararmos de conversar e você prestar mais atenção no que está fazendo?
+49.1|Consegue ver mmbzy?
+49.2|Hum... O que eu devo fazer?
+50|Eu me formei como a primeira da turma e tenho mestrado em Engenharia. Eu sei hackear um telefone? Sério? Eu conseguiria até dormindo.
+51|Por "hipoteticamente", você quer dizer que quer que eu faça isso por você, certo? Só me traga um laptop com internet e um celular que eu possa usar, e eu mando uma mensagem para ela. Não vou fazer isso com as minhas próprias coisas. Existem maneiras de rastrear essas coisas se alguém realmente quiser.
+52|Patrick!
+53|É, gênio. Eu te disse que precisava do telefone dela enquanto tinha tudo no bolso. Você abandonou o jardim de infância?
+54|Acho que sei qual telefone você poderia usar...
+55|Isso é perfeito! Vamos usar o laptop no quarto de hóspedes, e acho que eu conseguiria mandar uma mensagem para ela. Me siga.
+56|Ah, que fofo. Ela colocou uma senha no laptop. Não deve levar mais do que alguns minutos para descobrir isso. É só me avisar quando quiser enviar uma mensagem.
+56.1|Ok, ok, parece que alguns Blackhats já descobriram a senha. Sejam eles quem forem, é melhor não voarem muito perto do sol. Um dia você está descobrindo senhas por diversão, e de repente está em uma prisão na Ucrânia sendo mandado agachar e tossir. O segundo ano foi uma verdadeira bagunça... Só um segundo.
+56.2|Tudo bem, vamos começar a quebrar e hackear! Ha, a senha da Ashley é "FuckMadison". Entendemos, Ashley, você está toda encurralada porque sua irmã é má com você. Tudo bem, estamos a postos... hora de dar um jeito nesses Grumps!
+56.3|Ok, ok, parece que alguns Blackhats já descobriram a senha. Sejam eles quem forem, é melhor não voarem muito perto do sol. Um dia você está decifrando senhas por diversão, e a próxima coisa que você sabe é que está preso por... Estou divagando. Estamos a todo vapor, agora calem a boca desses Grumps!
+56.4|Ah sim, o local do meu triunfo anterior. Quem diria que eu usaria minhas habilidades de forma tão extensiva esta noite? Ah, certo, ninguém, porque quem não ficaria surpreso que esse pesadelo humanitário de bairro tivesse acesso a água encanada, quanto mais à internet? Luditas. Certo, estamos a todo vapor, agora calem a boca desses Grumps!
+56.5|Ah sim, o local do meu triunfo anterior. Quem diria que eu usaria minhas habilidades de forma tão extensiva esta noite? Ah, certo, ninguém, porque quem não ficaria surpreso que esse pesadelo humanitário de bairro tivesse acesso a água encanada, quanto mais à internet? Luditas. Certo, um segundo...
+57|Claro. Você tem um número de telefone para enviar a mensagem?
+58|Entendido. Agora preciso do número de onde você quer que eu envie.
+59|Isso não é problema meu, meu amigo. Volte quando tiver todas as informações que precisa, idiota.
+60|Claro. Usaremos o laptop. Siga-me.
+61|Claro. Só me diga o que você quer que a mensagem diga.
+61.1|A atriz pornô? Ah, tudo bem. Só me diga o que você quer que a mensagem diga.
+62|Ok, me dê alguns minutos e eu envio esta mensagem.
+63|Calma, amigo. Isso ainda não foi escrito. Você terá que assistir a uma versão mais recente de House Party para ver como vai ficar.
+64|Parece que a internet caiu. Não consigo mais enviar mensagens sem conexão e, mais importante, não consigo verificar meu e-mail. Estou sem dados no meu plano. Isso é o pior.
+65|Ei, a internet voltou. Ótimo! Eu estava com saudades.
+66|Precisa de alguma coisa?
+67|Entendido. Agora preciso do número de onde você quer que eu envie.
+68|Ok, me dê alguns minutos e eu envio esta mensagem.
+69|Claro. Só me diga o que você quer que a mensagem diga.
+70|Parece que estou vendendo drogas? Ou um farmacêutico, eu acho. Você sabia que agora é legal como medicamento em mais de 29 estados?
+71|Eu uso um aplicativo no meu celular para calcular exatamente quanto posso beber, levando em consideração meu peso, o quanto comi e a velocidade com que meu fígado consegue metabolizar o etanol. Acho que talvez você também devesse baixar...
+72|Para quem duvidou de mim quando eu disse que seu nível de inteligência era igual ao de espécies inferiores, vou dar o exemplo número 1.
+73|Ah, isso é como assistir ao History Channel. Você se importa se eu fizer algumas anotações, se importa?
+73.1|Hmm... Então é isso que eu tenho que esperar? Talvez eu precise de mais água...
+74|Bem, depende. Para que serve isso?
+75|Bem, parece uma solução perfeitamente razoável para o problema. Vou assinar.
+76|Isso é estúpido. Você é estúpido. Me deixa em paz.
+77|Agora não, mas tenho certeza de que consigo descobrir. Vou dar uma olhada.
+78|Se me chamar assim de novo, eu te mato dormindo.
+79|O problema com o micro-ondas eram os disjuntores térmicos, que ajudam a evitar o superaquecimento do forno. Quando os disjuntores térmicos falham, o micro-ondas não liga como medida de segurança para evitar que fique muito quente. Desliguei o micro-ondas da tomada e removi o gabinete. Depois, quando encontrei o fusível térmico, desconectei os fios dos terminais. Usei um multímetro para testar a continuidade. Como não havia um, substituí os disjuntores térmicos. Aproveitei também para verificar se a ventoinha estava funcionando e se não causaria o superaquecimento do micro-ondas, cortando o fluxo de ar.
+80|É. Idiota.
+81|Agora sim! Essa é a minha bebida, querida! Sabe, não foi tão ruim assim. Queria que o idiota do meu namorado desse uma olhada em você. Só consigo imaginar o pau dele encolhendo tão rápido quanto as chances da Stephanie de um futuro seguro. Ha! Será que sou muito má? Ah, acabei de lembrar, não me importo.
+81.1|Porra, essa é a minha bebida, querida! Em breve, Spandex Daddy será uma lembrança distante e borrada. Mas com os Grumps, por outro lado, nunca poderei beber a diversão que poderia ter tido esta noite.
+82|É. Não sei o que está acontecendo comigo agora... Acho que preciso de um pouco de ar fresco.
+82.1|*De longe* Ops. Não sei o que está acontecendo comigo agora... Acho que preciso de um pouco de ar fresco.
+83|Eu entendo que você me trouxe uma bebida, mas não precisa me "verificar". Vou te dizer uma coisa: eu vou te procurar. Mais tarde.
+84|Meu Deus! Saiam todos da frente!
+84.1|*Gritando lá de fora* Meu Deus! Saiam todos da frente!
+85|Porra, está trancada! Madison, cadê a chave? Foda-se - Frank, se você quiser ver meus peitos de verdade, abra essa porta agora, droga!
+85.1|Trancada pra caralho! Madison, cadê a chave? Alô? Alguém? Ugh, droga, eu tenho que fazer tudo sozinha?
+86|Não quero participar de nenhuma das suas conversas idiotas agora. Só vá e veja se não tem ninguém no banheiro.
+86.1|Eu disse vai!
+86.2|Não quero participar de nenhuma das suas conversas engraçadas agora. Vá e veja se não tem ninguém no banheiro.
+87|Ei, cai fora! Agora que estou aqui, você quer abrir a porta? Cai fora e encontre alguém que possa me ajudar!
+88|Você é surda ou só burra? ENCONTRE. ALGUÉM. QUE. POSSA. ME. AJUDAR.
+88.1|Você é doida da cabeça, sabia? ENCONTRE. ALGUÉM. QUE. POSSA. ME. AJUDAR.
+89|Sai daqui!
+90|Meu. Deus. Você não. Qualquer um menos você, Stephanie.
+91|Você não pode estar na faculdade de medicina e ficar bêbada toda noite, idiota. Já ouviu falar de "plantão"?
+92|Vá procurar alguém além da garota que acha que RCP significa Codeína, Percocet e Ritalina. Ou pelo menos acalme-a, porque eu aceito qualquer um agora mesmo.
+93|Hestabihen...
+94|Stephanie, é você? Estou morrendo aqui!
+94.1|Traga aquela morena aqui!
+95|Não sei — ela apagou em um segundo e sumiu no outro. Vá procurá-la!
+96|Steph, muito obrigada. Eu sei que sempre digo às pessoas que você nunca vai conseguir nada, mas hoje à noite você me salvou. Eu literalmente pensei que ia perder a cabeça hoje à noite.
+97|Precisamos mesmo te dar um livro ou algo assim. Qualquer coisa. Mesmo assim, muito obrigada.
+98|Você me abandonou na minha hora de necessidade para poder ficar chapado. Fodam-se vocês. Eu vou lidar com isso sozinha.
+99|Stephanie, você é uma merda. Vai para o inferno.
+100|Eu descreveria melhor como uma dor que me dá vontade de morrer. Além disso, meus intestinos estão fazendo essa coisa de simplesmente esvaziar. Imediatamente. O tempo todo.
+101|Você está tentando me envenenar? Isso é completamente fodido! Frank, venha aqui e dê uma surra nesse babaca!
+102|Ei, obrigada por mais cedo, eu acho. Não vamos contar a ninguém sobre isso. Nunca.
+102.1|Ei, como você está?
+103|Ei, que porra! Estou esperando uma mensagem do meu namorado, sua idiota! Você não pega as coisas dos outros, Stephanie.
+104|Espera, Stephanie, meu celular!
+105|Meu Deus. Eu odeio a Stephanie!
+106|Você gostou da sua travessura com a Stephanie enquanto eu morria no banheiro? Eu sei que não te conheço muito bem, mas acho que vou te classificar como uma "pessoa lixo" no meu livrinho de pessoas a evitar.
+106.1|Você gostou da sua travessura com a Stephanie enquanto eu morria no banheiro? Depois de todos os momentos divertidos que tivemos hoje à noite, você ainda escolheu as drogas em vez de mim. Acho que vou te classificar como uma "pessoa lixo" no meu livrinho de pessoas a evitar.
+107|Digite o texto do diálogo aqui.
+108|Espero que agora você entenda por que eu acho a Stephanie um enorme desperdício de espaço. Ela não tem fibra intelectual nenhuma. Ah, falando em fibras, vou ter que ver se meu namorado pode me dar Bran Flakes ou algo assim.
+109|Não dá para fazer muita coisa sem o meu celular, né? Vai embora, cara.
+110|Nossa! Que bom que encontrei meu celular, que está completamente estragado por causa da água quente e clorada de esperma! O que eu faria sem você?
+111|Stephanie, você vai cantar uma música para mim enquanto esperamos? Vai me fazer sentir melhor.
+112|Meu Deus! Deixa pra lá.
+113|Acho que, pensando bem, foi na segunda série que ficou claro o quanto eu era mais inteligente do que todo mundo. Enquanto todas as outras crianças brincavam de Pocket Mongrels e Luchi-Yo, eu lia livros no nível do décimo ano. Claro, isso não significava que eu tinha um monte de amigos, mas quem precisa de amigos? Alô?! Você está ouvindo?
+114|Argh, não consigo continuar assim. Nem falar dos meus sucessos na vida me faz sentir melhor. Por favor, vá ver por que a Stephanie está demorando tanto. Por favor!
+115|Isso me diz uma de duas coisas. Primeiro, você é o tipo de cara que levaria um vibrador rosa para uma festa que não é para solteiras ou swingers... ou segundo, você acha que eu quero um vibrador usado que pertence a uma das duas porta-vozes da mediocridade que moram aqui. De qualquer forma, nem me toque com essa coisa.
+115.1|Isso me diz uma de duas coisas. Primeiro, você é o tipo de cara que levaria um vibrador rosa neon para uma festa que não é para solteiras ou swingers... ou segundo, você acha que eu ia querer um vibrador usado de uma das duas garotas-propaganda da mediocridade que moram aqui. De qualquer forma, isso não vai funcionar para mim. Encontre outra coisa.
+116|Argh, não. Rachael, de todas as pessoas, e eu tivemos uma conversa esclarecedora sobre isso mais cedo. Depois de avaliar e expandir suas observações simples, concluí que não há uma malha de navegação do lado de fora, nem uma placa de aterramento para andar, o que impediria você de sair de casa ou do quintal. Então, aparentemente, no final desta demonstração, e em conclusão, você é um idiota. Agora, vá me encontrar algo para tocar que não me deixe decepcionado com a humanidade.
+117|Você sabe que essa merda vai te matar, certo? Claro, eles são melhores que cigarros, mas se você contar o número de pessoas que se esforçam para matar alguém usando vaporizador, se torna igual. O máximo que você sabe!
+118|O que isso significa? As garotas da irmandade da Amy te contaram isso? Argh, por que todo mundo acha que eu faço os homens perderem a ereção? Não é como se eu tivesse eletricidade na minha pele ou algo assim!
+119|Bem, é. Obviamente. Mas um choque elétrico também mata uma ereção em segundos. Agora, vamos lá, me diga, quem disse que vocês ficam moles perto de mim!
+120|Você. Tem. Que. Continuar. Brincadeira. Eu. Que essa situação implica que você poderia passar de fotógrafa iniciante para Harvey Weinstein e se safar? Eu vou te matar, PORRA.
+120.1|Qual é o seu defeito? É isso que virgens sem pênis fazem quando ninguém deixa você tocá-las por vontade própria? Aliás, isso é retórico. Agora fique quieta, babaca. Eu vou te foder sem consentimento.
+120.2|Qual é o seu defeito? É isso que lésbicas desesperadas fazem quando ninguém deixa você tocá-las por vontade própria? Aliás, isso é retórico. Agora fique quieta, vagabunda. Eu vou te foder sem consentimento.
+121|Se você vai fazer isso, tente não estragar. Nem meu namorado estraga ISSO.
+121.1|Abaixa a porra da sua mão. Eu pareço um zoológico? Não quero que você me lembre que estou transando com você e não com o Idris Elba.
+122|Então, não sei o que está acontecendo entre você e a Ashley, mas depois que os peitos dela saíram, encontrei esta chave no chão. Imaginei que você a tivesse engolido e ela se soltou quando seu queixo caiu. Tenho coisas muito mais importantes para fazer, mas... você foi ótima esta noite, e pensei que você a quisesse de volta.
+123|Isso é algum tipo de cantada? Não sei, me lembra um pouco da chave barata que meu namorado usa para trancar a moto porque ele adora ir de moto para o trabalho e pegar a faixa no trânsito.
+124|Ok, admito, é um pouco mais complicado do que meu namorado simplesmente "ser um babaca". Ele realmente, REALMENTE anda de moto para todos os lugares como um casal, e antes que você pergunte, não, não são Harleys e gatas nas estradas. Mais como Schwinns e virilhas suadas nas calçadas.
+125|Olha, eu serei o primeiro a dizer: não acho que eu deva ficar coberto de suor só para que nosso planeta possa prolongar sua morte inevitável por alguns míseros minutos. Se minhas projeções estiverem corretas, colonizaremos Marte até 2041 de qualquer maneira. E em Marte, não terei que chamar NINGUÉM de "Papai Spandex".
+126|Ahhh, sim. Ele usa um daqueles macacões de corrida IDIOTAS, elásticos e que cobrem o corpo todo toda vez que a gente "pega a estrada". Ele só está rezando para que alguém pergunte sobre isso para ele poder falar da moto. Enquanto nos arrumávamos hoje à noite, ele simplesmente não aguentou. Foi como se o spandex tivesse se transformado na bunda dele... Bleh. A gente brigou feio, eu vesti roupas normais e vim de carona para cá.
+127|Bem, a briga não foi a pior parte. Essa é uma chatice em duas partes. Mas, sim, obrigada.
+128|Ah, sim, o papai Spandex pode ir se foder, mas a gente ainda vai ficar junto depois disso, mesmo depois que eu fiz aquilo com você. A gente encontrou o amor verdadeiro em fazer um ao outro infeliz. Mas a verdadeira chatice é o que a gente tinha planejado para hoje à noite. Essa é a Parte 2 dessa merda de vagabundo fantástica.
+129|Ugh. Que tal isso? Se você puder me trazer algo para beber, eu ficaria feliz em compartilhar mais.
+129.1|Normalmente preciso de uma bebida para me envolver nessa bobagem de namorado, mas felizmente você já providenciou. Aqui, me puxa para perto. Só não deixe o Frank ou o cu dele verem.
+129.2|Bem, tem sido uma noite meio difícil para mim até agora, o que quase fez meus órgãos girarem, mas se tem uma coisa que dizem sobre álcool, é que ele nunca vai te fazer vomitar com a intensidade de uma estrela implodindo! Morte ao Spandex Daddy! Aqui, beba comigo, só tome cuidado para que nem o Frank nem o lacaio dele nos vejam.
+130|Não direi mais nada sobre as coisas do meu namorado até você me trazer algo para beber.
+131|Não direi mais nada até você se juntar a mim para acabar com a minha futura solteirice.
+132|Ah... uau! Tá, você já ouviu falar do Game Grumps? É um programa online incrível apresentado por esses caras, o Arin e o Dan. Eles jogam e falam sobre todo tipo de merda enquanto jogam. Eles são quase psicopatas... mas é de longe o meu conteúdo favorito da internet. E eles vão ter um show ao vivo HOJE À NOITE!
+133|É isso aí! Meu namorado e eu íamos dar um oi e cumprimentar todo mundo aqui antes de dar um "gtfo" estiloso e ir de bicicleta para a VERDADEIRA festa que queríamos ir: o show do Game Grumps Live!
+134|Mas aí eu vi as bolas dele todas murchas de spandex. E agora, ele sumiu. Ele acabou de ir com sua boceta sebosa para o Game Grumps Live sem mim e COM os nossos ingressos. E eu estou presa aqui esperando a transmissão ao vivo do Game Grumps começar, enquanto mando um milhão de emojis de dedo do meio para o meu namorado. 
+135|Se houver um lado bom, os Grumps vão ao show ao vivo de balão. Depois de estudar os padrões de vento para esta noite, parece que eles vão flutuar bem em cima desta casa no caminho. Pelo menos eu vou poder vê-los voando... enquanto eles deixam a minha bunda para trás. Yay meeeeeee. Só me deixe com esta bebida. Vou transar muito para sempre... para sempre.
+136|...E a outra coisa sobre o Spandex Papi é o cheiro depois de uma longa viagem. Sabe aquelas cenas de filmes de guerra que mostram o campo de batalha, mas é tipo, no dia seguinte, e aqueles corpos assando no sol, e sabe, só por causa de como o corpo humano funciona, que a maioria deles se cagou até a morte? Desculpe, ainda preciso de tempo para supurar isso sozinho. Me encontre daqui a pouco.
+137|Ei, eu estou bêbado e você não está tão bêbado assim, e eu vou ficar mais bêbado ainda! Ei, Buckaroo. Você veio beber e esquecer a tristeza comigo?
+138|Quer dizer, comprar outro ingresso para um show esgotado? Não vai acontecer. Eu sou ágil, talvez eu pudesse jogar Splinter Cell até o teto e assistir pelas saídas de ar. Mas provavelmente não pegaria sinal nas saídas de ar... sem sinal! No ar!
+139|Olha, é um tiro no escuro, mas se você encontrar algo para bloquear conexões sem fio, acho que tenho uma boa ideia. Uma ideia nascida da vingança, movida a rum e completamente livre... de spandex. Bloqueador de sinal. Veja se consegue encontrar um. Vamos bloqueá-los! Bloqueando os Grumps!
+140|Ele realmente encontrou um dispositivo bloqueador de sinal nesta tomada de crack — ainda paga a TV a cabo, né? Estou impressionado. Pensei que teria que construir um com a tecnologia da maleta não tão bem escondida do Patrick. Com certeza a Madison pegou esse dispositivo para ferrar com a Ashley. 
+141|Me dá um segundo para recalibrar a capacidade do bloqueador. Vou mudar os parâmetros de direção para amplificar quem estou enganando. Você não vai entender uma palavra disso.
+142|Bam bam, obrigada, senhora. Este bloqueador de sinal agora deve conseguir atingir a altitude do balão de ar quente do Grump. Tem uma oração que eu não pensei que diria hoje. Ah, já está quase na hora! Eles virão em nossa direção a qualquer momento. Vou encontrar um computador para fazer minha mágica. Vá lá fora e ligue isso! Lembre-se de não ir muito longe!
+142.1|Bam bam, obrigada, senhora. Este bloqueador de sinal agora deve conseguir atingir a altitude do balão de ar quente do Grump. Tem uma oração que eu não pensei que diria hoje. Ah, já está quase na hora! Eles virão em nossa direção a qualquer momento. Vou encontrar um computador para fazer minha mágica. Fique aqui na rua e prepare-se para ligar isso!
+143|Nós conversamos sobre isso! Ou talvez não, mas não importa. Vamos trazer aquele balão de ar quente para ESTE quintal. Estamos bloqueando sinais, bebendo rum e aprendendo sobre sistemas de trajetória de balões de ar quente com um manual que encontrei em um lugar estranho da internet. Os Game Grumps estão vindo para cá. Ao vivo! Então, saia daí enquanto eu cuido do computador. bloqueiem, Grumps!
+143.1|Conversamos sobre isso! Ou talvez não, mas não importa. Vamos trazer aquele balão de ar quente para ESTE quintal. Estamos bloqueando sinais, bebendo rum e aprendendo sobre sistemas de trajetória de balões de ar quente com um manual que encontrei em um lugar estranho da internet. Os Game Grumps estão vindo para cá. Ao vivo! Então, fique aqui enquanto eu cuido do computador. bloqueiem, Grumps!
+144|Escuta aqui, seu peidinho: você vai colocar a SUA BUNDA aí e bloquear os sinais, ou eu vou bloquear a sua BUNDA! Não vamos deixar o PAPAI DE SPANDEX ganhar esta noite! DE JEITO NENHUM!
+144.1|Escuta aqui, seu pirralho: você vai prestar atenção e bloquear os sinais ou eu vou te bloquear! Não vamos deixar o PAPAI DE SPANDEX ganhar hoje à noite! DE JEITO NENHUM!
+145|Está funcionando! Está funcionando mesmo! NÃO DESLIGUE ESSE INTERRUPTOR ATÉ VERMOS A BUNDA NA GRAMA!
+145.1|Argh, o bloqueador está lançando uma exceção! Você não está no alcance, seu canalha! Nunca viu um filme de espionagem? Quanto mais perto você estiver do caminho do seu alvo, maiores as chances do bloqueador fazer seu trabalho! Reinicie e se posicione, rápido! Vai, Agente 69!
+145.2|Argh, o bloqueador está lançando uma exceção! Está ligado? Nunca viu um filme de espionagem? Ligue a caixa preta. A caixa preta faz bip bip. O espião idiota ganha uma medalha brilhante! Vamos lá, Agente 69!
+146|Ei, por acaso você encontrou aquele dispositivo de interferência? Quem estou enganando? A Madison ainda está usando o Windows XP no desktop dela. É, parece Linux, mas é porque ela baixou uma captura de tela do desktop de outra pessoa e a colocou como plano de fundo. Merda. Qualquer técnico nessa cabana ludita provavelmente é tão falso quanto ela. Embora eu ache que nunca se sabe.
+147|Dingus, você não ligou o bloqueador e o balão passou direto por mim! Argh, voltando para a transmissão ao vivo. Você é pior que o Spandex Daddy.
+147.1|Dingus! Você não ligou o bloqueador e o balão passou direto por mim! Argh, voltando para a transmissão ao vivo. Você é pior que o Spandex Daddy.
+148|Não! Você está ajudando os Grumps a saírem daqui. Você SABE que eu não posso permitir isso. Pense em todo o trabalho que fizemos para... sabotar o grande show deles e... arruinar a noite de centenas de fãs...
+149|Tudo bem, vou devolver o bloqueador de sinal com uma condição. Me ajude a tirar uma foto com os Grumps para eu postar nas minhas redes sociais. Se parecer que eles fizeram uma parada especial antes do show para vir me ver, meu namorado vai ter que usar as mangas refletivas para enxugar todas as lágrimas deles.
+150|É, é isso. Mas a câmera do meu celular não vai dar conta. Precisamos dos caras durões. Estamos falando de DLSR, ASP-C, alta resolução, meu namorado não acha que eu retoquei, uma câmera bem ruim.
+151|Aham. Tudo bem, bom... Eu sei que você tem uma da nossa escapadinha de mais cedo. Vamos usar isso para que meu namorado possa ver cada pixel meu com os Grumps enquanto ele está sozinho reajustando o elástico do paletó. Vou esperar você preparar os Grumps, ok?
+151.1|Tudo bem, bem... Preciso usar minha melhor roupa para que meu namorado possa ver cada pixel meu com os Grumps enquanto ele está sozinho reajustando o elástico em volta da sua bunda. Vou esperar você preparar os Grumps, ok?
+152|Ok... ok. Eu só preciso me recuperar. Primeiras impressões, sabe? Não, talvez não. Só preciso de um momento, então espere, ok?
+152.1|Ok... ok. Eu só preciso me recuperar. Não posso estragar tudo de novo. Merda... se recomponha, Katherine! Pelo menos terei você por perto para que possa me ver bem. Só preciso de um momento, então espere, ok?
+153|Ei, ei, ei! Desculpem a vergonha de antes, mas nosso amigo vai tirar a foto. Só uma. Não vai demorar muito, eu prometo!
+153.1|Oooh MEU DEUS ei, ei, ei! Só preciso dizer... é tão, tão bom te conhecer pessoalmente. Bem, não vou divagar, então, enfim, nosso amigo vai tirar a foto. Só uma. Não vai demorar muito, eu prometo!
+154|Ah, sim, vou passar para o nosso amigo aqui; ele pode fazer a honra.
+155|Sei que fiquei um pouco louco antes, mas acredite em mim quando digo, a Compucompa é de verdade. Estou tentando roubar seus dados da dark web há séculos. Ela vai te levar aonde você precisa ir, você só precisa dar o primeiro passo. A toda velocidade.
+156|Até mais tarde, Grumps!
+157|Depressa! Tire a foto! Quero nós três enquadrados na foto. E não muito longe... Não quero que o Papai Spandex pense que tenho o Tom Assustador espiando enquanto ele faz o meu trabalho.
+158|Meu. Deus. Que idiota do caralho. A batata que você chama de cérebro fez metástase nas suas mãos e dedos? Dan, Arin, sinto MUITO por submeter vocês ao intelecto de um... fantoche de carne. Não... esperem aqui, vou chamar uma carona e... não sei. Talvez eu ainda consiga chegar no seu evento a tempo.
+159|Quer que eu te carregue para a cama também, querida? Ei, coitada, esqueci a chupeta para os bebezinhos em casa!
+160|Ovio. Que criatura estranha e carente você é. Mesmo assim... vocês definitivamente não cruzaram meu caminho esta noite, então... claro, por que não? Ouvi Derek conversando com alguém quando chegou aqui sobre ter sido preso com você alguns anos atrás. Algo sobre indecência pública? Me chocou.
+161|Não me apresse, você é um feto subdesenvolvido, mas tragicamente crescido. Continuando: Ele mencionou que vocês dois foram pegos em uma sacada do terceiro andar, enquanto tentavam ver quem conseguia... "mijar tão longe e tão certeiro quanto o arco longo de um patrulheiro élfico". Honestamente, eu me distraí, já que simplesmente permitir que essas palavras chegassem aos meus ouvidos provavelmente vaporizou metade do meu círculo social.
+162|Ei, ei, ei! Esses dois orifícios? Não, eles não estão se tocando. Volte para a sua função, filho da puta. Quero dizer, um brinquedo... não, não, isso funciona. Pode continuar.
+162.1|Ooooh não, pare e desista! Isso seria como... ugh... beijar a empregada! Ou uma criança que você nunca quis! Concentre-se no jogo! Agora, continue...
+162.2|Escute, querida, eu aprecio o fato de sermos duas mulheres atraentes, mas esses lábios nunca se tocarão. Este batom que estou usando é caro demais para borrar e, além disso, sua boca serve melhor em outro lugar. Agora: você tem minha permissão para continuar.
+163|Embora seu comportamento seja uma boa válvula de escape para a baixa testosterona e os problemas de fluxo sanguíneo do meu namorado... você se esqueceu de quem está usando quem aqui? Sua insistência vai me secar mais rápido do que... bem, a primeira vez que olhei para você. Entendeu? Ótimo. Agora me dê um pouco. Pelo amor de Deus...
+164|Olá... USUÁRIO. Bem-vindo a esta simulação de... "a única mulher que causa medo verdadeiro no âmago da minha alma", escrita originalmente por Patrick Donghauser e aprimorada por dados coletados esta noite através da avançada fotogametria osmítica e das tecnologias proprietárias de bangômetro da CompuCompa.
+164.1|...Puta merda. Não se cansa desta paisagem infernal dos anos 80 infestada de pétalas de rosa? Ou talvez você simplesmente não se canse de...
+165|CALA A BOCA, SEU IDIOTA ENCHIDO DE TESTOSTERONA! A NAVALHA DE OCCAM! E = MC AO QUADRADO! GRAMÁTICA! VOU COMBINAR TODAS AS MINHAS CONVERSAS INTELIGENTES E LUXUOSAS EM UM FALO DE PURO PODER, PERFURÁ-LO ALÉM DO SEU ESFÍNCTER E TE FODER PELO QUEIXO.
+165.1|...esta?
+165.2|PRESENÇA FEMININA DETECTADA NAS PROXIMIDADES. REDUZA O MEDIDOR DE ÓDIO PARA 89% E PREPARE-SE PARA EXCITAÇÃO GENUÍNA. Iniciando... iniciando... mamilos duros. AVISO! AVISO! Se você for descoberto como um homem controlando um avatar feminino neste mundo de realidade virtual, OS MEDIDORES DE ÓDIO SE AJUSTARÃO IMEDIATAMENTE PARA 117% E AÇÕES SERÃO TOMADAS ENVOLVENDO UMA APROXIMAÇÃO DIGITALIZADA DO MEU PUNHO, DE UM TUBO MANIPULADOR DE ELETROLOBOS SECO E DO SEU CUZÃO PERVERTIDO.
+166|CompuCompa, seu filho da puta imprestável e encharcado de cerveja, cancele esse pedido! Olhe para mim, eu sou o usuário agora!
+167|Isso mesmo. Abandonem toda a esperança, vocês que entram aqui.
+168|Awww... bip buop! Entrada não compreendida. Padrão para... A compreensão de Patrick Donghauser da entrada fornecida...
+169|Bem, ufa! Foi tão terrivelmente medíocre para você quanto foi para mim? Embora você tenha vivenciado isso apenas em nível audiovisual, nos lobos parietal e occipital, parte de mim espera que você sinta uma pontada ali quando partir. Falando nisso, CompuCompa! TIRE ESSA COISA DA MINHA VISTA!
+170|Sério? A porra da palavra de segurança? Argh, entrada aceita.
+171|... Que porra inconcebível você está fazendo?
+172|Sim.
+173|Isso é mesmo uma pergunta? Se não fosse pelos 20 centímetros do meu namorado e pela sua cintura "costelada para o meu prazer", eu já teria terminado com ele há muito tempo. Ninguém dá a mínima para o tamanho do swing de um cara. Se um cara não tem um pau grande, ele é basicamente um inútil.
+174|Ah, primeiro de tudo, eca, e segundo de tudo, não.
+175|Eca, Frank, isso é AINDA MAIS nojento! Isso passou de meramente estranho para incrivelmente constrangedor. Tô fora. E eu te odeio.
+176|Claro que vou. Você sabe que somos apenas um bando de formas de vida baseadas em carbono, selecionadas aleatoriamente, flutuando em uma rocha gigante, aguardando nossa morte inevitável, que provavelmente não deixará vestígios da nossa existência, certo? Você acha que uma foto dos meus seios vai mudar alguma coisa no curso do universo? Se dar um pouco de alegria ao Frank torna minha vida um pouco melhor esta noite, qual o problema? Além disso, você VIU a internet? Provavelmente sou minoria se não houver uma foto dos meus seios EM ALGUM LUGAR.
+177|O que diabos te faz pensar que eu colocaria isso na minha vagina? Talvez isso aconteça em qualquer pornografia nojenta ou videogame obsceno que você consuma, mas definitivamente NÃO está acontecendo agora. Vá procurar outra coisa, idiota.
+178|Eu estremeço só de pensar que talvez eu precise te contar isso, mas certifique-se de encontrar um jeito de fechar essa porta. Você tinha uma expressão vazia e infantil no rosto quando eu disse "só"... então espero que estejamos claros.
+179| 179|Você poderia ter me dito que estava enganando uma atriz pornô para vir aqui antes de me convencer a fazer o seu trabalho sujo. As pessoas vão perguntar como isso chegou aqui, e eu não quero ser incomodado. Estou fora dessa pequena operação. Aqui. Pegue este telefone e mantenha-o longe de mim. Se eu fosse você, garantiria que ele nunca mais visse a luz do dia. Quase SEMPRE há evidências deixadas para trás, mesmo quando você é tão bom quanto eu.
+179.1|Ei, idiota! Você poderia ter me dito que estava enganando uma atriz pornô para vir aqui antes de me convencer a fazer o seu trabalho sujo. As pessoas vão perguntar como isso chegou aqui! Você está tentando me excitar? Eu não vou me meter com todas essas travessuras relacionadas ao telefone hoje à noite. Você está por sua conta, entendeu?
+179.2|Então... aquela mensagem patética foi a pegadinha mais horrível que eu já presenciei. Não corro o risco de hackear sistemas celulares e trans... ugh, você não entenderia. Deixe-me colocar em termos de homem das cavernas. Não corro o risco de me meter em encrenca por causa dessa bobagem. Aqui. Pegue este telefone e mantenha-o longe de mim. Se eu fosse você, eu o destruiria. Quase SEMPRE há evidências deixadas para trás, mesmo quando você é tão bom quanto eu.
+179.3|Então... aquela mensagem patética foi a pegadinha mais horrível que eu já presenciei. Não corro o risco de hackear sistemas celulares e trans... ugh, você não entenderia. Deixe-me colocar em termos de homem das cavernas. Não corro o risco de me meter em encrenca por causa dessa bobagem. Estou fora.
+180|Parece que você se divertiu e estou ficando entediado de te enviar mensagens falsas. Vou fazer algo um pouco mais produtivo, como inscrever meu namorado em boletins informativos de pornografia bestial. Aqui. Pegue este telefone e mantenha-o longe de mim. Se eu fosse você, garantiria que isso nunca mais visse a luz do dia. Quase SEMPRE há evidências, mesmo quando você é tão bom quanto eu.
+180.1|Parece que você já se divertiu. Não vou correr o risco de me meter em encrenca por causa dessa bobagem e estou ficando entediado de fingir mensagens de texto para você. Estou fora. Vou fazer algo um pouco mais produtivo, como inscrever meu namorado em boletins informativos de pornografia bestial.
+181|Que diabos? Vocês dois chegaram até mim e me propuseram sexo grupal do nada? Eu não gosto de nenhum de vocês. Nem um pouco. Será que entrei em coma por 10 anos, a sociedade seguiu em frente sem mim e, de repente, vivemos em um mundo diferente, onde transar não é diferente de apertar as mãos? Ou melhor ainda, sou um NPC em algum videogame maluco onde os jogadores podem transar com qualquer coisa que se mova se fizerem as escolhas certas e disserem as coisas certas? Olá. Minha pobre programação de IA vai me deixar indefeso, mas vai me atrair, e eu vou sucumbir aos seus desejos! Merda. O quê?
+181.1|Uh... vocês dois realmente se aproximaram de mim e propuseram sexo grupal do nada? ... Eu respeito uma atitude de "sem se foder", mas tenho quase certeza de que não entrei em coma de 10 anos e acordei em um mundo onde mal tolerar uma pessoa é o pré-requisito universal para transar. Ou talvez eu me veja como um NPC em algum videogame maluco onde os jogadores podem transar com qualquer coisa que se mova se fizerem as escolhas certas e disserem as coisas certas? Ei. Já conversamos sobre isso uma vez. Agora eu preciso sucumbir a todos os seus desejos. Bip, bip. Não. Vai embora.
+181.2|Olha, eu posso ter tido um lapso temporário de julgamento mais cedo quando concordei com isso, mas especialmente considerando seu comportamento desde então, vou ignorar desta vez. Vá vender sua orgia em outro lugar, estou bem.
+182|Você de novo? Nossa. Sabe, eu esperava que você voltasse para outra rodada depois de me provar, mas o que eu não esperava era que você trouxesse outra pessoa para a mesa. Isso é perfeito! Meu namorado idiota está me implorando por um ménage à trois há mais de um ano. Isso vai irritá-lo TANTO! Eu sou tão profunda. Mas não se preocupe se eu tirar algumas fotos e enviar mensagens enquanto estivermos nisso. Quanto mais miserável meu namorado estiver, mais eu vou gozar.
+182.1|Já era hora de vocês dois voltarem para mim. Não sei por que demoraram tanto. Claro, estou lá embaixo. Vamos lá.
+183|Eca. Tudo bem. Talvez eu tenha um sinal de celular melhor lá em cima.
+184|Que diabos eu acabei de encontrar? E também, fiquem aí porque isso está acontecendo no meu Instagram.
+184.1|Olha, as pessoas acham que é um defeito de personalidade eu estar sempre com o celular grudado na mão, mas em situações como essa, vale a pena capturar esses momentos que vão trazer vergonha e humilhação para Madison por décadas. Você sabe o que dizem. Não dá para apagar nada depois que está na internet.
+185|Argh, por que as pessoas acham que eu quero participar desses eventos idiotas de integração de grupo? Tudo bem, tanto faz, eu estarei lá.
+186|Ah, desculpe, devo ter dado a impressão sem querer que não dou a mínima, ou eu te contaria mesmo se desse. Não se preocupe. Acontece.
+187|Não que eu preste atenção nela e em seus interesses mesquinhos, mas ela é sempre tão obcecada por aquela banda. Qual era? Eu nunca consigo entendê-los direito. Ah, sim, acho que era One Direction. Eca. Só de ouvir o nome sair da minha boca me dá arrepios.
+188|Será que eu me importo com coisas tão triviais? Até eu, aos 13 anos, ficaria horrorizada com a ideia de me importar com quem quer transar com quem nessa festa. Desculpe, provavelmente soei um pouco agressivo. Vamos voltar. Não, idiota, eu não me importo.
+
+[Responses]
+fcffa184-e23b-4a64-ba6c-ef3086258a90|Tente colocar as mãos atrás das costas.
+d38fb070-49fb-469e-841c-a629d471d716|Vamos tentar outro ângulo. Incline-se para mim.
+dad66c72-c959-48a8-9171-ae6e82d86866|Imagine isso: você está na cidade, tirando selfies!
+4b2d2c71-fe1b-468e-8945-a30a5e8dae0d|Vamos ser um pouco safados. Finja que está sozinho e... se apreciando.
+411bf16b-18c3-4ed7-8ac9-3982ea80fe4a|Na verdade... espera aí, isso é perfeito!
+5eb54143-1f67-4305-9ca0-261f1f286aaf|Uh, uh... mais alguma coisa?
+fe458e4e-ea5f-4dc3-82dd-81f439fc9642|Hora da mágica da boca! O... 69. Só 69
+28846d80-1415-41d2-9697-245781269398|Ai, merda, ai, merda, eu vou-
+e00cb8c5-4890-45d5-a6ac-5927880ed073|*Continuar*
+f81b2260-8c1f-4bc5-84d9-7152b470c365|Uhh, sim, eu quero mesmo. Um pouco de privacidade, por favor, e obrigada?
+60c8f607-385c-40d4-9157-ccaf7bbcefc9|Mmmm, desprezo. O melhor dos afrodisíacos. Seguindo em frente!
+3b4041df-0f97-4158-bef9-d495f7062197|Ookkayy, vou te dar um pouco. Só para brincar.
+2579860c-6865-4fe1-8d56-d224b1d7c6f5|Um original do Patrick?! Isso vai ser incrível ou abs-
+d0a8acd4-b07c-415b-b13b-c777cb34e76b|Suas deliciosas curvas de IA? Personalidade brilhante? Nossa resposta espirituosa?
+331fbaf1-7d88-4ee2-aebc-e50254ddd4f2|... absolutamente terrível. Droga, Patrick. Tudo bem... Estou totalmente aberto.
+95c5ce4b-3e82-4f33-9cd6-352aaa304b91|Aaahhh, foda-se! Não, não! CompuCompa, fora! Saída!
+c4b4d9aa-c134-48c7-8570-bc28fea712e5|Nossa. O quê?
+aca161fb-3e7a-4586-9327-f05c8919ce7a|Merda.
+10e3702a-f621-41e4-9e8e-4f8a7730b1c7|Sua prosa educada... é t-t-ótima!
+adb13967-b276-4a91-ae8b-4e092aefc4d4|Poderíamos ficar sem o tapa... não? Certo.
+01664e26-c3be-4a0a-9fdf-7b5eb1a9607b|Bem, isso é monumentalmente surpreendente.
+9cc198ed-d877-4ace-8743-da97183ccb8f|Já estou sentindo uma dor fantasma. Na minha bunda e no meu coração.
+352f1be1-4a1e-4fa3-bcb4-2ea3ff353cad|Ufa!
+9ee991e8-2246-48bd-b380-75bda3cb66d6|Com licença?
+f5ef87e6-9472-43f0-91d0-d9f0d468b7de|Uau. Não tenho mais perguntas.
+70792208-3351-4ef0-ac5e-b74ddc4775d8|Obrigado, foi exatamente o que pensei.
+47a52450-577e-4848-802c-01d807d1afb9|Terceiro lugar, ponto para mim.
+a152e78b-922c-4570-a816-d98cc67a35b9|Ah, coitado do Fra-no. Não. Sério, estava delicioso.
+8d7e60f0-b352-45ec-9a58-08d00326ef55|Quero que saiba que já vi a internet e tenho certeza de que seus habitantes vão te receber bem.
+892d247d-838e-4e12-a5f9-b0b17dab1def|Ok, ok, vamos lá.
+0fa89d31-eb8d-4af6-9739-6165f48d86e2|Desculpe, estou só... surpreso que alguém possa me tocar em breve. É... sim, quero dizer. Sim!
+26c315fb-fd06-4305-b990-5fe4900c92ec|Ok, ok, entendi...
+26a0e624-68ce-4dc3-91f3-31d011b0b128|Isso é... realmente produtivo? Ah, deixa pra lá.
+47b1347a-0fb3-4a7d-b19d-10ac95017946|*Suspiro* Rejeitado novamente... hm, bom título para minhas memórias.
+53a5614f-18ee-4ce1-8551-375479882e33|Não vou me meter nos seus problemas novamente. Mais sexo, por favor!
+c2b494c7-0bec-49d6-a996-ce71a283d155|Obrigada, Katherine.
+6a1fd085-cc38-417d-8683-25c4c44c5b0a|*Pegadinha bem-sucedida!*
+4a470999-9504-4f53-a04a-b6ee79d81b5d|*Continuar*
+fbc9ff8b-de42-4970-b7d6-6da5da39a973|Essa é a minha garota.
+c4b03ed2-ff26-4247-a7d0-bc00e5ac40bd|Katherine é sempre prestativa.
+3320abfe-261b-46f2-9618-776b83391ab2|Obrigada, Katherine.
+1a66b384-ca41-43b1-a1fc-a531dbdf4cc5|Katherine, este é mesmo o melhor lugar para fazer suas... coisas de celular?
+f7026ce5-42ec-4ddb-b955-db66155dfdb0|E aí, Katherine. Bolas grandes ou pintos grandes?
+5f8be589-8b8d-4453-9d8c-bc49f9cf5f0d|Adivinha quem se livrou do maior e mais simples obstáculo do álcool? Vou te dar uma dica!
+728e9b77-891c-460e-b5e1-337bebbeb8b2|Madison disse que precisava de você quando você tivesse um tempinho. Ela está lá em cima, no quarto dela.
+06f25c88-1648-4359-9e22-642216a9ed73|Madison está organizando uma exposição de arte lá em cima e queria que eu te convidasse.
+6a5e7b3c-e6c7-41cf-bd7b-559f60e31629|Alguma ideia de onde Brittney está?
+ac05d517-2219-4937-ab07-2ca67ae87869|Você sabe alguma curiosidade sobre Amy?
+bcb9cc3b-166a-4757-baa4-19bb7edd2d82|Você viu Brittney se apaixonar por alguém da casa?
+f0067e64-add2-41c2-bb6f-b95b9bc8fa2c|Uau. Que senso de humor...
+53c5507b-c482-4083-8067-d92825a06a8f|Seu namorado é detetive? Que legal!
+4c687806-aba2-4089-b270-be13deef82b9|Quem seria mau com você?
+a6f63d67-727c-452c-829e-183dd08833c9|Tá bom, tá...
+d820eb5c-9210-4617-bf02-962adc43acaa|Por ser tão babaca, esse namorado provavelmente te deixou grudada no celular.
+98a7d062-da2e-4fce-9e7d-673572b92516|Tá bom, vamos ver o que eu posso fazer.
+36c73a84-fa10-4ff9-a29b-6d4e6fe0c753|É, talvez funcione.
+3a4fdbcd-5541-4138-8a90-dee61607e9cf|Vou ver o que posso fazer.
+1d1bcc5a-a7e5-4921-82bf-4c324d5cd9d8|Sorria!
+ac9b05f1-bd59-4946-8432-f04e56ddfdf9|Não se esqueça de sorrir!
+6ee99d7f-9d0c-4594-98ec-4403375d36bb|Acho que consigo.
+b4ff00f9-85c5-4148-9727-a114536809df|Acho que vou demorar um pouco com isso.
+93ce83d7-ff34-4b5f-84d7-91650ded33c0|Nossa! Que bom!
+e7a30df2-bd91-448f-b551-64ce2cf2e47f|Eu não queria... ah, esquece...
+05e94fbc-3775-45ea-81c5-dff7038e0993|Você tem razão. O que eu estava pensando?
+9e34d8a2-c124-4270-9cfa-9ec30d36cf8d|Você já fez aulas sobre pessoas deprimidas?
+def4d3f1-1b8e-4570-bde8-d29e2792176b|Vou arriscar.
+02cd78c8-a5e2-41e4-a6f3-6035646d8581|Puta merda.
+d488f2d9-8162-44ea-be30-58ae5a055ed7|É, eu também não tenho padrões.
+d9b88701-2725-474f-b99e-b0f6593748ef|É, eu também não tenho padrões.
+191f1a24-deb2-495c-8f1b-40ab1f3b7510|Droga, acho que não sou tão inteligente quanto pensava.
+6e4ffb9b-80e1-4350-97fc-e5069b66057b|Droga. Ok, vamos ver o que posso fazer.
+174126be-e03d-46b7-aee9-de53751a2ffd|Ah, certo... tem outras pessoas nesta festa...
+55117d84-bb8c-4ac0-993a-5495d3803d9b|Droga!
+c2b9ae45-b32b-459a-93e8-ff222bf03ea0|Por que você não tira a camisa?
+730d9453-f802-44f0-b96b-9515ca0c9e4f|Vamos tentar uma pose.
+8d70312a-1f1b-4bc3-8877-236e6a5ffb74|Relaxe e finja que não estou aqui!
+7dd9fd4e-5307-4c1b-989a-784fece9c35b|Acho que não foi isso que o Frank quis dizer quando falou "sem camisa".
+49df5903-bb32-452d-bdde-0aa1d0919e9a|O que você acha de tirarmos as calças e darmos ao Frank mais do que ele aguenta?
+c90053eb-cc94-469d-8a32-49d45c4ca861|Vamos dar um tempo por enquanto.
+342e728e-2d64-46b5-a730-144c4dbb5bc5|Vamos tentar com as mãos atrás da cabeça.
+0211fcc3-8f5d-4275-8fc7-66727a89ca4e|Vamos tentar ajoelhados.
+aaa4fe28-b345-42eb-b4d8-0f3348884102|Vamos tentar deitado.
+b1bb6d67-ba7d-4a3e-a3e5-8d6a37d47b9c|Agora então!
+8e190561-a1f4-4167-961d-94059c9358fa|Hum, droga, tudo bem, vou ver o que o Frank diz, eu acho.
+1158314b-be0d-4875-9a04-b37e2a6e5285|Então... alguma anedota tocante sobre o nosso tempo juntos? Tenho certeza de que o Frank adora uma boa história...
+b4fecca5-075d-4735-b23d-1bfd04fc3c45|Não, mas ele aceita uma!
+71a126d6-207e-4817-9dd7-c1918d3b6f77|Ok, ok, vou consertar isso.
+ad375774-9ebd-4c66-b505-416f531d816f|Ops. Desculpe.
+712165cd-f79e-42da-9fab-530e8a5cecb6|Nossa, essa é direta...
+14acb561-cf91-452b-8997-777790e7e129|Ééé. Me humilhar ou recusar sexo? Acho que não tenho escolha. Eu faço isso!
+624ab543-2ce2-4345-8589-b135733bc8f9|Sabe de uma coisa, Kathreine? Já chega da sua merda. Não vou fazer isso.
+e0e08331-a24a-4d61-b031-748b32d6be3f|Droga!
+6d2aaa7f-812c-487a-bd6c-fd677469561a|Bem, se serve de consolo, acho que vou me lembrar dessa experiência pelo resto da minha vida.
+f7ce4a91-ef43-4b23-9824-0531591ea30a|Ouvi "sexo", mas não ouvi muito mais nada depois disso. Vamos lá!
+c97a931d-7304-41c4-81f1-cdd4f740433d|Perfeito!
+84f91665-9a45-406e-a680-2e48335326ed|Estou cuidando disso!
+a870ee95-9794-47e3-99cf-490d45c1fd69|Tem certeza de que não posso ficar e assistir?
+aa2ea7cb-48d2-4125-a903-0055f4ae212d|Vou ver o que posso fazer.
+658a5dca-5341-4ed1-a8ef-c642ae145d0f|Faz tempo que... eu disse, ótimo!
+d56d53b9-186a-4056-987b-0bd4245691ad|Caramba, que bom.
+9a2e1538-c894-4209-8a40-38eb15db21e4|Sim, senhora!
+44e8a2f7-4b2b-450c-b1fd-e1c16943f7e6|Estou feliz que você esteja feliz?
+cac435cd-9c7e-4615-b77f-eb50f2dbfa23|Finalmente, alguém está feliz que eu estou tirando minha salsicha!
+eb3eb797-50d0-498a-be77-236fc9243b74|Sim, senhora!
+17bc8362-0b81-436f-b914-9a74e70d5ab6|Ela pode ter um problema, mas não importa, ela fez sexo.
+960149bc-647b-433a-af5b-d99a9d77339b|Vamos fazer de quatro!
+4ae5ec44-ae27-486f-a5d5-873cdcc32369|Deite-se!
+4080904c-fee8-4d93-a89d-6c2dcb916469|Monte em mim!
+d188767a-adde-4c91-91eb-62c68cb4bbdc|Você tem razão, desculpe!
+b742316f-758d-44c5-aeab-e43fe5f1256b|Bem, eu também não gostaria de usar meu celular...
+ced426e7-5402-4470-8ced-5303e2c71cca|Patrick!
+c0bfb516-53b9-480a-86e1-e503d8385880|Eu sei o que você vai dizer...
+9fb93a87-2e29-479f-88ba-28f9715ca903|Perfeito!
+5896a34b-def4-449b-85b5-775dbbb3c8e1|Eu faço!
+bf922c71-9dc1-41b5-8147-06cc3616548c|Mande para Rachael. 555-4242.
+32c35fc9-c239-40af-9ea1-e394308a563f|Ehh. Mande para 555-6969.
+8e24095c-05a2-411a-88c3-29c1f329e3a7|Ah, não. Acho que não pensei nisso...
+3c6f1e17-544e-4ab5-bbc0-0e1942d82397|Droga, não tenho o número da Vickie.
+3a9fa5c6-df4e-4bcc-b842-feb3cd67ea40|Enviar da Vickie Vixen. O número dela é 555-6969.
+835c005f-8bf6-4071-b7c6-1ab1e372d2a5|Enviar da Rachael. 555-4242
+c81ca709-65d0-4704-a553-e290ecf32c22|Sabe de uma coisa? Esquece...
+c699173e-eeb7-4f9c-ac66-d327aecd2037|::Suspiro::
+c9dd2598-a1e5-45c1-8f24-1159726ae184|Atrás de você!
+6ef7bfb5-942f-4d30-80b9-02511d4e62ae|"Desafio você a contar para o cara mais gato da festa que você teve um sonho molhado com ele ontem à noite."
+4dfdfd9b-ec3e-40be-9e46-e1954be6beee|"Desafio você a dizer que está calor e colocar seu biquíni."
+0d6cbc9d-cc6c-4134-856c-49a67adb42a2|"Desafio você a passar o resto da festa descalça."
+88b2ce45-c3cf-422c-b518-82bcb601cb17|"Desafio você a mostrar seus peitos para o cara gostoso da festa."
+5f9549fc-739b-48b8-ac8e-eca6a5bd919e|"Desafio você a dançar só de biquíni."
+1286bc0d-cd5b-4736-9fdb-8eefd298dd5e|"Desafio você a tirar as calças pelo resto da festa."
+ef6bff8f-5ccb-4099-9481-251bc932f34c|"Desafio você a encontrar um lugar privado, ficar nua e se masturbar."
+c310f318-dbd3-45f1-93c4-bec08fec6842|"Desafio você a correr lá fora completamente sem camisa."
+a3985ea1-bae9-4c50-80be-0c4cde5b7947|"Desafio você a ficar completamente nua para o cara mais gostoso da festa por 30 segundos."
+8ba3381a-ea8a-4580-a781-74acf8c4532c|"Desafio você a transar com o cara mais gostoso da festa."
+2a9610c0-e40e-49dc-95b6-931435b89393|Eh, esquece. Sou gay demais para continuar com isso...
+5a9dadbc-38e2-4987-835b-0b9d60c26f66|Sem problemas!
+54516350-6b51-4240-b91d-ade369bf7961|Vai se foder, criador da House Party!
+cfccb622-9b41-4141-a939-d59e243183eb|Por nós dois. Vou resolver isso...
+5ac19273-1172-4c85-bdd4-39b238cbe69a|"Desafio você a vir à festa da Madison. Precisamos de ajuda para animar as coisas."
+feb01de6-127d-4965-a728-2a8cc075c9f0|Obrigado!
+29b30049-1c0a-44a1-b649-fad6faa79048|"Ei. Acabei de te conhecer. E isso é loucura..."
+5e6dc9d6-fe5a-4652-960b-8535a5170f2f|Ei, venha para a festa da Madison e ajude a animar as coisas."
+4e30a78a-ce86-49e4-a460-da533a39e998|"Não seja quem você é. Mas eu vou te encontrar e te matar.
+2fa0dc2d-e3f8-468a-b3e2-e6bed0a3cbb1|De jeito nenhum! Talvez você aprenda alguma coisa, ou, ah, isso foi um insulto. ... Ainda assim, não!
+b04a522b-69aa-45ae-aa01-c6e1925d3acf|Vai sim. E eu pego a delicatessen.
+a6178ddc-2fa3-42eb-a387-91c2f1e12015|É para o Derek tirar a camisa.
+c89e71bf-3e06-4f9b-8c0a-43d3e1961917|É para castrar todos os homens para que eles possam pensar com mais inteligência. Clareza.
+566e6e32-5f13-4004-b5b4-4aec41470f80|Achei que você gostaria de assinar. Obrigado!
+56cf8f76-5b54-4830-a414-66aaa917e18b|Acho que eu deveria ter esperado por isso...
+ddb86e56-c811-4287-98cd-b24a5a5a7d8a|Obrigado, Kat!
+8e75337e-7654-4a99-9b5a-ca31e6f5dbb3|Mensagem recebida.
+f1073ae8-2522-45a6-bfc0-1e77988507b2|Hã... obrigado! Então está funcionando? Agora?
+7260732d-921b-4271-beca-b1090a38fb02|Aproveite!
+dd813bb9-3bcb-4da2-a026-1caf4b8d0f8f|Você está bem?
+9f261137-0e48-4999-a526-76d848c79bb0|*Longe demais para responder*
+f7952b28-eefc-4485-a495-0511bc8b47bc|Como quiser, Katherine.
+ef33b1ac-158a-4b63-b54b-faf77a4a4846|*Isso vai ficar feio*
+856926d7-4d7b-4b50-8a20-e2f2af46ba32|*Escute*
+f6ae278a-75f1-4894-8490-90c909bf83cd|Ei, tudo bem.
+91465320-1ec1-4753-9a44-5d6ae9c43a59|Ok, tudo bem.
+715097c5-3a01-4747-92c4-200726d0ab53|Só isso Certo!
+2dd60d96-0565-4e60-834d-fc66404b987e|Ops.
+910c972c-2b35-47d4-b7b6-648d3a15ff73|Vamos lá! Uma chance!
+5288e61c-4336-4d7e-b893-520446b6224c|Amy, por quê?
+d25a76d6-bdb2-44ef-8cc6-d2a255251e67|Por que eu abri a boca?...
+f76348a9-b55e-4d7e-baf0-8f31b767967a|Vou ver o que posso faça.
+a21b3c21-f4ec-4d80-9efe-790433e86481|*Fim*
+1fa75103-9b02-47a0-ab36-0761f1ee1779|Para onde ela foi? Stephanie?
+151f4a63-33f6-4d18-aa33-2e256784adbc|Estou cuidando disso!
+531afa28-fbfb-427e-af75-cac8e9b2f5f8|Não, só estou dando uma olhada rapidinho. Mantenham-se fortes e, nos bons e maus momentos... PRESSIONE!
+35a3f70b-0a09-4677-8a58-b42492a4f749|Eu vou encontrar ela.
+9106463b-34ff-4cf4-bcc8-7b96c485d75f|*Escuta*
+52970269-3704-48b3-98ac-706c698e3949|*Fungada* Essa pode ser a coisa mais legal que alguém já disse a outra pessoa. Nunca.
+69a80f3e-bcd6-4b3d-b8f8-3074d9ba5097|Huffasaurus Rex! Ataque!
+1138042f-902c-40b8-b008-565f513b753d|Isso nunca vai trabalho.
+507d497e-7ef7-42bd-aa7b-814583f033fa|Ops.
+be72b5f3-75a8-4bfb-82bb-510373af8ba6|Não é o que é. Você pensa!
+a02d2bab-b2fc-467f-849b-9788905508a0|*Escute*
+98e58463-b90d-4035-a25e-c2f8a0b95157|Ah, não!
+c3de4805-9798-4095-b8ba-6d88f052779a|Eu deveria ir ver como está Aqui.
+2648ac0e-61ca-48c1-9dc7-325201075526|*Continuar*
+e48a6b60-8b2f-4c1f-91c3-df2caf7a8524|*Escutar*
+25bac1fa-8452-4d61-a0a4-c58262c63a64|*Vá embora*
+db3d9b17-ccbc-41a9-9afb-432b9c2e8e29|O quê? Ah, sim, estou aqui, Kat!
+f683d9c7-2052-4224-8fa8-00d81576c45d|Ah, sim! *Bocejo* Vou procurar Isso.
+dcfc23ee-d751-4bab-b774-252b43231882|Você acreditaria se eu dissesse que tenho na loja?
+aceb6158-3d6a-4b87-ad6b-9b3c644ecc4f|Acho que essa é uma pergunta enganosamente grande... Já volto.
+ac858171-d3bd-4f88-9327-de37c32f9b28|Isso... é uma estatística real? Não importa muito. Paz.
+27ce1bf8-9c05-4009-811d-57766b4a90b9|Hã... eletricidade? Esse é o seu sonho Superpoder?
+ab02d809-8bfb-43aa-b42b-847b1d76bdfc|Não tenho tempo, preciso correr!
+5f15a220-1e74-4010-b65d-1140182bc665|Espera aí, vou começar uma campanha de hashtag como penitência! Certo? Droga.
+a6700e69-3e4d-4cf6-8a7c-095354b3f80e|Espera aí! Eu tinha uma resposta para isso!
+3bb003b8-b550-41e6-a694-28ab97574541|É, é...
+551bd97b-844a-42c6-86d7-27315c567bec|Ah... É, eu estava procurando por isso. Obrigado!
+2575d236-bce8-4f66-9cc4-2efbbda15035|Hmmmm. Você é uma alma mediana, mas inteligente.
+d3ab9107-80ea-4ceb-bb20-bfdf2b07e63d|Menos emissões de gases, mais cocô de cu.
+72907077-e0b4-438d-8441-9f2fa05108fc|Não me diga...
+1cb14104-ae1d-45b4-8f0e-4c20bb4faa17|Luta de tags, espero que tudo dê certo.
+1fbd8a06-7660-480a-b72a-20fb57531ee9|2Fast2Bum. Qual é a parte 2?
+82cab554-c15f-4d6d-865d-eee61a36a874|Bem, você e eu já fizemos uma salsa ruim antes... então não pode ser um relacionamento tão sério assim.
+951f62a1-16bc-447a-b683-d54a56d0611f|2Fast2Bum. Espera... Qual é a Parte 2?
+6b0afc9a-0ad0-4cc1-aa8b-1644a37f3d56|Ok, ok, ok, ok.
+b45e04ee-dd6d-4f20-96ba-a8443a7daed7|Certo, um brinde a um futuro sem spandex! *Toma um gole de rum*
+1e55a760-60eb-42a3-a7df-9ce76df8c2a4|Tudo bem, um brinde a um futuro sem spandex! *Toma um gole de rum*
+6c0b9ca2-e142-4873-8192-2f2c6016bac6|Segure esse pensamento!
+88e2d08c-fd83-4b47-abb8-c2f608ea6b5c|Segure esse pensamento!
+cf067bbf-17ac-4860-8316-28bb9bc979f4|Existem outras maneiras de lidar com esses sentimentos, sabia?
+d3d22c61-bc69-4729-8631-145defb92735|Isso é pressão social e, tecnicamente, é bullying.
+c6bac353-cf79-4470-b750-71094b3c1b50|Pode me chamar de louco, mas você pensaria que estaria no show dele em vez de aqui.
+31028681-7f8b-4a0a-a128-9ad553ecfab8|Mas aí você viu as bolas dele enrugadas com spandex.
+51545ba7-51b9-4344-aa05-a11a05971393|É o preço que ele paga por se livrar do spandex do papai.
+b8c852d6-292e-4b05-8ca6-d4403a665246|Hmmm...
+e14281d6-2cd2-4931-87de-7bffc0af1e82|Céus, Katherine, isso foi muito sombrio.
+cef42f0b-5421-41a5-b46c-0422c0d5a50a|Se você quer ver os Grumps tão mal, que tal a gente fazer alguma coisa?
+d285e582-0525-496e-93eb-7c4b4b5fbd53|Essa bebida pode estar te consumindo porque você não está falando muito sentido.
+51a63243-cdfa-4379-9d82-f3602a79cf30|Engarrafamento, engarrafamento, engarrafamento. Eu disse, engarrafamento, engarrafamento, engarrafamento!
+26782af9-62bf-450a-a07b-eaead72b0115|Parece muito com algo que eu encontraria em um catálogo de aviões.
+f8931024-433c-4e3e-8d54-fcbd854811a1|Se você soubesse o quão importante este bloqueador foi na sua vida esta noite...
+f891a868-b7a1-45ed-ac02-33bac86f84d7|Ei! Eu sei o significado das palavras e tudo mais.
+e0cc8458-9cdc-476a-b247-f4fec9c9553d|...Sério? Sério?
+8ac04d4a-7735-4228-a62b-7afcab20dbcd|Vou bater forte para você, Katherine. Com muita força.
+17939c8a-a123-4409-8c81-fc4bdbd1d4f7|Uau, uau, uau! Qual é o plano aqui?
+2cff0822-bb56-4500-827a-453671fee25f|Vou bater forte para você, Katherine. Com muita força.
+07c801ad-1c7c-42d8-966d-15f46f2319fe|Estou realmente desconfortável com isso.
+e74a45d9-f445-47e6-b98b-5d857c8d7311|Farei o que você disser!
+d189fd4b-0567-483a-8828-1939cb542990|Ok, ok!
+5bc813a9-1b9a-4d32-9147-006651fd7941|Hã... ainda não, vou continuar procurando.
+25eea499-71e5-4568-8db3-79c53aafb6c4|Ah, e definitivamente não foi o bloqueador de "sinal" caseiro deles que nos prejudicou.
+07ed7700-4f47-49c4-bdb7-0106144bc19c|Droga...
+b38665e6-899c-42bc-9208-df8fc89076ed|Eu diria que são dezenas de fãs, mas tanto faz.
+996c61a2-1016-4a0e-af2b-e5d79bdfb817|Então eu tiro uma foto sua com os Grumps e você me ajuda a mandá-los embora?
+7511c1de-4cb4-4583-be35-0e415ee17bac|Eu poderia ter dito facilmente: "Use uma câmera digital."
+c5e7885d-78ba-4353-8467-e66d5a79e152|Ok, loucura.
+5d426b00-8f7f-4e2b-9636-defe3da40e7d|É... claro. Continue de longe.
+b89e8f62-a5cd-4ce7-8b1e-a27a9882ce02|Nossa, desacelera um pouco, né?
+c9cb8fe7-a1ee-4104-afe3-145392ed0481|*Escute*
+8cced44a-87ee-43fc-9e00-bcc2c5b9a28b|Você está suando com tudo isso.
+b4622cac-a95d-424e-8b9a-a4f6055d9801|Nossa. Bom, se a Katherine não acha que eu sou um chato...
+819d8aa6-52c4-4c95-a911-541d27fc47b6|*Escute*
+ed9948e0-135e-4fd0-aa37-83d5f6ad93be|Ok, ok! Estou, uh, acertando a composição...
+bd29022b-531c-4bf9-a596-cfb7593b63aa|Bem, isso explicaria por que tenho que digitar minhas senhas seis vezes, espera! Merda!
+06e317f1-8461-4faa-a7ef-6eff942622d8|Deveria ter previsto isso.
+4866b1e0-3f5a-497d-9cf8-1bc599508897|Parece plausível. O que ele disse em seguida?
+c6b9c674-8561-4e78-8cda-9fbbd959f741|Você é uma dama e uma estudiosa. Obrigada, Katherine.
+52f92103-1531-4072-9c20-790b58ef6283|Você sabe alguma coisa sobre hackear telefones?
+24570674-33f8-40a2-83ba-6ca12e701a36|Digamos que eu quisesse enviar uma mensagem de texto com um trote. Como eu poderia fazer isso, hipoteticamente?
+bce31439-5bbb-4e6b-bd14-c143e67ee245|Você não tem o celular do Patrick, tem?
+ca4f983e-e4ea-47ed-9ff8-6771172f8234|Você pode me mandar uma mensagem de trote?
+85ea40ea-9582-4eab-9a86-08e0a09e5ff6|Posso tomar uma bebida? Quer que eu te traga uma?
+390cfefe-28f7-4c9d-a28f-3ff77217fba5|Percebi que você fica olhando para o celular. Está tudo bem?
+24cff0b7-888f-4e5e-bc8d-9afeeb02fbbd|Sinto que estamos usando a palavra "necessidade" fora do seu propósito.
+ce7c7002-08f1-433c-859e-4098785776a9|Gostei dos seus óculos. Eles fazem você parecer elegante!
+35cd71ce-3229-4d39-b7b7-165037200156|Frank está guardando todo o álcool.
+2bbd74f2-8190-4db2-84f8-e9c341ab6b5a|Frank disse que eu posso beber um pouco se tirar uma foto dele sem camisa.
+bf1a0593-5274-4e57-8123-c7873a83de97|Que tal tirar essa foto sem camisa para mim agora?
+1650d05a-555d-4de6-ade0-ff53dc71e78c|Que tipo de bebida você gosta?
+ac0155bb-6ea5-4c2b-b28d-b9bf5447a448|Como posso garantir 100% de chance de entrar nas calças dele?
+e8e07013-0421-43db-948f-0791ad17f7c7|Consegui! Mostrei meu pau para todo mundo aqui!
+2855c8e8-ba3a-4b78-a067-fc20e0b02eb3|Quer ir para um lugar mais reservado?
+82c7871c-8d74-4a5a-a1dd-79fead17775f|Acho que o Frank está a fim de você.
+7df618ab-1157-4a71-8dbf-f6a6f03147d5|O que você acha da Stephanie?
+b614db14-faf1-484a-9b92-f99b93b0dee3|Que tal me deixar pegar aquela bebida agora?
+77e9c457-dd62-41f2-9d32-b6d15fe86a82|Preciso encontrar maconha.
+c86e9095-6bfa-4ffc-8caa-b5dfa21f7dca|Ei, Katherine, você assina minha petição?
+a95e02a4-d783-420b-a4b9-fe721d241077|Você sabe por que o micro-ondas não está funcionando?
+36b52d36-6bcf-473d-aae3-557e7f11b798|Kat, parece que você está indo bem, tentando se livrar dessas ereções. Tem algum conselho?
+d8ab5a77-7cda-46fc-822f-425c10bfced8|Aquela chave que você me deu... adivinha o que significa?
+f31f95c9-e938-43f0-85d1-9d14d061d10b|Como ele é um babaca, esse namorado provavelmente me deixou grudada no celular.
+5039dfb1-2e93-4ea9-b3c8-7010aa35f751|Você precisa terminar sua história agora. Parece suculenta E com gosto de spandex.
+7775e9d4-1a34-4f81-949a-eef961ffeb98|Tudo bem, um brinde a um futuro sem spandex! *Toma um gole de rum*
+600d43ca-aed2-4e51-a185-c06a1d9590ec|Tudo bem, um brinde a um futuro sem spandex! *Finge tomar um gole da porra do rum*
+de4cf186-e4d0-479c-924c-63404896b3dc|Katherine, preciso reativar o sinal de interferência.
+c0b5f090-37ce-4b78-886c-4301824788e3|Ok, Katherine, os Grumps estão prontos para você!
+99d7c8f0-b1ab-45da-80ae-3e1e439b7583|Você pode me contar uma história sobre mim? ... De preferência uma que o Derek tenha lhe contado?
+6dedb497-9a62-468b-8d6d-fa79c3efcf1c|É sempre um prazer, Katherine.
+
+[Quests]
+11484350-ac97-4038-a94f-c3cf2a7a8ae8Description1|Katherine pediu para você comprar algo para ajudá-la a começar. Sexualmente. Pelo menos, é o que ela supõe. Ela também deixou bem claro que preza sua privacidade, então encontre um jeito de trancar a porta do quarto...
+11484350-ac97-4038-a94f-c3cf2a7a8ae8Description2|Agora ela precisa de uma garrafa d'água. Seja um bom toupeira e pegue para ela!
+1477ed2c-1222-4463-94d5-5478eefaf63b|Katherine precisa de uma bebida
+1477ed2c-1222-4463-94d5-5478eefaf63bDescription|A Katherine anda brigando com o namorado e está te dando nos nervos! Nada melhor do que uma bebida alcoólica refrescante para descontraí-la um pouco!
+1477ed2c-1222-4463-94d5-5478eefaf63bCompletedDetails|
+1477ed2c-1222-4463-94d5-5478eefaf63bFailedDetails|
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7|O problema de Katherine
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7Description|A gente já sabia que a Katherine era uma chata, mas agora ela quer que você resolva os problemas do celular dela e que todos saiam da sala antes que ela aceite uma foto sem camisa. Como você vai fazer isso?
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7CompletedDetails|
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7FailedDetails|
+d6c9cfee-a03b-4eac-803d-67b6c2020482|Expresse-se
+d6c9cfee-a03b-4eac-803d-67b6c2020482Description|Katherine quer que você se exponha a todos na festa. Ela está acenando com sexo como uma cenoura, mas é um pouco imprevisível. Você deveria ir em frente com isso?
+d6c9cfee-a03b-4eac-803d-67b6c2020482CompletedDetails|
+d6c9cfee-a03b-4eac-803d-67b6c2020482FailedDetails|
+11484350-ac97-4038-a94f-c3cf2a7a8ae8|As exigências de Katherine
+11484350-ac97-4038-a94f-c3cf2a7a8ae8Description|Parece que você pode ter a chance de transar com a Katherine hoje à noite! Mas é claro que é a Katherine, então vai ser difícil. Veja se consegue atender aos pedidos dela!
+11484350-ac97-4038-a94f-c3cf2a7a8ae8CompletedDetails|
+11484350-ac97-4038-a94f-c3cf2a7a8ae8FailedDetails|
+3ceef35b-0ca5-4c5f-9158-5d605e8c83e7|Game Jam
+3ceef35b-0ca5-4c5f-9158-5d605e8c83e7Description|Os Game Grumps estão chegando a um show ao vivo em um balão de ar quente. Mude o curso desse balão e o curso da humanidade no processo. Bem, comece pequeno e veja como as coisas acontecem a partir daí.
+3ceef35b-0ca5-4c5f-9158-5d605e8c83e7CompletedDetails|
+3ceef35b-0ca5-4c5f-9158-5d605e8c83e7FailedDetails|
+
+[Events]
+3efe6b40-79f2-45ff-8636-8b12ae09925d|Você pode continuar falando com a Katherine durante esta "sessão de fotos" ou pode dirigir como um profissional com... gestos com as mãos? Tanto faz. De agora em diante, você pode clicar nela para usar o menu radial e controlar as poses dela.
+4be43a86-2a04-4b38-97c4-a04b93e81abc|Ela quer muito que eu saia da sala, droga. Espero que valer a pena passar por tudo isso...
+13e6401a-38d0-4ae5-8ab7-9f50dce323c2|Provavelmente terei que esvaziar a sala inteira. Acho que isso me inclui.
+dfff1032-5609-427c-ba82-413a8e951f30|Parece que desta vez não preciso esperar do lado de fora da porta do quarto. Que privilégios! ...acho?
+45b7c2f2-f62d-4ecb-9908-4147db1eddca|CompuCompa emite um bipe suspeito...
+e7d19e29-5343-4816-8498-fe8e5830c41f|Ela está tão perto, deveria terminar seu... clímax!
+8ddc3e66-0d91-4495-a59a-fbf05d6c650b|Estou tão perto... não consigo... ela vai explodir!
+d90cdfe5-11b3-426c-95f3-d63cfa5e9120|Estou tão perto... Não consigo... Ele vai explodir!
+d94053db-b72a-4e79-b091-0926a8754706|Ele está tão perto, que deveria... chegar ao clímax!
+aac96eea-26ab-44d7-a6a2-1195e3f79321|Sinto que esta é uma escolha única e memorável. *Dá um tapinha lento na têmpora* Hmmm, decisões, decis-ow! Aaahhhh, meu maldito globo ocular...
+547e639c-9f25-442a-9262-a466a540b254|Espero não perder nenhuma opção aqui. Talvez eu devesse recuar e fazer um reconhecimento melhor... e colocar uma toalha sobre o meu olho. Ai, me fode nos meus buraquinhos apertados, isso dói!
+29f240c4-a86a-47e6-9f15-7883b98d15b7|Mmm. Algo me diz que tomei a decisão errada...
+c969bf18-dc2a-4301-ab67-2a3990eb2294|Mmm. Algo me diz que tomei a decisão errada...
+56136b21-4cec-4720-9e42-8ff75f0b7d2d|Não tenho certeza se o Frank pode ajudá-la, já que ele está... indisponível no momento. Se ela não conseguir abrir a porta, talvez eu tenha que intervir e abri-la para ela se quiser ver como isso vai acabar. 
+bb78febb-5475-44b7-b94f-99e6d9524b5c|Ok, se o pau do Patrick fosse um para-raios... não, isso é idiota. Como diabos eu vou acabar com ele?
+30c21920-627e-44ba-884e-0557445413c0|Não sei o que eu esperava. Ela é uma mulher que tem foco, garra, determinação e quase nada de sexo. Preciso encontrar outro jeito de fazê-la se mexer...
+75a16e4f-e56b-4805-89e4-d9655813b286|Não sei o que eu esperava. Ela é uma mulher que tem foco, garra, determinação e quase nada de sexo.
+7b0ca4a8-04b9-4ea9-a58e-b8ed23bd0076|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
+46c3fbc9-904e-4cbf-987d-62e4b4f6b6c8|Não tenho certeza se o Frank vai conseguir nos ouvir... Eu deveria tentar aproximá-la um pouco mais dele.
+b8b08e22-b5e2-4215-aa12-ca012df75b46|Garrafa de água
+cb65f107-8838-4a29-9b01-6f45c9a01ca8|Ei, e eu? Eu, ah, tá. Katherine. Bom, espero que ela volte a fazer palhaçadas em alguns...
+fbcf7acf-d8b6-4f01-97a7-f21302607ccb|Hm, qual desses festeiros se passaria por médico? Eu poderia ficar perguntando por aí... mexer com a saúde geral de outra pessoa até que alguém intervenha.
+84661d83-de99-4631-9add-0890d80646f0|Certo, chegou a hora da Stephanie brilhar!
+90f2409e-596e-468f-a355-348fc2ef37ea|Algo me diz que estou ferrado. Katherine talvez tenha que se livrar dessa... situação.
+087ef89e-dcc2-4b3f-aa12-41b9d23da579|Algo me diz que estou ferrado. Katherine vai ter que se virar sozinha...
+e7da059e-a920-4fe7-be14-f4b960a2ca4f|A Katherine estava gritando? Ela estava feliz?! Isso é desconcertante, mas devo ter seguido aquelas instruções tão claras. É melhor você ficar parada e passar protetor solar!
+562b914c-e406-4ed4-aad6-8d057500c772|A força do golpe dela arrancou a maior parte da sua roupa!
+33e681d3-6c30-4526-99d6-4a247848005c|Droga, acho que não deveria ter sido tão direta com ela...
+8de7b9b0-fed0-47b6-8b4b-70b466fa7442|Puta merda, eu deixei protetor solar?
+98c5bdf2-5aac-41e0-8bcf-9cc7b5be1aa6|Puta merda, deixei o bloqueador ligado?
+7b18e5cc-8c7d-439d-bdf2-6fcb1ca2c586|Se vou deixar o bloqueador ligado, é melhor ficar lá fora, onde posso quebrar o... sinal... ciência... capacitor GPCSI dele.
+33bdac00-c040-42cf-a75c-b077e5e5cf52|Eu provavelmente também deveria ter certeza de que tenho algo que possa tirar fotos dos peitos da Katherine. Como chamam essas coisas mesmo?
+289277e4-d314-4662-8e58-6f03ac4f254e|Eu tenho a câmera, mas preciso ter certeza de que está tudo pronto antes de pedir para a Kat me mostrar os peitos de novo.
+c8b3c389-5892-4af5-beb6-781a3bfea8cc|Porra, acho que vou ter que dar um jeito de entrar naquele armário...
+7a1b24a7-509e-42b3-a4ec-2ebe178e64f4|Droga! Já dei todo o rum para o Patrick... Droga.
+b4b73bd8-3ec1-4bba-a054-7ad7ef136238|Isso vai ser ótimo! Preciso ficar de olho na Rachael...
+01c99302-8ae6-4145-b3da-6c5d22cf7aaf|Hm, acho que a Rachael não recebeu a mensagem falsa. Preciso ligar para a Katherine de novo.
+d01c7fbf-9cb2-46ca-9dda-7b9dd33acc1c|Aham. Algo me diz que tomei a decisão errada...
+cf19959f-32d4-43bb-a8fc-0c64f2515d08|Aham. Algo me diz que tomei a decisão errada...
+0b0edcf3-8962-44f9-821d-439161831a00|Não tenho certeza se o Frank pode ajudá-la, já que ele não pode fazer nada. Talvez eu tenha que intervir e abrir para ela se quiser ver como isso vai acabar.
+acdf0f30-f4a9-42a4-9e8b-a6f25f3f34d7|Não tenho certeza se o Frank pode ajudá-la, já que ele não está disponível no momento. Se ele não conseguir, talvez eu tenha que intervir e desbloqueá-lo para ela, se quiser ver como isso vai se desenrolar.
+80226017-3e54-4c73-9949-2cc28ad310e3|Agora, quem é a pessoa mais provável nessa multidão de se passar por médica?
+3b1000cd-539f-4653-8e66-f3319866522b|Chegou a hora da Stephanie brilhar!
+bd87f47e-2925-4a35-9ff8-42414af28c8c|Algo me diz que estou ferrado. Katherine terá que se virar sozinha...
+8bcaa1e5-c4e7-4f4b-b2ba-fa64c18ce2b7|Agora, quem é a pessoa mais provável nessa multidão de se passar por médica?
+d32f8c22-870d-4070-b0ab-f1c660235052|Algo me diz que estou ferrada. Katherine terá que se virar sozinha...
+537de700-8bfb-4c32-b377-fb1c9eef365b|Esta é a hora da Stephanie brilhar!
+35522fa0-4924-453e-9266-c8ec45ada90d|Algo me diz que estou ferrada. Katherine vai ter que se virar sozinha...
+d81db40d-8de5-419f-83e0-d6bdac6eee77|Não acho que a "Dra. Steph" esteja pensando em drogas ou álcool agora.
+434dae0d-71b8-4e66-872d-844697ea76e5|Acho que preciso dar uma olhada na Stephanie...
+37819310-7f25-4af9-8e76-82e9ea2a8b22|Nossa, fiquei atordoada por um segundo. É melhor eu ir procurar a Steph. Para onde será que ela foi?
+4a23b06b-d6af-4774-8313-a4d7cc54374c|Ok, então se o pênis do Patrick fosse um para-raios... não, isso é bobagem. Como diabos eu vou chutá-lo?
+bff0d052-4d2f-4e5f-b3b6-962f7b494fee|Perder essa coisa do Grumps está realmente deixando a Katherine confusa. Era de se esperar que alguém tão inteligente quanto ela pudesse fazer algo a respeito. Talvez a gente pudesse dar um jeito em um instante...
+b5efb544-4972-4077-8bc4-7ee70b474fb2|Então... eu me alinho com um balão e fico parado como um idiota por sabe-se lá quanto tempo. Não tenho certeza se estou à altura de uma tarefa tão monumental, ou se é o melhor uso do meu tempo...
+2a797ebe-a627-4908-879b-c4ac4be639c9|Merda... ela disse que eu tinha que ficar no caminho do balão. Por que não posso simplesmente apertar um botão? POR QUÊÊÊÊÊ?! 
+da76e504-bf76-48a3-9665-8eeb4f4c38ab|Ah, é verdade, dei essa câmera para um escroto esperto e durão usando uma roupa humana mal ajustada. Que pesadelo bizarro isso está se tornando.
+0641a1df-aa02-4bf1-b55c-d7a9453120ae|Ah, é verdade, dei essa câmera. Para o meu melhor amigo. Talvez eu consiga tê-lo de volta sem testar os limites da minha franquia de saúde... 4312b89c-3ecf-4f1e-83d9-3693e25586ae
+be72017a-b5bf-4844-a062-f3993984976c|Uma competição de xixi na sacada? Parece o meu tipo de memória.
+4312b89c-3ecf-4f1e-83d9-3693e25586ae|Acho que a Rachael tem planos sérios para o Patrick. Ainda não fui preso, então sempre posso voltar para a Katherine mais tarde.
+f0b059d0-43de-431a-9487-9a61002dc3f1|Eu provavelmente deveria contar para a Rachael que o Patrick morreu primeiro. Ou... ele está morrendo. Ou finalmente ficar bêbado demais para continuar... tanto faz.
+3a56815e-4257-4a03-a4f8-a40e085b63b7|Eu não mandei uma mensagem para a Rachael tipo... alguns segundos atrás? Certo. Eu sou burro.
+9684717c-5eff-45a1-92a9-3ee92c8ffe52|Eu provavelmente deveria colocar o cartão SD nessa coisa... certo?
+590e2f3c-7357-4395-b9fb-010d9a63f01a|Eu tenho uma câmera, mas ela não tem memória!
+bf955fe4-e06f-4771-9520-e48df202b0d7|...é o que eu diria, se a Madison não estivesse disposta a... agir! É, preciso lembrar que o importante é a arte...
+2b804e2a-a2ea-4520-bdb4-346cd3d2b4ca|...é o que eu diria se não tivesse planejado dar um bom uso ao quarto. Melhor resolver isso o mais rápido possível!
+1a089ea7-3745-4176-a5c4-d22d40c63fa3|Você ouve uma porta se abrindo ao longe... aparentemente Katherine sabe arrombar fechaduras. O que ela não sabe fazer?
+e1a1bbc9-7d4b-4447-a3f6-12d234c3ccb5|Katherine acabou de arrombar a fechadura da porta do banheiro... mostra o que uma mulher durona pode fazer!
+daf0a051-658e-410c-9225-afe7d53c030f|Parece que Katherine descobriu tudo sozinha. O que teria acontecido se outra pessoa tivesse salvado o dia...
+641f12de-7257-4fa0-9e37-f7f25e453a84|Jesus Cristo, Katherine destruiu este banheiro.
+72fdf967-41aa-4e1b-a3d8-7549ee83ad98|Jesus Cristo, Katherine destruiu este banheiro.
+b00a5e58-0442-4d84-aaa8-70d56be51706|Jesus Cristo, Katherine destruiu este banheiro.
+7d7c688e-0d5a-4eed-9868-da00b9529c75|Você ouve grunhidos e sons de alguém trocando de roupa violentamente...
+2b524c23-1c56-4458-ae33-cc1510041f9d|Katherine não parece ser o tipo de pessoa que se espera... Espero que ela ainda tenha uma chance.
+9d82600f-e05b-41c9-b81c-ee12832c4540|Levanta! Você sente que poderia bater um pouco mais forte... UAU!
+2cbe1d9e-3824-4bfd-88da-c0cdfe12898f|Uau! Katherine é rápida com essas mãozinhas. Ela tem todas as características de uma ladra. Uma ladra "Kat". Je
+9cca7d48-211c-4a28-9e1c-556b860e119b|Nossa! A Katherine é rápida com essas mãozinhas... como uma ladra "Kat", ha!... Merda, espero mesmo que o laxante já tenha perdido um pouco da sua potência...
+79bd1c56-91be-4cd5-8fae-37143f1c75d3|A Katherine disse que estava "lá fora". O alcance dessa coisa pode não ser muito grande. É melhor você entrar na trajetória do balão e... desligar e ligar de novo?
+47548a77-13a9-4d36-a4f9-7db9a72155f6|Se eu quiser atrapalhar os Grumps, é melhor eu tocar na trajetória do balão e... essa coisa é ligada por um interruptor? Biometria? *... Certo, bloqueador, ATIVAR! * ... Não?
+91c2efd3-c841-40fc-b371-c3c8a47fd5a7|Puta merda, eu consigo ver! É um balão de ar quente de verdade! Hora de acabar com eles!
+d0319b57-a2f2-4872-aa77-691d6d60d054|Se eu quiser mandar esses Grumps para o chão, é melhor eu chegar perto da trajetória deles. Meu Deus, isso tudo parece muito terrorista...
+d70aa8f6-dc7b-49c8-9238-e82656af5bb4|Puta merda, eu consigo ver! É um balão de ar quente de verdade! Eu só tenho que ficar e continuar bloqueando.
+a064a3a2-90d1-4892-b610-3c844f8dcb8a|Hã? O que foi isso?
+2192b7fa-45e8-44bc-a9f9-62bd20fad54d|Eu deveria esperar até a exposição de arte em Madison acabar. Não posso estar em dois lugares ao mesmo tempo...
+791e91ea-c3c8-474d-954f-06e978ead667|Katherine não quer isso agora.
+e9700788-57da-44b0-85cc-a044966b9298|Katherine não quer isso agora.
+3ae0fb92-006c-4bcf-93cd-ba418e82f0b8|Já errei quando pedi o número da Vickie para a Rachael. Acho que isso não vai acontecer...
+138b00ac-520e-4fe0-9dd7-469781b2169c|A Katherine quer esse protetor solar, mas talvez seja melhor esperar até voltar ao seu jeito de sempre. Com isso, quero dizer uma babaca pomposa que não para de olhar para o celular.
+
+[Background Chatter]
+BGC1|Nossa, meu namorado está em segurança na casinha do cachorro. O que é engraçado para mim, já que ele é tão alérgico.
+BGC2|O quê?! Cancelei aquele teste gratuito! Eles não vão se safar dessa de jeito nenhum. Vou ligar para eles.
+BGC3|Você não está se perguntando por que tem um monte de terra fresca no quintal? Parece um túmulo para mim... Quem será que a Madison e a Ashley mataram...
+BGC4|Não entendo POR QUE o Frank está aqui. Convidar alguém que impede as pessoas de beber é como tentar conectar um conversor DCX a um regulador composto. Deixa pra lá, você não é inteligente o suficiente para entender isso.
+BGC5|Não, eu não estou estudando para ser escritora de ficção científica. Por que eu faria faculdade para isso?
+BGC6|O sinal de todos os outros é ruim ou é só a porcaria do meu telefone? Argh...
+BGC7|Só estou dizendo que, se eu estivesse em um apocalipse zumbi, não haveria espaço para os fracos. Estou falando diretamente da sobrevivência do mais apto. Puta merda, uma mensagem de texto!
+BGC8|Meu pai uma vez tentou vender um recipiente de água antigo de um nativo americano que encontrou no nosso quintal na Old Highway Excursion. Ele foi expulso do centro de convenções por rirem dele porque era, na verdade, um porta-copos de um Jeep Grand Cherokee 97. Desde então, me recusei a chamá-lo de "pai".
+BGC9|Eu gosto muito mais de música eletrônica, ou até mesmo de música assustadora. É fácil de programar.
+BGC10|Se você vai montar uma mesa de beer pong, pelo menos tire-a da garagem para que o resto da gente possa curtir...
+BGC11|Então, o Madison é mesmo um artista, ou é uma daquelas coisas... tipo quando um ator mirim forma uma banda de rock?
+BGC12|Hum, não era uma metáfora, era uma comparação.
+BGC13|Amy, certo? Completar sua gincana da faculdade não vai te transformar na "Rainha das Sorostitutas". É melhor desistir agora.
+BGC14|O Big Bang, a evolução, os fracassos da humanidade, nossos triunfos, meus pais me conhecendo e me enchendo de ódio, existência, recombinação e meiose... tudo, por enquanto. Stephanie... você provou claramente que foi tudo em vão.
+BGC15|Seu primo Patrick tem a cara mais penetrante que eu já vi. Não deve demorar muito para que alguém realmente faça o que quer.
+BGC16|Ele gravou um episódio de "Cooking While I Cook" que apagou um documentário sobre planetas que eu nem tinha visto ainda. Dá para acreditar nessa merda? Um programa sobre pessoas se drogando enquanto fazem muffins é mais importante do que foder Júpiter?!? Acho que não.
+BGC17|Sai de perto de mim, Patrick.
+BGC18|Madison, acabei de dizer que recebi uma mensagem. Não seja rude...
+BGC19|Legal! Minha vez!
+BGC20|Argh, o bloqueador está lançando uma exceção! Você não está no alcance, seu canalha! Nunca viu um filme de espionagem? Quanto mais perto você estiver do caminho do seu alvo, maiores as chances do bloqueador fazer o seu trabalho! Redefina-o e siga em frente! Vai, Agente 69!
+BGC21|É agora ou nunca! Bloqueie esse sinal!
+BGC22|Oi, eu sou a Katherine. Só tenho a dizer: é um prazer conhecê-la pessoalmente. Sou muito fã do seu trabalho. Arin, acho que nos conectamos em muitos níveis. Eu adoro jacarés e entendo isso. EU TAMBÉM trabalhei em uma Blockbuster e roubava coisas o tempo todo.
+BGC23|Heh, bom, você sabe o que dizem sobre quedas mecânicas de balões de ar quente. Pense no Hindenburg: essas coisas nem deveriam conseguir voar.
+BGC24|É! Deixa eu pegar meu celular aqui... espera. Espera, por que essa coisa está congelando? Será que esquentou demais enquanto eu estava sabotando o balão? Isso é besteira! Ano passado as baterias acabaram, agora é essa merda! Funciona, droga!
+BGC25|ALGUÉM TEM UM CELULAR FUNCIONANDO?! PRECISO TIRAR UMA FOTO COM ESSES CARAS OU GANHAR UM PAPAI DE ELASTANO. PRECISO DE UM TELEFONE, PORRA!
+BGC26|Aff, meu estômago ainda está radioativo. Me perdoe por ser simplista. Não é uma pergunta, me passa.
+BGC27|É simples, o bloqueador de sinal funcionou da primeira vez, então vai funcionar desta vez. É tão SIMPLES! SE ISSO ESTIVER LIGADO, ENTÃO OS RABUDOS DO JOGO NÃO CONSEGUEM SAIR!
+BGC28|Está funcionando!
+BGC29|Argh, o bloqueador está lançando uma exceção! Está ligado?
+BGC30|Estou no meio de algo. Podemos tentar isso outra hora? Ou nunca! Nunca conseguiríamos fazer isso!
+BGC31|Tá falando sério?! Essa calça jeans é de grife! Mas mesmo se eu usasse uma tanga, você não vai irritar ninguém, mongoloide!
+BGC32|Eu *quero* ficar bravo, mas é fascinante para mim vivenciar esse tipo de comportamento troglodita pessoalmente. Isso só reforça minha tese de que sou um dos poucos selecionados que realmente conseguiram evoluir nos últimos 100.000 anos. 
+BGC33|Meu namorado já está sendo babaca o suficiente comigo esta noite, não preciso do seu para piorar, cara. Pare com essa desculpa patética de pênis!
+BGC34|Que bom que você percebeu que precisa me incluir também. É bom poder ver com o que estou trabalhando.
+BGC35|É mais ou menos isso.
+BGC36|Você não tem nada melhor para fazer, Patrick? Não está respirando?
+BGC37|É, parece que você deveria se especializar em outra área. Eu adoraria te dar um curso intensivo de como cuidar da sua própria vida.
+BGC38|Porra, sim! Agora eu posso finalmente curtir essa noite de merda! Tchau, Frank, olá, Rum! Armário de bebidas aqui, eu... ah, MERDA! Perdi o sinal de novo! Vamos lá, calma, calma!
+BGC39|Eu nunca entendi essa coisa de mexer o corpo ao som da música. A maioria das pessoas é ruim nisso, e você fica todo suado e nojento, e não é nem divertido. Às vezes, queria não ser tão inteligente para poder simplesmente relaxar e aproveitar essas interações culturais discretas.
+BGC40|Mesmo que meu cérebro evoluído saiba que isso é apenas um hormônio primitivo me impedindo de desviar o olhar deste ser humano girando na pista de dança, é estranho que eu não consiga evitar ficar um pouco excitada?
+BGC41|Nossa. Simplesmente nossa. Você se importa se eu tirar umas fotos para mandar mensagem para meus amigos? Na verdade, não responda. Eu já respondi.
+BGC42|Tire a porcaria da roupa, idiota.
+BGC43| 
+BGC44| 
+BGC45| 
+BGC46| 
+BGC47| 
+BGC48| 
+BGC49|Para quem duvidou de mim quando eu disse que o nível de inteligência deles era comparável ao de espécies inferiores, apresento a Prova A.
+BGC50|Hmm... então é isso que eu tenho que esperar? Talvez eu precise de mais água...
+BGC51|Uuuuggggghhh. Merda! Você! ... Ah, desculpe, você não. Meu namorado idiota. Bem, você provavelmente se ferra também. Eu só não tenho um motivo específico agora.
+BGC52|Eca! Que porra de operadora de celular vocês usam? Meu sinal aqui é péssimo. Como eu vou tornar a vida do meu namorado miserável se não posso mandar gravações minhas agindo como se me importasse com as bobagens patéticas dele e fazendo coisas que o irritam?
+BGC53|De jeito nenhum! Irritar meu namorado de todas as maneiras possíveis e deixá-lo com ciúmes é a única coisa que vai provar que estou certa e ele errado, o que eu deveria ter percebido desde o começo, porque tenho 80 pontos de QI a mais que ele. Também é um bônus que me traz tanta alegria vê-lo tão chateado.
+BGC54|Só rezo para ter a chance de me filmar fazendo algo totalmente louco e exagerado hoje à noite para poder ver a cara emo dele amanhã. Falando nisso, quer tirar uma foto da gente se beijando? Deve ser um bom começo.
+BGC55|Nossa, esse sinal de celular irregular é tão irritante. Precisei de 12 tentativas para enviar uma mensagem, e tudo o que precisei foi um emoji de passarinho dando de ombros para o meu namorado. Adoro mandar esses emojis depois que ele fica falando sem parar sobre como eu o magoei.
+BGC56|Ah, isso não é nada. Depois disso, coloquei um emoji de berinjela, só para confundi-lo. Ela vai me perguntar o que isso significa por dias, e eu vou agir como se fosse idiota por não saber. Ah, são as pequenas coisas...
+BGC57|As pessoas acham que sou difícil só por causa da minha abordagem direta às coisas. Na verdade, sou bem tranquilo. Não me incomode nem me faça perder tempo. Fale concisamente e não faça perguntas pessoais, nem perguntas que sejam de conversa fiada ou retórica, ou para as quais você não se importe muito com a resposta. Não faça conversa fiada e, por favor, não me interrompa quando eu estiver falando nem me peça para repetir. Eu odeio isso. Fora isso, sou um ursinho de pelúcia.
+BGC58|Vi um pepino na geladeira mais cedo. Alguém sabe de quem é esse pepino? Eu só estava perguntando. ...O quê? Eu gosto de pepinos.
+BGC59|Olha só. Uma mulher triste tentando chamar a atenção exibindo o corpo porque ninguém presta atenção nela por qualquer outro motivo. Você se importaria se eu te entrevistasse para um projeto de pesquisa em que estou trabalhando?
+BGC60|Que bom, mais um corpo nu. Se alguém me vir ao seu lado, vou ficar ainda melhor. Obrigada. Agradeço por você ter se dedicado ao time.
+BGC61|Meu Deus, por que eu apareço nessas coisas? Se eu tivesse ponderado a possibilidade de algum degenerado aleatório atrapalhar meu processo de tomada de decisão, tenho quase certeza de que teria acabado em outro lugar. Eca. Que nojo.

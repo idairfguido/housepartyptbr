@@ -1,0 +1,571 @@
+﻿[General]
+Name|Lety
+
+[Dialogues]
+0|Olá!
+0.1|Como vai?
+0.2|Ah, oi.
+1|Olá! Sou a Lety, professora de espanhol da Ashley. A Ashley me chamou para uma "aula de reforço de emergência", mas eu não fazia ideia de que seria uma aula em grupo. Nunca fiz aulas em grupo antes... Tenho certeza de que consigo lidar com isso. Então, qual é o seu nível de espanhol?
+1.1|Ei, o que houve? Você não pode simplesmente mexer nas coisas das pessoas assim! Se você está tentando começar bem a aula de espanhol, mexer na minha bolsa seria uma boa maneira de fazer isso, então pare com isso!... Bisbilhoteira sem vergonha...
+1.2|Ei, o que houve? Fui pegar minha bolsa e todos os meus NIFTY GIFTYS sumiram! Consigo sentir o cheiro daquele mezcal a quilômetros de distância. Você levou minhas coisas! ...Se você está tentando se adiantar na aula de espanhol, bom, vasculhar minha bolsa seria uma boa maneira de fazer isso, então deixa pra lá!... Intrometido sem vergonha...
+2|É espanhol, bobinho. Ei, garoto, tudo bem. Acho que todos nós temos que começar de algum lugar. Por sorte, trouxe um monte de materiais didáticos excelentes. Notei que a Ashley responde bem a coisas que ela pode realmente tocar... e beber. É um equilíbrio complicado garantir que ela retenha a maior parte da aula antes de desmaiar.
+3|Chaleee, eu sabia que tinha alguma coisa acontecendo, eu sou um idiota! Tipo "sessão de reforço de emergência"? Merda, isso soa mais idiota cada vez que eu digo. Então você estava dizendo... que é uma festa em casa?
+4|Ah, isso é legal, totalmente legal, muito bom. Eu sou uma garota festeira. Tipo, toda vez que vou a uma festa em casa, eu transformo aquela festa em... doença... na boa... na boa. Se controla, Lety.
+5|Não, só estou pronta para a diversão! Vai para a esquerda, vai para a direita, DOIS pulinhos dessa vez.
+6|Ok, tudo bem. Aqui, pegue esta caixa de poppers. Eu uso quando a Ashley se distrai da aula. O *POP* que eles fazem realmente a concentra porque ela acha que tem um manipulador. Mas, como não tem aula, a última coisa que eu preciso é de um deles caindo do meu bolso e todo mundo pensando que a Lety, a festeira, está armada.
+6.1|Ok, tudo bem. Só... olha aquela caixa de poppers que eu trouxe. Eu uso quando a Ashley se distrai da aula. O *POP* que eles fazem realmente a concentra porque ela acha que tem um manipulador. Mas, como não tem aula, a última coisa que eu preciso é de um deles caindo do meu bolso e todo mundo pensando que a Lety, a festeira, está armada.
+7|Ok, obrigada. Até breve, amiga da festa!
+8|Meu Deus, o que foi isso? Só porque eu não entendi a ideia dela sobre uma loja de sapatos, ela tem que me bater? Que falta de justiça! Com licença, vou verificar se tem algum dente faltando.
+9|Você viu? A Leah e eu nos damos como dois bêbados em uma festa de 15 anos! Preciso dizer, as festas na TV realmente se parecem muito com as festas da vida real. Isso é... a vida real... certo? Claro que são, o que estou dizendo?
+9.1|Aaarghh, de todos os dias para levar uma surra, é a véspera da minha sessão de fotos! Por que a Ashley me convidaria se nenhuma dessas pessoas quisesse aprender espanhol?
+10|Ela mesmo? Bem, você parece estar à altura do trabalho. No entanto, preciso te dizer uma coisa, como na lista de convidados: esta é a minha primeira festa, e eu realmente não quero estragar tudo. Não que eu fosse fazer isso... de propósito.
+11|Ok, com quem eu devo falar? Meu Deus, todos os estereótipos de filmes de comédia adolescente são reais? Será que a gente podia começar a conhecer esses personagens como se estivessem em um teste de elenco? Vamos lá, cara, dá pra tentar?
+12|Ahahaha, cara, você é o máximo! Acho natural eu começar pelo anfitrião da festa, né? Nos filmes, é sempre uma garota metida usando a casa do pai enquanto ele está cheirando cocaína numa viagem de negócios chique, ou aterrorizando Nova York como uma supervilã com temática aviária... O que eu estava dizendo? Ah, é! Vamos ver se o anfitrião de hoje é igualmente metido.
+13|Meu Deus, se ela for um morango, tenho certeza que consigo conquistá-la com um presente! Uma coisinha que diga "obrigado por me deixar ir à sua festa"! Ou sabe... aulas de espanhol grátis.
+14|Primeiro de tudo, descubra quem vai dar a festa. Se você já sabe, veja o que pode aprender sobre ela para a gente saber qual presente vai ser o melhor! Vou juntar minhas coisas e depois talvez eu tente me misturar um pouco. Me dê um ou dois minutos e depois venha me encontrar, beleza?
+14.1 | Antes de mais nada, descubra quem vai dar a festa. Se você já sabe, veja o que pode aprender sobre ela para sabermos qual presente será o melhor! Enquanto você faz isso, eu dou umas voltas; para garantir que as pessoas vejam meu rosto. Sabe, plante a semente... a semente do meu rosto.
+15|Nossa, sem pressão nem nada. Bom, eu sou a Lety, você sabe disso. Tenho um canal no YouTube, o Lety Does Stuff, talvez dê uma olhada, e me disseram que posso ser um pouco ingênua. Ah! Eu também gosto de conhecer gente nova! Não é muito clichê, né? Mas é! Eu faço coisas!
+16|Tá, o que você quer saber?
+16.1|Cara, eu já te contei tudo! Talvez até demais...
+16.2|Ok, recapitulação rápida: eu trouxe uma garrafa de licor mexicano chamado El Escorpión Mezcal, uma garrafa de uma das pimentas mais picantes encontradas ao sul da fronteira e... um peixe falante com um sombrero. Se precisar saber mais sobre algum deles, é só perguntar!
+17|Esse é o Sancho Sórdido, o peixe-sugador que fala merda! Você nunca teve um daqueles peixes cantores que você podia pendurar na parede quando era pequeno? Bem, no México, o Sancho está pendurado em TODAS AS PAREDES!
+18|Bem, porque ele fala em... ah, espera, ele só fala inglês com um sotaque mexicano bem ignorante... Mas ele é ótimo para os mais jovens — não, ele só diz coisas realmente ofensivas que não deveriam ser ditas em nenhuma língua... pensando bem, este foi um presente de Natal bem inapropriado para dar a uma criança. Mas você sabe o que dizem, o Papai Noel age de maneiras misteriosas.
+19|Ahhhh, pimentas Mama Chupacabra... Uma iguaria. Eu só recompenso meus melhores alunos com uma amostra dessas belezuras. Mas é estranho, nem todo mundo gosta da sensação muito real e dolorosa da garganta derretendo tanto quanto eu.
+20|Bem, porque elas são cultivadas no México! Mergulhe na cultura, certo? Mas ouvi rumores de que elas são cultivadas na Louisiana. Aqueles cajuns sabem duas coisas: caçar jacarés e cultivar pimentas. E... primos de merda. 3 coisas.
+21|Não é qualquer bebida alcoólica, é Mezcallllll. É basicamente tequila, mas não dá para negar o quão incrível é ter um escorpião de verdade na garrafa. Muito legal, né?
+22|Bem, a maioria dos grandes tutores dirá que a melhor maneira de ensinar algo é fazer um jogo com isso. E a maioria dos grandes alcoólatras dirá que não há jogo melhor que um jogo de bebida. Acho que você realmente não percebeu que tem um ESCORPIÃO AQUI. Imagina que piada seria colocar isso no bolso de trás de alguém!
+23|Ah, flashcards são tão chatos. Além disso, imagine o que os desenvolvedores fariam com isso. "Ei, Lety, vamos te dar flashcards, e toda vez que o jogador acertar uma pergunta, você dá um FLASH." Qual é, somos melhores que isso, MISTURE!
+24|Ah, desculpa. Às vezes tenho essas visões de que não sou... daqui. Do que estávamos falando?
+25|Ahhh, cara, tenho umas coisinhas ótimas para escolher. Trouxe tudo o que o nosso anfitrião poderia querer hoje à noite... valeu, bolsa sem fim! Aqui, você está segurando essas coisas, está ficando pesado demais para carregar.
+25.1|Ei, você voltou! Nossa, tenho um problema com você. Fui pegar minha bolsa e descobri que todos os meus NIFTY GIFTYS tinham sumido. Consigo sentir o cheiro daquele mezcal a quilômetros de distância. Você roubou minhas bolas, não é?
+25.2|Ei, você voltou! Como vão as coisas? Você está aproveitando todos os NIFTY GIFTYS que roubou da minha bolsa? Já está virando aquele mezcal? Eu praticamente consigo sentir o cheiro!
+26|Então, você descobriu quemeeeee é o anfitrião de verdade?
+26.1|Que ótimo, que ótimo. Você deveria colocar as mãos neles de qualquer jeito. Então, essas coisas que você tirou da minha bolsa, vamos usar como presentes para o anfitrião! Você já descobriu quem está dando essa festa?
+27|Acho que devo somar os pontos, já que a Ashley, heh, me convidou. Então, o que devemos dar para a Madison para refrescar seu coração gelado de Regina George? A bebida com um escorpião? As pimentas mais picantes que o homem conhece? Ou o peixe que fala merda?
+27.1|Ugh, talvez eu devesse ter guardado aqueles poppers para usar contra VOCÊ. Mais uma vez: O que você acha que eu deveria dar para a Madison?
+28|Bem, talvez eu dê uma olhada nos presentes e veja se algo lhe lembra: "Me escolhe! Me escolhe!" Você sempre pode me perguntar se quiser saber mais. 
+29|Escolha sólida, escolha sólida! Tudo bem, me dê um segundo para me preparar para o meu momento de glória, e então vamos embora. Não vamos deixar a rainha esperando. Vamos lá!
+30|Mas o que eu fiz de errado? Eu não entendo... geralmente, as pessoas adoram essas pimentas. Elas as abrem, engolem algumas na frente de uma câmera, postam na internet e depois capitalizam a fama de primeira página dessas vistas doces e agonizantes. Por que a Madison não quer isso?
+30.1|Mas o que eu fiz de errado? Eu não entendo... Normalmente, as pessoas adoram Mezcal. Elas o abrem, bebem demais, tentam brigar com um estranho, potencialmente fazem sexo com o tal estranho. Por que a Madison não quer isso?
+30.2|Olha o que fizemos! Não acredito como ficou bom! Toma essa, filmes adolescentes escritos por gueros velhos que faziam qualquer baladeira parecer uma puta!
+31|Vamos lá, Lety, a noite ainda é uma criança. O que significa que tenho tempo de sobra para continuar estragando tudo! Ei, só me dá um tempinho a mais para encontrar o meu carnudo.
+32|Ok, acho que quero ir atrás do paquera principal do apresentador agora. Aquele personagem — quer dizer, o cara que usaria seus músculos duros como pedra para destruir qualquer um que tentasse atrapalhar a Madison — os filmes o retratam como aquele cara super agressivo da academia que vive postando selfies do peitoral, mas nenhuma dessas pessoas parece tão estereotipada, então vamos mirar no cara que a Madison está transando!
+33|Quero chegar perto da Madison enquanto ainda a tenho na mira — HA! Piada de peixe! Deixa eu flertar com ela um pouco mais antes de fazer qualquer coisa.
+34|Então, você encontrou o nosso carnudo? A Madison acabou de me ensinar essa frase: carnudo. Acho que significa um homem que você realmente gostaria de conhecer, tipo, tomando um café ou dando uma caminhada no parque. Que frase bonita.
+34.1|Eu fiz um pequeno progresso com a Madison, mais ou menos. Ela se desculpou por surtar e disse que estava nervosa porque não comia "carne de homem" há muito tempo. Carne de homem. Acho que esse é um homem que você realmente gostaria de conhecer, tipo, tomando um café ou dando uma caminhada no parque. Eu me pergunto por que ela não usa o cara com quem está transando para conhecer outros homens. Falando nisso, quem você encontrou?
+35|Derek? Ele é o cara grosso com coxas que provavelmente consegue esmagar minha cara? Innnnncreee... eeee! Mal posso esperar para ter um CARNÍSSIMO! Me deixa em paz... me pega e vamos lá!
+35.1|Tenho quase certeza de quem você está falando, mas esse cara está bem ocupado agora. Quero que essa reunião seja mano a mano. Só ele e eu. Ah, e você. Então vamos esperar até ele terminar com essa merda que está fazendo.
+36|Bem, vá ver o que você consegue encontrar!
+37|Então, você encontrou o cara grosso da Madison?
+38|Não, ainda não! Madison está me dando todas as senhas da Ashley. Estou indo tão bem! Volte para sua caça às gatinhas.
+38.1|Estou contemplando meu fracasso completo e absoluto com Madison. Considerando desabotoar as costas da blusa da Ashley para causar uma cena... Sim! Madison gostaria disso. Não, os peitos da Ashley são incríveis, todo mundo ficaria superimpressionado. Relaxe enquanto eu penso nisso.
+39|Porra, porra, porra, porra!
+40|Que diabos? Isso está totalmente fora do roteiro.
+40.1|Ei! Acho que você está perdendo a etapa em que primeiro me convida para algum lugar privado. Argh! Está em todo lugar.
+40.2|Meu Deus, sim! Me encharque com isso. Nossa, isso é surpreendentemente realista.
+41|É assim que você diz olá ou você é só um babaca?
+41.1|Ei! Derek e eu tivemos uma longa conversa franca sobre isso e você não precisa mais tentar explicar.
+41.2|Ei! Ah, bem, acho que já que nós... estabelecemos o consentimento sexual e tudo mais... acho que essa não é a mesma situação que eu tive com o Derek. Então... acho que você está pensando o que eu estou pensando.
+42|Ooh, isso é tipo uma nova droga de rua chique? Tem um cheiro bom. Poxa, as crianças vão ter dificuldade em dizer NÃO para essa...
+43|Nossa! As pessoas realmente ficam viciadas no meio de uma festa. Eu não fazia ideia!
+43.1|Cara, você realmente vai longe, né?
+44|Quer dizer, nós já fizemos o "fazer o que fez". Eu não me importaria de "refazer tudo". Vai em frente, cara!
+45|Aff! O que há de errado com você, babaca? Eu disse para olhar o Derek, não eu! Eu tenho carne de mulher, não carne de homem!
+46|Mas quando ouvi alguém dizer "carne de homem", pensei que fosse uma medalha de honra. Você é super sarado, mano! Era só isso que eu estava tentando dizer.
+47|Essa foi por pouco! Preciso parar de levar as coisas tão ao pé da letra. Afinal, a Madison pode ser uma garota má como nos filmes...
+48|Bom trabalho, eu acho? Enfim, vou conversar um pouco com o Derek, e acho que também vi uma garota que trabalhou na cena do stand de garotas comigo dançando lá dentro mais cedo. Você pode ir cumprimentar ela também. Vamos conversar de novo em breve, ok?
+48.1|Bom trabalho, eu acho? Enfim, vou conversar um pouco com o Derek, e acho que também vi uma garota que trabalhou na cena da cabine de garotas comigo fazendo, bem... coisas de garotas lá fora mais cedo. Você pode ir cumprimentar ela também. Vamos conversar de novo em breve, ok?
+48.2|Bom para você, valentão. Enfim, vou conversar um pouco com o Derek, e antes disso, acho que reconheci uma garota que conheci trabalhando no estande das meninas. Ei, me devolve esse mezcal. Vai ser uma boa maneira de quebrar o gelo, caso eu esteja completamente enganada.
+49|Ah, Derek, desculpa! Não pensei que esfregar o peitoral te deixaria tão bravo!
+50|O que eu estava pensando?! Só apalpando o Derek como se ele fosse uma daquelas estátuas antigas de museu que dizem "NÃO TOQUE", mas, vamos lá, é claro que vou tocar nessa maravilha de mármore!
+51|Vou precisar de um minuto para encontrar a minha. Essa merda me deixou de mau humor. Enquanto isso, acho que já tenho uma ideia de quem eu gostaria de conhecer em seguida.
+52|Sabe aquelas personagens femininas que são tipo, como se diz... "experimentais". Como se estivessem tendo uma festa do pijama bêbadas com a melhor amiga, o que vira um jogo de "quem beija melhor" e depois vira um jogo de "quem senta melhor em rostos"...
+53|Todo rapaz tem que ter sua primeira vez com... outra mulher. Não que eu esteja dizendo que vou ficar bêbado o suficiente para tentar quando você voltar com o nome da garota, mas também não estou dizendo que não vou dizer isso. Vou precisar de um minuto; Eu provavelmente deveria tentar acalmar o Derek. Nada de agarrar a Lety, NADA DE AGARRAR!
+53.1|Toda moça deveria ter sua primeira vez com... outra moça. Não que eu esteja dizendo que vou ficar bêbada o suficiente para tentar quando você voltar com o nome da garota, mas também não estou dizendo que não vou dizer isso. Vou precisar de um minuto, provavelmente deveria tentar acalmar o Derek. Ei, me devolve esse mezcal, talvez eu possa usá-lo como uma oferta de paz para o Derek. Ou como uma maneira de afogar meu constrangimento.
+54|É você! *Psiu* Vem cá, eu tenho um segredo. Lembra quando a Madison jogou meu mezcal na garagem? Claro que aquela garrafa teria quebrado, certo? Errado! Voltei e encontrei, sem nenhuma rachadura à vista. Isso é artesanato mexicano. Então, bebi um pouco para celebrar os vidreiros trabalhadores do México. ESTE É UM VIDRO BOM PARA CARALHO, MÉXICO!
+54.1|É você! *Psiu* Vem cá, eu tenho um segredo. Lembra quando a Madison jogou meu mezcal na garagem? Claro que aquela garrafa teria quebrado, né? Errado! Voltei e encontrei, sem nenhuma rachadura à vista. Então, como você deve ter notado, comecei a participar porque em breve você vai me entregar uma aventureira gostosa para eu explorar. Preciso estar bêbada para a jornada que tenho pela frente. Você encontrou a moça em questão?
+54.2|É você! *Psiu* Vem cá, eu tenho um segredo. O mezcal que você me devolveu? Comecei a participar porque em breve você vai me entregar uma aventureira gostosa para eu explorar. Preciso estar bêbada para a jornada que tenho pela frente. Você encontrou a moça em questão?
+54.3|É você! *Psiu* Vem cá, eu tenho um segredo. O mezcal que você me devolveu? Descobri um jeito de deixar a garrafa cada vez mais leve. Não sei dizer como é feito o truque, mas vou te dar uma dica: meu hálito tem cheiro de... ESCORPIÃO.
+54.4|É você! *Psiu* Vem cá, eu tenho um segredo... MEZCAL! Voltei e encontrei, então, como você deve ter notado, comecei a participar porque em breve você vai me entregar uma aventureirazinha sexy para eu explorar. Preciso estar bêbada para a jornada que temos pela frente. Você encontrou a moça em questão?
+54.5|É você! *Psiu* Vem cá, eu tenho um segredo... MEZCAL! Voltei e encontrei, então... Descobri um jeito de deixar a garrafa cada vez mais leve. Não sei dizer como é feito o truque, mas vou te dar uma dica: meu hálito tem cheiro de... ESCORPIÃO.
+55|Então conhecemos a anfitriã, conhecemos o CARNÍSSIMO dela... Nossa, que outros estereótipos de filme poderíamos encontrar nessa festa?
+56|Ah! Ah! Bom, você conhece aquelas personagens femininas que são tipo, como se diz... "experimentais". Como se estivessem tendo uma festa do pijama bêbada com a melhor amiga, o que vira uma brincadeira de "quem beija melhor" e depois vira uma brincadeira de "quem senta melhor na cara"...
+57|Talvez eu tenha tomado goles demais da, hein, aracno-quila? Mezzzzcal é minha melhor amiga, né? Enfim, é, cara, tipo, toda mulher precisa da sua primeira vez com... outra mulher. E não estou dizendo que vou usar esse nível incrível de embriaguez para provar, mas também não estou dizendo que não digo isso. Vai ver se encontra alguém disposto a testar as águas do amor feminino. Tipo, só por causa desse filme, videogame/TV que estamos fazendo... é claro.
+58|Então, você já encontrou nossa esposa aventureira?
+59|Brittney, eu gosto desse nome. Briiiitnneeeyy. Vamos conhecê-la! Ah, só pelo que aconteceu com o Derek, acho que eu deveria doar o resto do meu material didático. Eu digo "PRESENTES!"
+60|Bem, a Madison acertou aquele peixe, então deveríamos... esperar. Volta atrás. Ela acertou aquele peixe... tirou o peixe da gente. Eu sei que você ficou de olho nos meus outros "presentes"... então, qual você acha que a Brittney vai adorar?
+60.1|Com base nos meus cálculos e no formato da protuberância dela... ah, meu... acho que temos... você... não. Ainda temos todos os nossos presentes! Qual você acha que a Brittney vai amar mais?
+60.2|Com base nos meus cálculos e no formato da protuberância dela... ah, meu... acho que temos... você... não... ainda temos o nosso peixe falante e o escorpião mezcal. Qual você acha que a Brittney vai amar mais?
+60.3|Eu ainda tenho o mezcal, e com base no formato da protuberância da sua... ah... acho que temos... não... ainda temos todos os nossos presentes. Qual você acha que a Brittney vai amar mais?
+61|Bem, espero que esse presente seja exatamente o que a Brittney precisa para abrir a mente para outras coisas. Aham, é... Vou abordá-la quando vir uma oportunidade. Fique de olho em... não, não vou lembrar de apontar. Só preste atenção!
+62|Caramba! Que porra é essa, cara? Pedi para conhecer uma garota bonita que talvez precisasse de um pouco de amor, não uma psicopata de merda! Você me enganou...
+63|É, pode ter sido o terceiro ato perfeito para a minha primeira festa. Mas, ainda assim, as coisas não estão indo bem hoje à noite. Na verdade, tem sido meio... tem sido uma merda, para ser completamente honesto. Minha primeira festa foi uma merda.
+63.1|É, pode ter sido o terceiro ato perfeito para a minha primeira festa. Ou pelo menos está chegando lá. Sabe aquelas histórias bregas em que a garota percebe que era com a melhor amiga dela que ela deveria ter ficado o tempo todo? Estou começando a achar que é isso que está acontecendo aqui...
+63.2|Bem, definitivamente não foi o terceiro ato perfeito para a minha primeira festa. Mas talvez possamos salvá-lo... Sabe aqueles enredos cafonas em que a garota percebe que é com a melhor amiga dela que ela deveria ter ficado o tempo todo? Estou começando a achar que é isso que está acontecendo aqui...
+63.3|As coisas não estão indo bem hoje à noite. Na verdade, está meio ruim, para ser bem sincero. Minha primeira festa foi uma merda.
+63.4|Bem, esses encontros não deram muito certo, mas ei, acabei de perceber que conheci outro estereótipo! Acontece que eu estava andando com o babaca da festa...
+64|Quer participar dessa? Eu tinha outros planos para você mais tarde, mas se quiser adiantar, acho que eu e a Brittney podemos fazer dar certo...
+64.1|Vai embora, cara! Estou pirando aqui. Ou é só pegação? Tanto faz, só... tá vendo o que tá rolando? Pare de interromper!
+64.2|Você não está tentando se meter nessa, né? Desculpa, cara. Talvez pudesse ter acontecido, mas, bem, não aconteceu. Então sai daqui!
+65|Bem, já que você surpreendeu a mim e à Brittney hoje à noite, acho justo retribuirmos o favor...
+65.1|Como eu e a Brittney podemos dominar o seu mundo? Tem algo em particular que você gostaria de dominar?
+65.2|O que você quer fazer?
+65.3|É...?
+66|Não, acho que vou embora. Se você vir a Ashley, diga a ela que eu ainda a ajudo com o espanhol... mas o preço é dobrado. Boa noite.
+67|Significa "mendigo babaca", mendigo babaca. Acho que consigo lidar com essa festa sozinha. Até nunca mais.
+68|Só estou dizendo que você... e eu... deveríamos ir para algum lugar privado. Um quarto com uma cama, uma porta... um quarto com uma cama?
+68.1|Só estou dizendo que você... e eu... deveríamos ir para algum lugar privado. Um lugar com uma cama, uma porta e-
+69|Você encontrou um lugar isolado para nós? Sério, tudo o que precisamos é de uma porta... e acho que as paredes ao redor da porta. E uma cama! Depressa, estou sentindo o cheiro da colônia do Patrick no ar. Só posso presumir que ele está se preparando para o segundo round.
+70|Bem, ISSO foi quente!
+70.1|Bem, ISSO foi quente! Merda, as pessoas podem nos ver... Cubra-se, garoto!
+71|É! Para o quarto da Madison!
+72|Isso é tão emocionante! Minha primeira festa em casa, e vai acabar com um bate-papo. Tire essas roupas e vamos todos fazer as coisas!
+72.1|Isso é tão emocionante! Minha primeira festa em casa e vai acabar com uma reunião. Tipo... né? É por isso que você está pelado... né?
+73|O que você está fazendo? Foca em me comer, seu idiota.
+73.1|Ah é, gata, aí, mais forte!
+73.2|Que tal?!
+73.3|Droga... é a sua vez!
+73.4|Olha só você! É... é como aquele emoji de berinjela sendo tocado!
+73.5|É...?
+74|Humm, isso foi foda pra caralho. Espero que a Madison não se importe que a gente tenha feito ISSO na cama dela, né?
+74.1|Se todas as minhas aulas particulares terminassem numa trepada, eu faria de graça. Sei que você não está aprendendo espanhol de verdade, mas vamos fazer das suas sessões de estudo um encontro semanal. Meu Deus, você é bom.
+75|Eeeeep... ei, se você quiser fazer isso na cama dele de novo, é só me procurar. Mas cara, que primeira festa em casa legal. Tchau por enquanto.
+75.1|Cara, essa cama nunca mais será a mesma. Essa festa é muito legal. Tchau de novo!
+76|Ei, cara, o Patrick vai me ensinar uma coisa rapidinho. Bom, espero que não seja rápido demais. Valeu pela ajuda! Até mais.
+77|Bem, eu não estou nadando em dinheiro, mas é melhor do que meu antigo emprego como garota em convenções de quadrinhos. Muitos cheiros interessantes, aqueles eventos... ah! Falando nisso...
+78|Ah, merda, você quer dizer aquele lugar velho de frango no espeto, né? Aquele com o... surto? Os caras dos materiais perigosos tiveram que fechar uns 3 quarteirões por causa disso! Agora, esse é o tipo de cheiro que-
+79|Então as pessoas entram... e são chutadas... mas depois também... ficam doentes?
+80|Vou fazer ele comer aquele frango velho da sua loja nova!
+81|E aí, Madison? Eu sou a Lety, a professora de espanhol da Ashley. Mas hoje à noite, eu só quero que você pense em mim como a Lety, a garota descolada extraordinária!
+82|Bem, não álcool, mas eu trouxe um presentinho para você por me deixar ir à sua festa descolada. Me deixa em paz... TA-DAAA!
+82.1|Bem, parece que eu trouxe o presente perfeito para esta festaaaaa. Me deixa em paz... TA-DAAA!
+83|Mas isso não é tudo! O sórdido Sancho, o peixe-sugador, consegue falar mais de 12 versos, todos incrivelmente ofensivos e irritantes: INDEPENDENTEMENTE DE VOCÊ FALAR A LÍNGUA OU NÃO!
+83.1|As pimentas da Mamãe Chupacabra! Achei que você ia adorar, sabe, você é tão... apimentada? Aqui, pensa rápido!
+83.2|É, muito apimentada, né?
+84|Você o ama! Adoro que você o ame! Parece mesmo que ele está derretendo seu exterior frio e encontrando, bem no meio desses seus peitos lindos, um amigo.
+84.1|Ai, meu Deus, agora você conseguiu, Lety! Madison, me desculpe. Achei que seria como quando as pessoas jogam cerveja umas nas outras em comerciais e depois dão um high-five ou jogam vôlei na praia e viram MELHORES AMIGAS!
+84.2|E aí, tudo bem? Droga, onde foi parar isso?
+85|Bem, olá, Derek! É a Lety, e, ei, cara, como ela te amava-, uau, olha só, acho que comi a carne de homem totalmente errada. Você é mesmo carnudo. Você é como um pedaço grande e bonito de bife. É totalmente certo que te chamem de carnudo de homem. Deixa eu tocar nos seus peitos carnudos...
+86|Ei, fica parado! Eles são tão gostosos e suculentos, como úberes! Úberes fortes. Ei, mais alguém quer sentir isso?
+87|Ah, não seja assim, D! *Resmunga*... gostoso, caralho, carnudo! Hmmm... aqui também é bom. *Resmunga*... uh, acho que ninguém me ouviu. Mais para mim!
+88|Ah! Hmmm, nossa, essa é uma longa história... mas acho que posso terminar antes de chegar a esses abdominais aa...
+89|Oi Brittney, como vai? Eu sou a Lety, uma festeira. E eu só queria te dar um oi e te dizer que te acho a garota mais bonita desta festa, não importa o que as garotas malvadas do refeitório digam.
+90|Ah, e olha só, eu até trouxe uma coisa para você!
+91|Pimentas Mama Chupacabra. É justo que a coisa mais quente do planeta combine com a garota mais quente da festa, né?
+92|Meu Deus, você é tão fofa! Eu só quero — só — vir aqui, você! Minha vez de ser um estereótipo idiota de festa!
+93|Então, você já tem um Sancho, o Peixe-Otário, o Sacana?
+94|Brittney, está tudo bem? Você está ficando toda excitada e irritada.
+95|Ah, você... não gostou?
+96|Bunker? Do que você está falando?
+97|Por quê?! Desculpe perguntar isso, mas eu estava caçando... você?
+98|Hummm, Brittney, preciso ir. Tem uma... aula de reforço de emergência que precisa de mim.
+99|Ah, oi. Não queria te deixar na mão, só queria fazer amizades com base em uma lista bem rígida de estereótipos de filmes. Sabe, pelo seu olhar enlouquecido e pelo leve cheiro de urina que emana das suas calças, eu diria que você se encaixaria na fonte TOTAL WILD CARD.
+100|Hmmmm, me conta mais, Papai Legal.
+101|Então, ele realmente tem todos os livros ORIGINAIS de escolha sua própria aventura, e eles estão traduzidos para o espanhol?
+102|Você acha que poderia me mostrar? Eu adoraria... dar uma olhada neles com você...
+103|Acho que eu adoraria, Sênior Donghauser.
+104|Patrick, você está bem?
+105|Você não sabia que estava comendo as pimentas da Mamãe Chupacabra?
+105.1|Patrick, sua língua está inchando bastante pelo barulho. Parece que você está fazendo um boquete.
+106|Bem, Patrick pode ter se aproximado demais do estereótipo de filme, mas acho que toda festa precisa do seu idiota. Então, que tal você encontrar um lugar confortável para a gente?
+107|Nossa, você faz isso no meio de uma festa. Isso... definitivamente não é coisa de cinema.
+107.1|Nossa, você faz isso no meio de uma festa. Isso é coisa de cinema, garotão?
+107.2|Oooh, ficando excitado por mim? Boa ideia... você vai precisar!
+108|Este pode não ser o meu lugar, mas o zíper dele parece ter se aberto de alguma forma... e aí, sem querer, você ficou duro. Achei que você ia querer saber.
+109|Caramba! É você, Rachael, né?
+110|Você nunca vai acreditar, mas eu já me vesti como você antes!
+111|Ah, não diga! O que a gente faz?! Quando a gente está acumulando, a gente tem que pensar em alguma coisa, Rachael!
+112|Boa ideia... desculpa, Rachael, mas eu arrasei hoje à noite, e ainda por cima tenho uma opção de sexo repetível. Uma libido que recarrega a cada dois minutos, 24 horas por dia, 7 dias por semana? É... Acho que não tem problema destruir o mundo hoje à noite com base em uma suposição. Mas, como sou muito fã sua, a gente pode conversar sobre isso! Ou quem sabe a gente dança!
+113|É, é o que ele disse! É isso aí, amiga! Vamos para a Festa da Casa OG! Começar a bater cabeça até o Bobby não ter escolha a não ser acabar com essa merda!
+114|Ah, com certeza vou ficar pelado para isso. Tá, e sabe de uma coisa? Agora que estamos acordados, podemos fazer o que quisermos! A mente domina a matéria, mano!
+115|Quer dizer, se eu quiser espancar vadias até virarem polpa com mãos gigantes de brinquedo de circo, vou viver a minha verdade! MÃOS, PRONTAS PARA TUDO!
+116|Talvez só um pouquinho! Eu sou um porco, eu sei. Você devia tentar em alguém antes que a noite acabe. Falando nisso, vamos nessa!
+117|ISSO É INCRÍVEL! EU SABIA QUE COMEÇEI A JOGAR ESSE JOGO POR UM MOTIVO! Ei, vamos foder o Frank por roubar sua garrafa térmica e monopolizar os holofotes do meme da House Party!
+118|Ei, Frank, estamos aqui para acabar com suas besteiras e garantir que você finalmente consiga o que merece! Você tem ideia de quantos clientes reclamaram da sua bunda careca e pálida ao longo dos anos? VOCÊ. ESTÁ. MORTO. PORRA!
+118.1|Que ótimo, ele já foi derrotado. Você não vai cair tão fácil assim! Ei, Frank, levanta, é hora de finalmente pegar a sua! À garrafa térmica da Rachael e a todas as pessoas que você irritou! VOCÊ. ESTÁ. MORTO. PORRA!
+119|YAAAAAAAAAAHHHH, TESTEMUNHO PARA MIM! EI! VOLTA AQUI!
+120|Ha! Então você escolheu a morte pelo fogo! Achei que ser esmagado por algumas prateleiras seria ruim, mas isso? Últimas palavras? Aposto que você gostaria de uma bebida agora!
+121|Rachael, eu te entendo, e devemos conversar apaixonadamente sobre o meu noivado novamente em breve, mas ainda temos trabalho a fazer. Vamos lá!
+122|Ah, ei, você acha legal dar em cima da Vickie? Quer dizer, precisamos terminar isso, mas se você quiser lidar com um desses outros babacas, eu entendo perfeitamente.
+123|Foda-se, Rachael, eu dei uma surra nele! Eu acho... Acho que é todo mundo, menos nós. Lembra do que eu disse sobre continuar nossa discussão apaixonada? Acho que é hora de continuar de onde paramos... talvez com mãos normais e sensuais.
+124|Ah, é você. Ainda está aqui, né? Bem, você desempenhou um papel hoje à noite, então... está pronta, jogadora número um? E você, Rachael? Que tal terminarmos esta simulação com um ESTRONDO? Tire essas calças!
+125|E aí, você está jogando só com uma mão? Se não, está fazendo errado.
+125.1|Mmmm, porra. Isso é tão bom. Não é tão bom quanto a conquista que acabamos de ganhar, mas... meu Deus!
+125.2|Mhmmm?
+125.3|Ei, você não se esqueceu de mim, né? Vou te transformar num vibrador! Não me teste!
+126|Nossa... Tenho uma ideia que vai deixar isso ainda mais louco! Espero que tenhamos amantes gigantes! Assuma a posição, jogador um!
+127|Olá, usuário sexualmente atraente dois-sete-um-um-B. Obrigada por escolher meu avatar digital como sua experiência esta noite. Estou totalmente equipada e preparada para atender a todas as suas necessidades de realidade virtual. Vamos começar.
+127.1|Olá, usuário sexualmente atraente dois-sete-um-um-B. Obrigada por escolher meu avatar digital como sua experiência esta noite. Observe que, devido à falta de pontos de dados e vetores de análise insuficientes, estou apenas parcialmente funcional. Mesmo assim, vamos começar.
+128|Ah, sim, isso é ótimo. Que prazer. Tão gemendo. Tão em êxtase. Uau. Usuário, o que fazer?
+128.1|Sim? O que fazer?
+128.2|Sim? O que fazer?
+129|Uau, usuário, isso foi incrível. Realmente não há ninguém como você. Você é especial. Mal consigo andar e preciso recuperar o fôlego. Detecção de alarme do usuário. Não se assuste, usuário, não consigo respirar e não tenho apêndices motores. Tchau, volte logo.
+130|Ah, Sr. Donghauser, mal posso esperar. Quero começar nossa aventura... AGORA!
+131|Oh, ho, ho, ho, eu estava esperando por isso! Você é o cara do videogame... é você quem MORRE!
+132|Aí está você! Parece que o jogo acabou, Grump! Tenha uma BOA NOITE!
+133|Uhhh, tem certeza de que isso é verdade? Acho que o fato de você ter tirado o "g" de propósito significa que não é importante e que eu não deveria confiar em você. Volte quando encontrar seus gs, Gs.
+133.1|Uhhh, isso parece o oposto do que é bom. Vai ser um passe da minha parte, cara. Cachorro? D-O-duplo-deixa pra lá.
+133.2|Ah, uh... é, é! Eu quero isso! ... Eu quero isso? É. Eu decidi que quero isso. Tudo bem, meu chapa, deixa pra lá!
+134|"Namoro! É disso que falamos em festas como essa? Se eu soubesse, teria feito uma "pesquisa extra" antes, se é que você me entende! Nossa, que escolha! Quando, uh... quando sai a resposta? Posso enviar minha resposta pelo correio? Ouvi dizer que isso existe. Ou existia."
+134.1|"Nossa, uhhh... é disso que falamos em festas como essa? Se eu soubesse, teria feito uma "pesquisa extra" antes. Pesquise no Google. Quero dizer, no Google."
+135|Hm... bolas grandes são definitivamente legais! Mas paus grandes, peitos, glúteos, braços, músculos também são... e, bem, até coisas pequenas são legais também! Tudo é sexy! Nossa, é tão difícil decidir...
+136|"Bem, eu ESTAVA pensando em como eu adoraria conhecer um par de bolas gigantes que eu pudesse vestir com roupas chiques, colocar um par de óculos, torcer os pelos pubianos em um bigode de guidão, acariciar, abraçar e chamar de Frederico, mas, vendo você aqui parado... vou votar em "pau". Um pau grande e pensativo."
+136.1|"Bem, eu ESTAVA pensando em como eu adoraria conhecer um par de bolas gigantes que eu pudesse vestir com roupas chiques, colocar um par de óculos, torcer os pelos pubianos no formato de um bigode de guidão, fazer carinho, abraçar e chamar de Frederico, mas, para ser sincero comigo mesmo... vou votar em ""pau"". Um pauzão, ó."
+137|"Nossa! Meu próprio encontro pessoal com uma pessoa tão bêbada que não terá a mínima chance de se lembrar de nada do que eu disser! Meu Deus, que chance! O que eu deveria dizer? Uhhhh, olá, bêbado! Eu sou...""Garota da Baguete"", do planeta alienígena Pan! Estou aqui para fazer experimentos em cada humano que eu encontrar e transformá-los em pão! Brincadeira, estou de dieta. A menos que isso seja chato. Nesse caso... não estou! Enfim, prazer em conhecê-lo, bêbado... haha, por favor, me ame."
+
+[Responses]
+14ea34bc-2322-4ba9-8d11-af9bca1660e4|MÃE! MMMFMRFMRMFMR...
+45c7e724-5974-42c9-ae0f-19eb74aa07dd|"Lety, como se diz 'Coma minha xoxota' em espanhol?"
+45623d6a-e1a7-4332-8633-2f27f85dd0a9|Não, isso é perfeito! Estou prestes a gozar!
+7e342612-407f-49c7-94f0-eb282dbde80c|Aproveite meu show.
+242c11f4-0e6f-44ad-8f78-861607351c4c|Você tirou as palavras da minha boca. Agora, vem cá e coloca essa boca na minha boceta.
+3d1313e4-1da7-4ef6-8efb-38f7505181b9|A batida é mais alta no armário de bebidas. Vamos embora!
+5a51bac2-e281-416c-a89f-721ee35e9f74|Sinto uma forte sensação de estalo na garagem. Vamos!
+13a41161-e1df-4515-95d0-fc9ba15d83ae|Escute com atenção! A batida está acontecendo lá fora! Entre!
+1f74191d-3130-4e8d-8750-54f40bd0c0cf|Certo. Deixa pra lá.
+881e5bc2-6a91-4dd6-b56f-e57d1e4dfe44|Ah, espera... é, deixa pra lá. O estalo parou. Já volto, vou ver se consigo, uh, reiniciá-lo.
+e08d9c5a-1730-4f25-851c-ada4b9ca6613|Vamos lá, Lety. Você sabe do que gosta mais! O que é mais prazeroso para você?
+aec6da66-6349-4771-b9c5-fe7e403e434a|Não precisa estudar nada, apenas dê sua opinião honesta!
+255fe290-6a22-47b8-9946-da33f0340d79|Lety, eu acredito em você. Você pode-
+96ceabdb-fe8b-45b6-bfc6-52f7e5596ddc|Que estranho, mas eu aceito!
+3581889c-f219-49fb-affc-4624b9831bd4|Ok, acho que o Derek está pronto para você. Talvez. ...Provavelmente não.
+56e9b399-12a6-49ac-a22d-58b37d634d8d|Aproveitando a festa? Quer ver se ele vai sair em algum outro lugar?
+630ef969-b154-4cc6-8359-63051a4981c1|Então, Lety, o que é melhor para um cara: um pau grande ou bolas grandes?
+533f93fa-a621-44e3-8b7d-727df26dd6fb|Não sei as palavras que você está dizendo, marciana.
+a2e1f403-16c8-400a-b367-14558ca0a0d4|Então você sabe que isso é uma festa, né?
+be93c77a-ef9c-4065-93b4-3af383a68a20|Claro que sim!
+98bca590-3799-49a0-b198-ad9c6d7e7f04|Você está tendo um derrame?
+41706c83-448a-45b5-8015-84cb3d5589c9|Acho que devo chamar um médico.
+b03ef968-2dcb-4ff9-b541-324090b315b9|Claro, vai ser divertido jogá-los no Patrick.
+3e5b54d1-819d-46b8-82e5-af45e316e654|Adeus, Lety!
+957fda93-8864-48e4-a42a-9595d2dc00ca|Você deveria evitar a Leah pelo resto da noite. E talvez pelo resto da sua vida.
+2a6d3f2c-9b99-4ba4-8116-c447b1afc96f|Então, Ashley, você me disse ou não para tomar cuidado hoje à noite.
+614a2344-3f2f-4262-9289-ee556aa8d933|A Ashley me pediu para cuidar das suas costas hoje à noite. Para você não perder mais dentes.
+23383132-cdd8-4a21-aaca-481cef2d18bb|Relaxe e divirta-se! Talvez eu não fale mais com a Leah...
+5b409ee1-2ac1-4d64-9bc3-c7d8dad3677e|Quer que eu te ajude a estereotipar meus amigos? Claro!
+ef6617bb-26a9-4dab-8cfd-9ea0bd700cce|Nova York aterrorizante, o quê?
+671e63e8-2de2-4715-8d66-b50057e67ff3|Pode funcionar...
+9fc7ed52-f4ce-4a5c-a016-f5996c53a47e|Ora, ora, ora, preciso dar uma olhada.
+4e6d0c37-3c68-4bce-8409-b8852994dbb3|O peixe falante.
+a88b7409-8c9e-447c-bdcb-f848a2d50854|Pimentas ardidas.
+d1b7921a-df0c-4ff6-a0ab-2f8d11260117|A bebida do escorpião.
+3b4a6193-ec97-4bd8-8123-0c9784c92164|Estes materiais de tutoria são ridículos. Por que você não trouxe flashcards?
+754983e1-9894-41df-9eda-8e8e7151bc49|Como o Sancho ajuda a ensinar espanhol?
+9ba23574-aa87-4c4f-9243-6ebba844966e|Vamos falar de outra coisa...
+7902fdef-5046-47a1-a7cc-d6c740870d14|Como as pimentas ajudam a ensinar espanhol?
+05296c80-2cbc-4885-8706-3dd17810bde5|Vamos falar de outra coisa...
+ef4f33ff-777e-4373-8d03-ad0a7f4c5b4d|Como o Mezcal ajuda a ensinar espanhol?
+3920c7c4-c349-447f-9286-f206b6864d28|Vamos falar de outra coisa...
+b78a9e75-ff49-4154-9de3-5dfadb2d7555|Desenvolvedores? Essa é uma palavra espanhola?
+f03993f0-34de-48e4-8db8-522c711a5f1f|Não, esquece.
+6c649fc6-d38a-4ae9-b969-90dd9e5c4d2c|Claro!
+6c94cc71-a137-4d4d-a2c1-21da3663b707|Eu não sabia disso, juro!
+b3cc1b79-fab8-4c85-a490-68283473a4b2|Hum, não exatamente.
+4599b431-de56-4e5b-8508-2ce71d5a770a|Sim, é a irmã da Ashley, a Madison!
+c4db17f2-7546-4b3c-a1b3-a2ce18870bc8|Hum, sim, mas preciso resolver outra coisa rapidinho. Segura esse pensamento!
+707cf04b-4b08-451a-8910-d274c22b5b7e|O Espírito do Escorpião!
+fb64270b-ff44-4d75-a9aa-115b25bb3136|O Peixe Falador de Merda!
+92b25c5e-8b25-464d-8985-fea547f257b5|Os Chili Peppers!
+3a93799f-1069-4109-8c32-5d7a3fdccfc7|Preciso de mais tempo com seus dons antes de fazer uma ligação. Preciso acariciá-los profundamente.
+3cc9fb10-fdb3-4346-bff6-863d055a88a9|Vou entrar lá bem fundo. A seleção de doces deles, quero dizer.
+cb45de7b-140b-4d75-97cb-9ddf59d6a72b|Parece bom, vou seguir seu exemplo!
+db80eda2-bc3e-43b4-b672-9a61847e43b2|E agora, festeira?
+952c2e72-378d-4fd9-95f2-848530fab1da|Acho que não dá para ganhar todos. Porque você definitivamente perdeu aquela interação.
+a336fbb8-ae52-4964-b588-5687ca813040|A seguir, espaguete da Lety!
+e37039c7-1a91-41a9-9f5b-890e5d6789ad|Vou buscar seu aggre-donis!
+64cdee65-adac-400e-a3b3-79a5c29381db|Sem problemas.
+3c2a76df-eda7-47a9-b224-e8689f088809|Isso vai me dar um tempo para ver quem eu consigo arrumar.
+eb0229a5-77ee-4d91-9a88-cd12b4e28daf|Definitivamente tem alguma coisa acontecendo com Madison e Derek... dizem que os mamilos deles ficam excepcionalmente duros quando estão perto um do outro.
+f7a77f46-60c0-40d6-b384-139c82106158|Ainda não tenho certeza...
+06e89d85-db37-42dc-9d41-f04c79fc8e64|Acho que sim, mas me dá um pouco, tenho algo que preciso fazer muito rápido.
+d3dfe403-120f-43b0-adaa-a2b4caa9ab42|Vai ficar MUITO DENSO aqui!
+3810aa5e-223b-4916-a6f2-f24436db7f15|Apaga a agenda do Derek, já entendi.
+950d7061-7d4a-4cd1-af92-da4e85d21a1b|Ok. Alguém deve saber de alguma coisa...
+02dd04c5-1123-4ea4-97b9-3ae6e7aa02a1|BRB. Significa "Big Round Booty" (Rabo Grande e Redondo). Enfim, até mais!
+bbac0aab-dd78-4871-aaae-edbdcf657694|Derek e Madison, estou captando algumas vibrações... captando vibrações, para ser exato.
+7000f617-4243-4da4-ab7b-90f67af73f4e|Acho que sim, mas relaxem um pouco. Volto em breve.
+1e2f3f7f-cbd9-44c2-8c2a-27bbe1a5a69a|Desejo-lhes sorte nestes tempos difíceis.
+05e5e348-c8b3-47c0-85c5-734e41d88460|Será que eu quero saber? Ok, volto já.
+aa67de8e-2638-4ba7-bcd5-8640c3c6248e|Droga, vou querer o que ela tem...
+cf753c30-f01b-480b-9402-6adccc6b6723|É, você gostou? Tem mais de onde veio isso...
+1b9d01d1-0d12-4202-835a-dc3a49e35d97|Às vezes, você só precisa se afastar da carne batida. Bem. Bem de carne. Tanto faz.
+4f6677e9-a7bb-44b4-9890-d9efbfd0bb2f|Passo 3... lucro?... Te vejo lá fora.
+196d8aa8-7502-4a86-93fd-546378e7a7ce|Que bom que você passou. Me dê alguns minutos e você poderá provar novamente...
+644f54b2-f040-4512-b3f0-55cd29349541|Foi mal, foi mal.
+4978016e-c71f-4198-b01e-29ac2cfbafd1|Com certeza!
+abdb3696-4012-49e7-94c0-5b1183b8f6d1|Não, eu só queria reviver os dias de glória.
+74c4fb33-e0a6-470e-9403-316bed5b12c1|Só estou espalhando o amor pelo vape, mano! Meu Deus, o que estou dizendo?
+10b88494-7913-4461-af62-7b25a9242818|Vamos colocar os lençóis para lavar. Mais tarde. Muito mais tarde.
+75546cd4-888a-4754-8c8f-34ca8715bc72|Só te mostrando como é se sentir assim!
+489d07e4-3391-4daa-8ea1-ff216975287c|*Continuar*
+12341003-6d50-4ad3-b339-9a2281f4140f|Mesmo assim, deu tudo certo! E acho que cheguei à... Segunda base?
+8057e299-1908-427e-acf8-ef193a16a2b8|Você sabe!
+ce20992e-7688-40a5-9f1f-56e1e3262bd6|Nada resolve um caso de identidade trocada melhor do que álcool!
+b0c4e24b-373b-40f6-a4d7-f495cca5c879|Ou lembra da moda falsificada à base de produtos de higiene pessoal. Ou será que é falsa? Aquele elástico si-
+0452adfb-4447-40fb-8c86-656adcd15d86|Eu não ajudei exatamente ao entrar...
+c5fb27bf-01d8-4088-82f5-3a383f819e89|Não ajudei exatamente ao, bem... não ajudar.
+935b04df-3288-4a95-9270-707c632f4c5a|Contanto que você mantenha as mãos longe de si, eu te ajudo a fazer mais amigos.
+952f071c-3daf-4404-9414-c295b21f5610|Acho que assistimos canais diferentes.
+6c98b77d-bcdb-4a31-bc03-7802df5bd27f|Vou pensar e te respondo.
+6dda2e2d-b373-42b6-925f-5aa1d7f3cc92|Claro, o álcool sempre faz o constrangimento passar!
+f7a69f5b-199f-4e25-9ae5-41b7ce904bc1|Então, você se deu esse "presente"? Entendi. Continue...
+9af53f94-7f0f-472c-a8a8-b63ccbe33f5f|Não exatamente, deixe-me continuar procurando.
+b458c33a-e4fc-4330-8604-f2586410c6aa|Acho que você deveria conhecer minha amiga Brittney.
+d3cd2b0e-2ea8-4151-a5e0-63c759d1ffc9|Se ao menos alguém estivesse tentando formar uma banda na garagem dos pais...
+8f192a83-0100-4e4e-b69e-4927cf1df54d|Acho que assistimos a canais diferentes.
+ea144a03-afd6-4c95-aa3e-0e3f97f2c58e|Vamos ser honestos: preciso encontrar uma garota que esteja disposta a experimentar.
+9c72469b-c6bf-48c5-817d-90238b9936c0|Você deveria conhecer minha amiga Brittney!
+60bfa987-2959-4b2b-99d9-baa654e97f98|Não, vou continuar procurando, desculpe.
+fe47866d-5c56-48a3-9f43-7e2dbbc3e624|Acho que você deveria conhecer minha amiga Brittney.
+cce368fa-d351-4f97-9810-d80abdd92c11|O que falta?
+ab22d29a-94c2-455e-8169-5fefcaef673a|Aposto que ela vai adorar o Sancho!
+5bb5d602-17d9-4972-8beb-280b51db246d|Com certeza as pimentas!
+04b8e7f6-1f95-4495-9fd4-d2def6bc89e4|Vamos com a bebida de escorpião.
+a6265a02-4496-4e15-832f-62e881915794|Eu não conhecia a Brittney *tão* bem. Espera aí, te conto daqui a pouco.
+12a1343e-d5c3-4b45-94f8-4714616665d3|Ok, um plano mestre. Uau!
+d27b1d9c-0ce7-46f4-a627-1ddd8a28bc12|Nossa, a Brittney costuma ser muito mais... normal do que isso.
+4b60807c-f737-466a-92da-a0f4aaeb3cdf|Não diga isso! Vamos continuar tentando.
+66717055-27c4-4bbb-9516-663f67516b13|O que você disse?
+e3b0a54e-cd82-4fba-95b5-c56296f1c351|O que você está dizendo?
+0f139320-491a-47d9-92f6-98e6154fac28|Se Deus existe, quero que saiba o quanto sou grata por você ter feito esse momento acontecer. Desculpe por presumir seu gênero, Deus.
+09854246-34f4-43b7-a2c7-43b790bf4bbc|Ok, ok, droga...
+0763bcf3-1bf4-42b6-a684-c48bc7828944|Será que isso poderia ter acontecido?! SERÁ QUE ISSO?!?! Karma é uma merda.
+bfbe85fa-e215-482a-bb5b-19fab9b115fd|Lety, como se diz "Me faz um boquete" em espanhol?
+da8782e2-09da-402f-9827-8852dbd9c68a|A Brittney parece mesmo estar perdendo essa oportunidade. Você não acha, Lety?
+099ff071-d904-4635-b367-2be762537347|Vocês dois deveriam se beijar. Uma troca de línguas, talvez?
+20ed0067-9dd1-4a8e-b369-3fa1a6e7823f|Lety, por que você não relaxa... aproveita o show. Sinta-se à vontade para "apreciar" nossa apresentação.
+be9dce4f-77e3-479e-a41e-a5c189680255|Não, merda, estou tão perto! Droga... bolas peludas, bolas peludas, bolas peludas...
+3c953949-e5c4-4e7d-b926-d02b0e4be721|Na verdade, este é o meu lugar feliz. Vamos lá, meninas!
+d5c48010-eeaf-4514-95cd-9d852597d530|Porra!
+d709ca3c-f0e0-4fe3-bb2c-297c5ab1b6c7|De jeito nenhum!
+6fae7f3b-206f-4f75-a564-742021eecd5f|Nossa! Certo, espere um minuto, eu mesmo conheço o lugar. Só preciso ter certeza de que está vazio.
+d548e568-f82f-4305-a185-92dd9d77e5dd|Como está a cama do nosso gentil anfitrião? A M-
+543595c4-483b-47c3-a0d6-e0e17f1f5475|Como está a cama do nosso gentil anfitrião? A M-
+12b6de42-1d18-4b0e-b118-b6abf53cf5bd|Nossa! Certo, espere um minuto, eu conheço o lugar. Só preciso ter certeza de que está vazio.
+6d0115b4-2d9d-404b-83e3-0f8bbb0db04e|*Continuar*
+d85b93f4-7d94-49b0-80bf-5e3324483342|Sim, espere aí. Primeiro, preciso fazer algo muito mais importante do que sexo. Eu acho.
+f1ff78a9-4b8f-4da5-bcf8-0249bad81268|Sim, espere aí. Primeiro, preciso fazer algo muito mais importante do que sexo. Eu acho.
+565ccd5c-466d-43e2-b05b-8c8ef966c236|Ainda não, ainda estou procurando.
+6596f0cf-bf2a-4238-a7f5-89c3d12a8f44|É, lembra do anfitrião da festa? O quarto dele está vazio!
+81d45441-66ce-4214-94ab-06509af01b8d|É, mas eu preciso, hum, dar um toque romântico ao lugar. Ou algo assim. Pétalas de rosa, um cachorro com gravata... só segure esse pensamento, ok?
+8f562ce7-7817-4489-9332-1c74e296f031|Você pareceu realmente gostar daquele encontro! Eu também gostei. Muito.
+44db0aa9-07a8-48ce-8194-a16873a337d8|É, para o quarto da Madison!
+80dbbae8-f26d-4cb4-ae99-7cfd96cd539d|Não precisa me pedir duas vezes.
+60aae529-c064-4a43-9a7c-a81f892454d6|Ah, você não está brincando comigo? Espera... qual é a minha missão? Esquece. Sim, estou aqui para transar.
+8080aa1f-fadd-4894-a75d-89cdbcb08830|Ajoelhe-se, eu tenho um presente de festa para você...
+072662e3-ff0a-4691-98df-ca6d391fe5e6|Caramba, você é incrível!
+671e0177-35e2-4186-9c9f-8838689c4001|Ajoelhe-se, quero que você se sinta bem.
+d1d2c6ef-9c20-4bf3-973f-e3df6074fe8c|Deite-se e relaxe. É hora de eu fazer todo o trabalho.
+9fb0129d-a3f8-40b5-ad61-c035e298c477|Esta é a ereção mais estranha da minha vida.. :Suspiro: *FAPFAPFAPFAP*
+84a9b7fa-4c57-402a-9cdd-53ecd6d566f0|Ugh, espera... Só preciso de um minuto para recarregar as energias!
+4df79823-1650-40f9-894e-841546764230|É, teve bastante disso.
+f832ab37-86a6-4715-b45e-429e54693658|Aulas diárias também seriam legais...
+910d40ed-e20e-47a3-90fc-3067cd50a4bf|Ah, Adidas para você também!
+2022f19b-e74f-43b3-b9bf-a8ba8847c009|Espera aí, tem um prêmio de participação?... Puta merda!
+45abf3f4-f9d8-4e69-8891-1283db28979e|*Contínuo*
+7dc79de4-a472-44fc-8c70-fb498c472d4a|*Contínuo*
+6f8402cf-6ce8-4661-ae4e-ea462bcf0253|*Contínuo*
+1e5f1259-51e3-4b94-98d3-1de808729212|*Contínuo*
+6fc9239e-a26f-494f-8fc2 -9efc7b361140|*Continuar*
+24ea87f9-a1c7-44b9-87a4-8526c2b5ece1|*Continuar*
+b7e04c8f-bbc4-41f6-b03f-c34ac34607a5|*Continuar*
+126784d1-e779-4f93-886f-3b78d663db2e|*Continuar*
+4c44324c-516a-404f-b4f3-08c6b4cee673|*Continuar, desconfortavelmente *
+2aa45ae9-2570-42ec-a37b-01a6f5dde4f9|*Contínuo*
+1022eb30-3490-49a6-929d-ea357bb1a2ef|*Contínuo*
+e175fe39-7778-456a-8a2e-1c7894055707|*Continuar para*
+20550624-6093-4cf4-b67a-48d17c950c31|*Contínuo*
+34146c16-c149-496c-8b23-9be10d9274c1|*Contínuo*
+9e223db9-986b-484d-a8a1-80c7cb054a95|*Continuar para*
+e70b79b2-7141-48ad-92e4-70b8da3142b8|*Contínuo*
+3055dc1d-50cd-4a92-86da-41c544ec132f|*Contínuo*
+438dc0d4-95be-4f26-9b2f-bf91b860e99f|*Contínuo*
+7778267b-e4f8-4a26-a4fa-f177b6ad3f14|*Contínuo*
+5777ce6a-811c-43e8-aabd-3f7064f76ca0|*Contínuo*
+e3462cbc-8ef9-48b2-8528-af323988adb4|*Shakes Nervosamente*
+650cf5a1-1a41-4bca-8b11-43cb53a76ff5|É, eu também...
+dddb1773-2460-4d70-b446-943777f26e92|*Continuar*
+2498549e-4f4e-46f9-a2b3-8551429289db|*Continuar*
+2f4ecc7d-f757-4da3-bbf2-54314ed2632c|Merda... nada une duas pessoas como escolher entre atravessar uma ponte frágil ou um rio caudaloso!
+f59e3945-fe66-41b6-af66-a4dc4639ce58|"Examine." Merda! A mais sexual das buscas literárias...
+5127e9b3-93b9-4356-a460-4919d4721d0e|Merda...
+e4097d78-c42b-41fb-926e-e62d1fc85053|*Continuar*
+7d4cadbd-a0a6-404e-ab0e-637ca0eb4476|*Continuar*
+fb16ba16-a4d5-4e10-bc34-a4f0620f41b0|Com certeza. Me dê algumas!
+ff629b64-8d46-4fe1-8af5-c4bcf32f8988|Está nas que vêm depois das 11.
+f114cb15-fe4c-45ff-bff5-f76eec2d019f|Eu sempre tenho que... hã, alongar antes de exercícios extenuantes. Certo, você me pegou. Eu faço as duas coisas.
+05e7ffb8-c64a-4a1f-b874-35bcf2f07a42|Nossa, que série de eventos!
+b334f817-dc6c-4db3-943b-f8c77f485ee3|*Continuar*
+8581f857-a81b-4e0d-ab8b-b0a21476a68a|*Continuar*
+022062b1-cc7d-4cd5-b1fe-17b13980a085|*Continuar*
+ffe3cfe6-941a-44df-88ed-62d26f4874e0|Crise evitada! Divirtam-se, meninas!
+6f6035cf-d739-4e2d-a1a0-42b88f08ecdf|Meu Deus...
+3bdb468e-6908-430e-a5ec-8fae9f272913|Boa ideia!
+b86e54f8-f634-413f-954d-78ee1f1db0ea|Isso é... idiota, não sei por que o Erasmus achou que isso seria uma boaaaaaa, que porra é essa?
+5a997275-8893-4ffc-aac5-d445f8101bee|Estarei aqui, dando apoio moral.
+cbd1607b-6e4b-4433-8960-1efae4365b54|É ciúme que eu sinto, cara??
+794528ef-23a2-4fdf-95b6-7955927cbd59|Uhhh... nossa, gata.
+0791804d-ca91-40a9-ab9c-32aa059db132|Ai, meu doce, não consigo olhar...
+91aeb2f1-68cb-469f-9e95-49d7e69fe4dd|*Continuar*
+7d90fdac-2d3a-4367-81dd-dc72f3afe93b|Quão cedo é cedo? Esqueçam, continuem, meninas!
+388ddd42-455c-459d-a893-7e890df12632|*Continuar*
+bfe8c924-9ced-446b-a49b-8ef8a641d289|*Tosse e indica que você obviamente precisa ser o centro das atenções*
+5b69dac1-90ca-4d3b-b5ef-055af8c72258|*Tosse forte*
+dc797d6f-325b-4ad2-814c-42318c272a21|*Tosse forte*
+07169191-d5a9-44b6-823b-979deeb95148|Você tirou as palavras da minha boca. Agora, venha aqui e deixe-me colocar meu pênis no seu.
+c0c21862-d23e-4702-9774-21edbcd25234|É, ainda estou aqui... porra, espera um segundo! Não sei por que o usuário me moveu para tão longe!
+c1ed9193-2846-46db-8f27-b5ec8d4ff24f|É, ainda estou aqui... porra, espera um segundo! Não sei por que o usuário me moveu para tão longe!
+19f5c007-5b85-4238-9ee6-0820b66a03e9|Enfia a cara na Rachael. Explora ela um pouco... e já que estás nisso, de bruços. Bunda para cima.
+b2540d5a-fb2a-4acf-9934-765d947e682e|Suba em cima de mim. Ei, Rachael! Assista e aprenda... mas mantenha-se ocupado.
+de3c1200-38e1-4c67-9b38-e46923a7e474|Mãos contra a parede, agora.
+4a109e88-3cbb-48b0-8ae4-115c2757fea2|Role para o lado.
+990e4d50-1852-420a-bac7-cbc03c52ddf7|Beija a Rachael. Quero ver.
+6f359bb8-c733-4df6-a5b0-dfbc1de52223|Vire-se e monte em mim!
+2904273b-159a-475a-a9ce-f72eadb3ab48|Puta merda, eu vou...
+3d9cc408-53e2-45b5-9131-4b672179416b|Uh, cliquei errado. Esquece!
+d93e876c-9ba5-4e81-a828-920d978d78ad|Vire-se e monte em mim!
+d29d04a5-c6db-434f-9adc-0fa44802076a|Uhhh giganta? Espera, espera!
+94c6c5b3-2524-404e-b6c9-225496e33fb4|Bem, merda, não exagere nem nada...
+d0a6a651-cb54-4a12-9981-e2f94972d270|Eu também estou totalmente equipado, que tal? Vai para a cama com você!
+6be214b7-f2e4-4fe6-8406-434a27ba05a1|Hm, sabe de uma coisa? Me chupa como um robô.
+93fc3abb-0824-472e-8041-d2bc5f0b04b6|Fique de quatro.
+247b8d4c-9016-4e09-bbd9-6690f6476e7d|Salve uma IA, monte um cowboy.
+d466d1fc-73c7-4a01-93d7-e7c08c0d78ac|Deixa pra lá, continua. É, perfeito.
+c29ed061-6966-467b-9629-b8f7ced975b7|Ai, merda, ai, merda, eu vou...
+c4cd1cf5-0090-4fa1-98c6-e56408ae2338|Ah, eu não estava mesmo... tá, tchau?
+a77568df-b9a6-44c5-80ac-9700ae377561|Você devia aproveitar, Patrick!
+c7f5e2d6-191b-4476-ad0f-8c22aaa78d31|Na próxima vez no Game Grumps, o Arin vai ganhar seu shake de carne!
+c0966593-4642-4cb4-af0a-8786fea864ac|*Continuar*
+c759bf88-8c31-4c83-ad07-6ab992e317b4|Vou te contar como eles viveram e morreram! Pois... uh... talvez o Avi se importe?
+5725665d-a623-4a15-b2c6-aa5235c11205|*Continuar*
+870b1ece-2513-4eaf-89c2-13f5134de19f|As pessoas querem saber... quem é Lety? Conte-nos tudo.
+ec5ddf11-91b4-476d-8d17-47a2bab3ee3b|Fale-me sobre esses... materiais de tutoria.
+7e1d5fff-d0d3-41bb-a28a-b1318712bb64|Você não vai me deixar ir sem alguma pista, né? Você poderia pelo menos me dar uma caixinha de suco ou algo assim...
+cdb5dfa9-e706-42a2-a798-00f391e21067|Estou pronto para fazer minha escolha. Hora de dar um presente de gás para a Madison!
+68f69ec6-948c-45be-9910-b13e686ad1e4|Você sabe que eu sou um idiota, né? Ok, vou precisar que você repita o que precisa de mim.
+8872c3a4-720d-4657-9619-154a9f149301|Uau! Ok, vou encontrar um lugar... espera um segundo.
+bb4df0a9-32f4-4573-b73d-594fdca6c5aa|Você acha que poderíamos voltar lá em cima para mais "aulas particulares"?
+fc97b625-5466-45f9-ac3a-19c5294463d9|Preciso ir!
+
+[Quests]
+13a8b81b-a611-49ad-b484-28eb1e4f0f25|Vida La Lety
+13a8b81b-a611-49ad-b484-28eb1e4f0f25Description|Faça da primeira festa da Lety uma noite inesquecível!
+13a8b81b-a611-49ad-b484-28eb1e4f0f25CompletedDetails|
+13a8b81b-a611-49ad-b484-28eb1e4f0f25FailedDetails|
+7350d8ab-fae3-43de-8ffc-a96f3b08e763|Bem na hora certa
+7350d8ab-fae3-43de-8ffc-a96f3b08e763Description|Encontre uma maneira de afastar Lety do discurso de negócios de Leah sem que ninguém se machuque.
+7350d8ab-fae3-43de-8ffc-a96f3b08e763CompletedDetails|
+7350d8ab-fae3-43de-8ffc-a96f3b08e763FailedDetails|
+551d6912-7321-4bad-a624-6702ce6db1cb|Rainha do Norte
+551d6912-7321-4bad-a624-6702ce6db1cbDescription|Apresentar Lety ao anfitrião da festa.
+551d6912-7321-4bad-a624-6702ce6db1cbCompletedDetails|
+551d6912-7321-4bad-a624-6702ce6db1cbFailedDetails|
+2f0ab97e-3c8b-42bc-a716-a22074712603|Caza el trozo
+2f0ab97e-3c8b-42bc-a716-a22074712603Description|Apresente a Lety o brinquedo de criança do anfitrião da festa. E a... carne dele?
+2f0ab97e-3c8b-42bc-a716-a22074712603CompletedDetails|
+2f0ab97e-3c8b-42bc-a716-a22074712603FailedDetails|
+c400b67d-d8c7-425e-a794-c5dc9083e26e|Experimente qualquer coisa uma vez
+c400b67d-d8c7-425e-a794-c5dc9083e26eDescription|Apresente Lety à pessoa que se sente experimental.
+c400b67d-d8c7-425e-a794-c5dc9083e26eCompletedDetails|
+c400b67d-d8c7-425e-a794-c5dc9083e26eFailedDetails|
+4980354d-6757-414e-9019-06b94fe377b5|Interrompa o disruptor
+4980354d-6757-414e-9019-06b94fe377b5Description|Impeça a introdução de Lety no curinga do grupo.
+4980354d-6757-414e-9019-06b94fe377b5CompletedDetails|
+4980354d-6757-414e-9019-06b94fe377b5FailedDetails|
+
+[Events]
+ca21f5d7-58da-4346-b233-ab69beae6096|Acho que preciso trabalhar mais com a Lety. Droga, ela é uma personagem opcional! Por que tenho que me esforçar tanto nisso?!
+0a0d14c0-d1ac-41f2-8c8f-569a620dbe10|Não tenho certeza se o Frank vai conseguir nos ouvir... Eu deveria tentar aproximá-la um pouco mais dele.
+b4267ae4-1e5c-4818-8b96-dfd075878051|"...tarde demais, ao que parece. Afinal, estar em chamas dificilmente será o tipo de "coisa" que ela normalmente faz. Provavelmente."
+7dd2c5b3-62c1-446b-8905-a6ef4ea36fad|Espero que o Derek não fique traumatizado pela Lety. Eu também não gostaria que ele tentasse me encurralar. Ou... gostaria? Sim. Talvez.
+5f8d5997-f645-491a-8471-d0076f9c26cd|Tem que ter alguma coisa que eu possa fazer aqui para salvar esse incêndio. Talvez a Lety realmente não entenda por que o Derek não gosta de ser tocado? Ou talvez o Derek precise de um amigo para acalmá-lo?
+18721565-bb2f-4c60-80a6-44584616c61b|Como está indo a sessão de apalpadelas da Lety com o Derek? Bem, os dois são adultos, e outra mão talvez não ajude a situação...
+3a02759a-1dd2-401b-a751-da7725810ae0|Você ouve passos pesados, seguidos por soluços de barítono e o que parece... um personagem de desenho animado decepcionado?
+dab26c8c-dd34-4213-88b7-dafa227eb55d|Parece que Lety ainda está pensando em seu momento #derektoo. Voltarei a falar com ela em alguns...
+9ea7b3c3-1abc-462a-8407-17591b3e3088|Parece que Lety está colocando algumas de suas novas habilidades sociais à prova. Que bom para ela. Volto em um minuto ou dois.
+1348ab75-31a2-41d0-8ddd-0af202671de6|Parece que a Lety ainda está dando um tempo para se acostumar com a situação aqui e tudo mais. Volto em um minuto ou dois.
+efba0eb3-1ca8-4eed-8311-52c5a50c79a9|Eu realmente deveria tentar aprender um pouco de espanhol hoje à noite, para poder agradecer à Madison por me deixar transar na cama dela hoje à noite.
+96510322-0b23-493b-bf02-9078a12b4959|Acho que a Lety percebeu o quanto a Madison está ocupada agora. Preciso ver o que posso fazer para liberar a Mads.
+9c043d96-3251-4669-9cae-3567f71384be|Hmm, pensei que Leah e Lety estivessem procurando um lugar isolado lá fora para conversar, mas... talvez uma delas tenha se assustado? Que diabos está acontecendo lá fora?
+9cd8e5bd-54fe-4f56-839a-81683bd795e1|Embora a forma da Leah estivesse excelente, acho que ela provavelmente poderia ter salvado a Lety daquele golpe cósmico. Preciso dar uma olhada na Lety daqui a pouco... quando encontrar todos os dentes dela.
+157c663c-5433-4ff1-864a-eba581f21d79|Parece que a Lety vai falar com a Madison daqui a pouco, a menos que... ela não estivesse tramando algo com... ou contra a Madison, certo?
+67a476b8-d420-4c51-a534-39775ebfe984|Ok, parece que a Lety vai ficar ocupada por um tempo. Tenho outra coisa para fazer... ooooo, posso ir ver o que está acontecendo com aquele peixe...
+143f403e-fdbb-4ded-b051-f9a6067d3bb5|Tudo bem, preciso ter certeza de que o Derek não está lidando com as coisas de mais ninguém... ou as minhas.
+dc67d995-a23e-48a2-872c-164ded54d2c3|Parece que a Lety precisa de um tempinho a mais...
+bf94f48f-93a3-4b2b-8412-1bc79c042d30|Hmm... Alguma das garotas da festa vai estar *tão* interessada assim na Lety? Tenho certeza de que consigo descobrir sem chatear ninguém!
+32c95b62-f729-45bf-9ecf-bf17ccb47df4|Hmmm, a Brittney é uma verdadeira garota sulista, mas que presente agradaria a essa caipira fanática?
+c90fd4cd-c419-4a32-8505-5275b8052d03|Computador apitando suspeitosamente...
+5a0837ef-e44e-4aa8-8fa9-60d15da8efe7|Estou chegando perto! Se eu quisesse, poderia parar e enfeitar esse seu rostinho lindo...
+de85f971-ad7b-4dea-8721-679838dd3ada|Tenho que entrar na fila para a foto do prêmio!
+e1d93aea-8f61-4a97-8a89-3f43ca54553e|O computador emite um bipe suspeito...
+ac5d578f-ac66-42b8-8d9f-76b4ad1c6ecf|Lety fala sobre aromas, algo sobre higiene do pescoço e da barba e alguma bobagem sobre... mocinhos?
+ae3f8565-119a-4ceb-91a7-e63cca92c9c9|Lety mal percebe que isso é uma festa, muito menos que Leah não se importa com convenções. Ela deveria começar a pensar em um jeito de se salvar...
+557e3bf3-050d-47e2-bb66-64690a14ce9a|Merda, Derek quase cansou... ou já não cansou? Poderia muito bem deixar Lety Weinstein fazer o que quer. Decisão difícil.
+c0a4d81b-4f71-4404-8f85-98a1595e839f|Parece que Lety e Rachael estão conspirando para invadir a festa! Agora seria uma ótima hora para salvar o jogo...
+6c6d8d8a-e441-4457-9d97-af6fa6696c86|Ei, você. É, você. Que tal um pouco de mágica? Digamos... dobrar a resistência sexual? Legal.
+2ccb6778-1fc1-425c-8cc5-6db3e25971cc|Pronta ou não, aí vou eu!
+cb32616c-d3d2-4f2b-9b8d-b1bdba88a1af|Puta merda... ponto sem volta!
+bd2fb4ba-48a3-4dbb-88bc-9a5a9b177a83|Muito chato... é o fim! Ah, não, é... É "Roundabout" que estou ouvindo? Eu... acho que não consigo continuar!
+3fad9680-b2e4-407b-894f-60a62a293e09|No momento, preciso ter certeza de que o quarto da Madison está vazio.
+fb4a9e00-b604-4ee3-a9bc-1ed0c4295645|Você ouve o *baque* de uma porta de carro vindo de algum lugar à frente... será que é a Lety?
+b49b4d01-c5d0-4047-ba93-f75d682e6c95|Hmm, acho que a Leah e a Lety estavam procurando um lugar isolado lá fora para conversar, mas... será que uma delas se assustou? Que diabos está acontecendo lá fora?
+c6da6ae3-67cf-45d6-acbe-bf587fe6a2de|A Lety estava conversando com a Leah? O que diabos elas estavam olhando? Que diabos está acontecendo aí fora?
+102c6fc1-49a1-4737-b1cd-63325e55d948|Hmm... Parece que a Leah está ocupada demais para ficar seguindo a Lety agora. Eu deveria ficar de olho nela quando estiver livre.
+5c6177fb-28dd-4b38-ae55-afb674c9e1c5|Ah, bem, isso parece amigável. A Lety podia ser muito mais sociável do que demonstrava!
+69970868-a73a-4d55-bb63-98e7146335f4|Foi engraçado? Talvez a Lety não precisasse de mim como babá, afinal.
+36b24f37-e411-4531-b385-b61951432c63|Isso não parece bom... É melhor eu dar um jeito de salvar a Lety, só por precaução!
+7e1be569-a1f5-455d-bfc6-94a0ac0a7a12|O que será que a Lety e a Leah estão falando agora?
+1b67b4c3-d64e-45d6-a6f1-0f540e9b7ee9|Espero que a Lety e a Leah estejam bem... uh, que se danem elas. O que estou fazendo agora é MUITO mais importante!
+850f7fc7-13c1-40fa-aa20-cacc5ce6ed46|Eu conheço a Leah bem o suficiente, e sei que aquele gênio levou a melhor sobre ela. Agora pode ser a hora de intervir.
+cfb47736-ed0a-4fac-829e-377d438e1d49|Não conheço bem a Leah, mas ela parece ter um temperamento forte. Agora pode ser a hora de intervir.
+81922bd9-6a4f-4d73-b480-6bb995586f47|Nossa, que surpresa!
+3b3ac08e-0ae9-4f46-8a9c-ecf279a4f3e3|Ah, que diabos, Lety... você poderia falar mais alto?
+6ac8e8fa-9d25-4880-bd3b-d21cda625d9f|Que som foi esse? Parecia o do Derek, mas... falsete?
+746cca35-b955-4fbf-87ab-e1f599f63f92|Espero que o Derek não fique traumatizado pela Lety. Eu também não gostaria que ela tentasse me encurralar. Ou... e se eu tentar? É. Talvez.
+abc1264b-55e5-45a4-8ee4-84cc873df8bf|Tem que ter alguma coisa que eu possa fazer aqui para salvar esse incêndio. Talvez a Lety realmente não entenda por que o Derek não gosta de ser apalpado? Ou talvez o Derek precise da confiança de um amigo?
+7a8d8fc2-7b26-48f6-9670-0179755d22be|Gostaria de saber como está indo a sessão de apalpada da Lety com o Derek. Bem, os dois são adultos, e outra mão amiga não resolveria a situação...
+8a68fe90-d096-421d-aa9a-e97a47ba6c92|Ouvem-se passos, seguidos de soluços de barítono e o que parece... um personagem de desenho animado decepcionado?!
+b26a1636-456a-489f-9a90-0c6c5174760a|Hm, parece que Lety não está confortável em "massacrar" Derek agora... talvez se ela o convencesse a ir para outro lugar?
+360183fe-d4fe-4dba-87e7-2cb7661c4d05|Eu ouvi...? Ah sim, é a Lety, gaguejando enquanto tenta conversar com Derek. Simplesmente brilhante. Talvez ela se sentisse mais confortável se o ambiente fosse diferente...
+b1fc9043-31d4-473d-8188-4988d61db818|Uau! É isso aí, ainda bem que acabei com aquele jogo de verdade ou desafio!
+03f79140-d3ab-4e44-b8f9-df6038aee8ec|Uau, é melhor eu pegar essas pimentas... Não acho que vidro no pé seja uma sensação particularmente sexy. Vidro apimentado, no entanto.
+cd244481-9384-4e98-a029-306243d39a8d|Eu deveria ir ver como estão a Lety e a Brittney... Espero que elas tenham aproveitado ao máximo o momento a sós!
+94c525ae-f39c-43b5-908a-6aa36dd94a01|Hã, qual é a parte mais importante de uma facial? Ah, é... um rosto. Que boba a minha.
+bb63a243-fafd-4c18-9432-0ae8ed884429|Ugh, eles estão falando rápido demais e sobre... tentáculos? Um tentáculo chamado Tracy? Tanto faz, mas parece uma conexão bem profunda. Preciso tirar o Pat da jogada o mais rápido possível!
+40e33354-6b44-4d73-9a1c-5173f8279cd7|Vou deixar o Patrick se esforçar ao máximo com a Lety... De qualquer forma, eu provavelmente perderia antes de encontrar um jeito de me livrar dele...
+978abc97-29d8-4654-b6be-22d0b088f247|Droga, eles estão se saindo muito bem...
+bd3d60db-b25e-4308-9ee4-f14fc31d9403|O que será que o Pat e a Lety vão fazer? Deixei os dois juntos por um tempo.
+552c3c94-4407-4944-b0de-87da75a811a1|Droga, parece que eles estão terminando... Preciso agir agora!
+fef63610-c211-49c8-99c8-db6bc7a12666|Patrick provavelmente já está a fim de Lety. Mais poder para ele, eu acho...
+6cbfa443-2209-4d02-86dd-89b1d1bf201c|Perdi para Patrick. Perco na vida. Oh, droga, eu até consigo ouvir! O som do meu fracasso esmagador... parece... suado.
+f9e9e4bd-458c-4f54-bf6c-d83502b2beb3|E nos estranhos estertores finais da paixão, Lety aprendeu o verdadeiro significado por trás da tradicional frase "com grande peso vem grande capacidade de sufocar". Hum. Eu fiz sexo. Eu... você, me desculpe, você não se arrepende de nada.
+fc77cd0a-c24a-443d-8cee-8e24b23f9e23|Puta merda, tem algo muito importante rolando entre Patrick e Lety! Algo basicamente sexual, pelo que parece!
+
+[Background Chatter]
+BGC1|Você confia em um estranho para te ensinar todos os detalhes do comportamento social em uma festa, e ele te estraga completamente! Ah, não. Alguém quer falar sobre garotos? Ou garotas! Eu sou bi-conversacional.
+BGC2|Hum, olá, pessoal da festa! Vamos brincar de girar a garrafa e construir fortes com nossos travesseiros! Peraí, droga, isso é para uma festa do pijama. Droga.
+BGC3|Então, vocês estudam juntos ou fazem parte de um... time de dança? Quero saber mais, mas vocês parecem quase psicopatas, então estou tentando ir com calma.
+BGC4|Sabe, o Sancho não é só uma obra de arte; ele vai se tornar parte da sua rotina. Você acorda, abre a porta do seu quarto para uma manhã nova e brilhante, e lá está o Sancho te chamando de fracassada! Depois de um longo dia, você sobe as escadas pronto para dormir, e lá está o Sancho pedindo para te preparar a salada!
+BGC5|Então, tem alguma outra maneira de você pregar uma peça na sua irmã, ou esse peixe falastrão é só a primeira de uma longa série de pegadinhas que virão?
+BGC6|Então, Derek, não sei se você percebeu, mas agora somos totalmente amigos. Isso significa que posso te convidar para as minhas campanhas de D&D? Um cara seria ótimo na nossa festa. Minha personagem traz uma boneca sexual em tamanho real só para garantir que ela fique satisfeita.
+BGC7|Derek, quero que você saiba que levo toques inapropriados muito a sério. Já me denunciei à escola e aos outros tutores. Haverá um tribunal, que não sei bem o que é, mas acho que terei que lutar contra algum tipo de criatura em uma arena para me redimir.
+BGC8|Brittney, que bom te ver de novo. Sou eu, Lety, do nosso escritório, tarde da noite, me divertindo!
+BGC9|Ah, Brittney, que bom te ver de novo. Eu tenho... tem uma coisa que preciso dar uma olhada. Está ali... por favor, não surte de novo.
+BGC10|Então... alguém viu minha bolsa? Ela é bem colorida e tem uma coisa meio Doctor Who, com ela maior por dentro! Parece até videogame, quanto mais eu penso...
+BGC11|Alguém de vocês fala espanhol? Tipo, todos? Ah, tanto faz, só me deem boas avaliações online. Dar aulas particulares é um bom trabalho, e eu não posso mais ficar de braços cruzados, querida.
+BGC12|A Ashley me disse que a palavra "ingênuo" estava escrita no teto, mas eu estava brincando, porque quando olhei para cima, vi um MP3 pendurado em... ah, merda, esqueci onde estava porque estava tentando encontrar onde a palavra "ingênuo" estava escrita.
+BGC13|Aquela barra de chocolate lá em cima no escritório, alguém vai comer? O anfitrião da festa geralmente oferece comida de graça, certo? Deixa pra lá, vou deixar claro.
+BGC14|Eca, eca, eca, eca! Não foi isso que eu quis dizer quando falei "fazer tudo"! Que bagunça, garoto!?!
+BGC15|Ah, parece que você está fazendo Corona. Guacatela.
+BGC16|Pode não ser aqui que eu vou, mas seu zíper parece ter se aberto de alguma forma... e aí, completamente sem querer, você ficou duro. Só pensei que você ia querer saber.
+BGC17|Ah, aquele cara foi embora mesmo? Mas isso é tão, hum... explosiva! Tanto faz, azar dele!
+BGC18|Dançar! É! Ouvi dizer que fazem isso em festas! Tentei dançar o robô uma vez, mas rompi um músculo do braço e não consegui dormir de lado por três semanas. Nunca mais vou tentar, mas gosto de ver as outras pessoas.
+BGC19|Meu Deus! Esta festa ainda vem equipada com a dançarina mais sexy! Estou tão feliz que a Ashley me enganou para vir aqui hoje à noite. Ela sabia que eu nunca esqueceria esta noite incrível!
+BGC20|Nossa, você fez isso no meio de uma festa. Isso... definitivamente não é coisa de cinema.
+BGC21|Nossa, você fez isso no meio de uma festa. Isso é coisa de cinema, grandão?
+BGC22|Oooh, aquecendo para mim? Boa ideia... você vai precisar!
+BGC23|Nossa! As pessoas realmente se conectam no meio de uma festa. Eu não fazia ideia!
+BGC24|Caramba, cara, você se mexe mesmo, né?
+BGC25|Nossa... Tenho uma ideia que vai deixar isso ainda mais louco! Espero que tenhamos amantes de gigantas por aqui. Assuma a posição, Jogador Um!
+BGC26|Nossa, você fez isso no meio de uma festa. Se importa se eu olhar para a garota?
+BGC27|Eca, eca, eca, eca! Merdas como ESSA são a razão pela qual eu não vou a festas! E também por que não sou convidado.

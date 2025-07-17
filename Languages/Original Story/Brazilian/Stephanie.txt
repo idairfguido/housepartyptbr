@@ -1,0 +1,602 @@
+﻿[General]
+Name|Stephanie
+
+[Dialogues]
+0|Oi, estranho! Como você está?
+0.1|Oi, é a Stephanie. E aí?
+0.2|Fique longe de mim ou eu chamo a polícia.
+0.3|Estou com tanto tesão!
+0.4|E aí. Curtindo a festa? Quer curtir outra coisa?
+0.5|Nossa! Hum. Oi. Você está meio pelado. Que legal. Nada mal, devo dizer. Enfim, e aí?
+1|Obrigado! Eu gosto, adoro dançar!
+2|Prazer em te conhecer também. Nossa, eu gosto, AMO essa música!
+3|Ah, Mads e eu nos conhecemos desde o ensino fundamental. Eu não teria passado na aula de matemática se quisesse; ela não teria me deixado colá-la o tempo todo. Pensando bem, eu provavelmente não teria passado em história, ciências ou espanhol também. Dá para acreditar?
+4|Ela é tipo, superinteligente. Se eu pudesse ter copiado ela no ensino fundamental, eu teria sido tipo uma aluna nota 10.
+5|Esta festa está legal, mas eu queria muito saber dançar whip-it.
+6|Isso não foi uma coisa muito legal de se dizer.
+7|Bem, eu fico meio doida com whip-its. Se você gosta dos meus passos de dança agora, você ainda não viu nada!
+8|Ele gosta de mim, ele me assusta. Ele está sempre tão bêbado e sempre olha para os meus peitos quando estou dançando.
+9|Whip-its - ótima descoberta! Alguns podem dizer que a coisa mais maravilhosa da vida é assistir a um lindo pôr do sol, mas para mim, não há nada melhor do que inalar gás comprimido, baby. Isso me faz sentir todo tipo de sensualidade. Mas, falando sério, é só um aperitivo. Quer ver o quão gostosa eu consigo ficar? Traga um pouco de vinho para essa situação. Só de pensar nisso me dá vontade de voltar para a pista de dança.
+9.1|Whip-its, ótima descoberta! Alguns podem dizer que a coisa mais maravilhosa da vida é assistir a um lindo pôr do sol, mas para mim, nada começa a noite melhor do que inalar gás comprimido, baby. Complete com uma boa bebida ou pelo menos boas vibrações, e uhuu! É hora da festa! Agora, falando em...
+10|Obrigada! Fico feliz que você goste dos meus passos. Vi você olhando para a minha bunda. Continue fazendo isso. Me excita.
+11|Sabe de uma coisa? Porra! Vamos tornar essa festa ainda mais divertida!
+12|De jeito nenhum, você encontrou alguma bebida alcoólica? Você é meu herói! Não sobrou muita coisa aqui, mas pelo menos posso brigar! Obrigada!
+13|Boa tentativa, mas eu teria que estar bem bêbado para isso. E pelo jeito que está essa festa, parece que isso não vai acontecer!
+14| 13.1|Nossa, essa é uma ideia bem legal, mas peraí! Eu não sou seu macaco! Se eu for ficar pelado, vai ser MINHA escolha. A menos, claro, que eu tenha gostado um pouco mais de você, mas acho que ainda não chegamos lá.
+14|Você acha que eu não sei disso? Que cara barulhento. Tipo, relaxa, né?
+15|Você está dizendo que a minha dança te deixou de pau duro? Isso é bem excitante.
+16|Ai, merda! Você me arrumou mais vinho? Você é o melhor. Ei, sabia que eu consigo virar uma garrafa inteira em menos de um minuto? Olha só!
+17|Tipo, meu Deus. Estou pirando completamente agora. Esse cara acabou de foder tudo em mim. Argh, e a pista de dança agora está pegajosa!
+18|Uma chicotada é o ato ou processo de inalar óxido nitroso de pequenos recipientes comprimidos ou latas de chantilly para obter um barato momentâneo.
+19|Eu me sinto, tipo, totalmente sério quando se trata de drogas.
+20|Está muito frio aqui. Dancei a noite toda e estou tipo, nem suei um pouco.
+21|Tipo, eu nem acho que ele tem celular. Nunca o vi usar.
+22|Espera aí, o quê? Já é 2017? Acho que eu gosto, perdi minha consulta no dentista.
+22.1|O quê? Tenho certeza de que tem criança na África que não tem celular.
+23|Não, desculpe! Acho que não a conheço.
+24|Estou com um tesão danado!
+25|Espera aí, você é tipo uma prostituta? Claro que é! Eu devia saber! Quanto você cobra?
+26|Nossa! Você é pão-duro! Eu teria pago muito mais que isso! Combinado! Vamos fazer aqui! Não aguento mais esperar!
+27|Nossa, tipo, o que você está fazendo? Sou eu quem te paga, lembra? Vamos fazer do meu jeito.
+28|Tipo, mãos à obra, tá? Paguei um bom dinheiro por isso!
+29|Se eu quisesse pagar alguém para conversar, contrataria um terapeuta. Pare de me distrair!
+30|É isso aí. Era tipo, exatamente o que eu precisava. Você é a melhor prostituta que eu já contratei! Aqui está. Aqui estão seus 50 dólares.
+31|Você está tipo, bêbada?... Ou esses passos de dança são muito ruins?
+32|Bem, depende. O que é um pedido?
+33|Nossa! Eu tenho tudo isso na manga. Minha assinatura é a mais legal!
+34|Ah, eu não gostaria que isso acontecesse. Então minha dança não vai ser como o centro de ascensão ou seja lá como você chama. Tipo, sabe como é que se chama quando você quer que todo mundo olhe para você?
+35|De jeito nenhum! A festa chegou! Você já ouviu essa música antes? Ela nunca cansa! Pedi para a Madison repeti-la a noite toda!
+35.1|A dança vai ter que esperar; estou no meio de algo aqui. Além disso, a melhor música está lá embaixo, não na banheira de hidromassagem.
+35.2|De jeito nenhum! A festa chegou!
+35.3|De jeito nenhum, isso significaria que eu teria que parar de dançar! E se você me conhece, sabe que isso não vai acontecer!
+36|Para onde foi a música? Eu queria saber como funciona essa coisa. Música eletrônica é tããão confusa. Agora preciso fazer a Madison ligar de novo.
+37|Nossa, isso é incrível! A única coisa melhor do que dançar essa música é dançar essa música lá fora!
+37.1|A dança vai ter que esperar, estou no meio de algo aqui.
+38|Ah, Amy! Eu te entendo totalmente, é o pior. Sabe, uma boa maneira de se recuperar de uma pancada no dedo do pé é pegar qualquer analgésico básico e amassá-lo até virar um pó fino. Misture com qualquer tranquilizante para cavalos que você encontrar. Depois, inale o pó com uma nota enrolada, mas certifique-se de que seja maior do que um vinco! Depois disso, você não vai se lembrar da dor! Nem do resto da noite.
+39|Ei, você! Que bom que você viciou o Patrick naqueles analgésicos. Ele ficou reclamando da cabeça a noite toda. Eu estava tentando pensar em como ajudá-lo, e dançar me ajuda a pensar. Agora posso aproveitar a festa de novo. Dançando!
+40|Bem, eu acho. Eu só gosto de fazer as pessoas felizes, e os comprimidos costumam fazer isso. E, caramba, ah, e porra, ENQUANTO tomo os comprimidos. Os comprimidos são simplesmente... muito, muito legais.
+41|É, acho que você tem razão. Eu gosto de ajudar as pessoas. Fazê-las se sentirem melhor. Além disso, o corpo humano é bem fascinante, se você pensar bem. Bem, comecei a pensar em transar de novo agora.
+42|Estudar? Ah, não sei. Estou fazendo todas as coisas gerais agora, só para tirá-las do caminho. Para ser sincero, não sei bem o que quero fazer depois disso. Mas isso é uma festa, então não vou pensar na magnitude da decisão que eventualmente terei que tomar, que, por sua vez, mudará para sempre o rumo da minha vida. Vamos cair fora!
+43|Ah, eu trabalho no Chubbies, aquele bar esportivo com comida gordurosa e, sabe, garçonetes sem camisa.
+44|É, o conselho de saúde nos ODEIA. Eu sempre tento limpar meus seios com aqueles lenços umedecidos químicos, mas sei lá, tem alguma coisa neles que me dá uma coceira horrível. Mas ajuda com os conselhos, porque meus seios também incham bastante.
+45|Ah, acho que de novo. Vou te dar uma dica: não estou lavando louça, e meus seios também estão de fora.
+46|E temos uma vencedora! Então, o que você acha disso?
+47|Você quer dizer tipo médica ou enfermeira? Hmmm, não era bem isso que eu tinha em mente. Médicos não são muito inteligentes? As pessoas sempre me chamam de cabeça de vento, o que é muito estranho para mim, porque cada ser humano consome aproximadamente 550 litros de oxigênio por dia... e é exatamente por isso que bufar é tão engraçado! Mas cabeças de vento não podem ser médicos, eu acho.
+48|Acho que vou pensar nisso, mas estou inclinado a não pensar. Entendo o que você está dizendo e acho que você está certo. Sei muito sobre o corpo humano, pílulas, não overdose ou algo assim, mas simplesmente não acho que a profissão médica seja certa para mim. Vamos lá, vamos voltar e não pensar na quantidade cada vez menor de tempo que tenho para me dedicar a um caminho de vida! Uhuu!
+48.1|É, não. Acho que não. Talvez eu pudesse ter pensado nisso antes, mas agora que estou a caminho da cidade da exclusão, realmente não quero pensar nessa merda. E eu tenho que agradecer a você! Uhuu!
+49|Ai, você viu aquela briga? Foi brutal. Brigar é tão idiota, mas já vi o suficiente para reconhecer uma concussão quando vejo uma. Parece que todo mundo vai ficar bem dessa vez. De volta à dança!
+49.1|Meu Deus, tem tanta briga hoje à noite! Brigar é tão idiota, mas já vi o suficiente para reconhecer uma concussão quando vejo uma. Parece que todo mundo vai ficar bem dessa vez. De volta à dança!
+49.2|Você viu o Frank usar a cabeça como aríete? Isso é uma concussão, sem dúvida. Eu ficaria mais preocupado, mas o Frank quebrou o recorde médico de maior número de concussões que uma pessoa já teve sem morrer. Ele é como o Superman, se o Superman fosse um completo idiota.
+50|Psh, ótimo para você, talvez. Só dá para ouvir as mesmas piadas várias vezes. "Eu pediria o de 30 centímetros, mas já tenho um dur-hur-hur." Mas pelo menos levo para casa uma refeição grátis todas as noites. O que, ironicamente, costuma ser uma longa distância, porque eles são muito bons. E longos.
+51|Nossa, que gentileza sua dizer isso. Como você chama quando todo mundo aprova as escolhas de uma pessoa?
+52|O quê? Não, foi isso que meu pai teve que pagar para minha mãe todo mês depois que eles se divorciaram, porque descobrimos que as viagens de negócios dele eram, na verdade, férias sexuais com a secretária. Enfim, você é um cara legal por ser tão legal a respeito disso. Não é o que eu quero fazer para sempre, mas por enquanto está tudo bem.
+52.1|O quê? Não, foi isso que meu pai teve que pagar para minha mãe todo mês depois que eles se divorciaram, porque descobrimos que as viagens de negócios dele eram, na verdade, férias sexuais com a secretária. Enfim, você é muito gentil por ser legal a respeito disso. Não é o que eu quero fazer para sempre, mas por enquanto está tudo bem.
+53|É, você é muito legal. Como todas aquelas músicas de rap dizem: "Pega isso, pega esse jornal!" Cortar música... isso realmente me toca.
+54|Nossa, eu achei você legal, mas acontece que você é só um idiota. Vai entender! Eu acho você nojento e sei lá o que essa outra palavra diz. Até mais, filho da puta!
+55|Katherine? Ah, não! O que aconteceu com ela? Que tipo de pessoa doente ela é? É aquela coisa do tipo "Comi cogumelos demais e agora as paredes são feitas da cara do Stephen King", tipo "Tentei colocar ácido no verso de selos antigos e agora ela acha que é o Tio Sam"?
+55.1|Ah, não! Que horror... Talvez eu pudesse ajudá-la... mas você me ajudou a me ferrar, e agora eu só quero me ferrar mais! Espero que ela se sinta melhor!
+56|Ei, garota! Obrigada por assistir ao nosso conteúdo alfa. É tudo o que temos por enquanto, mas não se preocupe, tem muito mais a caminho! Ok, tchau!
+57|Longa história - provavelmente é melhor eu ir ver com meus próprios olhos, né? Ela está naquele banheiro ali na esquina?
+58|Preciso ter certeza de que ela está bem! Ela está no banheiro ali na esquina?
+59|Toc. Toc. Oi, Katherine... Como você está se sentindo, querida? Tem alguma coisa que eu possa fazer?
+60|Sério, eu só quero ajudar, Katherine. Me diz o que está te incomodando e eu vejo o que posso fazer.
+61|Acho que estou considerando, mas não sei bem... espera, você disse que eu não posso usar drogas e não posso falar o tempo todo?
+62|Bem, isso tem sido muito frio e tudo, mas vou me foder agora porque a Dra. Stephanie não é a favor dessa vida sóbria. Uh, melhore, Katherine, tchau!
+63|Você! Ela com certeza me levou para a cova dos leões com essa. Quer dizer, claro, eu gosto de ajudar as pessoas, mas abro mão das minhas atividades favoritas para fazer isso... ah, não, de jeito nenhum! É tipo, você está brincando comigo? Nossa, acho que estou tendo um ataque de pânico. Não consigo recuperar o fôlego. Vai buscar alguma coisa para respirar. Rápido, droga!
+63.1|Ah, vou desmaiar... Vou desmaiar...
+63.2|Ah... merda...
+64|Rápido, me dá isso! Sabe, estão dizendo que isso é uma péssima ideia e que a TV e os filmes tornaram isso uma realidade. De qualquer forma, me lembra dos meus dias de bufar e resfolegar, o que está me ajudando muito a me acalmar.
+65|Vou esclarecer que surtei um pouco com a ideia de, bem, limpar. É pedir muito, mas pelo menos eu poderia tentar pelo resto da noite, eu acho. Se não me deixar em pânico de novo, talvez eu esteja certa sobre toda essa conversa sobre a Dra. Stephanie. Certo, vou descer e ver o que posso fazer.
+66|Ei, Kat, voltei. Eu tive um pequeno... colapso, mas estou aqui para ajudar agora. Totalmente dentro. Então me diga, quais são os seus sintomas?
+67|Escute, obrigada por tentar me fazer descobrir meu potencial ou algo assim, mas eu realmente não acho que sirvo para ser uma profissional. Meu gerente na Chubbies diz que eu mostro grande potencial para ser a chefe de garçons sem cabelo... então isso é algo que está acontecendo comigo. Ok, voltando a dançar e ignorando o que poderia ter sido!
+68|Droga! Isso parece a vez em que usei um velho frasco de gota como mata-borrão para meu LSD caseiro! Eu posso consertar isso! Eu posso consertar isso!
+69|Ok, só preciso que você pegue duas coisas: Gut Grip e um copo grande de água. Tipo, muita água. Faça isso e eu estarei aqui. Sem pensar em drogas. Katherine, nossa amiga aqui vai te dar umas coisas que vão te fazer sentir melhor enquanto eu te faço companhia e você não pensa em drogas, ok?
+69.1|Ah, você já deve estar procurando! Que ambiciosa! Só que eu não estou pedindo para você ficar com a Molly e cruzar o caminho com... espera, é esse o termo certo? Tanto faz. Preciso de Gut Grip e um copo grande de água. Katherine, nossa amiga vai voltar logo. Eu te faço companhia, ok?
+70|Ah! Ah! Ei, amigão, estamos só garantindo o nosso último ingrediente. Me dá o que você tem e eu já volto. Te vejo lá embaixo. Cara.
+71|Ok, obrigado. Te vejo lá... Tchau.
+72|Vou pegar o último ingrediente, droga! Eu já disse isso. Vai lá embaixo, não posso trabalhar com você olhando por cima do meu ombro.
+73|Stephanie, você deveria ser médica. Stephanie, Katherine não para de cagar nas calças. Stephanie, você está estranha. Você não vai parar, né? Desça logo.
+74|Ok, Doutora Stephanie, ela só vai dar uma fungada e depois vai salvar o dia. Uma fungadazinha para acertar. Depois talvez outra.
+74.1|*Você consegue ouvir a Stephanie dizendo algo para si mesma, mas está muito longe. Parece que ela vai descer logo.*
+75|Ack! Ei! Pare! NÃO pegue meu saco de papel. Esse é o MEU saco de papel; você me deu, então é meu!
+76|Ok, desculpe, ok? Fiquei com muito medo, então voltei aqui para fungar. Desculpe, mas o saco que você me deu era perfeito. O jeito que se mistura com gordura de hambúrguer velho... Tô te dizendo, é ótimo... Quer tentar comigo?
+77|Eu sei, eu sei! Erro meu. Terminei isso DE VEZ. Vamos, vamos ajudar a Katherine.
+77.1|Você tem razão, essa é a coisa certa a se fazer. Vamos, vamos ajudar a Katherine.
+78|Sério? Incrível, você vai adorar. Aqui está a sacola. É só levar aos lábios, se surpreender e ver um mundo totalmente novo onde os problemas não existem!
+79|Ah, isso não é bom! Não acredito que você me enganou...
+80|Estou tão feliz por ter ajudado! Nunca pensei, nem em um milhão de anos, que encontraria algo em que fosse tão bom. Mas, pensando bem, um milhão de anos atrás, Cristóvão Colombo provavelmente nunca pensou que chegaria à América. A gente nunca sabe como é a vida!
+81|Estou tão impressionada com o quão bem funcionou! Você é como o conselheiro que eu nunca tive... porque o Sr. Faygan foi preso por organizar brigas de galo na academia. Amanhã vou conversar com meu conselheiro sobre como posso entrar no caminho certo para a faculdade de medicina.
+82|Sim, é muito emocionante! Mas hoje à noite... hoje à noite acho que gostaria de te dar uma aula de anatomia. Não tenha pressa e me avise quando estiver livre... talvez possamos ir encontrar um lugar agradável e tranquilo. Não quero interrupções na nossa aula.
+83|Você me ajudou a descobrir que cérebro eu tinha, então eu quero te foder até a morte. No entanto, isso não é possível porque o sexo é feito por... bem, vamos visualizá-lo.
+84|Mostre o caminho. Encontre-me em algum lugar tranquilo.
+85|Ahhhh, as endorfinas estão bombando... Eu estou... bem. Ok, vamos descer e fazer algumas coisas de médico.
+85|Ahhhh, as endorfinas estão bombando... Eu estou... bem. Ok, vamos descer e fazer algumas coisas de médico. 86|Estou bem, estou bem.
+87|Ei, Katherine, aqui é a Stephanie de novo, daquela vez. Estamos aqui para... te dar um jeito. Trouxe o melhor médico da cidade comigo. O nome dele é... o Huffassauro Rex!
+88|O Huffassauro Rex quer ficar mais alto!
+89|Ei, amigos. Estou aqui para salvar o dia, porque sou médica. Como foi previsto quando fui selecionada para minha casa mágica... Lufa-Lufa. Entenderam? Huff-Lepufa.
+90|Sim, sim, estou. Subi as escadas, encontrei um monte de tinta e coloquei neste saco que você me deu, e deixa eu te contar, gordura de hambúrguer e tinta são muito sólidas.
+91|Ahhh, olha como ficou bonito ali! Vou lá fora tentar fazer uma constelação que se pareça com o Danny Devito. Boa sorte com a sua bunda, Katherine!
+92|Eca, que nojo. Você sabe que eu trabalho naquele lugar, né? Eu não confiaria na comida deles. Já vi as pessoas que cozinham essas coisas, e eles são melhor descritos como uns idiotas gordurosos com mandados. Mas vendem muito bem!
+93|Ei, ainda estou sóbrio. Juro. Eu nem pensei em como isso é incrível, nem uma vez.
+93.1|Ei, ei. A Katherine disse que queria um pouco de espaço, então eu dei espaço a ela. Sabe? É. Inverta a cama. Fique o mais longe possível do paciente.
+93.2|Deite logo!
+94|Ah, qual é, você sabe, Gut Grip. Você não viu os comerciais? "Livre-se da merda com Gut Grip!" Aposto que a Madison tem um por aqui em algum lugar.
+95|Não sei. Parece estranho uma casa não ter copos. Talvez a Madison tenha guardado copos para aquele jogo enorme de beer pong! Mas eu não pegaria. Use qualquer coisa que possa conter bastante água.
+96|A água está em todo lugar. Está em todo lugar. Eles até colocam em peitos falsos! Encontre um pouco e encha uma garrafa. Temos uma vida inteira de sobra aqui!
+97|Certo? Pode ir agora. Ordens médicas.
+98|Vamos lá!
+99|Humm, não estamos realmente sozinhos aqui. Eu gostaria de um lugar mais privado, ok?
+99.1|Agora, este é um lugar chique. Vamos começar sua aula muito especial?
+100|A aula 1 é bem simples. Estes aqui são meus peitos incríveis. Peitos são incríveis, mas os meus são realmente incríveis.
+101|Para a aula 2, vou precisar de um recurso visual. Embora tenha muitos nomes, meu favorito é "pinga". Você tem alguma que eu possa ver?
+101.1|Para a aula 2, vou precisar de um recurso visual. Embora tenha muitos nomes, o meu favorito é "vagina". Você tem algum que eu possa dar uma olhada?
+102|Um belo exemplar. Da variedade não circunscrita, eu acho. Agora, para a aula 3... ah, que se dane, não posso ir à cidade agora.
+102.1|Hmm, sim, os pequenos lábios estão com um tom rosa perfeito. Seu clitóris parece inchado e MUITO ansioso para ser estimulado. Agora, para a aula 3... ah, que se dane, não consigo mais ficar longe de você.
+103|Que bom que você ganhou estrelas douradas! Me avise se quiser outra aula.
+104|Eu deveria estar quase seca...
+105|Vamos lá, agora não é hora!
+105.1|Meu Deus, agora você me fez pensar em sexo, cansei!
+105.2|Pelo menos vamos para um lugar privado...
+105.3|*Através dos dentes lascados* Olha o seu pau! Aqui está!
+105.4|*Através dos dentes lascados* Olha os seus peitos! Mas eles são grandes e sensuais!
+106|Ah, valeu! Continue assim. Obrigada pelo link. Tive um dia bem ruim, então essa bebida é exatamente o que eu preciso.
+107|Claro que sim, sexo oral, a gente se diverte e caga. Me ajuda a esquecer aquele trabalho de merda que eu tenho. Embora eu talvez queira ir mais devagar. Não só fico super excitada quando estou bêbada, como também costumo fazer coisas das quais me arrependo no dia seguinte. Heh, acho que essas coisas andam juntas, agora que penso nisso.
+108|Acho que você não entende quanta merda eu tenho que passar naquele lugar. É uma bagunça! Aquelas danças idiotas que eles nos fazem fazer, e foda-se o MORT!
+109|Ah, heh, não pensei que você pudesse pegar tudo tão rápido. Por que você está andando por aí com remédio para diarreia? Espera, este frasco está vazio. Ah, eu vou encher rapidinho, sem problemas! É, não deve demorar nem um segundo nem um minuto.
+109.1|Ah, heh, não pensei que você pudesse pegar tudo tão rápido. Por que você está andando por aí com remédio para diarreia? Tá bom, esqueci que tem outro ingrediente muito, muito importante nessa mistura. Então agora fique aqui e fique numa boa postura enquanto eu pego o último ingrediente vital.
+110|Eu odeio aquele lugar. Foda-se a Chubbies, foda-se meu empresário gordo, foda-se meus peitos o dia todo - EU ACHEI MOSTARDA NOS MEUS PEITOS SEMANA PASSADA! Aquele lugar é uma PORCARIA!
+111|Porra, sim, eu deveria. Vou ligar para o Mort agora mesmo e... e não sei o que vou dizer, mas quando eu terminar com ele, ele vai ter lágrimas escorrendo pela cara! Cadê meu celular? Porra, perdi meu celular. E minhas chaves, porra!
+111.1|Não vale a pena! Vou ligar para o Mort agora mesmo e... e não sei o que vou dizer, mas quando eu terminar com ele, ele vai ter lágrimas escorrendo pela cara! Cadê meu celular? Porra, perdi meu celular. E minhas chaves, porra!
+112|Katherine, eu preciso disso.
+113|Shh - só SHHHH! Feche esses seus lindos lábios.
+114|*Ao telefone* Mort, aqui é Stephanie... Sim, esse é meu nome verdadeiro, não "Tits O'houlihan". Esse apelido é uma merda, aliás. Eu nem sou francês, seu idiota!... Não, eu não vou me acalmar. Aliás, estou ligando para dizer que estou saindo, entendeu? Você nunca mais vai ver esses peitos!
+115|*Ao telefone* O que eu vou fazer? O que eu quiser. Sou jovem e tenho dois créditos universitários, meu Deus! Meu pai é dono de uma loja de ferragens! Eu posso fazer qualquer coisa. Aliás, vou ser médica. Vou estudar cérebros e corações e abrir uma instituição de caridade onde faço os menores peitos para mulheres superdesenvolvidas em países subdesenvolvidos... como em Cleveland! Então, caia fora e dane-se o Chubbies' Bar and Grill. Até nunca mais, Mort! A não ser quando eu for receber meu último salário.
+116|Eu consegui! Estou no topo do mundo! Uau! Vou nadar pelada!
+117|É só o meu trabalho idiota. Não quero estragar a sua noite falando dessa merda. É que eu trabalho no Chubbies, aquele bar esportivo com garçonetes sem camisa, e duvido que precise explicar mais alguma coisa. Hoje eu tinha um grupo de 12 caras, cada um com sua própria piada sobre peitos e pés de frango. Enfim, muita maconha para beber!
+117.1|Argh, é só o meu trabalho idiota. Não quero estragar a sua noite falando dessa merda. É que, sabe que eu te contei que trabalho no Chubbies? Hoje eu tinha um cara, cada um com sua própria piada sobre peitos e pés de frango. Enfim, muita maconha para beber!
+118|Quer dizer, além de trabalhar sem camisa? Tirando isso, a pior parte é o Mort. Ele é o troll das cavernas que é o gerente, que faz inspeções diárias dos nossos peitos de moto. Ele diz que é política da empresa, mas eu tenho minhas dúvidas.
+118.1|Quer dizer, além de trabalhar sem camisa? Eu sei que vou deixar as meninas saírem agora, mas é diferente quando você está cercada por pais assexuais tentando seduzir. Mas a pior parte é o Mort. Ele é o troll das cavernas que é o gerente e faz inspeções diárias dos nossos peitos de moto. Ele diz que é política da empresa, mas eu tenho minhas dúvidas.
+119|E VOCÊ nem sentiu o cheiro. Não quero mais pensar naquele cara, obrigada pela bebida.
+120|Estou falando do Chubbies. Quanto mais eu bebo, mais percebo que sou muito melhor do que aquele lugar. Mas eu preciso do dinheiro. Os peitos, quer dizer, as gorjetas de lá, são incríveis pra caramba.
+121|*Falando com os dentes quebrados* Eu escorreguei e caí e agora minha boca está doendo.
+122|Ai, tem algo se revirando no meu estômago. Muito ruim.
+123| 123|As estrelas são tão bonitas! Deixe-me ficar aqui mais um pouco.
+124|Ah! É muita coisa de uma vez! Obrigada, mas preciso manter pelo menos uma mão aberta. Se tem uma coisa que trabalhar na Chubbies me ensinou, é sempre ter uma mão pronta para dar um tapa em um babaca tentando agarrar sua bunda. Tenta de novo em um segundo.
+124.1|Preciso ir mais devagar ou vou para a cidade da exclusão. Eu quero ir para lá... só me dá um minuto.
+125|Obrigada, mas preciso encontrar meu caminho para a banheira de hidromassagem agora mesmo.
+126|Ah, é, querida. Alguém me disse uma vez que o mundo ia--
+127|Ah, é... foi bem triste! Aquele porta-retrato um pouco perto da adega... ela o pegou e ficou com os olhos marejados. Ele disse que costumava ser o gato dele, mas deu de presente para a Madison, mas ele fugiu. História triste, né? Ah, bom, vamos voltar a dançar!
+128|Ahhh, o que é que você tem nesse seu palito de papagaio-do-mar? THC? DMT? OPP, você me conhece? Ah, só nicotina? Que patético.
+129|Nossa, que diabos você está fazendo? Acha que só porque eu sou "a garota que dança" e estou fedendo a problemas de abuso de substâncias, você pode colocar suas mãos imundas em mim? De jeito nenhum!
+129.1|Ei, você está acabando com a minha vibe, babaca. Você tem sorte de eu amar tanto dançar... porque se não amar, BOOM, eu vou colocar meu pé na sua bunda... liberalmente.
+129.2|Ei! Mãos para você até a aula começar! Meu Deus, que aluna ansiosa você é!
+130|É, e DEPOIS Ashley vê Derek uivando por causa daquela foto de gatinho e ELA surta. Ela corre para fora e começa a chorar perto da banheira de hidromassagem como se estivesse em cima do túmulo do seu falecido sugar daddy. Pessoalmente, eu gosto de ver o lado pessoal de um cara, mas tem algo em ver o Derek chorando pelo seu gato... simplesmente a pegou.
+130.1|É, e DEPOIS disso, a Ashley vê o Derek uivando por causa daquela foto do gatinho e ELA surta. Ela corre para cá e começa a chorar tipo ali, bem em cima daquela terra. Era como se ela estivesse em cima do túmulo do seu falecido sugar daddy. Pessoalmente, eu gosto de ver o lado pessoal de um cara, mas tem algo em ver o Derek chorando pelo seu gato... simplesmente a pegou.
+131|Sabe, as pessoas acham que eu sou burra, mas eu sou super atenciosa. Quer dizer, você ouviu tudo o que eu acabei de dizer? Acho que mereço uma boa dose de alguma coisa, não acha? VAMOS DAR UMA VOLTA NESSA ESTRADA NEVADA, CARA!
+131.1|Sabe, as pessoas acham que sou burra, mas não sabem que vou ser médica! E todos os médicos são superobservadores como eu! ...A não ser que tenham seu próprio programa de TV. Acho que eles só usam isso como "credencial" para ganhar fama e fortuna, capitalizando os outros em um momento vulnerável da vida. Filhote, cada um com o seu gosto! Hora de dançar a noite toda!
+132|Ooooh sim, sim, por que... ah merda... tão natural! Você está... aprendendo tão rápido.
+132.1|É, é! Ah, é? Gostaria de fazer uma mudança no currículo de hoje... uh... uh?
+132.2|Mmmff, você está bem informada?
+132.3|Você está... aprendendo rápido demais!
+133|Ok, desculpe! Eu não estava julgando mesmo... puritana.
+132.1|É, é! Ah, é? 134|Não sei bem se você sabe do que está falando ou se está só misturando as palavras. Tá, eu vivo esses sentimentos! Mas não estou convencida. Sabe o que convence? Esses passos, querida!
+134.1|Argh, você esqueceu... "companhia: merda." Você foi um babaca comigo antes e agora quer que eu vá com você? Uh-uh, isso é tipo... um baita esboço.
+134.2|Acho que posso dar uma pausa na dança por alguns minutos. Aonde você quer ir?
+135|Ah, não, que pena. Mas eu tenho que seguir o código da "Doutora Stephanie". Primeiro, não faça mal. Segundo, não ajude nenhum babaca.
+135.1|Ah, não! Outra emergência hoje à noite? Quem precisa de mim e como posso ajudar?
+136|Ok, não sei quem precisa ouvir isso... mas bolas enormes NÃO são excitantes. Se você não acha que precisa de ajuda médica, então é meu dever como aspirante a médico seguir os padrões e recomendações médicas estabelecidos pela CIA e pela AARP, e minhas ordens seriam não me envolver. Ou pelo menos acho que é assim que tudo funciona. Mas se você cair em si e quiser fazer um check-up, me avise! Ok, tchau!
+137|Bem, estou tentado a dizer não... mas isso pode ser divertido. E pode me fazer esquecer o idiota que você foi esta noite. Ok... eu faço isso. Vou abalar o mundo dele! Meu amigo da Chubbies acabou de me ensinar alguns movimentos novos, e eu estou tipo... morrendo de vontade de experimentá-los!
+137.1|Oooh, isso parece divertido. Obrigada por me avisar. Vou abalar o mundo dele! Minha amiga da Chubbies acabou de me ensinar uns passos novos, e eu tô tipo... morrendo de vontade de experimentar!
+138|Prepare-se, Frank! Vou te dar a lap dance da sua vida! Garanto que você nunca viu esses passos antes!
+138.1|Hum, tipo, qual é o seu problema? Você é o cara menos interessado em quem eu já fiz uma lap dance. Espera aí, você tá babando? ... Argh, eu te alcanço depois.
+139|Nossa, espera aí. Tipo, o que é isso? Tem algo estranho e... tipo... enorme na sua calça, e com certeza não é o seu pênis!
+140|Uhhh, pensando bem, acho que vou voltar a dançar. Acho que você já se emocionou o suficiente por enquanto. Tenho medo que uma dessas coisas exploda. Aliás, você devia consultar um médico!
+141|Hum. Não vou te ensinar nada. Você é meio idiota. Talvez eu peça para outra pessoa ensiná-lo a não ser um babaca e depois volte quando ele descobrir. Ok, tchau!
+141.1|Quer dizer, eu entendo que tivemos uma espécie de conexão esta noite, mas esses movimentos são como meus segredos profissionais. Eu teria que confiar muito, muito em você para manter as coisas assim. Mas não vou dizer não. Vou pensar sobre isso.
+141.2|Quer saber? Foda-se. Você parece ótimo. Claro, vou te ensinar alguns movimentos matadores. Observe e aprenda.
+141.3|Hmm... então você precisa de algo rápido e sujo para realmente impressionar as pessoas, né? Sorte sua que rápido e sujo é minha especialidade. Claro, eu posso ajudar! Aqui está o que você faz...
+142|Então, primeiro, certifique-se de apertar as nádegas. Dobre os joelhos levemente e tente não travá-los. Depois, finja que tem um esquilo raivoso dentro das suas calças. Mexa os quadris como se estivesse tentando evitar que ele se enrole dentro da sua bunda. Por fim, imagine que está escuro como breu e você está tentando atravessar uma sala cheia de zumbis pelados. Ou você pode acabar com um punhado de restos de carne podre, ou pode ter a mão arrancada com uma mordida. Enfim, mexa os braços de acordo. É, isso resolve! É tudo uma questão de como você explica as coisas. Vá em frente, tente!
+142.1|Só observe e me copie! Você não pode errar com esse movimento!
+143|Certo. Minha verdadeira paixão, no entanto, é lap dance. Era o que eu costumava fazer antes do último clube de cavalheiros desta cidade fechar, então... Gordinhas, eu acho. Eu costumava dar as melhores lap dances, e as pessoas vinham de longe só para me ver dançar! Às vezes me pergunto por que desisti de algo em que tinha tanto potencial só para ir para uma faculdade idiota. Ah, ótimo. Volte a dançar!
+143.1|Sério? Eu preferia estar fazendo isso agora do que falando com você. Aliás, eu preferiria dar uma lap dance para um dos frequentadores pervertidos e desdentados do Chubbies do que continuar essa conversa. Agora me deixe em paz para eu poder voltar ao meu ritmo!
+144|Ooph, eu adoraria, mas até os melhores professores precisam de uma pequena pausa entre as aulas. Isso e uma maçã. Na verdade, só uma pausa... Eu não confio no que tem na geladeira da Madison. A aula volta em instantes, minha preciosa aluna! Até lá!
+145|Vicky! Eu gosto, eu amo o seu trabalho! E quer dizer, normalmente eu amo sexo e ficaria totalmente deprimida, mas não vou fazer nada com a sua amiga envolvida. Sim, estou falando com você! Você me irritou tantas vezes esta noite que duvido que algum dia consiga descobrir o jeito CERTO de me acariciar. Meu Deus, acabei de fazer uma piada engraçada e deixei o microfone cair em você! Meu Deus, preciso escrever o que acabei de dizer, porque não tenho muitos momentos assim. Meu Deus, o que foi que eu acabei de dizer? Argh!
+146|Puta merda, essa é uma daquelas situações em que eu deveria ser um adulto responsável e pesar os prós e os contras das minhas escolhas? Vamos ver. Os prós são... sexo. Os contras são... hm, não consigo pensar em nenhum contra. Acho que isso significa que sou toda sua. Onde estamos fazendo isso?
+146.1|Nossa, já estava na hora! Esse babaca me convenceu a fazer topless tipo... faz tempo, e ele nem se ofereceu para me comer ainda. Que provocação! Que bom que você finalmente se apresentou e mostrou a ele o erro dos seus métodos. Eeeee... dois por um! Eu gosto e... mostre o caminho!
+147|Nossa. Hum. Oi. Normalmente adoro ver as pessoas nuas, mas você é um estraga-prazeres. Embora eu tenha que dizer... não é ruim.
+148|Nossa, eles continuam vindo, não é? Na verdade, acho que estou esgotado por hoje à noite. Se eu ficar mais louco do que isso, nunca vou conseguir esses giros, e se eu não conseguir esses giros... bem, imagine como todos os outros vão ficar decepcionados!
+148.1|Nossa, você é muito agressivo, além de babaca. Me deixa em paz. Já chega por hoje.
+149|Nossa, que legal da sua parte oferecer, mas se eu vou fazer esse negócio de médica que eu gosto, preciso me concentrar! URRA-URRA-URRA, DOUTORA STEPHANIE AO SEU SERVIÇO!
+149.1|Aff, já pode ir embora? A Dra. Stephanie não tem tempo para suas travessuras. Estou totalmente focada no futuro que NÃO inclui você! URRA-URRA-URRA, DOUTORA STEPHANIE, SAIA DAQUI!
+150|Ooooh, parece delicioso! Você é como um presente que vai continuar dando... ou... algo assim.
+150.1|Nossa. Você encontrou alguma bebida alcoólica? Incrível que VOCÊ tenha conseguido escrever isso, sendo tão... chato e tudo mais.
+151|Nossa, hum... Agradeço o sentimento, mas já tive alguns encontros com bebidas de aparência suspeita, e o que você tem aí... é. Essa merda é suspeita pra caramba. Valeu, mas não, obrigado!
+152|Mas espera! Todo mundo sabe a primeira regra para uma última bebedeira bem-sucedida. Começar a noite com um inalante! Se eu vou beber álcool, preciso ficar com o tipo certo de bebedeira primeiro. Mixers são os meus favoritos. Você por acaso trouxe latas de chantilly hoje à noite? Eu não costumo sair de casa sem elas, mas vim direto do trabalho.
+153|Ela, tipo, perguntou por mim especificamente? Nossa, sabe que eu estava pensando, tipo, a gente se distanciou desde que eu costumava ficar com ela o tempo todo na escola. Ela provavelmente está sentindo isso também. Que fofo! Deixa eu terminar essa música e depois eu subo lá.
+154|Oooh, Madison, que peitos lindos! Você passaria no teste de peitos na parede no Chubbie's! Aliás, se você quiser mostrar esses peitos na pista de dança, eu topo, garota!
+154| 154.1|Ah, Madison! Que peitos lindos! A gente tá, tipo, se revezando na cama? Porque eu chamo as vizinhas!
+155|Ah, merda! Isso, tipo, parece ser o meu tipo de coisa. Pode contar comigo.
+156|Brittney? Eu não a vi, mas se você vir, manda ela dançar comigo! Ou com QUALQUER pessoa, aliás!
+157|Na verdade, não falei com ela, mas tenho quase certeza de que ela ainda está obcecada pela cidade natal. Acho que ela gosta, ela tem uma bagagem bem pesada com isso. Ela disse algo sobre nunca mais querer ver o pau e que tem cheiro de tangerina mofada... Ah, e ela disse que odeia os bem pequenos. Espera, ela estava falando do pau do Patrick ou dos status? Porque isso foi logo depois que ela se exibiu para a gente. Bem, provavelmente não é importante. Volta a dançar!
+158|Ahhhh, eu adoro jogos de adivinhação! Mmm... vamos ver. A paixão da Brittney? É... sou eu? Tem que ser eu, né? Quer dizer, eu sou obviamente a melhor dançarina aqui, e dessa vez eu gosto. Pedi um isqueiro emprestado para a Brittney, e ela disse que não fuma... Você sabe o que eu queria dizer, né? Exatamente! Ela não gosta de pinto! E, tipo, por que ela me diria isso? Sabe? Espera aí, qual era a pergunta mesmo?
+
+[Responses]
+324bc6cd-c453-41c2-ac6b-eabbd6bcdd20|Espere aí, minha capacidade de aprender está diretamente ligada aos meus rins, e eles precisam de uma pausa.
+5f79f143-7992-433e-aa37-62096e031ee1|Mostre-me o que você tem. (POV)
+ef6ceb5a-0cc2-4ee2-8b1d-ee9a3b3f8cf2|Eu sou mais um aprendiz de idiomas. Deite-se.
+01d0f9c3-2c82-4a09-8173-ea196e724327|Deite-se e observe minha anatomia mais de perto.
+eb00fef7-969b-4f65-903b-69657dcc53b5|Sra. Stephanie, acho que esta lição merece um... toque pessoal.
+64da9ad6-1629-4837-8be3-3eb368304ef1|"Já ouvi falar de uma técnica chamada '69'. Você pode me ensinar como funciona?"
+8ae6e8d0-662f-48c1-823a-28091a39872d|Sra. Stephanie, preciso de acesso mais fácil aos seus... materiais escolares. Vou só pegar estes...
+55b76fbb-75e1-4bd5-a348-1a69d4c2e7ed|Ahhh, merda. Professora... quente demais para mim! Não consigo me conter...
+26b134a3-bded-409b-93af-3e6510a245c0|Não importa, ainda tenho muito que aprender...
+23ea47db-5f98-45bd-9a8a-d44073797a28|Meu cinto de castidade e eu vamos pular. Tchau, Stephanie.
+3be390f2-e25a-48de-be83-e288b33946d3|Para o armário de bebidas!
+8379d05a-0dc4-4f9a-a5c7-d335f45fe6d4|Para a garagem!
+8920a1b6-3f86-49e7-906f-f935a1b5c57f|Fogueira, aí vamos nós!
+740e2e1b-af1b-471e-91c5-7ee75721f6ee|Ah, espere aí, preciso limpar o espaço rapidinho! Já volto.
+c316d7c5-6a66-4c0f-8c06-4efc3a3b5608|Agora mesmo. Ok, até mais.
+54ca1fee-e0ad-4031-ab9b-bed94c781a4f|Dane-se seus princípios sensatos! Ok, ok...
+be3e748b-1307-4085-9550-a8524b37796d|É o Frank! As bolas dele estão inchadas. Rápido, rápido, dá uma olhada!
+313ae940-932d-4471-83ce-fa204898152e|Me mostre!
+344680c8-12b6-438a-94cc-2aee9ff0cd97|Legal! Certifique-se de realmente triturar aquele careca. Ele teve um longo dia...
+553a667e-d5fe-4095-922c-83239c4c17ec|*Continuar*
+2037cb59-c962-4959-a5a0-ceebc24ec40c|Merda...
+11168da2-58d7-446c-a549-2b1f768cacca|*Continuar*
+57b16237-f32e-4ace-9ba6-58cccd2fe9de|*Continuar*
+bd9916b2-bb09-4165-bb0a-0beae164ded6|Droga, está tudo bem então.
+2b38eadb-1389-4ee5-af62-af765adad613|Legal! Você tem toda a minha atenção.
+d718ecb8-b4d3-4407-9d58-02488ed679e3|Isso é... ótimo. Obrigada, Steph!
+be00e5d6-a45f-42d9-a7e7-25e6870c8c7d|Você realmente adora os prazeres simples. Mais tarde, então.
+1ceaff1c-3e47-4d56-abe6-4c89cce01cc4|Claro que sim!
+22dc343f-8f24-4493-b783-104edc8b7840|Bem, eu não sei o que eu esperava...
+b1237d49-389a-4a71-b8ab-3f144ed53053|Adorei o entusiasmo!
+a5019e90-fe6c-4706-a3e6-5032c0599e56|Faz sentido...
+271cd869-0ef5-4fa6-954e-147552302ca1|Acho que médicos não dirigem ambulâncias, mas tudo bem.
+841cbcd4-95b3-40ce-b54f-6b2b0a4ccbaf|Uuhhhhh-huh. Bem...
+305a9a8f-7f0a-4234-9bfe-8674614c5c67|Vamos ver se consigo encontrar algo diferente então.
+3055067a-eb4c-442d-b561-e08239ed257a|Droga. Eu sabia que estava esquecendo de algo. Que boba eu sou, vou dar uma olhada...
+4f213c88-67de-4ee3-91a2-922f704b5b13|Ótimo, obrigada Stephanie!
+be56975f-2e2f-4935-8295-8a5afe2dc60f|*Pegadinha bem-sucedida!*
+3a9e00ba-1c45-4bbb-b1c6-64f106cf6dd5|*Continuar*
+0216e1f4-fd40-4762-885c-7a2431ef386e|Vai ser uma explosão.
+4618d64f-a632-4364-8a45-c11aa4b0895c|Vou contar a ele, obrigada Stephanie.
+e9546911-8f17-475f-9880-ada98bcf7741|Obrigada, Stephanie.
+4716973a-234b-4d19-a05c-f25fefc053de|Você está livre! Steph, você precisa experimentar este lugar privilegiado para dançar. Acústica: lit. Ambiente: ...mais uh, lit.
+3479084d-5654-4a31-81c8-e4d575afc698|Dra. Stephanie, rápido, preciso da sua ajuda com uma emergência médica! Agora mesmo!
+3ce9e21e-8343-40b7-ab49-c35930a51585|Você mencionou lap dance antes... Frank nunca fez uma! Quer ser o primeiro?
+86afe2c1-67c7-49bb-a39c-a1187a4a3e84|Steph, preciso levar minha dança para o próximo nível... você tem algum conselho para mim?
+68b76fcc-2bf8-417f-8794-8b2827f25ec2|Estou em uma competição de dança e vou ser arrasada lá! Stephanie, você é minha única esperança!
+57444a62-8d78-4e7d-93fb-5bd1cceab307|Madison disse que precisava de você quando tivesse um tempinho. Ela está lá em cima, no quarto dela.
+6cbf5611-472d-47c0-869e-8343bbc97377|Há uma competição de arte e dança lá em cima, no quarto principal.
+b1b13014-659e-4af3-a79c-c2237d95708e|Você sabe onde está a Brittney?
+3cb096e0-ccc3-426c-ac9d-d9cd35eb85c9|Você sabe alguma coisa sobre a Amy?
+bd83e5c4-a7a7-4be9-94fe-55596415c5f3|Alguma ideia de quem a Brittney está a fim?
+c66be4fc-64e8-47a1-a7f0-cadcdd7ce05f|Então... garçonete de topless. O que é isso?
+147d229d-9585-4788-8b2a-e924a24abc3b|Whip-its? Você está na terceira série?
+c393da1b-08b7-46f9-b238-61b9fbf4d34f|Hmm. Vou ver o que posso fazer. O que eu ganho com isso?
+b3ca046a-02a3-4e16-ab0f-de0cb405a9ee|Foi mal.
+7d3f1745-645f-4896-9822-9e60a0f58aaf|Não posso dizer que culpo o cara, mas sim, entendi o que você quer dizer.
+554ce4eb-2d90-4937-85c6-78e021f2ebb1|Bom saber, Stephanie. Bom saber.
+28ef699b-b316-4417-b0a7-b76d953e7c35|Eu apoio esse esforço.
+c30b4fc2-4f33-4b74-aa6d-1edbed441327|Sem palavras!
+b480133c-1a01-4101-8965-c4dea0fe4710|Feliz em atender!
+e2b11b68-4b32-4678-971e-cb12fa26136d|Talvez você devesse ir com calma... ah, deixa pra lá.
+aa273070-c9a1-44f6-b170-a37a0e8623dc|Sua dança mexe com os homens...
+f83b26df-bc72-49dd-b6e1-50291f169548|Hã. Certo. Essa resposta não pareceu típica sua.
+5f91914b-7c4d-42c7-808e-b4a91b8343c5|Seja sincera, você é só o Peter North e seu fardo intelectual da noite, não é?
+81de3d93-dbd1-4672-bee5-9fc365f406d7|Estamos em 2017. Todo mundo tem um celular, Stephanie.
+d322875d-fd2a-42a0-b9fa-b58fc06c9790|O... Eu... bem, não posso dizer que estou surpresa com essa resposta. Sabe, eu costumo cobrar pelas minhas apresentações de ouro...
+50ff4c0c-c5fc-4399-9efc-aa6a34507150|Que diabos? Não, eu não sou prostituta! Como você ousa!
+50667022-a61b-4129-be0a-1dfacff6788e|Hum. Que bom, vou te oferecer um desconto. R$ 50,00
+a1b75925-bbec-4ae7-83a7-53ecd03a01f0|Não sei se me sinto bem ou mal com isso...
+98189443-b55b-4c38-9f87-9d95d4450bff|Acho que não esperava que fosse tão fácil...
+3cb827ba-7f83-4291-b76f-325937223080|Acho que essa não é a pior maneira de ganhar R$ 50,00...
+1a0bc54b-a5df-46b2-a942-a3b841af7cee|Mrph ermf mmmp eramanguph!
+e09e958c-e2b3-4ac5-a128-bf725ed58fd8|Eu também faço casamentos e bar mitzvahs.
+25d318fd-3564-4e55-b353-6f0192d51745|Hum... nós dois?
+a5cc50cc-51f2-4e71-ba33-b2f55346e66c|Ah, é só um concurso de assinaturas. As melhores assinaturas ganham.
+0167950c-5651-4f80-a331-6859844575ae|Se você assinar, o Derek tira a camisa.
+f2527f70-a5bd-493b-accf-b8d46748faa3|Tenho certeza de que é verdade. Te aviso se você ganhar.
+bfad2150-6aae-4a7a-9206-3286b5f19481|Atenção. Obrigada mesmo assim, Stephanie.
+0a0eed26-2089-416e-9559-ef802852431f|*Continuar*
+f742a2f9-9fef-4d19-9e90-cfcbfdc61da0|Sinto exatamente o mesmo.
+50c3e4be-2e75-4729-b225-52c47c8f21f0|Ah, sim, estamos ajudando a Kat!
+a1edccec-9e92-4a9b-afd8-f86fc778176f|*Escute*
+77836cbc-a89c-4d75-af94-bcbfb3bae930|Tem que ter mais do que isso.
+08baf6a2-ab15-41ad-b4b6-a0e0960e4de2|E você é cozinheiro, imagino?
+ecdf9d82-cde2-4776-a89a-37a9f30c2247|É... aquele lugar é ótimo!
+0a7e5572-e809-44ae-b670-fe2120c09e14|Isso parece anti-higiênico.
+8a7b3d54-c025-40f1-bb0f-248d9a6a9420|Ah. Você é uma das garçonetes.
+1626a4ac-345a-41af-82f2-bf638473c36a|Acho que se você gosta de fazer isso, então todo o poder para você.
+b1a94f3a-728e-4a57-a4c6-ee5fa1892c2a|Acho nojento e degradante.
+c9456506-b93c-4506-bd33-fe45041ce0fc|Todo mundo tem que pagar.
+12921248-bfdd-4777-a44f-8650d5e2ae61|Entendeu o que eu quis dizer? Você vai ficar em perfeita forma!
+1041bbae-ab62-4f03-a43c-370575ff7a8f|Hmmm, tudo bem.
+f7f2a13d-2950-4f58-9dbf-df76f2fd9d9d|Muito bem.
+0d2ec73b-8ae1-49aa-bee1-8bcd965bc231|Apoia?
+429fafe4-3072-4b1d-a5c2-622be335a7a6|É, parece que você realmente entende do assunto...
+471f26a5-07a9-45c8-a98f-cf03d29ac755|Ah, tchau.
+66c54e6f-db79-47bc-99af-819e42eabc7b|O quê? Por que essas são suas primeiras suposições?
+07fb328d-cd47-420d-b7d8-b0bf0bc85226|Nenhuma - ela bebeu algo que está fazendo ela se sentir mal!
+99aa4d5d-02b9-4e2e-9549-17abf9e41207|Que merda.
+820774b2-fb26-4a55-a229-7a25a74d4216|Obrigada!
+9b1126db-f45c-4f8a-a573-e836853935bd|Sim!
+15deeeec-9c9d-4bd3-8d5d-72a2301c8526|Sim!
+72aae74b-05c5-4210-9579-a6c4147ee381|*Ouça*
+fa2a00e1-9a94-4660-85ad-af1049684e55|Ei, a Amy também está aqui para ajudar.
+8c444e59-558a-433b-9f79-cd4ed3148279|*Ouça*
+182d449d-9f85-4498-b54e-ff671a8b3385|Katherine, o Steph é o tipo de cara, além dessa coisa da medicina. Ela está pensando em cursar medicina, cortar as drogas, beber álcool e...
+c8b7fb74-d811-4890-8b78-42a26f0765c4|*Gritando: EI, ESTOU AQUI, MAS AINDA ME IMPORTO! SÓ EH... OCUPADA. KAT, CONFIE NA STEPH! E STEPH, EH, FIQUE NO LEITE, BEBA SUA ESCOLA, NÃO USE DROGAS E-*
+baa632b3-029e-4326-819b-05efa3c161c3|Podemos conversar sobre isso depois... foco!
+81e53a5d-747c-4100-b19c-33a1b8308671|Steph, volte!
+0702af94-6bdf-4f22-8b91-a028831ff57b|Relaxa! Vou procurar uma coisa.
+ffa7548e-80da-46a3-ba14-a5171594f73c|Porra! Não consegui encontrar nada!
+df7770ab-9564-4a29-890c-05dbc0af204e|É exatamente por isso que estou aqui. Pare de pensar em drogas e vá ajudar a Kat!
+ec854ed1-16da-4b20-9fd6-cba2a167128d|É disso que estou falando!
+3c3ee58e-c2bc-44e1-8eab-a42c2c0a9496|*Ouça*
+ba04ab03-ee10-44da-be40-2702dd035114|Diga-me o que posso fazer para ajudar.
+76885be9-3daf-4a91-ad91-f9ea29b900ec|Vai ficar tudo bem, Katherine!
+2e7b46ff-b7ff-4091-99f3-27e6ce3f7a15|Volto logo, Katherine!
+fd774ae0-01db-4fd3-a78a-5378af7cfb37|Aguente firme, Katherine!
+e32078e6-34fb-4c37-9321-35f5c699c737|O que você sabe?! Eu tenho os dois!
+381f7bb3-1641-4dc9-abb2-3967d12caaea|O que você sabe? Eu... bem, acho que tenho os dois. Mais ou menos. Aqui está!
+b57071c3-3def-4ab3-bb84-2676d6473c66|Certo. Aqui está.
+daec0265-d62b-4162-95d1-c3f7cf66b4e8|O que você está fazendo aqui em cima?
+39456f74-a7f3-4727-8570-67e5fdac3247|Ainda não tenho água.
+3510798c-8fb6-4c82-bc7b-152976872aac|Ainda não tenho água.
+57b71506-e84b-4200-9961-87829ddf911e|O que você está fazendo aqui em cima?
+cef4d405-50d7-4410-b460-e7a876accdcd|Você está estranho, mas acho que te vejo lá embaixo.
+63bcdbe0-3cbb-4f22-b397-2fd8ec24bbf9|Ok, aqui.
+2d6038a6-66c7-4b74-8cbd-4296205ef3ae|Você está estranho.
+2505ae24-a68d-4b1e-abdf-2401cab868d6|Te vejo lá embaixo, esquisito.
+b6cf1a76-3377-44c9-89b7-dcf6ed797fe3|Ok, aqui está o resto. Idiota.
+427692de-c704-45e4-b5c9-e7ef86d3898b|Ok, aqui está o resto. Idiota.
+ca18d584-53b3-4c6d-97f8-c18345581f39|Ainda não tenho água!
+f86072d7-3981-4e8b-9c70-fa777f3a2b1f|Ainda não tenho água!
+019b8336-8fc5-4cd0-8b23-d4fd750bfc8b|Tudo bem, vou sair daqui. Droga.
+629fae5a-1b9b-4a44-97a2-13269772218d|Tudo bem, vou sair daqui. Droga.
+68eebcad-8781-4d3c-a7f2-b8ba60fb7ac6|Pare!
+f5e8f443-830b-47eb-80c9-341dab937018|*Espere pela Stephanie*
+efaaaa37-f58b-4155-8a8d-fc5c958c3dd7|Que diabos você está fazendo?
+21a1057a-3d75-4985-972b-143cef6331a7|*Cheire dentro da bolsa*
+60e2daf1-55b6-476c-a079-3020a00b3fa1|Stephanie! Pare com isso!
+4de6dcb3-b78f-4b9a-b17e-08eb45932f7a|... É, tá bom...
+97c6e6bf-0d91-4af4-9ac8-e0b209174a9d|Vamos lá.
+202bc1f6-1ccd-473f-9835-74aa44795293|Agora que tirei essa bolsa das suas mãos, abaixe a bunda.
+2c6afe14-bfc7-4ed7-9958-6538a83139be|*Inspira*
+2c22b511-857b-4e05-b189-ac192ea1fee3|Vai!
+4a64e4dd-3d5d-450e-acd8-7b75b8889f64|*Ouça*
+6d66540d-05ab-46d1-b917-98aff19ea797|Que incrível ouvir isso! Parabéns!
+c352e81b-8bf0-4f1d-911e-f1e302a241b1|Agora mesmo.
+35f4c385-e2e5-46cf-a016-12550bd081f3|Claro, te aviso!
+ea6f618a-0412-47d6-b7b4-1e99cc310f9e|Vamos lá.
+11418c62-3acd-4afc-8691-35594a3856b2|Siga-me.
+f97365a1-06ac-40f1-a0f5-54446be752b6|Ok, concordo com você.
+a500c1f3-7bea-42d4-8379-f3b55414f14a|Estamos quase lá.
+8c4984c7-54c5-486b-9fcb-17b0c567d169|Hahaha!
+8a5234c3-b20c-42ed-b25c-a6e25a3a511f|*FIM*
+912c3ca6-321a-475d-9993-1e39bb991b32|Porra, Stephanie, você está chapada!
+b8d79a73-e73f-4934-8ee2-9294270de79c|Caramba!
+65526a57-9e26-4997-b22a-b21bbae636f7|Desculpe, Kat...
+d5bf34f9-dce3-4cd9-be60-506d55e958d5|Bom saber, eu acho.
+bc215bc3-0688-4f58-9654-4fa798fbb731|O que é Gut Grip?
+08292e4f-bc34-4738-a855-b06a58d9b8cd|Por incrível que pareça, não consigo encontrar nenhum copo por aqui.
+5b6194a5-f84c-492b-95a1-2843cfba6a90|Ok, vou dar uma olhada.
+0be74b92-2f5d-4218-87f9-06b5211b42f7|Vou sim.
+e0a8f50b-1b09-4b15-8250-72410ed05c15|Ok, tudo bem.
+e7cdc12d-5f7c-43aa-9798-2a684969764e|Ok, eu acho.
+9b5ab4f5-9ef9-402a-b3e9-ba3ca2111e9e|Bem atrás de você.
+a65f1f8e-771b-4e5f-a119-0646b432faf4|Continuaremos procurando.
+78fe502f-1cc0-4a69-8b00-7e74850fbf3a|Este é o lugar. Qual é a lição 1?
+b0f511fb-464f-4c42-9e5f-763461b4bd56|Eu concordo!
+d89498de-fe21-461b-80fc-3356b655f2bb|Você sabe que eu vou conseguir.
+93e8ce1e-1f44-4066-b2e5-4a4a4a94a9b5|Mostre-me o que você sabe fazer.
+16ac46ab-e252-4ad7-aff9-84a79afcd4ef|Eu vou conseguir!
+ac649efc-1da8-482b-b6be-341b1f7ac8c8|Stephanie?
+81995c3d-d2ed-46a0-8df7-dd5d67aeff50|Ok, tudo bem.
+09f0fb1d-80cb-4930-b80a-27a36cd9d6a8|Puta merda!
+696b66a7-2ce5-44da-b26d-64cd33417d26|Pode deixar, Steph
+30ca8f70-d90c-462a-9d94-9a6939652636|Quer conversar sobre isso?
+ca2d5813-cc0c-4008-a595-1e05e1b74a1f|Calma, Steph.
+b29528d6-381d-4cd9-b355-f4403cdc5c61|Me conta a pior parte de trabalhar na Chubbies.
+9ef51060-eab2-4601-bde1-22953a7ab7cb|Do que você está falando?
+ea756e48-425d-40e1-9432-bf5d135c19ce|Certo, não demore muito.
+90e891cb-33e9-4cbd-bb27-6ea6e024c5b6|Tem que sair.
+283074c3-898f-4333-a409-e048c3aaa65f|Mas pense no dinheiro!
+c016c3f4-9ccd-415d-9d00-e3e1d30d5ec4|O que você vai fazer?
+288d0282-29f5-4bae-b652-d84a9587abe9|*Escute*
+00ddedcb-4de7-42a3-a4dc-23b068e11295|O que você está fazendo, Steph?
+3c834b03-6cb8-496b-8b9f-b6eb0ee8a892|Steph--
+7da2366e-0d36-420c-b5d1-ba3d7629526c|Droga...
+0bb0e8c4-acb2-4e2d-9ac8-7c74a9b29fd5|Ah, droga!
+3b4d8b0e-867d-4e2f-a327-f63ab4a8f778|Sem problemas!
+93212eb4-a424-4ca7-a44a-f4d122bb1a48|Parece pior.
+db993de8-5d57-4404-b782-96cb69752dc2|Pode deixar!
+8a9764a6-57de-44f4-84c4-548bbed443f4|Bem, aproveite a bebida e esqueça seus problemas.
+23ac6c6f-b9df-4384-9214-e6d68544ac20|Steph, você quebrou os dentes da frente!
+dccbf863-c99b-43f2-9ba2-5be448f725a5|Steph, posso te servir mais cerveja, se quiser.
+3a878eba-01d5-4111-b54e-6e9d99b58201|Legal, volto mais tarde.
+3e8d52a0-920b-423f-bfb5-36165985b57f|Não!
+92f41f1a-7847-4209-ae6f-f45da8e0f0b5|Espere! Então... o coitado ficou realmente arrasado por causa da xoxota. Eu já passei por isso.
+e67f55fe-1c56-4967-8f93-56a32902e0c4|Desculpe-me por decepcioná-lo...
+41768747-eb5e-4a75-994d-39dfdec5e564|Eu realmente não pensei muito sobre isso...
+9863918f-a1ad-42a2-90f6-eee68df3925c|Ai, tudo bem... continue então.
+1493425e-7a7e-4d27-8549-137eaaaa483c|Claro, Professor Steph!
+ebce58dc-a6c4-44b3-ba50-a2966b3cddcc|Chorando perto de um túmulo, hein? Parece a vez em que tive minha primeira ereção.
+eccbc2a9-f162-4b41-81bd-5121fb0910f2|Divirta-se... Preciso espiar.
+3e520cdf-71b0-4b6f-9f02-62a4c22da340|Então, como você conhece a Madison?
+ffebf515-e80c-4fe5-a11a-153985619c95|A Katherine parece legal.
+07beb9cd-002c-40ca-99a9-5ddc2a52c5f0|Prazer em conhecê-la, Stephanie!
+9f83575c-3fba-442c-8d69-4ccfce2b4939|Parece que você está se divertindo.
+ef48aacc-c9f8-4cc1-a685-4c7a86cf9040|Que passos de dança incríveis você tem aí!
+a0152de5-a0c2-437e-8504-8b2a9cb710bd|Cara, você está arrasando na pista de dança!
+a797561c-f19d-46c4-96a1-c753648fc5bf|O que você acha de animar ainda mais essa festa e dançar sem camisa?
+42f9ff5b-b2da-4804-b1ae-77f0c7f63ca5|Ei, cuidado, consigo ver seu vestido quando você faz esses movimentos giratórios.
+ce280680-aacc-4b2c-81ef-e9785642e16a|O que diabos é um Whip-It?
+11530280-7325-481e-b0a2-dfb626fec636|Eu não saberia onde está o telefone do Patrick, saberia?
+31cc9f0a-104a-436c-bcf5-be2a4d4e5788|Você sabe onde posso escrever algo sobre Mary Jane?
+be7eda8a-0b2b-49d1-a850-1f630a9bbde4|Então... você quer ajuda com essa febre?
+72246de3-9bd2-4957-9124-3244b429cacb|Posso receber esses 50 dólares agora?
+a2aac305-f044-4364-8838-a2c71ce803a2|Ei, Stephanie! Você vai assinar minha petição, certo?
+92936248-74da-4eba-ac33-a15695b5c5cd|Ei, a gente devia relaxar um pouco na banheira de hidromassagem.
+efc8aeb4-4115-4d8c-8f0c-afee90eafa82|Instalei um alto-falante lá fora, perto da banheira de hidromassagem!
+17aae2c9-beba-4573-9912-ee12fc935201|Então você gosta de ajudar as pessoas, né?
+e04b0f9b-8cee-48fb-8601-382baab9b8f6|Imagino que você vá estudar com essas pessoas. O que você está estudando?
+40b9d146-1a3a-4a96-97c7-ee1f84df7b35|O que você faz da vida, Steph?
+a2504ad7-f85d-436b-9458-e3f20dde0b81|Você já pensou em seguir a carreira médica?
+11804443-8f8d-4a46-933b-d508d633a165|Katherine está muito doente e precisa da sua ajuda!
+aa6fa956-4d77-417b-a516-907c286adbfe|Eu gostaria daquela aula particular agora.
+3c82dcf3-a5ac-476c-bce1-f8798a05adee|Acho que gostaria de outra aula agora.
+d14db0c6-9d25-4a26-a943-5bb3a7d3ec74|Então, que tal animar ainda mais a festa e dançar de topless?
+cec25d80-4476-4e7e-a994-8c140d1857ac|Novos planos de carreira, Kat tolera sua existência e... o que a sua realmente tem a oferecer. Como você está se sentindo?
+169d47d4-93f3-4d80-b233-0002e45dbd79|Steph, hoje à noite, o Derek surtou e te contou sobre um gato ou algo assim?
+ff194dcd-95db-4b46-879e-f0ef57fd312f|Então, o que você acha do Patrick?
+d77db943-09b1-4ec1-978e-8ee2d6631609|Te vejo por aí, Stephanie.
+
+[Quests]
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbeDescription1|Ok, ok, ok! Parece que você está gostando mesmo da Stephanie! Tem mais alguma travessura ou gostosura na manga?
+85b39753-8e78-494d-ac0a-455e4e4a9a3e|Eu não estou derrotado, cara!
+85b39753-8e78-494d-ac0a-455e4e4a9a3eDescription|Stephanie quer que você encontre um pouco de chantilly para ela e, em troca, ela lhe mostrará alguns novos passos de dança.
+85b39753-8e78-494d-ac0a-455e4e4a9a3eCompletedDetails|
+85b39753-8e78-494d-ac0a-455e4e4a9a3eFailedDetails|
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbe|Vamos diminuir algumas inibições
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbeDescription|Stephanie disse que se ela beber um pouco, pode ver uns peitos. Tente encontrar um pouco de álcool para ela!
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbeCompletedDetails|
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbeFailedDetails|
+a2d36235-fad1-4205-9b80-c3a59b714aa4|Acompanhe suas chamadas
+a2d36235-fad1-4205-9b80-c3a59b714aa4 Description|Stephanie tem um talento especial para ajudar as pessoas. Isso poderia ser um ótimo assunto para uma conversa.
+a2d36235-fad1-4205-9b80-c3a59b714aa4CompletedDetails|
+a2d36235-fad1-4205-9b80-c3a59b714aa4FailedDetails|
+f89b0499-459c-468a-9f8b-3638dadf54ed|Aplique pressão
+f89b0499-459c-468a-9f8b-3638dadf54edDescription|Ajude Stephanie a enxergar seu potencial profissional criando uma emergência médica. (Não mate ninguém, psicopata.)
+f89b0499-459c-468a-9f8b-3638dadf54edCompletedDetails|
+f89b0499-459c-468a-9f8b-3638dadf54edFailedDetails|
+764b6bc3-aa24-4bb1-8af8-8ae7a3d5dc36|Birra
+764b6bc3-aa24-4bb1-8af8-8ae7a3d5dc36Description|Stephanie acabou de descobrir a realidade da limpeza se quiser seguir suas paixões. Naturalmente, isso não deu muito certo. Veja se você consegue acalmá-la.
+764b6bc3-aa24-4bb1-8af8-8ae7a3d5dc36CompletedDetails|
+764b6bc3-aa24-4bb1-8af8-8ae7a3d5dc36FailedDetails|
+d3794da9-18a5-4140-be8a-5fce5ad1a020|Tutoria especial
+d3794da9-18a5-4140-be8a-5fce5ad1a020Description|Receba uma aula especial da Stephanie.
+d3794da9-18a5-4140-be8a-5fce5ad1a020CompletedDetails|
+d3794da9-18a5-4140-be8a-5fce5ad1a020FailedDetails|
+e42fc797-a72c-4460-a420-e59319c40dfb|Bêbado e desordeiro - Stephanie
+e42fc797-a72c-4460-a420-e59319c40dfbDescription|Stephanie tem alguns problemas com seu atual empregador. Ela parece revelar mais a cada bebida.
+e42fc797-a72c-4460-a420-e59319c40dfbCompletedDetails|
+e42fc797-a72c-4460-a420-e59319c40dfbFailedDetails|
+
+[Events]
+b7421423-2afa-4482-9762-43efbe109979|Uhhhh, huh. Ótimo pra caralho. Devo ter irritado ela, eu acho. Não tenho certeza se consigo sair dessa... Preciso ver se mais alguém na festa tem uma pá.
+475f2c87-c515-4266-867d-50c177f8270b|"Hmm, falando "desta música", será que tem como trocá-la? Literalmente para qualquer outra coisa."
+6950564b-ef58-443d-940b-70756884c925|"A Steph é uma daquelas pessoas que só querem "vibrações positivas". Parece que ela também consegue vibrar com uma bebida. Hmm..."
+3abca6c6-f0eb-45a7-8101-f81dc46f1020|Bem, acho que é isso. Talvez minha próxima tarefa seja descobrir como mudar essa maldita música!
+345e7bf9-6708-4e35-9efc-24eda1bad34f|"Hmm, falando "desta música", será que tem como mudá-la. Para literalmente qualquer outra coisa."
+b7c36ec3-a016-441d-afa8-af27a8e36f03|Espero que a Stephanie consiga descobrir sozinha. Ela parecia... bem... uma bagunça total, uma bagunça total. Tão parecida com ela mesma. Talvez ela fique bem sozinha...
+9296af5c-85cb-45a2-9eca-796cf95a8488|A Stephanie está bem sozinha... ou a psique dela está prestes a explodir completamente. Eu deveria ir ver como ela está. Ou... só dar uma olhada, talvez.
+4eba0c1f-9ba6-4c32-9b81-ca7717e92b54|*Você respira fundo o cheiro de tinta da bolsa e a devolve para a Stephanie*
+18419236-2ce0-4d25-97f8-21103661f44e|Ela está destruindo tudo o que eu dou a ela... e provavelmente vai continuar a engolir mais. Até eu terminar...
+e6427379-6cd3-4eb4-ac89-179c460074b9|A Steph já gozou esta noite! Acho que devo pressioná-la um pouco mais...
+1bd0e40b-9d66-40cb-86be-8c7c2821d770|Eu provavelmente deveria tirar a calcinha dela...
+3b2b9e77-6bd2-41fe-b87d-f7dd23e85e99|Estou tão perto... porra, vou gozar!
+f3caf6a5-2998-40f2-830a-1ab7cd3c6a16|Estou tão perto... não... pare...
+a4c35bd6-cd5a-42d4-a8dc-9de26aa9ec3f|Ela está tão perto, eu deveria acabar com ela!
+d7bbc9ba-b152-4001-8000-8c4ca505a726|Eu provavelmente deveria tirar a calcinha dela...
+c57d01cc-36ef-4c05-970b-955e2ab38f5d|Parece que ela vai voltar para esta área de qualquer maneira, mas preciso escolher um lugar onde ainda possa ouvir a música. Então resta...
+a8580f5d-e0df-4bea-8f12-f807f97bd8f5|Parece que preciso ser mais amigável com a Steph... talvez eu devesse tentar ser mais animada? Ufa... passe difícil.
+dfa3a32a-41b1-41e4-8a12-b96ad2922a0e|Onde, oh, onde foi que eu errei com a Stephanie? Espero conseguir conquistá-la hoje à noite...
+e52b7874-4d6e-494c-be8c-0a4a85e4dbf9|Talvez esses sejam os movimentos que eu preciso se eu quiser mostrar pro Derek hoje à noite! Vou ter que encontrar o momento certo para usá-los...
+4f9fd929-aef4-423c-b1a1-c035f5147a97|Acho que é isso mesmo, né? Esses movimentos podem ser úteis se eu precisar ir para a pista de dança contra alguém hoje à noite!
+4975fb69-e2f7-4e3d-8f19-1382f04b14cd|Teria sido útil ter esses movimentos contra o Derek... droga!
+acfb13ba-0465-4692-9353-fb46337b176f|Ok, hora de colocar esses movimentos em prática!
+d838b3ed-51cc-4829-865e-92c06f9268de|Acho que a Steph precisa de alguns minutos para recarregar as energias antes de me dar uma "aula" divertida e altamente educativa.
+16ad7f67-436a-488f-ad51-5185a345305b|Há algo na Stephanie perdendo dentes hoje à noite que me faz pensar que ela provavelmente ficará bem sem mais bebida.
+39ed009d-63f0-47e1-aa60-f4a444fea01c|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
+e794a9e3-415c-44b5-b242-ea2127ff62d1|...Nada. Excelente. Ela claramente ainda está muito confusa para me ajudar com qualquer coisa que eu me importe. Preciso vê-la novamente em alguns...
+38b7f512-893c-4f59-b5bc-f5f3badd4abd|Algo grande está para acontecer com o Derek... Preciso cuidar disso primeiro.
+1fd9097a-515e-460a-a376-b92657b7178c|Oof, preciso de alguns minutos para recarregar as energias... só o melhor para a Dra. Steph!
+a74410bb-6748-4813-ae33-ff8419eca955|Opa, preciso de um tempinho para recarregar as energias... só o melhor para a Dra. Steph!
+4255636e-7504-4c4b-ac1a-5d302f42a6a4|Não tenho certeza se a Frank consegue nos ouvir... Eu deveria tentar puxá-la um pouco mais para perto.
+ade3d331-aa2d-4783-a417-86163bc8345d|A Steph não pode dar uma lap dance nele se ele não estiver sentado na cadeira. ... Dã.
+8c87b617-087d-40b2-9dfc-12a6cfbd5457|O Frank e eu ainda não terminamos nossa busca por bebida. Ele parecia bem fanático por isso. Melhor esperar até acabar.
+32d2b1e3-fd9e-4d9a-ba3e-a6ff217f9ca4|"Acho que eu e a Steph estamos "nos dando bem". Eu devia tentar fazer ela trabalhar um pouco mais..."
+5ee3297d-8e02-4299-a9a1-b69f009d1344|Hm. Agora não deve ser uma boa hora para o Frank fazer aquela lap dance. ... Existe uma hora dessas? Vou refletir sobre isso e tentar de novo mais tarde.
+7ac20ed4-ae13-448c-b32f-dfe65d9c0eeb|Acho que ela realmente precisava de algo para ajudá-la a superar aquele ataque de pânico. Algo. Alguém. Quem sabe? Uma coisa que eu nunca esqueço: como respirar, porra.
+0039c42a-7a83-4318-8e6f-430de596ae59|Merda. Eu rasguei. Vou jogar lá dentro. Não só estraguei uma memória perfeitamente boa, como acho que o Dr. Steph vai dar uma festa um pouco mais agitada do que pretendia...
+f4c33be7-0602-459a-be22-139f96cc1418|Ela não tem nada com ela que eu precise agora. Estou chocado... e não.
+91b47fba-393e-4dc0-a9a6-ab02ea8d5373|Nossa! Que legal! Que esconderijo criativo, Steph.
+d5909d3a-64a9-4125-8123-00467d225084|Será que a Steph ainda está tão ferrada que nem dá para reconhecer?... Acho que é uma pergunta capciosa, mas preciso ir vê-la mesmo assim.
+6e11aec1-529c-4a99-bdec-0e1aa77b4717|Tenho quase certeza de que a Steph acabou de preencher o buraco nos dentes quebrados com chiclete velho. Na verdade, não parece tão ruim assim...
+475d0bfc-dd4c-400f-98a6-fdf142d2f087|Parece que estraguei o futuro melhor da Stephanie, pelo menos esta noite. Bom, ela parece gostar de beber demais para conseguir raciocinar.
+2017676d-af54-473f-a311-3ca0bab73527|Hmmm, "grande" não descreve esta xícara... se não funcionar, talvez eu tenha que procurar em outro lugar.
+23d950f4-7bb6-4049-a3a0-db74a163b109|MUITA água? ... isso não parece uma "xícara". Talvez eu tenha que ser criativo.
+54417c7a-069c-479c-bd55-b2d58fbc6263|Hmmm, disse uma xícara "grande" de água. Sou especialista em todas as coisas "grandes", mestre em todas as coisas "enormes", e esta xícara simplesmente não é suficiente.
+79b952fb-cc4c-4577-8e65-549e727573f2|Está fedendo a tinta aqui dentro! A Stephanie ia cheirar tinta acrílica!
+712e94da-bd44-4de8-9941-ebe45829526e|Garrafa de vodca vazia
+3d78bfa3-4c05-4ad1-9600-fbf4b14995b7|*Dá uma tragada no vapor da tinta da sacola e a devolve para Stephanie*
+62a46af2-e2b1-4b85-a0ac-8dce79bde97f|*Cinco minutos depois*
+3718b682-548b-4f93-9c5c-f31195972cad|Nossa... vamos dar um tempo para a Steph ficar sóbria... e refletir sobre o que ela acabou de fazer com seu rosto incrível.
+b7be0012-f4d6-47b5-a664-fe49b2689fc0|Hmm, eu deveria dar uma olhada naquela foto do gato. Mas aconteceu outra coisa lá fora também. Eu tenho minhas pistas... caramba, eu daria uma boa detetive!
+e48e4218-e7e8-4383-8075-7b85a811dc0e|É, porque faria sentido perguntar agora mesmo. Eu estava pensando que era muito mais inteligente que a Steph.
+27cdc7b6-2c76-4010-a52b-9f46d9a5d82d|Droga, devo ter irritado ela de alguma forma. Não tenho certeza se consigo me safar dessa... Preciso ver se mais alguém na festa tem uma pá.
+cf56bb11-9a21-4ddc-ab18-67fba1edac52|Eu provavelmente deveria esperar até que a Stephanie esteja em algum lugar onde tenha música...
+8e3a33b6-5dd8-4785-bab5-0aee4c364fb5|Eu provavelmente deveria levar a Stephanie a algum lugar onde ela possa, bem... dançar.
+6660c85f-2f6b-4c34-b0cc-dbe80366b44c|Droga, devo tê-la irritado de alguma forma. Não tenho certeza se consigo me recuperar disso... Preciso ver se mais alguém na festa tem uma pá.
+f0e466d0-df72-4cf2-b3e5-787799782daa|Eu provavelmente deveria esperar até que a Stephanie esteja em algum lugar onde tenha música...
+e7447975-6938-491e-a2f9-5c1fc87e0e7b|Eu provavelmente deveria levar a Stephanie em algum lugar onde ela possa, bem... dançar.
+180385da-f491-4aab-acdb-f6d5b4dbc63a|Sacola de fast food
+e7681eee-2abe-45ca-8023-bebdbbc70b6f|A Stephanie não quer isso agora.
+92966ac5-5668-4d60-a68d-5d661b66a5b0|Há algo sobre a Stephanie ter perdido os dentes hoje à noite que me faz pensar que ela provavelmente ficará bem sem mais cerveja.
+24f161e1-bd29-4a9b-8efe-4d32dc90cc3b|Preciso ver se tem alguma coisa para deixar a Steph com vontade de beber.
+1bb38e96-2d34-4fe8-9a54-bf231ccbeaae|Preciso tirar a blusa dela primeiro!
+6ccef872-568a-4ec6-a4c3-affc972fbe16|Preciso pensar um pouco primeiro... se eu der isso para a Stephanie, ela provavelmente vai ficar muito chapada para fazer qualquer coisa além de festejar. Tudo bem para mim? Decisões, decisões...
+b4402ed7-88c7-4e86-90e5-2852fa08f1fc|A Stephanie não quer isso agora.
+4b062891-1167-48c3-a900-7b565947a63f|Se eu der isso para a Stephanie, há uma boa chance de ela ficar muito perturbada para brincar de médica. Tudo bem para mim? Se sim, eu deveria tentar dar isso de novo.
+47d82713-2a66-4626-8258-b6dc17d794cf|Se eu der isso para a Stephanie, há uma boa chance de ela ficar muito perturbada para brincar de médica. Tudo bem para mim? Se sim, eu deveria tentar dar isso de novo.
+d5b9e7b6-303c-40f9-886d-90fc1f28dea3|Se eu der isso para a Stephanie, há uma boa chance de ela ficar muito machucada para brincar de médica. Tudo bem para mim? Se sim, eu deveria tentar dar isso de novo.
+
+[Background Chatter]
+BGC1|Eu sei andar, querida!
+BGC2|Por favor, por favor, não vá ao Chubbie's quando eu estiver trabalhando. A última coisa que você quer de um bar e restaurante sem camisa é reconhecer o rosto em vez dos peitos.
+BGC3|Pare de me perguntar sobre a escola. Está indo bem.
+BGC4|Eu danço em qualquer lugar. Dentro, fora, tanto faz!
+BGC5|Olhe, mas não toque, querida.
+BGC6|É verdade que os dinossauros vagavam pela Terra há apenas 64 anos?
+BGC7|Qual é o seu signo? Meu Deus, por favor, não me diga que você gosta do estilo animal do céu da Madison...
+BGC8|Um punhado de feno mantém o médico afastado!
+BGC9|Quer dançar comigo?
+BGC10|Depois que eu fico bêbada, nada me impede!
+BGC11|Patrick, você não estava carregando uma maleta quando apareceu?
+BGC12|Brittneyyyyy, que bom que você está relaxando! Acho que nunca mais vamos poder sair juntos.
+BGC13|Eu sei, foi tão aleatório! Haha, nunca faríamos algo assim sóbrios.
+BGC14|Não tem carteira de motorista válida? Madissooonnnnn, alguém foi travesso?
+BGC15|30 jardas, dã. Todo mundo sabe disso.
+BGC16|Então a Ashley falhou pelo mesmo motivo?
+BGC17|Meu Deus!
+BGC18|Patrick, toda vez que você chega perto de mim, eu sinto, qual é a palavra... tipo "Ódio", mas na maioria das vezes.
+BGC19|Ah, Katherine, eu te peguei! Lá vamos nós! Puta merda, B-B-B-BASS DROP! WUB WUB WUB WUB WUBBITY WUBBITY WUB WUB WOOP!
+BGC20|Ah, eu também sei fazer essa piada! Eu entendi a maior parte do que você disse... NÃO!
+BGC21|DING, as batatas fritas estão prontas! Desculpe... Acho que o Chubbies me deu PSDP, ou pior! Ei, olha só essa jogada!
+BGC22|Olha, eu estava confuso porque você estava dizendo um monte de coisas, mas NENHUMA delas era sobre cocaína ou sua bunda! Acho que estamos na mesma página agora. A propósito, você tem cocaína?
+BGC23|Hum. Você não consegue gostar? Tão imaturo.
+BGC24|Quando você tem que ir, você tem que ir. Todos os festivais de música me ensinaram isso. Conselho profissional: enrole um pedaço de papel higiênico para fazer um funil. Além disso, mantenha-o apontado... para lá. Valeu!
+BGC25|De jeito nenhum, volta pra dança!
+BGC26|Você está dizendo isso como se a minha dança te deixasse de pau duro? Que tesão.
+BGC27|Ah, o Frank parecia tão magoado e meio... deprimido quando saiu. Ah, bom, voltando pra dança!
+BGC28|Queria que mais gente dançasse. Eu amo dançar tanto. Já tive pelo menos três concussões por tentar dançar a noite toda e desmaiar espontaneamente. O quê? Não me olhe com esse olhar de julgamento.
+BGC29|É, gata! Eu só estava dizendo que precisamos de mais gente na pista de dança. Uau! Vamos aumentar o volume!
+BGC30|Nossa, Derek. Ouvi dizer que você dança muito bem, mas você quase apareceu aqui. Talvez eu tenha que usar as armas grandes. Quer dizer, meus peitos. Sempre que estou em dúvida, eu simplesmente chamo as meninas e pronto! Sou a melhor dançarina da sala de novo. Todos os olhos em mim! Funciona sempre!
+BGC31|Nossa, Derek. Ouvi dizer que você dança muito bem, mas isso é muito bom! Tipo, se eu não tivesse os peitos de fora, todo mundo estaria olhando para você agora em vez de para mim!
+BGC32|Nossa, e eu que achava que eu era a pessoa mais abertamente sexual aqui. Acho que a gente aprende algo novo todo dia!
+BGC33|É, entendeu! Ufa, queria que a gente transasse. Vocês dois têm muita sorte. Tá, vou deixar isso com vocês dois. Sejam respeitosos! Não parem até os DOIS gozarem!
+BGC34|Ah, não, Patrick. Ereções que duram quatro horas ou mais podem ser perigosas para a saúde. Você deveria mesmo dar uma olhada nisso!
+BGC35|Eca, sai de perto de mim, Patrick. Eu só estava tentando ajudar.
+BGC35|Eca, sai de perto de mim, Patrick. Eu só estava tentando ajudar. BGC36|Nossa, que loucura, Rachael! Espero que não haja outros palcos em que eu não esteja dançando de topless. Seria péssimo.
+BGC37|Tá brincando? Que honra! Essa foi a coisa mais legal que alguém já me disse!
+BGC38|Sério, não sei do que o Derek estava falando antes. Ele estava tipo, surtando por causa do gato dele ou algo assim. Não sei o que fazer. Não sou um médico psicopata ou sei lá como você chama essas pessoas... sssssssssssssssssssssssssss Fiquei só mexendo com ele até ele finalmente parar de falar comigo sobre isso. Funciona sempre!
+BGC39|"Esta noite está tão divertida! Eu precisava muito disso. Minha mãe vive dizendo que preciso pensar no meu futuro, mas eu só quero continuar dançando e não pensar em "ser adulta" e responsabilidades, tipo, nunca!"
+BGC40|Ah, eu não sou nada tímida. Uma vez, mostrei o dedo para um carro cheio de padres. Foi divertido. Você devia ter visto a cara deles quando saíram cambaleando da beira da rampa de acesso. Tenho certeza de que estão bem, e se não, bem, provavelmente viram peitos pela primeira vez, então isso deve compensar.
+BGC41|Ouvi dizer que o Derek dança muito bem, mas a música tem que ser perfeita. Eu adoraria vê-lo se curvar e, tipo, se soltar completamente!
+BGC42|Eu não levo muito dinheiro comigo. Só trouxe uns 50 dólares hoje à noite, e é basicamente para pagar minha carona para casa. Eu provavelmente deveria ter, tipo, muito cuidado para não desperdiçar e acabar chupando outro estranho aleatório para conseguir uma carona para casa. Aquela noite foi horrível.
+BGC43|O quê? Não, não doeu. Eu adoro boquetes aleatórios. Eu ainda não tinha tirado meu aparelho, e os pelos pubianos dele ficavam presos neles, e ele gritava muito alto e ficava bravo toda vez que tiravam um. Algumas pessoas simplesmente não conseguem desligar.
+BGC44|Não me lembro exatamente quantas festas terminaram comigo dançando de topless ou nua. Perdi a conta. Adoro ficar nua e ter outras pessoas me observando. Quando a vontade bate e as circunstâncias são certas, não tenho problema em ficar nua.
+BGC45|Ei! Você está fazendo um strip-tease? Sabe, eu poderia te mostrar uma coisa ou duas!

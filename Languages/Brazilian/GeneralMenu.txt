@@ -1,0 +1,55 @@
+﻿[General]
+Yes|Sim
+No|Não
+Ok|OK
+CloseButton|Fechar
+Cancel|Cancelar
+EnterTextPlaceholder|Inserir texto...
+EnterSaveNamePlaceholder|Digite o nome ou pressione Salvar para usar o registro de data e hora como nome...
+DuplicateNamedSaveDisclaimer|Já existe um arquivo com este nome. Deseja sobrescrevê-lo?
+SaveButton|Salvar
+SaveGameHeader|SALVAR JOGO
+DebugConsoleHeader|Console de depuração
+DebugConsoleSaveToLogButton|SALVAR NO REGISTRO
+CombatStunned|Atordoado!
+CombatEnergy|Energía
+CombatYourHealth|Sua saúde
+InventoryHeader|INVENTÁRIO
+YourOrgasmLabel|Você
+TheirOrgasmLabel|Eles
+ChooseUseWithItemLabel|Escolha o item que você gostaria de usar com...
+LoadGame-HeaderText|CARREGAR JOGO
+LoadGame-LastUpdatedOpportunities|Última atualização de oportunidades
+LoadGame-LatestMemories|Última memórias
+LoadGame-ListOfSaves|Lista de salvamentos
+QuestWindow-HideMissedOpportunitiesCheckbox|Ocultar erro/perdido
+QuestWindow-HideCompletedOpportunitesCheckbox|Ocultar completado
+QuestWindow-OpportunitiesTab|Oportunidades
+QuestWindow-MemoriesTab|Memórias
+QuestWindow-OpportunitiesHeader|OPORTUNIDADES
+GameOverDisclaimer|Pressione ESC para abrir o menu principal
+GameOverLabel|Fim de jogo
+DismissNarrationLabel|Clique em qualquer lugar para continuar...
+LowFrameRateWarning|Baixa taxa de quadros detectada! Pressione ESC e tente ajustar suas configurações gráficas! Você pode ter lentidão no jogo com as configurações atuais. Você pode desativar este pop-up no menu de pausa.
+OrgasmRestingLabel|Descansando...
+OrgasmReadyLabel|Orgasmo
+DemoEndingWarning|Esta sessão de jogo terminará em breve, pois esta é uma versão demo. Para sessões de jogo mais longas, você pode comprar o jogo.
+DownloadingServerStories|Baixando as últimas histórias do servidor. Aguarde...
+DownloadingServerStoriesError404|ERRO: Último arquivo de história não encontrado!
+DownloadingServerStoriesGenericError|ERRO: A história mais recente não pôde ser baixada do servidor! Certifique-se de que o House Party tenha acesso à internet e as permissões apropriadas do seu firewall e/ou antivírus, ou você poderá não receber atualizações!
+DownloadingServerStoriesUnknownError|ERRO: Erro desconhecido ao baixar arquivos de história.
+InstallingServerStories|Últimos arquivos Eek! Servidor baixado! Tentando extração e instalação. Aguarde...
+OpportunityMissedPopupTitle|Oportunidades perdidas
+OpportunityMissedPopupDetails|Uma ou mais oportunidades perdidas!
+OpportunityMissedWindowTitle|Oportunidades perdidas
+OpportunityMissedWindowDetails|Uma ou mais oportunidades foram perdidas devido às escolhas que você fez.
+GraphicsQualityUltra|Ultra
+GraphicsQualityHigh|Alto
+GraphicsQualityMedium|Médio
+GraphicsQualityLow|Baixo
+ExtractingServerStoriesError|ERRO: Ocorreu um erro ao gravar o Eek! Game Stories baixado na pasta de dados interna. Certifique-se de que o aplicativo tenha as permissões apropriadas e que seu antivírus não esteja bloqueando o acesso a arquivos/pastas.
+AchievementsNotFoundReminder|Lembrete: O arquivo de conquistas não foi encontrado. As conquistas foram desativadas.
+AchievementsNotFoundWarning|Arquivo de conquistas não encontrado! As conquistas foram desativadas.
+OldSaveLoadedWarning|Um jogo salvo de uma versão diferente do jogo foi carregado. O conteúdo pode não funcionar como esperado.
+StoryIntegrityCheckError|ERRO: A história não pode ser reproduzida devido a uma falha na verificação de integridade. Os arquivos estão ausentes ou corrompidos, ou a versão da história é inválida.
+ContentUnderDevelopmentNotice|Este conteúdo ainda está em desenvolvimento. Estamos trabalhando nele e o finalizaremos o mais breve possível!

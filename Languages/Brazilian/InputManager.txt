@@ -1,0 +1,11 @@
+﻿[General]
+_done|Feito
+_controllerColumnLabel|Controlador
+InputHeader|Entrada
+_removeControllerButtonLabel|Remover
+_mouseColumnLabel|Mouse
+_restoreDefaultsButtonLabel|Restaurar valores padrão
+_keyboardColumnLabel|Teclado
+_calibrateControllerButtonLabel|Calibrar
+_assignControllerButtonLabel|Atribuir controlador
+_actionColumnLabel|Comportamento

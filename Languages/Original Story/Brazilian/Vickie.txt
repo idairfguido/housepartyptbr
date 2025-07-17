@@ -1,0 +1,509 @@
+﻿[General]
+Name|Vickie
+
+[Dialogues]
+0|E aí, garoto. Como vão as coisas?
+0.1|Parece que você bebeu um pouco e está relaxando. É um bom começo! Só não exagere...
+0.2|Você sabe que tem muito mais diversão DEBAIXO D'ÁGUA, né? Tanto faz, sentado ou não, você faz... e eu continuo fazendo... a menos que você queira.
+0.3|Que porra é essa, uma audição? Olha, se você se interessa por pornografia, fale com um agente. Você acha que foi assim que eu consegui meus papéis, só chegando pelado na frente das pessoas? Pelo amor de Deus, seja profissional. Agora, tirando essa dica de profissional, como posso te ajudar?
+0.4|Oiiiiii, tudo bem?
+0.5|E aí, gata. Como vão as coisas?
+1|Mais ou menos. Não é tão impressionante, cara. Já vi gozadas muito maiores no set.
+2|Não me ameace com diversão.
+3|Hoje! Pelo menos avise uma garota! A boca dela nem estava aberta...
+4|Você sabe que frases assim não funcionam fora de filmes e videogames, né?
+5|Ah, ela fez isso, né? A Rachael também pode ficar meio maluca hoje em dia, mas você devia ter visto ela quando a conheci. Digamos que eu tenho um talento especial para convencer garotas boas como a Rachael a baixarem a guarda e se divertirem um pouco.
+6|É mesmo? Parece que você está oferecendo ajuda. Acredite, eu consigo transformar essa festa numa orgia quando eu fizer minha mágica, mas as condições precisam ser perfeitas. Que tal você me ajudar a criar o clima e eu ver o que posso fazer?
+7|Só coisas ruins, eu espero...
+8|Preste atenção na cadete! Antes de mais nada, essas garotas precisam se sentir confortáveis com você. E para isso, você precisa não ser babaca. Converse com o máximo de garotas que puder e tente conquistar o carinho delas. Você pode me avisar quando estiver pronto para passar para a próxima etapa, mas provavelmente pode descartar qualquer garota que tenha chateado por ter sido incluída.
+8.1|Preste atenção, cadete! Antes de mais nada, não seja babaca. Essas pessoas precisam se sentir confortáveis e gostar de você de verdade, então se você realmente chatear alguém... não conte a essa pessoa, a menos que possa compensá-la. Converse com o máximo possível desses jovens espécimes magníficos e tente conquistá-los. Não conheço todos aqui, mas pelo que ouvi sobre alguns dos outros, como coloco essas personalidades gentis... "sensíveis" (bleh) nesta festa? Estou muito mais a fim de você do que dos outros. Entendeu? Ótimo. Me avise quando estiver pronto para passar para a próxima etapa.
+9|Perfeito! Em quem você quer trabalhar primeiro?
+9.1|Então, em quem você quer trabalhar primeiro?
+9.2|Certo, cadete, apresente-se! Quem é o nosso alvo?
+10|Desculpe, mas essa é a história toda por enquanto. Mas tem mais por vir!
+11|Aww, que fofo. Você é meio tímido, né? Sem problemas. Podemos melhorar sua confiança antes de continuarmos.
+12|Certo. Finja que sou uma das garotas. Me mostre seu jogo.
+12.1|Certo. Vamos tentar de novo...
+12.2|Certo. Finja que sou um dos convidados de hoje. Me mostre seu jogo.
+13|Por favor... nunca mais diga isso para ninguém. Tipo. Pra sempre.
+14|Sério, garoto? Estamos numa festa. Isso não é um bar. Nossa, você tem muito que aprender. Que bom que você veio me pedir ajuda. Esqueça as falas. Alguma delas já funcionou para você?
+15|Certo. Não é uma cantada. Isso é progresso. Mas agora você parece estar em um daqueles jogos de visual novel mal traduzidos. Que tal um elogio?
+16|Caramba, esse foi realmente um elogio fofo. Talvez ainda haja esperança para você! Vamos ver esse seu novo lado em ação. Boatos na festa me dizem que a Ashley está brava com você. Não sei o que você fez, mas se conseguir reconquistá-la, podemos chegar à parte divertida do seu treinamento.
+16.1|Caramba, esse foi realmente um elogio fofo. Talvez ainda haja esperança para você! Vamos ver esse seu novo lado em ação. Boatos na festa me dizem que você e a Ashley são boas amigas. Mostre que você consegue seduzir uma garota. Dê a ela algo que você sabe que ela vai adorar.
+17|Bem, é certamente bom que você tenha se interessado mais pelo assunto, mas tente não fazer comentários descarados sobre os peitos de alguém que você mal conhece. Ah, e a propósito, sim.
+18|Eu nunca toquei nessa coisa, mas você se estereotipou, seu babaca.
+19|Bom trabalho, cadete! Seu amigo Derek apostou 5 dólares que você ia cagar na cama. Ele não parece ter muita fé em você, mas eu tenho. O resto de nós vai demonstrar. Por que você não se junta a mim na banheira de hidromassagem e podemos continuar essa conversa com um pouco mais de conforto... e bem menos roupa?
+19.1|Bom trabalho, cadete! Seu amigo Derek me disse que eu deveria ter feito esse desafio mais de uma vez, bom desafio. Talvez você realmente tenha o que é preciso, afinal. Por que você não se junta a mim na banheira de hidromassagem e podemos continuar esta conversa com um pouco mais de conforto... e com muito menos roupas?
+19.2|Bom trabalho, cadete! Esse é o tipo de entusiasmo que eu adoro ver. Por que você não se junta a mim na banheira de hidromassagem e podemos continuar esta conversa com um pouco mais de conforto... e com muito menos roupas?
+20|Ah, essas coisas velhas? Você pode agradecer à Rachael por elas. Nossos desafios podem ficar um pouco malucos às vezes.
+21|Por que você não tira esse short bobo primeiro? Isto é uma banheira de hidromassagem, não a piscina da YMCA...
+22|Certo, cadete. Tem algumas coisas que você precisa aprender se quiser ficar comigo. Se tem uma coisa que eu não suporto, são caras sem resistência. Parecia que você ia gozar no segundo em que te vi. Que tal fazermos um pequeno teste e ver onde você se destaca?
+22.1|Ok, cadete. Tem umas coisas que você precisa aprender se quiser se dar bem comigo. Se tem uma coisa que eu não suporto, são garotas que não conseguem pegar leve. Acredite ou não, algumas garotas simplesmente não conseguem relaxar e aproveitar cada momento dolorosamente satisfatório comigo. Pelo jeito que você lambeu os lábios e aquele olhar arregalado... Acho que acabei de te descrever como um babaca. Bem, que tal fazermos um pequeno teste e ver onde você se destaca?
+23|Nossa, cara. Ok, não vou mentir, isso foi meio patético. Quantos segundos foram? Precisamos mesmo melhorar isso...
+23.1|Nossa, gata. Foi quase adorável a rapidez com que você gozou. Quantos segundos foram? Precisamos mesmo trabalhar nisso para que você possa ir mais devagar e aproveitar...
+24|Bem, não posso dizer que não pratiquei bastante. Meu recorde é de 3,6 segundos. Mas isso só me torna um bom padrão para julgar. Se você quer uma prova do meu mundo, vai precisar trabalhar nessa resistência.
+25|Muita prática? Não tenho todas as respostas, amigo, mas dá para perceber que você fica superduro só de ficar perto de mim. Por que não desacelera um pouco e vê se consegue melhorar? Quando estiver pronto, volte e veremos se você fez algum progresso.
+25.1|Muita prática? Não tenho todas as respostas, querido, mas dá para perceber que você está pronto para arrebentar essa calcinha só de ficar perto de mim. Por que não desacelera um pouco e vê se consegue melhorar? Quando estiver pronto, volte e veremos se você fez algum progresso em prolongar o prazer.
+26|Parece que você ainda está um pouco prematuro. Mas sinta-se à vontade para voltar e tentar de novo quando tiver descoberto isso. Estarei aqui a noite toda.
+26.1|Parece que você ainda está um pouco prematuro. Estarei pronto para outra rodada de êxtase borbulhante na banheira de hidromassagem quando você descobrir. Até lá, cadete.
+26.2|Parece que você ainda está um pouco sensível demais, gata. Estarei pronto para outra rodada de êxtase borbulhante na banheira de hidromassagem quando você achar que está pronta. Até lá, cadete.
+26.3|Ok... isso foi melhor, mas você ainda não está durando o suficiente para os meus padrões. Sinta-se à vontade para voltar e tentar de novo quando tiver descoberto isso. Estarei aqui a noite toda.
+27|Cara. Você está bêbado pra caralho? Como você espera fazer algo assim? Volte para mim quando não estiver tão destruído...
+28|Ei, nada mal! Eu ainda poderia ter esperança em você! Eu não conseguia ver o que estava acontecendo aqui dentro, mas dizem que você espancou aquele careca enorme sozinho. É verdade?
+28.1|Ei, nada mal! Pode ainda haver esperança para você! Mas antes de prosseguirmos, eu gostaria de saber... como você conseguiu se recompor? Essa informação pode ser útil com um dos meus colegas de trabalho.
+29|Parece que você é um cara bem machão. Bem, de qualquer forma, fico feliz em poder te ajudar. Vou voltar para a festa agora, mas certifique-se de usar bem meus ensinamentos, cadete.
+29.1|Hmmm, é mesmo? Parece que você é apenas um super-herói comum. Alguém dê uma capa para essa garota. Bem, de qualquer forma, fico feliz em poder te ajudar. Vou voltar para a festa agora, mas não se esqueça de usar bem os meus ensinamentos, cadete.
+30|Ah, olha você todo humilde e tudo mais. Você está ficando muito bom em não ser babaca. Acho que você vai gostar da próxima parte do seu treino, mas, infelizmente, tenho um favor enorme para te pedir primeiro...
+30.1|Ah, olha você todo humilde e tudo mais. Você está ficando muito bom em não ser babaca.
+31|Acha que consegue tirar isso de mim?
+32|Vamos lá, garoto. Você consegue. Pense nas bolas peludas do seu avô.
+32.1|Vamos lá, gata, respire fundo. Devagar. Saboreie.
+33|Que tipo de guloseima você realmente precisa para isso?
+34|Que bom que fizemos isso. Acabou sendo muito mais divertido do que eu imaginava. Ah, e diga ao Derek que ele me deve US$ 5,00.
+34.1|Eu adoro clientes recorrentes...
+35|Claro que sim, cara. Eu jamais recusaria essa oferta!
+35.1|Claro que sim, cara! Mas ei, se você está pensando o que eu estou pensando, posso ou não precisar de umas antes de ficarmos picantes. Vamos ver. Até um puro-sangue como eu precisa de uma pausa de vez em quando.
+36|Me avise se precisar de ajuda com isso...
+37|Caramba, isso sim é que é festa! E vocês não se importam se eu ficar assistindo, né?
+38|É melhor me fazer gozar primeiro.
+38.1|Mmm, você gosta mesmo de fazer... testes, né? Só não se esqueça que nós, estrelas pornô, também amamos ciência.
+38.2|MmmmDpr cdt...gim-allu-got!
+38.3|MmmmDpr cdt...!
+39|Hum, olá? Já nos conhecemos? Claro que eu assinaria.
+40|Uma petição? Já estou entediado, mas vou morder a isca. Qual é o sentido?
+41|O que eu tenho a meu favor? E, por favor, não diga que é algum tipo de oportunidade de negócio... essas sempre acabam sendo esquemas de pirâmide para vender velas perfumadas ou algo assim.
+42|O quê, como você? Acha que só porque sou atriz pornô, pode me afogar em fotos de pinto? Droga, eu realmente pensei que a Rachael teria feito amigos melhores do que isso.
+42.1|Olha, cara, o sexo foi bom e eu queria mais, mas não preciso carregar uma foto do seu pênis dourado no meu celular. Não seja tão infantil e me peça para te foder como um homem de verdade.
+42.1| 42.2|Olha, gata, o sexo foi quente e eu queria mais, mas não preciso carregar uma foto dos seus peitos no meu celular para me lembrar de você. Tenho memória fotográfica quando se trata de peitos, paus, bundas e vaginas. Eu sei. É um presente que continua me presenteando. Se quiser me comer de novo, é só pedir como uma menininha e parar de joguinhos, ok?
+42.3|Como assim? Acha que só porque sou atriz pornô, pode fazer chover com fotos dos seus peitos? Droga, eu realmente achei que a Rachael teria feito amigos mais legais do que isso.
+43|Sra. Vixen. Ah, gostei do som disso. Sabe, talvez eu tenha que pedir para o meu agente me incluir na franquia Professora Favorita para eu poder investir nessa fantasia. Então, você está tentando contribuir para o meu banco de fotos pessoal, ou quer que eu avalie as posições de 0 a 10, ou...
+44|Querida, pode falar... a indústria pornográfica. Você quer saber se a garota poderia ser uma atriz pornô? Então me mostre.
+45|Espera aí, aqui é a Madison, né?
+46|Bem, isso vai ser um problema desde o começo, se ela for muito tímida. Mas tem uma boa pose aqui, uma boa atitude e, definitivamente, um bom corpo. Sabe, um mercado para esse tipo de coisa de "câmera escondida". Todos os participantes estão dispostos, mas é feito para parecer, sabe, incrível.
+47|Eu disse que acho que ela tem o corpo. Nunca a vi ir a Jesus de salto. Nunca a vi fazer o bacon. Ninguém? Alguém entende o que eu estou dizendo? Você nunca a viu transando!
+47.1|Bem, eu sei que ela tem o corpo e sei que ela se vira na cama, então confira e confira. O problema é que não sei como ela vai se comportar diante das câmeras. Nunca fiquei parado olhando ela ir para Jesus. Nunca a vi fazer bacon. Nunca a vi ficar com o mano dela. Alguém? Algum de vocês dois está percebendo o que estou escrevendo?
+48|Meus agentes. Não temos supervisores, eu não vivo em um universo distópico de romances para jovens adultos, obviamente. Imaginei que, já que meus peitos estão na internet, eu daria o braço a torcer. Mas é, se conseguirmos combinar as coisas para que eu possa vê-la em ação, vou gravar alguns vídeos e entrar em contato com as pessoas certas. Parece bom?
+49|Ei, estou aqui só para brincar com a Rachael, eu nem conheço a maioria dessas pessoas. E assim por diante, manos.
+50|Esses dois são intensos. Estou curtindo muito isso. Meus agentes vão adorar essa coisa. Adoro!
+50.1|Esses dois são intensos. Além disso, eu coloquei vocês dois nisso também! 2 por 1, puta merda, eu estou realmente curtindo isso. Meus agentes vão adorar essa coisa. Adoro!
+51|Vou mandar depois do grand finale. Você nunca viu um filme pornô, Ash? Meu Deus, alguém tem uma escova de dentes elétrica ou algo assim? Estou realmente surfando nessa onda, se é que você me entende.
+52|Espera aí, Madison não sabia? Madison, você queria fazer um teste para a minha agência de talentos... certo?
+53|É, e pornografia?
+54|Puta merda, eu conheço bem esse tom de voz. Ashley, se abaixa para eu ver... vocês dois estão prestes a ficar com tesão pra caralho. Estou falando de bruços, bunda pra cima, é assim que eu gosto-...
+55|Merda, a libido desse cara está falando demais. É melhor torcer para que ele não comece a se impor, Ashley. Vai ser como um impasse mexicano aqui... estilo Tarantino. Ele faz o dele, eu faço o meu... você vai acabar no fogo cruzado.
+55.1|Puta merda, a libido dessa garota está tomando conta dela. É melhor torcer para que ela não comece a se dar mal, Ashley. Vai ser tipo um impasse mexicano aqui... estilo Tarantino. Mãos na boceta como se estivéssemos pegando uma arma... você vai ser pega no fogo cruzado.
+56|O Cabo Clitflicker vai estragar o vídeo! Ashley, você tem que fazer o que tem que fazer. Eu levaria um tiro eu mesmo, mas Madison e Derek estão ganhando dinheiro aqui, e eu tenho que gravar tudo. Você consegue, soldado. Coloque essa bomba peniana na boca antes que ela dispare!
+56.1|Mmmm... A Madame Clitflicker vai estragar a filmagem! Ashley, você tem que fazer o que tem que fazer. Eu levaria um tiro eu mesmo, mas Madison e Derek estão ganhando dinheiro aqui, e eu tenho que gravar tudo. Você consegue, soldado!
+57|A confirmar
+58|Soldado, eu diria que esta é a nossa chance de entrar e contar a eles o show que eles deram. Abram bem essas portas!
+58.1|Dupla gozada! Soldado, este pode ser o meu melhor trabalho até agora. Eu diria que esta é a nossa chance de entrar e contar a eles o show que eles deram. Abram bem essas portas!
+58.2|Dupla gozada! Soldado, este pode ser o meu melhor trabalho até agora. Eu diria que esta é a nossa chance de entrar e contar a eles o show que eles deram. Abram bem essas portas!
+59|Regra número um da produção pornográfica: nunca interrompa o cinegrafista.
+60|
+61|Estou nessa nessa. Admito, gosto de ser controlado.
+62|Você deveria tomar cuidado com esses vaporizadores, cara. Eu tive um parceiro que perdeu todo o efeito do pau depois de usar essa porra por muito tempo. Ele teve que mudar o nome de Zak de Pênis Duro para Zak de Meio-Pé. Eles não agendam mais.
+63|Aham. A) Se eu fosse qualquer outra mulher, isso seria horrível para você. B) Eu deveria gostar disso? Você deveria? Você acabou de enfiar a palma da mão suada inteira no meu peito, como se tivesse a resposta para "ALEX, EU ACEITO: COMO SER INCEL POR 800 DÓLARES". C. Esse é o meu tamanho de sutiã. Caso seja isso que você esteja procurando.
+63.1|Meu Deus, MEU DEUS! Eu... eu não acredito nisso! Como pode... como alguém tão incompetente em apalpar uma garota pode? Sai daqui, você vai ter que se esforçar muito mais para conseguir isso. Meu Deus, eu me sequei imediatamente. Como se alguém tivesse colocado uma lixa no micro-ondas...
+64|Nós realmente vamos ter que melhorar sua técnica. Você tem muito a aprender. Mas eu gosto da apreciação. Vamos lá... continue apreciando.
+65|Oooh... lá vamos nós. Você chegou na fase de "aguentar firme", né? A maioria das pessoas não dura muito depois disso...
+65.1|Mmm, sem dúvida, concentre-se nisso. Mas olhe nos meus olhos quando terminar.
+66|Nossa. Você tem jeito com as mulheres. Como alguém poderia resistir a esse tipo de movimento? Você sabe que tramas pornográficas não funcionam da mesma forma na vida real... certo? Eu não vou pagar por uma "ajuda" com quarenta minutos de sexo alucinante. Embora, sejamos honestos, seriam mais como dois.
+67|Isso... não limita. Tenho quase certeza de que há alguns banheiros e quartos aqui, e não há um chuveiro externo à vista. Obrigada de qualquer forma, vou ver se consigo encontrar.
+68|Hã, não. Por mais tentador que seja, se eu for me entregar a um voyeurismo à moda antiga, não será com você como meu acompanhante.
+68.1|Olha só você, cheia de iniciativa e... coragem. Está praticamente escorrendo de você. Eu topo. Me aponte a direção certa, rápido!
+69|Ah, qual é, eu não beijo e conto para ninguém. Beijo e cuspo, bola de neve, talvez... mas informação privilegiada não é barata, a menos que você tenha ganhado meu desconto de "amiga com benefícios".
+69.1|*Zombaria* Você acha que ter um mandelier pendurado na parede te deixa gostosa? A indústria não se importa com o tamanho das suas pedras; o que realmente importa é o tamanho do seu pênis.
+70|Isso é surpreendente? Paus grandes são o que as garotas realmente sentem quando são fodidas. Dã.
+71|Acho que você vai gostar da próxima parte do seu treinamento, mas, infelizmente, preciso te pedir um grande favor primeiro...
+72|E mais uma coisa, cadete. Eu não fico louca com qualquer uma, então, em algum momento da noite, você tem que me provar que é capaz de conversar e seduzir no meu nível, e que te ajudar vai valer a pena. Um bom e LONGO tempo. O retorno do investimento também é importante na pornografia, sabia?
+73|Para começar, espero que você tenha uma língua de prata nessa sua boca deliciosa. O que estaríamos propondo pode não ser a primeira coisa na mente do nosso alvo. E isso significa que você vai ter que falar docemente. Isso vai ser muito mais convincente do que você ficar aí parado parecendo idiota enquanto eu faço todo o trabalho. Se você não consegue lidar com isso, estamos encrencados. Bem, você está. Eu vou conseguir o que quero, não importa o que aconteça.
+74|Sabe de uma coisa, cadete? ...É. É, estou impressionado. Graças a mim, você é um cara durão de verdade e alguém que eu não teria vergonha de reconhecer em público. Mas não fique tão orgulhoso de si mesmo. Você ainda precisa fazer mais "amigos especiais" hoje à noite, lembra? Seja um amor e encontre outro amante para nós, ok?
+75|Awww, cadete. Tsc tsc tsc. Ainda é uma decepção. Mas eu gosto da confiança. Sério, DAR O SEU MÁXIMO e fracassar miseravelmente, em público, onde as pessoas possam te ver? Respeito.
+75.1|Bem, ainda não está ótimo, cadete. Nem bom, na verdade. Mas estou me sentindo um pouco menos desgastado. Faça o que fizer, continue. Você consegue!
+76|Boa escolha, cadete! Espero que você tenha acalmado as coisas o suficiente para que eu possa fazer minha mágica. Só posso fazer até certo ponto se você já conseguiu fazer uma bagunça. Além disso, você é meu parceiro, então fique comigo e esteja preparado para pensar rápido. Siga meu exemplo e tudo vai ficar bem. Não estrague tudo!
+76.1|Você acha que a Madison vai aguentar depois da merda que fizemos? Tudo bem, cadete. Vou confiar em você se acha que a compensou, mas ela ficou bem irritada. Vamos dar uma chance. Pelo menos vai ser divertido.
+77|Mmmm, não, desculpe, cadete. Eu não faço esse tipo de coisa com celebridades. Sempre acaba em drama. E alguns meses de hashtags sexualmente desconfortáveis. E, inevitavelmente, lágrimas... não minhas, obviamente.
+78|Tudo bem, tudo bem, cadete. Acho que consigo me entreter um pouco. Mas só porque eu tenho fé que você está tentando fazer dessa a transa mais sexy que eu já tive em... doze a vinte e quatro horas.
+78.1|Nossa, cadete. Mais assaltos? Eu consigo me entreter por um tempo, mas suas chances de um ménage à trois estão diminuindo a cada minuto. É melhor que esse pequeno atraso valha a pena.
+79|Droga, cadete! Eu te disse para ficar perto de mim. Gosto de fazer muitas coisas sozinho, mas esse tipo de coisa geralmente acaba no meu OnlyFans. Da próxima vez que eu disser para você continuar, faça o que eu digo! E diga "sim, senhora" enquanto faz. Eu gosto de submissão.
+79.1|Que diabos, cadete?! Eu não disse que não faria TODO o trabalho? Aparentemente, acompanhar uma garota enquanto ela propõe uma festa de sexo fantástica é pedir demais. Às vezes me pergunto por que me dou ao trabalho.
+80|Cara, você só tinha um trabalho! Tudo o que você precisava fazer era encontrar UMA pessoa que não conseguisse irritar completamente, e eu não sou fã desse drama todo. Pare de me fazer perder tempo, cadete, e venha me ver quando estiver recuperado.
+80.1|Nossa, tem alguma coisa que você não conseguiu estragar hoje à noite, cadete? Esqueça a vontade de transar... alguém GOSTA de mim nessa festa? Estou pensando seriamente em mudar nossos planos para hoje à noite.
+81|... Qual é, cadete. Ou você não investiu tempo suficiente para fazer essa festa te agradar, ou está sendo preguiçoso e esperando que eu faça todo o trabalho. Se você quer uma chance de fazer isso acontecer, vai ter que se esforçar mais!
+81.1|Isso realmente não está indo como eu esperava. Por que você não tira um tempo e pensa bem nos seus próximos passos, porque estou começando a achar que você vai acabar com a minha reputação agora, e na indústria pornográfica, reputação é TUDO?
+82|Que porra foi essa?! Achei que você tinha dito que aguentava ser um bom parceiro? Vai ter que se esforçar mais se quiser alguma chance de isso dar certo hoje à noite. Você está como um cervo no meio dos faróis... ou, não, não, pior. Mais como um bebê pego pelos faróis. Por que você não... sei lá, vai praticar na frente de um espelho ou algo assim e volta para mim quando estiver pronto?
+82.1|Cadete! Argh! Você está tentando estragar nosso plano de propósito?! Isso é uma piada com você? Argh. Vou respirar fundo e talvez reconsiderar minha escolha de companhia para hoje à noite.
+83|Escute, cadete. Eu gosto de você. Gosto mesmo. E entendo que você esteja tentando, mas acho que isso não está funcionando. Você teve várias chances e continua errando. Por que não damos um tempo por enquanto e nos concentramos em aproveitar outros aspectos da noite, hmm? Gosto de manter o sexo como algo positivo na minha vida, e você está me estressando sem parar.
+84|Sigam-me, pessoal. Se tem uma coisa em que sou excelente, é encontrar o lugar perfeito para transar. Para esta sessão em grupo, eu conheço o lugar perfeito. Continuem assim, cadetes, ou vocês podem ficar de fora!
+85|Oi, Amy. Você é nova na cidade, certo? Nunca te vi saindo com os outros antes. Mas você é bem adorável. O que você acha de nós três irmos a algum lugar e sermos adoráveis juntos? Ah, e pelados. Muito nus. Se é que você me entende.
+86|Amy, certo? Minha amiga aqui e eu não conseguimos deixar de notar como você está... nua. Isso está nos deixando bastante desconfortáveis porque nós duas temos uma vontade incontrolável de te foder até a morte. O que você diz? Lá embaixo?
+86.1|Ei, Amy. Minha amiga aqui me disse que você é muito boa de cama, mas eu não acredito. Quer provar que estou errada mostrando para nós duas o que você sabe fazer? ...Ao mesmo tempo, é claro.
+87|Amy. Você está fazendo aquela coisa de "falar demais" de novo. Venha conosco, e encontraremos outros usos para essa sua língua.
+88|Ah, Ashley. A adorável irmãzinha da Madison. Alguém já te disse como é fácil olhar para você? E o jeito que seus peitos imploram para serem tirados dessa blusa... mmm. Tenho uma proposta. Que tal você deixar minha amiga puxar aquele cordinha nas costas do seu vestido e, assim que esses peitos lindos estiverem livres, eu imediatamente os coloco na boca? Ah, e obviamente depois disso, nós três transamos como coelhos. Por favor, me diga que você está por baixo. Fiquei toda molhada só de pensar nisso.
+89|Bem, se não uma mocinha, peitos lindos pessoalmente. Preciso te dizer, Brittney, conheço alguns produtores que implorariam para ter esses seus peitos lindos na tela. Mas eu, estaria disposta a me contentar com uma exibição privada e exclusiva. O que você diz? Que tal nós três nos sujarmos um pouco entre os lençóis?
+90|Você me fez "dar um tapa na minha bunda". Vamos enlouquecer com isso!
+91|Ei, Derek! Um passarinho me disse que você tinha o pau mais impressionante da festa. Ok, bem, eu era sua amiga aqui. No entanto, nós duas estávamos conversando e adoraríamos experimentar. Quer se divertir?
+92|Ei, Franklin! Dizem por aí que você é meu maior fã. Estou a fim de me divertir. O que você acha de eu e meu parceiro conhecermos um pouco mais intimamente algumas regiões do seu corpo, que também ouvi dizer que são bem grandes?
+93|Frank, o acordo é nós dois, ou nenhum de nós.
+93.1|Vamos lá, Frank, jogue limpo. Prometo que você vai esquecer essa cara de merda depois que comer a minha.
+94|Frank... isso está acontecendo. AGORA.
+94.1|Frank, o que eu disse?
+95|Ei, Katherine! Adorei a roupa. Você parece uma safada de lençóis. Quer testar minha teoria? Estávamos quase subindo as escadas.
+96|Ei, Leah. Gosto que você use roupas largas. Isso vai me poupar tempo tirando-as. Quer dizer, se você estiver interessada em se juntar a mim e à minha amiga para uma diversão pelada...
+96.1|Ei, Leah! Preciso dizer que a única roupa que eu gosto mais do que roupas largas é nada. Será que isso me poupa de ter que tirá-las se, digamos, você estivesse interessada em se juntar a mim e à minha amiga para uma diversão pelada?
+97|Ah, droga. Estou até com um pouco de medo. Mas principalmente excitada...
+98|Ei, Madison. Obrigada por me convidar para essa festinha legal que você está dando aqui. Deve ser um trabalho difícil ser a anfitriã da festa sozinha. Isso pode ser estressante. O que você acha de eu e essa gostosa aqui irmos para o seu quarto e tentarmos nos aliviar? Nuas, de preferência.
+98.1|Ei, Madison. Hum... lembra da gente? Obrigada por nos convidar para a festa! Estávamos pensando se você gostaria de subir com a gente e ficar um pouco esquisita debaixo dos lençóis! Talvez aliviar um pouco o estresse da anfitriã da festa. O que você acha?
+99|Oooh, agora sim. Ok, cadete, aperte os cintos. A coisa vai ficar séria.
+100|Bom trabalho, cadete! Pode acabar me chamando de Tenente antes do fim da noite! Ou talvez prefira senhor? Por favor, senhor... quer me comer?
+101|Ei, Patrick! Tem uma garrafa de vinho debaixo da sua calça ou você só está feliz em me ver? Espera, nem responda. Você está com álcool ou um pau duro, então está bem equipada de qualquer maneira, o que me leva à minha próxima pergunta. Gostaria de ter um momento sexy só nós dois?
+102|Nossa, você já está... nua. Impressionante. Quanto à Rachael, por que você não desiste enquanto está ganhando e aceita o acordo como está?
+103|Ei, bicha! Obrigada por me convidar para a festa. Estou me dando bem com uma linda jovem parada ao meu lado, e fiquei pensando... não exatamente. EXIJO que você participe e me ajude a colocar esses olhinhos lindos de volta nas órbitas. O que me diz?
+104|Sério? Droga, eu meio que esperava que vocês dois tivessem se conhecido melhor.
+104.1|Ora, ora, parece que vocês dois começaram com o pé esquerdo, o que significa que nenhum de nós vai começar agora. Triste!
+105|Ei, ei, pequena senhorita rainha do baile. Você suava a noite toda. Que tal dar um tempo e nos deixar transar com você até cansar? Desculpe, fui um pouco precipitado?
+106|Ok, Cadete, temos um grande problema. Todos os meus lugares favoritos para transar já estão ocupados, e a maioria está ocupada por causa de toda essa merda que você anda fazendo quando deveria estar me colocando em primeiro lugar. Vá terminar qualquer outra travessura em que esteja se metendo e venha falar comigo quando terminar.
+107|Droga, parece que nosso alvo está meio ocupado agora. Tsk tsk, como eles ousam interferir nos MEUS planos! Sorte deles, pretendo ficar um pouco hoje à noite. Podemos tentar de novo mais tarde. Na minha experiência, você sempre consegue um resultado melhor pedindo para alguém te foder quando NÃO está ocupado com outra coisa.
+108|Vamos lá, Cadete. Eu disse "siga minha liderança", não disse? Não me lembro de ter te dito para falar com ninguém. Você realmente precisa aprender a ouvir instruções se quiser que isso funcione hoje à noite.
+108.1|Siga. Minha. Liderança! Essas palavras não estão no seu vocabulário, cadete? Deixe as apresentações comigo e não tente fazer isso acontecer sozinho, porque as chances de isso acontecer são tão pequenas quanto o pau do meu primeiro colega de elenco... e quem sabe quando foi a última vez que você transou com aquele cara. Na verdade, eu... acho que ninguém sabe. Não deixe isso acontecer com você, ok?
+109|Ei! Lembra da gente? Tivemos aquela conversa adorável com vocês sobre todos nós deixarmos nossas bandeiras de aberração tremularem juntos, e vocês ficaram tipo "claro que sim!" e então... bem, você sabe o que estou tentando dizer. Nós todos íamos transar. Enfim, vamos tentar de novo. Isto é... se você ainda estiver interessado?
+109.1|Bem, bem, estou com vontade de te ver de novo. Lembra quando nós três conversamos mais cedo? Era sobre transarmos juntos, se bem me lembro. Enfim. Nós dois vamos tentar de novo, e ainda temos espaço para mais um. Ainda aí embaixo?
+110|Ei, Cadete, não sei o que é, mas aparentemente você fez alguma coisa entre alguns minutos atrás e agora, e estragou totalmente o clima. Não sei como conseguiu estragar isso tão rápido, mas no futuro talvez você queira ficar do lado de alguém quando estiver a caminho de... sabe... transar com ele?
+110.1|Ei, Cadete! Não sei o que aconteceu entre vocês dois nos últimos minutos, mas aparentemente você é muito bom em irritar as pessoas. Muito rápido. E isso significa nada de pegação para ninguém! Se juntem e façam as pazes se quiserem tentar de novo, e pelo bem da minha libido, parem de incomodar as pessoas!
+111|Ok, escutem, cadetes! Estamos prestes a transar! Ninguém sai até que todos gozem. Entenderam? Ok!
+111.1|Aqui estamos! Aliás, se alguém aqui nunca fez isso antes com uma brisa fresca fazendo cócegas na bunda, você vai se divertir. E não tenha vergonha de estar lá fora. Ninguém vai se importar. Aliás, você está comigo, então eles vão achar que é bem normal. Você vai estar ocupado demais transando para se importar de qualquer jeito. Aliás, TODA a sua transa deveria ser direcionada a MIM por enquanto. Agora vamos começar, certo?
+111.2|Ok, fiquem comigo aqui, pessoal. Estamos fazendo isso aqui mesmo! Eu adoro transar ao ar livre. É uma adrenalina! Se algum de vocês, iniciantes, estiver com vergonha, apenas limpe a mente e esqueça os olhares curiosos e os olhares errantes. Você não vai querer prestar atenção em nada disso de qualquer jeito. Vou precisar de 100% da sua atenção de qualquer jeito. Hora de explodir, cadetes! Vamos nessa!
+111.3|Ok, meus amores. Ninguém aprecia corpos durante o sexo mais do que o seu, então eu só quero agradecer por estar aqui e concordar com isso. Agora vamos foder!
+111.4|Espero que você consiga me acompanhar. E lembre-se, MINHA satisfação vem em primeiro lugar. Isso nunca teria acontecido sem mim. Lembre-se disso e, mais importante, ME MOSTRE isso. Que as festividades comecem!
+111.5|Bem, finalmente estamos todos aqui. Devemos fazer isso? Não respondam isso. Eu respondo por vocês. Definitivamente devemos. Agora, mostrem à Srta. Vickie o seu "Melhor Jogo", cadetes. Me deixem orgulhoso.
+112|Mmmm, você está sentindo isso, cadete? A antecipação? A tensão? Eu praticamente consigo sentir o gosto! ...Ei. O que houve? Você está com uma cara que diz "alguém cagou na minha massinha de modelar". Duas coisas que eu nunca mais permitirei em contratos pré-cena, aliás.
+113|Ugh, sério? Para sua sorte, sou bem compreensiva com esse tipo de situação. Vou te dar alguns minutos para se preparar para nós. Mas só alguns, ok? Afinal, sou uma garota muito, muito OCUPADA.
+114|Olha, Cadete, eu sei que você está fazendo o seu trabalho, mas estou cansada de esperar. Vamos encerrar por enquanto e podemos voltar quando você estiver pronta.
+115|Certo, Cadete? Você finalmente está pronta para fazer isso com a gente?
+116|Hmm, ISSO realmente caiu no gosto. Quero agradecer a todos por VIEREM. Isso foi ótimo!
+117|Viu, Cadete? Eu disse que era perda de tempo! Você é como uma daquelas pessoas que ignora todos os avisos nos videogames e ainda luta contra o chefe principal antes que ele esteja pronto. Eca. Acho que deveríamos deixá-la em paz. Nós a irritamos muito, e acho que não tem mais volta. Se eu fosse um daqueles personagens de videogame, meu conselho seria desistir.
+118|Certo? É melhor que seja divertido... e não quero dizer divertido para os padrões DESTA festa, porque um torneio de damas facilmente se igualaria a isso. Certo, vou morder a isca. Vou lutar para chegar lá.
+119|Puta merda, isso parece exatamente com a cena que fiz em Gothic Gangbang 2. Um pouco amador na execução, mas não é uma tentativa ruim. Madison, querida, se você quiser fazer um teste para um dos meus filmes, é só pedir. Não precisa se fazer de tímida.
+120|Acho que posso lutar para chegar lá. Não é como se eu estivesse fazendo mais nada divertido nesta festa. Aparentemente, é aqui que a diversão acaba. Que tipo de arte é essa, afinal? O único tipo de arte que costumo apreciar é a nudez, mas, ei, eu sou mente aberta.
+
+[Responses]
+ad499b3d-389a-49e4-babe-265e70a49928|Derek. Acho que ele vai virar palhaço.
+506d4056-55f9-4d1e-bd49-3a2aa81860fe|...Frank. Dizem que o medo é afrodisíaco, afinal. Então, é... Frank.
+216560d3-ff57-4f19-af65-e672a6af2c0c|Leah, com certeza. Hm, imagino como ela lidaria com nós dois...
+e303ccbb-02bb-418b-89fb-7ba73a480e5b|Patrick. ...Eu curto coisas bem estranhas, ok? Não pergunte
+b75a87ee-c322-410b-8972-7a11837f4608|Onde estão aqueles caras da Grumpy Gaming? Vamos ver se eles estão a fim de mim!
+760ca3c0-d348-4be2-9cd4-a41d031b61f7|Lety! Lety! Ela é tão fofa!
+9c24e65d-3d7a-480b-b662-60f43832a33b|Estou intrigado e pronto para começar... mas me dá um segundo.
+23241548-9e78-47ee-a8a4-263080701a72|Não é justo! Você é tipo um mágico com a boca!
+29ac03ba-054f-4491-9a12-cb41a61e518a|Mentindo, trapaceando e roubando, meu bem. Sem problemas.
+bc460da6-29aa-4463-a161-57936c616778|Segui seu conselho e me esforcei muito. Aliás, obrigada por isso!
+d06c6c2b-6022-4367-a931-db9ef1980082|Porque obrigada. Isso me descreve perfeitamente... (POV)
+5f7b7b0f-d368-421e-a50e-afd6d32e5046|Respira fundo...
+0cdc33e6-a06b-4e46-b277-0d1350fb03aa|Me mostre como uma atriz pornô faz um boquete.
+503c90ea-eb42-4a73-9eee-1977d9534e5d|Não sei como fazer isso soar sexy, mas... vamos tentar sessenta e nove, sem engasgar.
+78e8d62a-e1a5-4121-a8c1-307b58aedeb7|Vamos esfriar a cabeça por um segundo... quer perder tempo?
+90af405b-b2b5-4898-9192-a8f25f856ee8|Vickie, estou com saudades. Que tal você me masturbar de novo?
+bdc2408f-a54f-49d1-b583-4415ccf2f42b|Tarde demais... ahh merda!
+65c132bb-ce66-4edc-9644-9c979e1e6375|Sem problemas.
+2e138df7-43cb-43bd-8826-300e2cf6de78|Acho que eles estavam ficando quentes e pesados no sofá perto do armário de bebidas.
+e4cc737e-65d8-4716-b320-d039f751aa08|Lá em cima, mas não sei onde. Descobriremos quando chegarmos lá.
+774232bb-b3ef-4702-82d2-5f9c299bb834|Eles estão escondidos nos arbustos perto da fogueira! Furtivos!
+ceb714da-c5a2-4d11-b836-1392904b42b6|Em direção à música! Isso deve ter feito eles se chocarem e rangerem...
+c14c3dfd-48a1-48dc-8cb5-1581fffb185d|Bem, a Rachael pediu sua ajuda. Não sei para onde ela foi, mas disse que ia verificar... 'os lugares de sempre'.
+42b7b31c-9fde-4d4f-bc2e-4f4ef85c2569|Droga, sabe de uma coisa? Acho que eles podem... ter acabado. Te aviso se ouvir alguma coisa de novo.
+6c88974c-99ae-4c6e-a177-e7a8487a96ca|Droga, tudo bem.
+1fc736e9-7a25-4825-bb5e-4e9cb2858102|Claro. Certo. O que eu estava pensando?
+ecda4580-f34c-4cca-9128-7acc92aecc09|Como especialista em sexo, dou um peso extra à sua opinião sobre isso.
+5f6821d0-5e0b-48c1-9881-b1a164bd3345|O especialista em sexo falou. Mais um para mim!
+e1466570-cb41-4f38-92f2-a098cbcb3eb7|Droga, lá vamos nós, não é mais uma missão...
+aaaaa966-78fd-4b76-b997-3e2eb0540460|Te entendo em alto e bom som!
+39dd6482-b78f-4e16-bd7e-00e50736e352|*Gulp* Talvez eu possa praticar com você primeiro? Sabe... para a ciência.
+e3f70a85-a749-45a8-94eb-3910eeb6964f|Especial. Amante. Com certeza, é possível!
+1fc5c827-ec04-41df-a9be-1be613ce2c7b|Obrigada, Vickie, isso é tão inspirador.
+d81cedb6-3315-41d9-b1f4-75eb6bc33370|Estou pronta e tenho absoluta certeza de que vai dar tudo certo. Vai em frente!
+6d18dea9-ca74-4b55-89a1-b0d6e523e79d|Bem, no fim das contas, lágrimas são um lubrificante terrível, então concordo com você.
+bf826c16-0167-470b-98bc-4aae69222949|Vai valer muito a pena!
+a80d47d3-7116-4c09-ace8-c79185940975|*Suspiro*
+c22f1d01-7eb9-476f-aea3-16755f1b9da7|Desculpe... Vou fazer direito!
+e1340061-6e2a-4baa-899b-17d7757099cd|Ativando o MODO DE ESFORÇO MÁXIMO. ...OK, é. EXPERIMENTE O MODO BEM FORTE!
+ff2c858a-1123-4e2f-b0f6-e5445a0a9c3e|Ops, desculpe por te decepcionar. Vou trabalhar nisso. Te vejo em breve...
+b3b48673-548b-4992-ac12-3634cb597fe9|Droga. Ok. Você tentou respirar fundo? ... Eu conheço esse olhar. Estou indo embora.
+378cb3f6-7932-477a-9b8c-8ca38222caa4|Seguindo você! Destino, gozamos aqui!
+de230d80-d654-47f5-b762-cbd9eadfcbd9|Só para esclarecer: completamente nua.
+356b213d-5aa8-4cae-a056-20308901a0fe|Ah, olha só ela. Ela está lá embaixo!
+1a3e8149-e1d1-4e19-b729-a3da8b89fa25|*Continua*
+21aa55c6-027e-4e2d-92ff-49f3c93a1fda|*Continua, cruzando os dedos com mais força do que nunca*
+7dae4d21-026e-4f22-849c-cc787c451708|Sim! Sim! E... ah, certo. Eu não.
+e5d99df3-2e1c-4324-a5b4-949c8c953120|*Acena com a cabeça vigorosamente*
+0316dd3b-ea41-4ce4-a916-0a66b3f51304|Isso mesmo! Então, o que você diz, grandão?
+ab78a8b3-406a-4459-8066-6bf809d8e116|*Engula em seco...*
+cf5390bd-dbaf-452b-8bf6-2457b667915f|Você ouviu, Frankie!
+8a135f81-16f1-4c24-9713-88d94dd7f916|Este é um pedido que você vai gostar. Eu prometo.
+7a37b56d-373c-4146-baca-52de862316d8|*Gulp...*
+f86794ef-123a-449d-9952-39efaaeab6a2|Aguardo sua decisão, Mestre.
+550d6d8e-8e9e-4cb9-b6da-814dfbdae7a7|MUITA diversão nua. Para deixar claro.
+ae0468d5-8ea1-4a42-a916-1d550a2a8e74|Haha, com medo? Pffft. Definitivamente... definitivamente não. Depois de você.
+6de29a7e-3bfb-42d1-b721-92b22e2c60bb|Nossa, que ótima ideia, Vickie!
+cfadffb8-a9f6-4e50-ba6b-6932860e97ea|Estou pronto pra caralho. Direto!
+21fd90f2-4db8-4254-83ca-9b2ce5638ea4|Entendi. Acima e abaixo. ...Ok, terminei. Vamos nessa!
+0b862d38-503b-45b2-95bd-1e58a47dcf42|Sem calças vinho. Provavelmente.
+ba29a45f-19b9-4523-93e4-7af3ef0ec7fa|Bom conselho. Vamos, Pat, estamos esperando por você!
+6b4d23e5-b3e5-4ced-9b31-64114be9bb4a|Sim, por favor. Preciso que você revire os olhos... imediatamente!
+5a2e728a-d007-4cf3-8475-b8f630ab876d|*Continuar*
+0c8c88bc-31b0-4202-974d-71d34e334821|Eu não poderia ter dito melhor.
+2886025b-171c-4a23-b482-8d9104a7e091|Achei que ficar amarrada fosse uma coisa boa? ...Tenho muito a aprender. Até breve.
+78488520-6d16-4ee5-863b-6c5ea5b8eb3c|E sorte a minha!
+e61e7368-bde1-442f-bdc2-6b633080690c|Minha culpa. Vou melhorar. Muito melhor. Eu prometo!
+67de980f-bb15-4a1c-bb7c-ad0d3ffd9b12|Vamos lá! É a Vickie, e de verdade!
+327cf228-cf78-4e59-b0d0-7cad5afd4358|Ok, desculpe, Vickie. Vou me arrumar... legal, ou algo assim.
+f2c279cd-78bc-4282-a307-546735aab183|Aqui. Nós. Vamos lá!
+dd538f17-8f94-4c90-8d09-8c8308967811|Foi mal. Mal pude esperar pela nossa aventura selvagem. Preciso de alguns minutos para recarregar as energias... espera, o quê?
+337aca9e-8709-4d82-8841-d99e23f4307d|Entendo. Obrigada, Vicky!
+713b44a2-8b6f-4004-a859-6e6a687203b0|E-espera... porra! Quer dizer, eu quero foder! Eu... *suspiro* droga.
+3d1f5dba-b08d-43a9-9b77-5b3c8ccd7be0|Porra, sim, você sabe disso!
+368e30b9-0762-4a69-b6c2-0f3e8ac61ed8|Desculpe, não... preciso de mais um tempinho.
+ea8de797-57d4-4bd6-885d-563027c0c9c8|Porra, sim, foi!
+f94827c1-e098-4352-89b8-8fe3fc9d5a48|Prefiro tentar de novo e de novo até que a única opção seja desistir da raiva. Mas, anotado.
+6acbeac2-61de-4936-9504-f133b52a2e34|Obrigado, Vicky.
+821089f2-713f-4abf-a891-7b4bffb36435|*Pegadinha bem-sucedida!*
+25d9f9b5-d18d-45f4-9b0d-e5b641597e72|*Continuar*
+0d2f04da-4579-45fe-a3af-02639b2b8767|Acho que você vai gostar deste texto.
+b1701139-d46f-4807-87c0-09c0d3387011|Então, Vickie, bolas grandes são desejáveis na indústria?
+80010fe1-489d-479d-8a73-1d13576d51fd|Ok, como posso provar que sou digna da sua mágica de ménage?
+e2a00da6-07ef-4b1e-833d-9aec0cf5a348|Eu me sinto sexualmente empoderada e lisinha pra caralho. Sou a parceira perfeita para um ménage ou não?
+6c565458-28c2-4525-bd5b-542edce7aefa|Madison disse que precisava de você quando você tivesse um minuto. Ela está lá em cima, no quarto dela.
+5273a20d-ce84-4b62-896c-af9e54e84942|Madison está organizando uma exposição de arte lá em cima e quer muito que você veja.
+fb7e1e36-15de-4c07-9198-a6f4b800dccf|"Vickie, eu estava querendo experimentar outro "amigo especial". O que você acha?"
+bf3cbb94-c60b-434f-9dbc-da2a3eb376d2|"Estou de volta e fiquei pensando em quem poderia ser o nosso "amigo especial"!"
+38afaedd-7c1b-4da3-8c29-611eadd59f45|"Opa! Sobre o nosso novo "amante especial"... acabei de receber uma mensagem. Pode esperar um pouco?"
+1af99344-fd04-4612-8646-54a21fc2e766|Vickie, posso ter um encontro com você e nosso "amigo especial"? Preciso de alguns para... limpar nosso futuro bagunçado.
+4007f2fd-85af-4197-b009-7c24e439780f|Vicky! Acho que ouvi barulho de gente sendo maldosa. Quer dar uma espiadinha?
+1aa5887c-9041-4133-bceb-daf78f2a1861|Ah, a banheira de hidromassagem! Ótimas lembranças, né? Sente-se, relaxe, e talvez possamos fazer algo mais...
+f3f652b1-c07a-42e8-815e-a22e5fa5a492|Acho que talvez eu não devesse ter ido parar no apartamento anterior. Ou no sofá. Ou com o Frank...
+dc731e64-02aa-4b9f-851a-6dee550323f2|Caramba! Ele gosta de mim!
+7946245b-b5ae-4fea-b1e8-c65928df78aa|Acho que te amo.
+4ee8aeb3-e40c-4c3b-bb9d-c6c3e27f2096|Eu já disse que te amo?
+ea61a91b-2947-42a9-8ee8-04f678f74d3b|Entendo!
+f683c2fb-6125-46f6-b185-9de3eb1a335e|Adoraria ver mais do lado louco da Madison!
+89fb1f1a-0cb3-46e0-9da3-46c8afba4341|Consegui fazer a Katherine me amar!
+8ace8235-7d6c-4299-9253-cdc97bcf619c|A Ashley é tão fofa. Vamos mimá-la!
+addc31f5-2077-4a35-a459-27394e31a2e6|Aposto que a Brittney seria muito divertida!
+bcb94b52-83f2-49c5-b105-b17f302d7d48|A Stephanie já é bem selvagem. Vamos ver do que ela é capaz!
+b75e76cf-8e02-447b-8a70-3ab38532cb0a|Vamos ver o que podemos fazer com a Rachael!
+c8059e6f-8f59-48b0-bccb-91999430f949|A Amy está se aquecendo para mim.
+214606d8-a2a5-45ef-88dc-78eeb29cfe28|Talvez eu possa praticar com você primeiro? Sabe... para ciências.
+2843076f-681a-46de-b226-37f94888a5dc|Ninguém gosta de mim...
+39912747-9757-4b8a-b460-7c592dce839f|Foda-se, desenvolvedores da House Party!
+34a040b9-0659-498b-9358-deca95355944|Godzilla!
+08e508b2-9de7-4c33-a6cc-749ebbdca3c5|Ei, amor... quer brigar?
+1c7d7ec0-81ce-46c7-a626-8dddcd220dd8|Então você vem muito aqui?
+8c25d999-2138-4a0e-91ad-f873a90c5b09|Todos os membros da sua base são nossos?
+e54c37ae-105b-4809-97fa-ab21bee2ddb9|Sabe, você tem um sorriso muito bonito.
+f5be0830-8b42-469c-8b59-1d2f21032606|Ei, essas marcas de piercing no seio que vejo na sua blusa são?
+fdfa1081-1378-458c-858f-9f368e7b7740|Anotado.
+f7333b5e-4f10-49da-8cdb-ca3ebb86db53|Agora que penso nisso... Acho que não.
+b69ca2ed-a9e8-4416-8912-073f37fec76c|Gênio! Carisma mais um!
+02cef8ac-0e68-44c8-90bd-f1de734359e7|Estou nessa!
+a66d20f1-2844-47a6-8798-879b34239a30|Estou nessa!
+bb3716c8-7d0e-4b82-8674-92575b7cb8cb|Estou nessa!
+b6a21a29-fa79-441b-ac11-061d1d4c295f|Estou cuidando disso!
+16bad42b-5c68-4fe2-9586-f22fd1baec29|Acho que suas informações estão um pouco desatualizadas. Ashley e eu estamos ótimos agora!
+117df870-47e4-4b27-8fbe-a79e4fed1861|*Mentira* Ah, sim, Ashley e eu estamos ótimos agora, na verdade. Deu tudo certo!
+3252131a-abfc-41ae-a1a6-9aa6052e730d|*Mentira* Ah, sim, Ashley e eu estamos ótimos agora, na verdade. Deu tudo certo!
+5c11a4b7-a8ae-4e8b-accb-22850a2b21ef|Eu deveria estar anotando essas coisas... espera... você disse sim?
+a46b7471-7c59-4334-b473-f11cde55c910|Mostre o caminho!
+691efae0-2f2c-4871-a215-8635136206d4|Sim. Desculpe!
+d0c2186a-3958-4357-9979-b344510e701a|Eu me submeto aos seus testes... de ciência.
+afa7ec39-5c71-499c-bf81-272be518d039|De jeito nenhum! Eu não sou um rato de laboratório!
+4f9baf44-3d58-460b-9c27-193bc16be687|Isso não é justo! Você é como um mágico com as mãos!
+6801bb2c-754d-44fd-8e8d-d131efb2090a|Como você propõe que eu faça isso?
+c0ca1e65-8518-4efb-aa12-7701eed945a1|Te respondo mais tarde.
+bef9741d-3a42-48ac-8b90-a1419f829f9f|Estou trabalhando nisso!
+4ca58643-7bcf-4cb0-aaf5-923863dca412|Shmaoh Khay...
+09b6ad77-7b90-4232-8e66-68c7e95f59ce|Claro! Ele não era páreo para mim. Foi uma luta injusta, para ser sincero...
+f9dcb10f-8d3f-487f-ba25-dabaaac39cf3|Bem, na verdade, eu precisava de uma ajudinha. Não consegui acertá-lo sozinho.
+e12f049f-858b-4ba8-a1da-df630dd3f737|Sim, senhora!
+4fba0ef4-24a9-46e6-a173-1e16722f099b|Droga, lá vamos nós com outra busca...
+df5589ff-8fb6-4cbe-9308-6e071e88447b|Ah... bem, então...
+470e6ba7-bebf-46d2-bc6b-4be4ab86d2e8|Uhhh... obrigado?
+4965667c-9296-415c-b961-31e0e242c437|Acho que entendi o que você quer dizer!
+f8d0c156-a737-4edd-b071-42d9c22ef1a1|Legal!
+18d9bc59-bc61-4349-838a-3b9c6f8c9dcd|Uau!
+5024085d-5de6-4399-8f05-3d3fc67c625c|Eu faço isso!
+97c5d750-e860-4dac-a0b0-cb915fe59d84|Fique à vontade...
+27fe5a5c-4df6-4b1e-8bf7-2f3499ecb9ce|Ahn, eu poderia ir sem plateia, na verdade.
+3ec6e5a3-8fb6-4ed7-b909-cc59095420af|Sim, senhora!
+be91fbb7-f94c-4886-b310-c2caccb93e8b|Eu pensei que sim.
+13fea5d2-2a6d-4234-8468-3e22e69ca5bf|É para o Derek tirando a camisa.
+0d8b4a1b-7a67-4f45-8932-5166cd42ec8d|É para... o Derek tirando a camisa...
+2e9bb2cc-3205-4d5f-bb82-bf89d19eefc7|Posso te mostrar algumas fotos nuas?
+f55bf486-cfbf-482e-9826-afea72b0cada|Eu, uh, não é-
+99e84950-f314-4b8a-af85-d2e1ee843e04|Você consegue ver se a mulher em questão conseguiria se dar bem na indústria?
+b718c112-01f2-4dd8-8b86-1cf03d66c115|Aqui, olha este telefone...
+f84e85ab-8950-43a5-850f-bc466093d1b3|Bem...
+dcafb9a3-c07a-474c-8591-7c9c10df0272|Então você acha que ela tem o que é preciso?
+ca14cc2c-2a39-460b-b0ae-890af69ace94|*Ouça*
+282319b4-d5e7-4a57-ad76-1cf7e0701b67|Com certeza!
+3c5af84c-7223-4e5b-b28d-1bcdfbe326cb|Não me importo com isso...
+4736b80f-e8ef-47fa-9868-22c5c5cd5742|Adeus, Vickie.
+6013b643-a4cd-4728-b969-b26ef676cf23|Uau!
+ae69c3ae-2f0f-420a-8e37-b7319dc6c450|Não deve demorar muito...
+bbe2c6e0-43c1-4113-a50f-d85b0d801986|*Ouvir*
+32f39b86-6fa6-4ef0-880b-571b8aa18c50|*Ouvir*
+42fd05fa-3460-4830-892d-c2b73ea5c4b2|Shh!
+4b01cc4e-a999-4957-b449-5dca18039a85|Farei o meu melhor para não fazer...
+2a6c2be8-9b6f-428c-82bc-ad65ea8953ba|Depressa!
+6d1e4cb4-901b-4b64-a252-0c633d1ad713|Prepare-se para rir.
+05eb757c-566f-4cc1-987c-b5d381dd7b86|Justo.
+26b04492-3036-4f3e-94e0-8c8a0c00d392|*Fechar*
+b91b0c5b-0287-435c-9455-d485c170c854|Até breve.
+9a00d7c9-6330-48cd-b67f-bbdc7e67c3ab|Acho que valeu pelo aviso.
+74f72ca7-6fde-4aba-8d43-d8448753539b|Ok, ok, entendi, Vickie.
+363cd844-3f5b-4861-9928-01a828533e67|Fala logo!
+1d82bb1b-3a64-4b57-806e-81c214565617|Meu Deus.
+88c110e4-42cd-4d02-b0a8-a30068952bec|Ai, tudo bem então.
+8bb44c4b-5361-4c35-9792-1540a9b1f525|Você acredita em amor à primeira vista ou devo andar na sua frente de novo?
+379a4b32-f7c7-4970-b617-ec4172ad9e71|A Rachael me disse que você é muito engraçado!
+26551750-49bf-468a-87f2-a424849dd668|Tem muitas "boas moças" aqui que precisam baixar a guarda.
+573c111e-fda9-4efb-8c42-4448eca29416|Você deve ser a Vickie Vixen! Ela já ouviu falar muito de você!
+e83212ab-fffb-46d8-984e-9ad06e6ad992|Ok, estou pronta! Fiz algumas amigas!
+f9b1b308-5282-45b6-bcec-073ef0444470|Preciso praticar mais. Vamos encenar.
+ac562599-212f-490d-921a-e1c9df52465e|Vickie! Você obviamente sabe onde posso encontrar maconha, certo?
+9a3ea872-5d7f-4904-b34e-7432166b6d9e|Nossa, na verdade, eram os contornos dos anéis nos seus seios, por baixo da blusa! A Ashley disse que estamos quites!
+f6c13f02-57f9-4afd-ae4d-e13f87138279|Nossa, na verdade, eram os contornos dos anéis nos seus seios, por baixo da blusa!
+f4668e9b-bb86-445f-a967-5db5c3d08c70|Estou pronta para a próxima parte do meu treino!
+111971a3-e255-46d2-bf8c-c0d0e4954b93|Ok, estou pronto para a próxima parte do meu treinamento!
+fc04276e-9593-4fa5-86ba-24c469bc3695|Pode tentar de novo...
+13d7fb0a-8292-4ad9-bc8d-2bce6d48812f|Ei... quer entrar na banheira de hidromassagem e ver aonde isso nos leva?
+4aaeb968-2c52-42a3-975f-02aa6232aca7|Acha que quer assinar minha petição, Vickie?
+047021bd-68e1-4d65-8789-1a5dbd8be028|Tenho algo que você pode querer, Vickie.
+67155ff2-1a23-4df3-a57a-c25a76fdddae|Consegui surpreender a Ashley. Aposto que você não está muito surpresa com isso.
+103871cc-fa08-4155-9ce8-ff237d06de3e|Oi, Vickie, a Rachael estava te procurando. Ela disse "me encontre no lugar de sempre", o que isso significa?
+3d05898a-0400-42a8-b6ea-badf0c116bd5|Adeus, Vickie.
+
+[Quests]
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886Description1|Você provou seu valor para a Vickie! Agora é hora de trabalhar um pouco com alguns dos outros festeiros sensuais aqui hoje à noite. Isso, claro, se ainda não começou...
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886Description2|Alvo localizado! Alguém concordou em descer com você e a Vickie. Está acontecendo! Fiquem calmos, não estraguem nada e me sigam!
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description1|A Vickie pediu para você provar o quão deliciosamente doce você pode ser, mostrando à Ashley o quão incrível você é. Hmm... quanto trabalho isso vai dar?
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description2|Você se deu tão bem, tão bem, com a Ashley. Agora a Vickie quer passar um tempo com você na banheira de hidromassagem para continuar seu treinamento...
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description3|Que se dane. Você fica tremendo toda vez que alguém olha para suas coisas extravagantes. Precisa encontrar um jeito de desacelerar e controlar suas entranhas!
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description4|Chegou a hora do confronto final entre sua libido bem treinada e o corpo e os talentos épicos de Vickie. ... Você está ferrado. Quem me dera.
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886|Boas Garotas se Tornam Más
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886Description|Vickie parece ter dominado a arte de transformar festas na festa do pijama dos sonhos da maioria dos homens. Talvez você devesse seguir as instruções dela...
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886CompletedDetails|
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886FailedDetails|
+3ab5d448-c062-400f-9f48-d3dad8e3b131|Dia de treinamento
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description|Vickie se ofereceu para te orientar no seu jogo sexual. Não a desencoraje!
+3ab5d448-c062-400f-9f48-d3dad8e3b131CompletedDetails|
+3ab5d448-c062-400f-9f48-d3dad8e3b131FailedDetails|
+
+[Events]
+a5627fa2-2d13-4cab-800e-613c7133f9e6|Eu deveria ajudar a Ashley a resolver o problema com as roupas dela antes de perguntar à Vickie o que devemos fazer com essas fotos.
+c3b62c25-4ae7-442e-a9af-38d34bf63330|Qualquer pessoa com quem ela esteja envolvida em alguma grande treta ou trapaça provavelmente não estará livre agora. E quando a Vickie chegar até eles, eles podem se distrair brevemente de quaisquer favores que ela tenha pedido recentemente. Hmm...
+7bd0cfed-1454-4745-825c-0dfb1b945dda|Estou chegando perto! Só um pouquinho mais perto!
+4fc28a2b-a549-48dd-8e17-21123f4826dc|A confiança da Vickie em você inspira seu interior a recarregar suas ações sujas um pouco mais rápido...
+13c3c3f8-5b38-42cd-953a-4821b9dd031d|Correto. Ela quer que eu tire a calcinha dela...
+808d9a7a-98a4-4138-bb94-0a8e4a95b2ad|Ai, merda... Já passei do ponto sem volta!
+efd6b823-e43c-4a24-8f43-a164851ded82|Estou tão perto... Não consigo... porra!
+72a7e34c-ed17-4659-a356-194c409499a7|Ela está tão perto, eu deveria tirá-la de lá!
+cd87c922-974f-463b-9c17-04297d686d25|Ooooh merda! Não há como pará-la agora...
+b9d1c002-70c5-4ad8-b47f-75690b403fc9|Eu deveria tentar de novo quando ela e eu estivermos um pouco mais amigáveis...
+16c42bbc-14be-4bfa-a467-67596486e4e0|Eu deveria tentar de novo quando tiver conquistado alguns benefícios dela... Acho que ela só quer conhecê-la. Intimamente ou não... essa é outra questão.
+bc9921e2-eeaf-4dbc-be75-4bd6d8d1d81c|"Reconhecimento público? É isso aí, porra. Tá bom... então quem poderia ser o nosso "amigo especial"? Tem que ser alguém que esteja interessado em mim, né? Ou alguém com quem eu fiquei...? Ou vice-versa? Poxa, talvez algumas dessas pessoas sejam simplesmente fáceis. Como eu."
+4d963750-d46b-42a4-ac88-f8d291b4c7dc|Droga. Não estou nem perto de estar pronto!
+2d5c34eb-de42-4380-b9f6-46c8bc6379fd|Tá bom então... melhor, mas tenho que continuar treinando. E bebendo. Essas... são a mesma coisa agora, eu acho?
+5e10f6d1-7d95-4241-9e97-bb7004ce1f62|Oohhh, é! Vou seguir a Vickie de pertinho enquanto ela vai para {Vickie:ThreesomeTarget}. Provavelmente não devo tentar fazer nada sozinho, ou arriscar estragar alguma coisa no caminho. Hm, será que eu já estraguei alguma coisa? Posso pedir para ela esperar. Melhor do que desperdiçar o tempo dela...
+3abe7792-fb9c-4984-887c-ad080ab10909|Hm, será que de alguma forma deixei a {Vickie:ThreesomeTarget} ocupada demais para sair comigo e com a Vickie? Não, não parece comigo.
+5d60d39f-1c60-40c6-8739-d55c572f8cea|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
+ede24fb7-3f4b-41b5-86b3-d827dfe7e06c|Tenho um bom pressentimento sobre a próxima parte... um pressentimento muito bom. É melhor eu me certificar de que estou... totalmente carregado, aí embaixo. Aí é hora de ir!
+102e10d3-d988-4d77-b1ea-fa6998544ea4|Meus rins ainda estão recarregando. Melhor esperar mais um minuto ou dois...
+5e79380e-5db0-4b7b-918b-da8705c15d3f|Meus rins ainda estão recarregando. Melhor esperar mais um minuto ou dois...
+d67c611a-6dc4-47dc-90bf-c03909eb4b6b|Não tenho certeza se o Frank vai conseguir nos ouvir... Eu deveria tentar aproximá-la um pouco mais dele.
+05e633c7-35ed-418d-b5ad-3ec2c2fa4aa4|Eu deveria esperar até a Vickie estar livre... ou ver o que posso fazer para acelerar o que ela está fazendo.
+f27d7b4e-1960-440c-8511-7dc1640f9784|Eu deveria esperar até a Vickie estar livre... ou ver o que posso fazer para acelerar o que ela está fazendo.
+e101f4e2-b462-47f3-ac5e-ca34ca1c6393|Eu deveria esperar a Vickie ficar livre... ou ver o que posso fazer para acelerar o que quer que ela esteja fazendo.
+b494b9f5-dcbe-4550-b7de-ddb375e4523d|Claro que sim, é disso que eu estou falando! Hora de deixar a Vickie me provar de novo...
+0c6b7c35-500f-4d3d-954d-6d5c6c8d35b1|Merda. Parece que ainda não estou me segurando muito bem. Vou precisar de muito mais prática e uns drinques se quiser impressionar a Vickie...
+5dc1f0f1-da01-4782-bd72-28ab90aa1fbb|Melhor, mas ainda assim decepcionaria a Vickie e envergonharia sexualmente meus ancestrais. Preciso continuar treinando. E bebendo. *Suspiro*... as coisas que eu faço por aqueles ursos sexuais. Quer dizer,... porra, qualquer coisa. Menos pensamento, mais brincadeira!
+f5083c3c-c2fe-4b1c-8082-ea247bd9ea38|Estou chegando perto! Só um pouquinho mais perto! Está realmente começando a demorar mais... talvez um drinque seja o jeito mais rápido de superar isso?
+bbc7f3d1-2a88-48da-b43a-482ca37ba195|Porra... Eu deixei aquela porta fechada? Por que... POR QUE ESTOU FAZENDO ISSO EM UM MOMENTO COMO ESTE?!
+4b7de15e-548d-4730-af40-365f6b50ee70|A Vickie está quase chegando a {Vickie:ThreesomeGoal}! Preciso garantir que estou perto e que eles possam me ver!
+b1fb04b8-acee-4c4e-ae9b-09e7e3e30da5|A Vickie está quase chegando! Estou em uma posição privilegiada! Só preciso ficar perto, pegar leve e esperar...
+1c31afe7-2ad1-4d5b-9f5c-4673dc068487|A Vickie disse para eu seguir o exemplo dela. Talvez eu devesse deixá-la começar com {Vickie:ThreesomeObjective} da próxima vez. Supondo que haja uma próxima vez. A Vickie provavelmente não será tão indulgente no futuro...
+607d7b77-c21f-4faa-9547-09795fa9e304|Droga, é isso mesmo! Preciso deixar a Vickie assumir o comando da nossa pequena proposta. Eu realmente sou péssimo em aprender com os erros. ...Talvez o primeiro passo deva ser admitir que eu realmente cometo erros. ...Meh.
+e35fa470-8d73-4b9e-a6ae-cdc8dcc82805|Merda. A Vickie me pediu para ficar com ela. Talvez eu estivesse muito longe dela e de {Vickie:ThreesomeObjective}, ou eles não podiam me ver. Ela provavelmente não vai ser tão complacente no futuro...
+8f32c95b-2033-4be2-bce8-d6cd16b20818|Porra, eu não estava aqui para apoiar a Vickie. De novo. Eu sou péssima em aprender com os erros. ...Talvez o primeiro passo deva ser admitir que eu realmente cometo erros. ... Não.
+bbf91a0b-0b67-4c27-875d-a062e8cb4d34|Merda. Parece que estou testando a paciência da Vickie de verdade. Se ela me der outra chance, tenho que usá-la com sabedoria. Se não... ah, porra, esqueci meu teclado em casa. Vou quebrá-lo depois.
+fd839d7f-4f44-4baf-aa7c-cbdbb7d3f04d|A Vickie está se aproximando do quarto principal! {Vickie:ThreesomeObjective} provavelmente não vai demorar muito... Preciso chegar mais perto e estar pronta!
+cc349b15-ecf4-4f44-9d38-7404bb49b26e|A Vickie está se aproximando do quarto da Ashley! {Vickie:ThreesomeObjective} provavelmente não vai demorar muito... Preciso chegar mais perto e estar pronta!
+b8fa0c4a-dab8-440b-8bc0-1a07d3260fab|A Vickie está se aproximando da Sala de Arte! {Vickie:ThreesomeObjective} provavelmente não vai demorar muito... Preciso chegar mais perto e estar pronta!
+8dd1dd25-085c-49aa-8d39-bddac9ba740c|A Vickie está se aproximando do Gazebo! {Vickie:ThreesomeObjective} provavelmente não vai demorar muito... Preciso me aproximar e me preparar!
+280372c1-e3cc-45a3-81e6-eb36367db65c|Só preciso ficar perto da Vickie e não me meter em encrenca. Estamos quase na terra prometida! Um lugar mágico cheio de diversão, sexo e... hum, fluidos! Viva!
+28a5f116-b5bb-43d8-b9aa-b18314574646|Algo me diz que Vickie e {Vickie:ThreesomeObjective} não estão mais me esperando...
+466ae785-de5f-4522-9d34-4cd43d16a8bb|Madison é muito próxima para falar sobre as fotos nuas com Vickie.
+ea54efba-9708-4b8d-947e-e48434fe22b3|Droga! Se Ashley não estivesse brava comigo, eu poderia perguntar a Vickie o que deveríamos fazer com essas fotos. Talvez Vickie possa me ajudar a cair nas graças de Ashley novamente.
+186b4fc4-15e7-4266-add4-6218f556b112|A Ashley ficou tão ferrada que provavelmente nem lembra se somos amigas ou não...
+74263672-8967-4c8d-bd8b-90be7302f512|A Ashley ficou tão ferrada que provavelmente nem lembra se somos amigas ou não...
+d57022fc-5012-4616-9129-5388e1bcd87b|Hah, eu mostrei a ela! A autoprivação foi o que me tornou a pessoa que sou hoje!
+d943cd81-0d63-4290-927b-2e054986836f|Porra, a Vickie tem razão. Fico como uma criança em uma loja de doces perto dela. Preciso me acalmar e me concentrar, ou nunca a verei fazer sua mágica. Talvez eu devesse tentar conversar com o Derek sobre o que devo fazer em seguida. Mas talvez eu devesse me vestir primeiro.
+d84fdcba-efa2-40a9-a671-233cffc827bf|Acho que exagerei um pouco na bebida...
+36744903-1e8b-4c50-bf89-761102f26623|Ao canalizar seu Sting interior, sua resistência de combate aumentou um pouco.
+c44adc86-e079-4bc5-9532-d62abbb74c7f|Hmm... Será que eu deveria ter contado a verdade a ela? De repente, ela me parece estranha...
+e707aaae-f848-4921-8e54-4135800628b9|Merda, acho que não foi a decisão certa... Ah, espera, é a Leah. Talvez tenha sido...?
+17e1fc3e-8278-4804-b80b-bb19f6f2c4fc|Bem, foi muito mais fácil do que arriscar um tapa na cara. Parece que vou ter que ligar de outro número.
+514504c7-e08c-42d2-815c-1c391c48c7c1|Hum, é melhor eu morder a língua. Não vou poder pregar uma peça na Madison se ela estiver trancada no banheiro...
+a5cd32b6-42a8-4872-b0b3-31cdc529e28c|Puta merda, na cabeça da Madison, a exposição de arte que eu tanto me esforcei para entrar já está começando? Isso vai ter que esperar...
+74f6c7b7-af7b-42d5-a322-9a71b917d049|Espera... uma mulher vai fazer uma pintura usando meu pênis em vez de... argh, eu devia ter usado uma conta descartável para isso! Foco... hora da estátua!
+e4797af1-4299-4f2e-be7a-3e87e2aabbca|Eca! Eu realmente fiz esse som? Acho que ela está aqui para ver...
+cebb3708-85a0-452f-8205-2d261e8b61fe|Eca! Eu realmente fiz esse som? Acho que ela está aqui para ver...
+8491d0d2-b49b-411f-90a7-5a5f2122e1a5|Talvez eu possa pregar uma peça na Madison depois de mergulhar meu pincel na... tábua de madeira dela? Como se chama isso? Eles sempre têm um monte deles na House Depot...
+42e87203-7c2d-4b0a-9590-fd4580750fe9|Hmm, alguém poderia ter pegado o assento da banheira de hidromassagem que a Vickie queria. Ou pode estar cheio agora. Aposto que eu conseguiria tirá-lo usando meus encantos... ou a falta deles!
+755a4868-ca5e-4e5b-ac92-44e4ba166fe4|Claro que sim, é disso que estou falando. Eu deveria deixar a Vickie me examinar de novo...
+1cd3c70f-c52f-4e6b-907d-1b08ea6c9126|Droga, parece que ainda não estou me segurando muito bem. Vou precisar de mais prática e de uma ou duas bebidas se quiser impressionar a Vickie...
+a40b474c-9f07-46fb-be50-7a93d38ddf86|Espero que isso me deixe um pouco mais tranquilo...
+63d2f23b-6c09-420a-9c68-b219dda31dd3|Espero que isso me deixe um pouco mais tranquilo...
+
+[Background Chatter]
+BGC1|Quer saber um segredo? Fiz sexo 3 vezes hoje, e só 1 foi a trabalho.
+BGC2|Qual a melhor coisa de ser uma atriz pornô? Bem, todos os meus brinquedos sexuais são dedutíveis do imposto de renda, então isso é muito bom.
+BGC3|A Rachael sempre me convida para festas incríveis. Mas tenho a sensação de que ela secretamente odeia festas e só quer uma amiga. Eu respeito isso.
+BGC4|Não, eu trabalho para a Poppycock Productions. A "Carne do Homem Mecânico" vem de uma produtora diferente.
+BGC5|Psiu, se você conseguir o telefone da Madison... por favor, apague meu número. Você provavelmente encontrará coisas interessantes lá também.
+BGC6|Na dúvida, esfregue um.
+BGC7|Às vezes acho que seria ótimo ter um pênis, mas aí coloco uma cinta e me lembro que ter uma boceta na calça é muito mais fácil.
+BGC8|Que tipo de coisa você curte? Há alguma chance de ser BDSM? Conheço uma vaga que precisa ser preenchida imediatamente.
+BGC9|Você já encontrou um gloryhole na natureza? É como encontrar a fonte da juventude. Só que a fonte tem o formato de um pênis, e só é jovem porque você provavelmente está em um vestiário da YMCA.
+BGC10|Aviso: só porque você viu minha foto no anúncio "Solteiros gostosos prontos para transar no seu bairro" não significa que eu esteja solteiro de verdade.
+BGC11|Na verdade, não a chamamos de "cidade marrom" regularmente. Eu trabalho com profissionais. Como você sabe, roupas e cabelos não são as únicas coisas que podem ser descoloridas.
+BGC12|Então sua assistente é uma IA onisciente? Como ela se parece? Ela está totalmente... equipada?
+BGC13|Você removeu a masculinidade do seu robô? Patrick, tem que haver uma lei contra isso. Se ele levasse para o lado pessoal, você poderia ter causado o fim de toda a humanidade como a conhecemos.
+BGC14|Preciso encontrar essa IA e pelo menos dar a ele um flash de graça ou algo assim. Manter o planeta girando por pelo menos mais um dia...
+BGC15|Então seu nome é Leah? Gosto do seu estilo. É bem esportivo. Aposto que ninguém te dá mole, garota...
+BGC16|Desculpa, gata, a Poppycock Productions é muito reservada sobre o que eu posso ou não fazer. E não me refiro apenas a quando colocam uma coleira no meu pescoço e me obrigam a fazer coisas estranhas no escritório. Mas boa sorte!
+BGC17|Argh, amanhã vai ser tão estressante. Preciso mesmo falar com meu agente. Por que diabos estou vestida para uma doação de sangue e uma orgia no mesmo dia? Vou pedir um pouco do Hyperall daquela garotinha da escola. Isso deve manter o ânimo (e as palpitações cardíacas) alto.
+BGC18|Tem algum roteirista aqui? Estou tentando escrever roteiros e adoraria uma indicação. Então, se houver fãs de ficção científica por aí, especialmente monstros com tentáculos com um gosto por xoxota, sabe... fale comigo.
+BGC19|Tenho saído com um cara ultimamente. Bem, nós "NOS VEMOS" antes de começarmos a tirar a roupa um do outro. Não é nada sério, mas por algum motivo isso não o impede de ficar com ciúmes quando estou saindo com outros caras. Ele estabeleceu algumas regras para esta noite, mas, honestamente, não consegui decifrá-las por causa das lágrimas dele. Mas tenho quase certeza de que ele me disse que vale tudo!
+BGC20|Ele quase foi capa da Money Makers Monthly desta edição, mas um cara que comprou uma vila na Ásia para salvá-la do desmatamento ou algo assim me venceu. Não estou dizendo que ele não vale a capa... mas eu já transei com muitos homens asiáticos, e um pouco de desmatamento púbico seria um favor para o continente inteiro. BGC21|Essa não é minha tara, essa não é minha tara!
+BGC22|Cara! Ufa, essa foi por pouco. Quer dizer, por um lado, eu adoraria praticar esportes aquáticos, mas que se dane, avisa uma garota, tá?
+BGC23|Não me ameace com diversão.
+BGC24|Alguém sabe para onde o Frank foi? Ele me pediu para autografar esta cópia original em DVD do Gothic Gangbang 2 e depois foi embora. Ah, é. O Patrick me ofereceu mil dólares por ela. Vendido!
+BGC25|Eu nunca entendi por que as pessoas passam por todo esse ritual de acasalamento para ir para a cama. Eu pergunto direto se eles querem transar.
+BGC26|Ei, agora, vejam ele ir! É meio que um segredo da indústria, mas fazemos todo mundo dançar para nós nas entrevistas em estúdio. É só bom senso. Se você sabe dançar, sabe transar.
+BGC27|Acho que você vai gostar da próxima parte do seu treinamento, mas, infelizmente, preciso te pedir um grande favor primeiro...
+BGC28|Você acha que pode tirar isso de mim?
+BGC29|Me avise se precisar de ajuda com isso...
+BGC30|Sério? Quer apostar nisso? Eu adoro fazer apostas. Provavelmente um subproduto de ter tanta renda disponível sendo tão jovem. A indústria pornográfica realmente paga, sabia?
+BGC31|Você está falando sério quando diz que isso é festa? Primeiro, eu ainda não vi nenhuma nudez. Segundo, os quartos estão vazios, então ninguém está transando. E terceiro, eu ainda não fui transada. Fracasso, fracasso e fracasso total.
+BGC32|Sexo com móveis? Não, eu nunca soube que isso existia, e quando digo que curto tudo, quero dizer TUDO. Mas estou tentada a comprar um pufe e resolver a logística.
+BGC33|Estou tentando entender essa coisa toda do Derek e da Madison. Quer dizer, é óbvio que eles têm um caso, mesmo que não admitam, mas é um casal tão improvável. O sexo deve ser incrível. É a única coisa que faz sentido.
+BGC34|Faça o que quiser, mas só estou dizendo. Também ouvi dizer que o Derek anda armado, se é que você me entende. Eu sempre achei a Madison meio estranha, mas tenho que dar os créditos a ela se ela está montando ESSE pau.
+BGC35|Ah, eu sei todos os truques para deixar as coisas quentes e picantes bem rápido. Gosto de me aquecer com alguns comandos para trocar de roupa, depois alguns comandos de warpto para levar todo mundo onde preciso e, por fim, terminar com alguns comandos de intimidade. É incrível como é fácil dominar todo mundo com alguns comandos de console safados!
+BGC36|Aquela garota, a Amy? É, ela tem a estética de boa moça bem definida. Sério, ela parece saída de um filme pornô bem sacana de vizinha. Aposto que ela está a fim de muito mais do que está demonstrando. Eu preciso descobrir.
+BGC37|Ah, todo mundo tem uma estrela pornô interior. Com uma garota como a Amy, é só uma questão de atraí-la. Aliás, aposto que todo mundo nesta festa é capaz de se divertir hoje à noite.
+BGC38|Ah, não, Policial Bigcock! Eu não ousaria.
+BGC39|Mmm, eu estava esperando por isso. Pronto para começar a trabalhar?
+BGC40|Mmm, vem cá, você...
+BGC41|Você já foi comido por uma atriz pornô? Não. Então aperte o cinto! Estamos prestes a dar uma volta!
+BGC42|Vamos começar, certo? Sente-se e deixe-me aquecê-lo um pouco.
+BGC43|Ah, decisões, decisões. Agora, com quem devo começar? ...Eenie, meanie, miny... Hmmmm...
+BGC44|É ASSIM que eu gosto de ver meus cadetes... em posição de sentido!

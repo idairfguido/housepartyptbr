@@ -1,0 +1,110 @@
+﻿[General]
+MostRecentTab|Mais recente
+TopRatedTab|Melhores avaliadas
+MostPopularTab|Mais populares
+MustLogInDisclaimer|Você precisa fazer login na sua conta do jogo Eek! para baixar histórias personalizadas do servidor.
+SubmitButton|Enviar
+InstallButton|Instalar
+ForgotPasswordLink|Esqueceu sua senha?
+SubmitRatingButton|Enviar
+RegisterNewAccountCheckboxLabel|Registre-se com uma nova conta
+ReportStoryButton|Reporte
+SubscribeToEmailsCheckboxLabel|Sim! Por favor, enviem-me notícias interessantes.
+RateStoryButton|Avalie a história
+ConfirmAgeCheckboxLabel|Tenho 18 anos ou mais
+GenericErrorHeader|UPS...
+ReportStoryHeader|Reporte
+RateStoryPopupHeader|Avalie esta história
+AddCommentWithRatingLabel|Adicionar comentário ao autor (opcional)
+ReportStoryDisclaimer|Esta história contém conteúdo inapropriado ou ilegal?
+RatingLabel|Classificação:
+LogInHeader|INICIAR SESSÃO
+EmailFieldLabel|E-mail:
+ConfirmPasswordFieldLabel|Confirme sua senha:
+UsernameFieldLabel|Nome de usuário:
+PasswordFieldLabel|Senha:
+CustomStoriesHeader|HISTÓRIAS PERSONALIZADAS
+LastUpdatedLabel|Última atualização:
+ReportSuccessfulDisclaimer|Recebemos sua denúncia. Analisaremos a história.
+ReleasedOnLabel|Publicado em:
+ReportSuccessfulHeader|Relatório de sucesso
+ReportCommentLengthErrorHeader|Relatar erro no comprimento do comentário
+ReportCommentLengthErrorDisclaimer|O comentário do sua análise não pode estar vazio e não pode ter mais de 150 caracteres.
+ReportAlreadySubmittedHeader|Análise já enviado
+ReportAlreadySubmittedDisclaimer|Você já enviou uma análise para esta história.
+StoryByLabel|História de:
+DuplicateRatingsDisclaimer|(Avaliar mais de uma vez substituirá sua avaliação anterior)
+ForumLinkForStory|Visite o tópico do fórum para esta história
+LogoutButton|Sair
+LoggedInAsHeader|Conectado como:
+YourRatingForStoryLabel|Sua Classificação:
+PasswordResetTooSoonHeader|Solicitação de redefinição de senha já enviada
+PasswordResetTooSoonContent|Enviamos um e-mail que pode levar até dez minutos para chegar e pode acabar na sua caixa de spam. Caso não chegue, aguarde alguns minutos antes de tentar novamente.
+PasswordResetEmailInvalidHeader|A senha não pôde ser redefinida.
+PasswordResetEmailInvalidContent|Não conseguimos encontrar uma conta usando esse endereço de e-mail.
+PasswordResetEmailSentHeader|E-mail enviado
+PasswordResetEmailSentContent|Acabamos de enviar um e-mail com um link para redefinir sua senha. Aguarde, pois pode levar até dez minutos para recebê-lo. E não se esqueça de verificar sua caixa de spam.
+PasswordResetGenericErrorHeader|A senha não pôde ser redefinida.
+PasswordResetGenericErrorContent|Não conseguimos encontrar uma conta usando esse endereço de e-mail.
+PasswordResetUnknownIssueHeader|A senha não pôde ser redefinida.
+PasswordResetUnknownIssueContent|Não conseguimos conectar você online no momento. Nossos servidores podem estar fora do ar. Verifique sua conexão de internet, tente novamente em alguns minutos e entre em contato com o Discord se ainda não estiver funcionando.
+StoryDownloadSuccessHeader|História baixada com sucesso!
+StoryDownloadSuccessContent|Você baixou a história e agora pode reproduzi-la.
+StoryDownloadFailedHeader|Não foi possível baixar a história
+StoryDownloadFailedContent|Não é possível baixar esta história no momento. Você pode tentar novamente em alguns minutos.
+UpdateStorySuccessHeader|História atualizada com sucesso!
+UpdateStorySuccessContent|É isso, mano. Esta história foi atualizada com sucesso!
+UpdateStoryFailedHeader|Não é possível atualizar a história
+UpdateStoryFailedContent|Algo deu completamente errado e não conseguimos atualizar esta história corretamente. Talvez você não esteja nos deixando acessar suas pastas? Talvez você tenha algum antivírus em execução? Precisamos desse acesso, mano!
+UninstallStorySuccessHeader|História desinstalada com sucesso!
+UninstallStorySuccessContent|É isso aí, missão cumprida! O que você vai fazer agora com todos esses megabytes sobrando? ...Espere, não responda isso. Vamos seguir em frente juntos e ilesos a partir deste momento de triunfo.
+UninstallStoryFailedHeader|Não foi possível desinstalar essa história
+UninstallStoryFailedContent|Algo deu completamente errado e não conseguimos desinstalar esta história corretamente. Você está destinado a ficar preso a ela de agora até a inevitável morte térmica do universo. Ou até excluí-la manualmente.
+UpdateStoryButtonText|Atualizar
+InstallStoryButtonText|Instalar
+UninstallStoryButtonText|Desinstalar
+UninstallStoryDisclaimer|Tem certeza de que deseja desinstalar esta história?
+UninstallStoryHeader|Desinstalar?
+RatedStoryHeader|Classificação da história
+RatedStoryContent|Obrigado por avaliar esta história.
+ContentWarningText|Interações on-line e conteúdo gerado pelo usuário não classificados pelo ESRB
+UploadInstructionsText|Se você é um criador de histórias e deseja adicionar sua própria história personalizada a esta lista, visite-nos em .
+ValidationResultBadEmailHeader|E-mail inválido
+ValidationResultBadEmailContent|O endereço de e-mail não é válido.
+ValidationResultUnknownErrorHeader|Erro desconhecido
+ValidationResultUnknownErrorContent|Ocorreu um erro na comunicação com o servidor ou ocorreu um erro ao tentar processar sua solicitação.
+ValidationResultMismatchedPasswordsHeader|A senha não corresponde
+ValidationResultMismatchedPasswordsContent|Verifique se sua senha foi inserida corretamente. As senhas não coincidem.
+ValidationResultBadUsernameHeader|Nome de usuário inválido
+ValidationResultBadUsernameContent|Seu nome de usuário pode ser muito curto, muito longo ou conter caracteres não permitidos.
+ValidationResultBadPasswordHeader|Senha fraca
+ValidationResultBadPasswordContent|"Sua senha deve ter pelo menos 10 caracteres, conter pelo menos um número, pelo menos uma letra maiúscula, pelo menos uma letra minúscula e pelo menos um caractere especial (como \""!\"" o \""@\ "")."
+ValidationResultAgeConfirmationMissingHeader|Restrição de idade
+ValidationResultAgeConfirmationMissingContent|Você deve ter 18 anos ou mais para registrar uma conta.
+RegistrationStatusSuccessHeader|Solicitação de registro recebida
+RegistrationStatusSuccessContent|Você ainda precisa validar sua conta. Você deverá receber um link de validação em seu e-mail. Após clicar no link, reabra a janela do Gerenciador de Histórias Personalizadas e faça login.
+RegistrationStatusDuplicateUserNameHeader|Nome de usuário duplicado
+RegistrationStatusDuplicateUserNameContent|O nome de usuário solicitado já está em uso.
+RegistrationStatusWeakPasswordHeader|Senha fraca
+RegistrationStatusWeakPasswordContent|"Sua senha deve ter pelo menos 10 caracteres, conter pelo menos um número, pelo menos uma letra maiúscula, pelo menos uma letra minúscula e pelo menos um caractere especial (como \""!\"" o \""@\ "")."
+RegistrationStatusAlreadyRegisteredHeader|Você já se registrou
+RegistrationStatusAlreadyRegisteredContent|Esta conta já existe. Você pode tentar redefinir sua senha e fazer login como um usuário existente.
+RegistrationStatusUnknownErrorHeader|Erro desconhecido
+RegistrationStatusUnknownErrorContent|Não foi possível concluir seu cadastro. Verifique as informações inseridas e tente novamente. Se o problema persistir, tente entrar em contato conosco em nossos fóruns.
+RegistrationStatusUnknownExceptionHeader|Erro desconhecido
+RegistrationStatusUnknownExceptionContent|Não foi possível concluir seu cadastro. Verifique as informações inseridas e tente novamente. Se o problema persistir, tente entrar em contato conosco em nossos fóruns.
+LoginStatusServerNotFoundHeader|Erro ao conectar ao servidor
+LoginStatusServerNotFoundContent|O servidor do jogo Eek! pode estar temporariamente fora do ar. Você pode tentar novamente em alguns minutos ou pode precisar atualizar seu jogo para uma versão mais recente.
+LoginStatusExpiredOrUnauthorizedHeader|Faça login novamente
+LoginStatusExpiredOrUnauthorizedContent|Autorização de login revogada. Login não autorizado ou autorização de login expirada. Tente fazer login novamente.
+LoginStatusBadRequestHeader|Requisição incorreta
+LoginStatusBadRequestContent|O servidor não reconheceu sua solicitação de login. Certifique-se de que seu nome de usuário e senha sejam válidos e que você tenha clicado no link de validação enviado por e-mail após o cadastro.
+LoginStatusTimeOutHeader|Tempo de conexão esgotado
+LoginStatusTimeOutContent|A conexão com o servidor demorou muito para reconhecer sua solicitação de login. Verifique sua conexão com a internet e tente novamente em alguns minutos.
+LoginStatusUnknownErrorHeader|Erro desconhecido
+LoginStatusUnknownErrorContent|Ocorreu um problema de comunicação com o servidor ou de reconhecimento da sua solicitação. Tente novamente em alguns minutos.
+ValidationResultBadEmailWarning|Insira um endereço de e-mail válido.
+ValidationResultMismatchedPasswordsWarning|Verifique se sua senha foi digitada corretamente em ambos os lugares.
+ValidationResultBadUsernameWarning|Digite um nome de usuário que tenha pelo menos 4 caracteres e não use nenhum símbolo especial que não seja permitido.
+ValidationResultBadPasswordWarning|"A senha deve ter pelo menos 10 caracteres e conter pelo menos um número, uma letra maiúscula, uma letra minúscula e um caractere especial (como \""!\"")."
+ValidationResultAgeConfirmationMissingWarning|Marque a caixa para verificar se você tem pelo menos 18 anos de idade.

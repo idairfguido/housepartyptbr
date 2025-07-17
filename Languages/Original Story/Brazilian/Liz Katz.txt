@@ -1,0 +1,913 @@
+﻿[General]
+Name|Liz Katz
+
+[Dialogues]
+0|Saudação genérica. Desculpe. Não, sério, oi.
+0.1|Então esta é a casa da Madison, certo? Espero que ela não se importe se colocarmos a cabeça decapitada do primo dela na secadora para podermos descongelá-la o suficiente para termos uma pista de que estava enfiada na boca dela.
+0.2|Quem enfiou esta faca no ar-condicionado, aposto que é um verdadeiro psicopata. Emocionante, não é?
+0.3|Detetive Katz, às suas ordens! Hehehe, eu sempre quis dizer isso.
+0.4|Aquela viagem de realidade virtual foi uma viagem maluca. Aquele Patrick deve ser um cara especial.
+0.5|Essa coisa é abso... É como se o Larry de Jogador Nº 1 e o de Terno de Lazer tivessem um filho e o entregassem para adoção, e então esse filho fosse adotado por um gerente do McDonald's que trabalha no turno da noite e depois crescesse para ser a primeira pessoa daquela família a ir para uma faculdade estadual. Com peitos.
+1|Ei, alguém viu a senhoria? Pode encontrá-la e dizer que estou aqui?
+2|Você encontrou a senhoria?
+3|Ah, certo, desculpe, habilidades sociais. Habilidades sociais! Meu nome é Liz Katz, prazer em conhecê-la. Desculpe o atraso. Você tem alguma dica de assassinato ou áreas onde não quer sangue?
+4|Bem, quer dizer, eu não costumo ir para níveis de sangue sangrento de Mortal Kombat, mas às vezes, apesar das melhores intenções, sangue falso acaba em carpetes, paredes, camas, animais de estimação... então eu gostaria de saber quais são os limites.
+5|Eu sou o Batman. Não, desculpe. Eu sou a Liz. Anfitriã extraordinária de mistérios de assassinato... para a sua festa, conforme solicitado.
+6|Ah, bem, eu trouxe o recibo. O pedido online foi feito pelo Instagasm e dizia...
+7|Bem, este é o endereço, recebi o pagamento integral e fui convidada para ir hoje à noite. Neste momento. Ok, estou um pouco atrasado. Estava morrendo de vontade de fazer esse show e proporcionar a alguém a experiência completa, e já estou aqui...
+8|Bem, já recebi graças a um benfeitor misterioso, eu acho. E tenho um baú cheio de brinquedos e fantasias. Tive que sair de uma festa do escritório para vir aqui, então, hum... vamos aproveitar a festa.
+9|Ei, um pouco de diversão nunca matou ninguém, né? E além disso, esse grandalhão aqui pode me mostrar o lugar assim que eu guardar meu baú.
+9.1|Ei, um pouco de diversão nunca matou ninguém, né? E então, essa jovem charmosa aqui pode me mostrar o lugar assim que eu guardar meu baú.
+10|Ainda não. Vou mantê-lo trancado. Tem muitos objetos de valor lá dentro e outras coisas que podem deixar a festa um pouco louca demais.
+11|Ah, obrigada! Gostaria de poder modificá-lo com uma unidade antigravidade, mas a ideia de ter meu próprio Mole Marrocos não me incomoda...
+12|Ok, talvez possamos abri-lo mais tarde, mas primeiro preciso dar uma volta pela casa e conhecer você e os outros melhor.
+13|Bem, primeiro passo um tempo conhecendo os convidados, descobrindo quais são seus medos, entendendo melhor como a noite vai se desenrolar. E então, quando eles menos esperam... encenei uma cena pré-planejada para que todos soubessem que houve um assassinato e deixei pistas pela festa para ajudar a resolver o mistério. É divertido.
+14|Não. A parte mais importante é ter uma história surpreendente com reviravoltas. Tipo, fulano matou a vítima pelo dinheiro. Ou pelo menos é o que eu faço você pensar. Mas então você percebe que o primo de fulano tentou incriminar fulano porque queria sua herança. Mas isso também é uma pista falsa. O amigo do primo de fulano era, na verdade, um assassino treinado secretamente e incriminou o primo de fulano para fazer parecer que incriminou fulano porque, na verdade, queria matar a vítima porque a vítima matou o barman local do parceiro de fulano. Você ainda está me seguindo? Incriminado
+15|A melhor parte é o cosplay.
+16|Sim, está tudo no meu porta-malas. Posso inventar e encenar qualquer aventura que eu quiser.
+17|Como é?
+18|Ah, obrigada. Guardo tudo o que preciso para minhas apresentações lá. E mais!
+19|Pelo menos um deles cabe. Não me pergunte como sei disso.
+20|Eu poderia te contar, mas aí teria que te matar.
+21|E você não tem tato. Precisa quebrar o gelo primeiro.
+22|Ah, guardo meus materiais de apresentação lá.
+23|Oooh... fantasias, armas, brinquedos, biquínis, algemas, ursinhos de pelúcia, suprimentos de emergência: tudo o que você precisa para uma noite divertida. Menos uma plateia.
+24|Ei, eu estava olhando para a jacuzzi lá fora e adoraria me molhar... na água. Bem, você quer vir comigo para a banheira?
+25|Sim! Quer dizer, eu esperava que você me dissesse. Estou muito feliz que me deixaram vir aqui e que nos conhecemos. Você me faz sentir... bem, digamos, muito confortável, e eu gostaria de explorar mais esta festa, e talvez você também?
+26|Você tem um maiô, né? Se eu te der a chave, você pode pegar o biquíni no porta-malas lá em cima? Vou sair para montar a jacuzzi.
+26.1|Você trouxe um biquíni, né? Se eu te der a chave, você pode pegar o biquíni no porta-malas lá em cima? Vou sair para montar a jacuzzi.
+27|Eca? Você é péssimo! Dez pontos a menos que a Grifinória!
+28|Bem, não, eu não trouxe exatamente um martelo, mas eu tenho esse tentáculo...
+29|Sou eu: Detetive Katz! Apresentadora extraordinária de mistérios de assassinato! E parece que houve... um assassinato!
+30|Sério, eu não sei o que aconteceu. Então precisamos manter a calma. Não vamos perder a cabeça.
+31|Escutem, pessoal, nossa melhor chance de sobreviver esta noite é se trabalharmos juntos para descobrir quem é o assassino. E acabar com esses assassinatos misteriosos e infelizes! Eu sempre quis dizer algo assim. Escute, o assassino pode ser um de nós. Pode ser eu. Pode ser você! E com minha experiência em organizar festas de mistério e assassinato, tenho mais experiência em lidar com essas coisas e posso liderar uma investigação. Mas vou precisar da sua ajuda.
+32|Ei. Esta não é uma das minhas histórias. E eu nem sei quem é Patrick! Não conheço nenhum de vocês! Mas sei que posso ajudar a resolver este mistério. E também sei que o assassino vai se safar se não confiarmos uns nos outros. A confiança começa com a verdade.
+33|Não, eu não vou aparecer com cabeças decapitadas falsas — especialmente de pessoas que nunca conheci antes.
+34|Não! Do que você está falando?
+35|Obrigado. É um alívio. Parece que alguém realmente foi morto, mas não tenho certeza se os outros estão levando isso a sério. Vou precisar da sua ajuda para descobrir o que aconteceu. O que você diz: parceiro?
+35.1|Obrigado por confiar em mim... parceiro.
+36|Bem, admito que toda essa ação e adrenalina estão deixando minha calcinha molhada, mas vamos nos concentrar em resolver o mistério primeiro... parceiro.
+37|Eu sabia que podia contar com você. Entre nós, essa adrenalina é realmente sexy. Não consigo imaginar como será emocionante quando você e eu resolvermos esse mistério juntos. Nossa, estou ficando com a calcinha molhada só de pensar nisso.
+38|É, toda essa adrenalina estava me excitando muito, mas passou no momento em que você disse aquela cantada estranha. Então, é melhor você não fazer isso de novo.
+39|O assassino te atacou? Ótimo! ...Quer dizer, não, foi ruim. Mas esta pode ser a primeira pista para a identidade do assassino! Você viu alguma coisa?
+40|Uma máscara? Oooooh, máscaras são sexy. Mmmmm...
+41|Ah, hum... deixa pra lá. Essa é definitivamente uma pista importante. Pena que você não conseguiu ver o rosto dele. Nossas habilidades serão postas à prova. O assassino é claramente um sociopata altamente funcional. Um adversário à altura. E provavelmente meu inimigo!
+42|Bem, com você ao meu lado, tudo é possível. Vamos ver se conseguimos encontrar mais pistas aqui na cena do crime.
+43|Eu estava aqui curtindo a festa sozinho quando ouvi toda a comoção e gritaria e soube que algo estava acontecendo. Parece que eu estava certo e, de fato, agora temos provas de que alguém foi assassinado. O assassino deixou um aviso claro de que não podemos contatar a polícia. E então somos forçados a deduzir que o assassino deve estar dentro de casa agora ou está nos observando de alguma forma.
+44|Exatamente. Excelente observação. Estou impressionado. Essa é uma pista útil. Talvez óbvia demais. E está congelada. Alguém sabe como descongelar uma cabeça congelada?
+44.1|Como descongelamos uma cabeça congelada?
+45|Não acho que seja uma boa ideia. Quer dizer, é definitivamente melhor do que uma panela holandesa. Mas imagino que isso possa render... resultados interessantes. Acho que você pode tentar.
+46|No... fogão? Parece um pouco demais, mas pode funcionar. Só tome cuidado para não queimar. Precisamos dessa pista.
+47|Colocar. Uma cabeça congelada. Em uma secadora? Isso... pode não ser uma má ideia. Quando a vida te dá uma cabeça decapitada... você a coloca na secadora e seleciona o ciclo suave. Eu vou com você. Vamos!
+48|Me dá essa cabeça. Temos um mistério para resolver e uma cabeça congelada para colocar na secadora. Ciclo suave, é claro.
+49|Finalmente. Sozinho com você! Assassinatos e mistérios, quebra-cabeças para resolver, fantasias para vestir... as coisas estão ficando pesadas e assustadoras, e eu preciso desabafar. E aparentemente podemos ter um minuto a sós...
+50|Espere. Já deveríamos ter uma pista!
+51|Ai! Hm, Houston, temos um problema. Estou preso. Socorro!
+52|Depressa! Segure meus quadris e veja se consegue me tirar.
+53|Estou preso? Preciso de ajuda. Estou com os braços dentro, mas não consigo mover a porta. Ela está presa. Precisamos encontrar um jeito de me tirar.
+54|Como os X-Men.
+55|Entendi! Peguei a dica! Olha.
+56|Ei, tira a mão. Pare com isso! Não se atreva! Tente de novo e eu entro no modo Super Saiyajin-Mewtwo-Raphael e te ensino uma lição! Agora, por que você não se faz de útil e descobre como abrir esta porta? Ela está trancada!
+57|Ei! Deixei o porta-malas de lado e estou pronto para curtir a festa. Só porque ninguém vai morrer hoje à noite não significa que não podemos nos divertir, certo?
+58|Ok, ok. Você pode ser meu herói.
+59|Só preciso de um minuto para deixar o porta-malas de lado e eu vou aí.
+59.1|Por que você não encontra... qual era o nome dele? Patrick? Para que ele possa me ajudar a carregar minhas coisas lá em cima.
+60|É, eu sei o que você quer dizer. Normalmente não me incomodaria... mas com um criminoso pervertido usando o sistema de ventilação da casa como fechadura? Sendo vigiado, cada passo que damos, cada movimento, cada declaração... esquece. Eu só quero encontrá-lo e lhe dar uma lição!
+61|Segure uma câmera, diga "ação" e eu serei o amanhecer que iluminará sua vida!
+62|Você aceitou minhas preocupações sobre ser vigiado e responde com uma piada de mau gosto? Você não está se ajudando em nada.
+63|Excelente pergunta. Mas, assim como quando você vai à sua primeira Comic-Con, não sabemos nada sobre nada e precisamos explorar áreas e conversar com as pessoas. Eu começaria pelas cabines principais, onde sabemos que o assassino esteve, e partiria daí.
+64|Conte-me tudo!
+65|Bom trabalho, fiel ajudante! Vamos investigar!
+66|Bem, então destranque! Mostre-me seus músculos em ação!
+67|Com certeza! Mostre o caminho.
+68|Olha! Tem marcas de mãos dentro dos dutos! Foi AQUI que o agressor escapou. O assassino usou os dutos. Ele provavelmente está nos observando.
+69|Concordo, às vezes é preciso quebrar alguns ovos para pegar um serial killer. Não podemos deixá-lo escapar.
+70|Ei! Como você ousa?!
+71|Ótimo, ótimo, ótimo. E eu que achava que era a única que achava um bom mistério de assassinato mais sexy do que um Santuário do Caos de Diablo... olha só!
+72|Meu Deus! Que piada ridícula. Que bom que você é tão adorável.
+73|Meu Deus! Suas tentativas de flertar são constrangedoras, e eu definitivamente estou perdendo os sentimentos que estava tendo.
+74|Não.
+75|Hum, está tudo bem?
+76|Como eu pareço, uma enfermeira? Quer dizer, eu não tenho problema com RPG, mas a coisa realmente emocionante seria resolver esse mistério.
+77|Eu pareço uma enfermeira para você? Quer dizer, eu não sou contra RPG, mas a verdadeira emoção seria resolver esse mistério.
+78|Droga, se você a tratou do jeito que me tratou, espero que ela não se sinta intimidada e diga o que você queria ouvir para que você a deixe em paz.
+79|Ok, desculpas aceitas. Você acredita?
+80|Essa é uma observação importante! Qualquer coisa que pareça fora do lugar neste momento, não importa o quão pequeno seja o detalhe, pode ser uma pista importante.
+81|Deveríamos continuar investigando para ver se conseguimos deduzir quais erros estão afetando o sistema de aquecimento e ar condicionado desta casa. Enfim, é, está muito quente aqui. Estou suando debaixo dos meus seios... opa, falei demais.
+82|Nossa, ok. Não foi isso que eu pensei. Talvez você devesse me convidar para sair ou resolver um mistério de assassinato primeiro. Mas usar algo mais leve parece uma ideia melhor. E eu tenho exatamente o que preciso... Vou me trocar. Você pode me encontrar quando eu terminar para que possamos entender melhor a situação.
+83|Não era exatamente isso que eu estava pensando. Ainda não. Me ajudar a resolver esse mistério de assassinato primeiro.
+84|Hmm, vestir algo mais leve parece uma boa ideia. E eu tenho exatamente o que preciso...
+85|Ei, você deveria tirar algumas camadas de roupa também. Que tal nos trocarmos juntos?
+86|Mas vestir algo mais leve parece uma ideia melhor. E eu tenho exatamente o que preciso. Vou me trocar. Você pode me encontrar quando eu terminar para que possamos entender melhor a situação.
+87|Certo. Vamos transar. Eu quis dizer, vamos nos concentrar! Vamos nos concentrar. Afinal... um assassino está à solta. Deveríamos triunfar sobre a mediocridade, deixando de lado nossos sentimentos aparentes em favor da lógica fria e implacável para solucionar esse crime enigmático. E depois? Vou te sondar minuciosamente, muitas vezes e em muitas posições. Bem, é hora de voltar ao trabalho, parceiro.
+88|Conte-me tudo!
+89|Essa é uma pista crucial! Esta pode ser a nossa melhor aposta! Talvez devêssemos avisar Madison e Ashley antes de contarmos mais alguma coisa. De qualquer forma, te espero lá.
+90|Veja... você e eu estamos começando a entrar na mesma sintonia agora. Mais ou menos. Agradeço o esforço. É legal.
+91|Mas sim, após uma análise cuidadosa das evidências em nossa posse, cheguei à conclusão elementar de que alguém enfiou desajeitadamente uma faca no ar-condicionado para impedir que as pás se movessem e bloqueassem o fluxo de ar. Portanto, está tão quente lá dentro que nem dá para transar. O que eu não entendo é por quê... Acho que você deveria conseguir remover a faca, no entanto.
+92|Aquilo foi Shakespeare, Sherlock ou apenas um insulto? Agradeço o esforço, no entanto.
+93|Parece preso. Você acha que precisa de um tapinha de amor para desentupi-lo?
+94|É um truque. Definitivamente parece sangue falso.
+95|Escute, quando você lida com sangue falso regularmente, lutando com ele, usando-o para decorar, espalhando-o por todo o corpo... fica fácil de reconhecer. Na verdade, tenho quase certeza de que é a mesma mistura que tenho no meu porta-malas. Dá para perceber pela viscosidade, pelo tamanho e pela consistência dos pedaços.
+95| 96|Eu estava esperando você perguntar, obrigado. Bem, é elementar... Alguém está tentando fazer parecer que um corpo foi enfiado dentro da unidade externa do ar-condicionado. Mas suspeito que seja uma pista falsa. Alguém, ou algo assim, está usando os dutos de ar. Essa é a nossa próxima pista. E parece que temos outra pista. Pode ficar com ela.
+97|Obrigado, parceiro. Veja bem, para cada ato assassino, para cada morte inexplicável, há uma veritas-aequitas, que é "Karma é uma vadia e seu nome é Liz Katz".
+98|Certo. Bem, sabemos que o culpado está nos dutos. Precisamos encontrar um jeito de tirá-lo de lá.
+99|Essa é uma boa pergunta! Provavelmente não deveríamos deixá-lo por aí; cheira muito mal. Deveríamos enterrá-lo? Queimá-lo? Prendê-lo em algo como uma lança para que nossos inimigos tenham medo de nós? Sinto falta do Ned Stark.
+100|Tudo o que tenho é o pedido de mistério de assassinato, que foi preenchido usando uma conta do Instagram, e recebi o convite dessa conta. Não tenho ideia de quem seja além do nome da conta, que é, rufem os tambores, @James_Sborr. Que nome estranho. Já tentei olhar o perfil, mas é privado. A menos que você conheça um bom hacker, não sei o quanto mais podemos descobrir sobre essa pessoa.
+101|Adoro seu otimismo. Me avise se descobrir mais sobre esse convite.
+102|Ah, me diga, estou começando a ficar animado só de pensar nisso.
+103|Quer dizer, Patrick, o morto?
+104|O que você disse, Scooby? Ah, é, estou tão animado!
+105|O quê? Não. Que pena. Acabamos de resolver mais uma pista e estamos mais perto de resolver o mistério. Nada me deixa mais animado. Só preciso resolver, só isso!
+105| 106|Acabamos de resolver mais uma pista e estamos um passo mais perto de resolver o mistério. Nada me deixa mais excitado. Só preciso resolver, só isso!
+107|Ok, foi uma viagem e tanto. Estou um pouco tonta, me sentindo tonta e também um pouco excitada.
+108|Não é demais? Este traje é incrível. E é tão apertado. Onde estamos?
+109|Graças ao criador disto, eu não tenho os seios triangulares da Lara Croft. E, olha só, tem uma cama também. Porque é claro que tinha que ter uma cama.
+110|Hum, é, estamos aqui para encontrar pistas, não para fazer um remake pornô de Tron.
+111|Sério? Vamos examinar a cena primeiro, parceiro, e depois ver até onde conseguimos ir com os limites da realidade virtual.
+112| 112|Parece uma boa ideia, mas vamos ver o que podemos encontrar aqui.
+113|Olha só, você é um babaca. Às vezes você pode ser um verdadeiro pé no saco.
+114|Você tem razão, não há motivo para ser rude.
+115|Nossa... tá, Darth Apathy.
+116|Isso foi muito legal da sua parte. Concordo!
+117|Do que se trata tudo isso?
+118|Isso é realmente nojento.
+119|Não, não, não, não. Isso é demais, vou embora.
+120|Você tem a paciência de um santo. A reencarnação de Andy Dufresne.
+121|Não estamos progredindo.
+121| 122|Será que isso tem alguma relação com o caso...
+123|Ok, eu diria que sim. Mas não é suficiente por si só. Mas quando se trata de cenas de crime, coincidência não é um indicador de sorte ou simples destino. É causalidade. É a justiça falando.
+124|Eu sei, está quente aqui, ou estamos apenas derrotando o crime?! Meu coração está disparado!
+125|Para fazer o quê?
+126|Café e donuts para mim, estamos prestes a desvendar este caso, parceiro!
+127|Só um monte de frustrações reprimidas e uma cama para descontá-las. O que me diz? Tenho um conjunto completo de processos de teste de cama em mente.
+128|Ok, você tem razão. Precisamos nos concentrar. Eu admito. Precisamos resolver este assassinato, mas aí você vai ter que me ajudar a liberar essa energia reprimida que tenho. Entende o que quero dizer?
+129|Boa pergunta. Vamos recapitular o que sabemos.
+130|Exatamente. Então podemos presumir que o assassino deixou pistas porque quer que saibamos seu motivo. Deve haver algo que ele quer que saibamos.
+131|Talvez. Ou... é só o que querem que pensemos. Na ausência de outros restos mortais, deduzo que a chuva de sangue foi criada usando a bolsa de sangue que desapareceu do meu porta-malas durante o apagão.
+132|Bom raciocínio. Mas ele escapou ou ainda está aqui, observando cada movimento nosso? O assassino deixou uma mensagem dizendo que não podemos contatar a polícia. Portanto, devemos presumir que ele ainda está em casa ou tem um mecanismo para nos espionar.
+133|Não necessariamente, parceiro: o assassino pode ter usado a conta de Patrick para nos distrair. E pode não ser um disfarce. Outra explicação lógica poderia ser que o assassinato não foi real, mas o suposto assassino simplesmente queria ter acesso ao conteúdo do meu porta-malas para simular a morte de Patrick. Mas por quê?
+134|Exatamente, parceiro. No entanto, considerando que Patrick gravou sua própria mensagem, acho que Patrick pode estar fingindo sua morte. 
+135|Além disso, a inclusão de um segundo bilhete só reforça minha teoria de que o assassino quer ser encontrado, ou pelo menos quer que saibamos sua motivação.
+136|Definitivamente temos respostas, mas isso só nos leva a mais perguntas que precisamos responder antes de podermos forçar o suposto assassino a sair das saídas de ar.
+137|Você nem deveria me perguntar isso. A maior pista em potencial é a cabeça de Patrick, que parecia ter um bilhete congelado na boca. Provavelmente deveríamos descobrir como descongelar essa cabeça e pegar o bilhete.
+138|Achei que fosse só eu e a emoção da noite, mas acho que o calor aumentou aqui desde o apagão. Primeira lição na investigação de mistérios de assassinato: nada deve ser considerado coincidência na cena do crime, a menos que você tenha sido subornado. E eu certamente não recebi nenhum favor, infelizmente. Então, a menos que você tenha recebido, vamos ver se conseguimos adicionar a solução da crise climática da casa à nossa lista de tarefas.
+139| 139|Ainda não temos uma boa ideia de como a pessoa que te atacou durante o apagão escapou. É fundamental que entendamos os movimentos do culpado. Em outras palavras, o assassino teve iniciativa 20, mas agora precisamos entender suas restrições de movimento.
+140|Ainda não sabemos quem me convidou. Isso não é um detalhe pequeno, parceiro!
+141|Mesmo que saibamos como o culpado se move e que ele queira que saibamos algo, o mistério permanece. Precisamos de um motivo. Podemos presumir razoavelmente que Patrick está envolvido. Deve haver algo pertencente a Patrick que possamos examinar para descobrir segredos. Nosso objetivo agora é encontrar o motivo, parceiro.
+142|Talvez você esteja certo, talvez você esteja certo. Ainda bem que eu faço exercícios de Kegel — a tensão é quase insuportável.
+143|Certo, falha crítica em todo o seu raciocínio. Não havia um bilhete naquela cabeça congelada? E então nós a descongelamos e a pegamos? Isso provavelmente significa que o assassino está tentando nos dizer algo, certo? Isso significa alguma coisa para você? Ok, erro de novato. Vamos continuar.
+144|Ooh, sim, fale sacanagem comigo.
+145|Mmmm, eu adoro quando você me enche com suas soluções. Continue. Eu quis dizer... continue.
+146|Oh. Oh, eu esperei por isso a noite toda. Minhas pernas estão tremendo. Eu preciso de você. Me ajude a resolver esse mistério. Por favor, querida.
+147|Oh meu Deus. Continue me alimentando com seu raciocínio. Eu sinto o quão difícil você está resolvendo. Eu sinto isso dentro de mim. Na minha cabeça, com seus fatos concretos. Tenho certeza de que chegaremos à solução. Oh meu Deus, não pare agora. Estamos quase lá.
+148|Oh, você é o Manny para o meu Meche que eu nunca soube que precisava. Como isso pôde acontecer conosco, querida? Uma noite louca como esta. Nunca imaginei invadir uma festa... conhecer alguém como você... e me sentir tão vivo. Não sei como isso vai acabar, não posso ficar aqui para sempre. Nem sei se estaremos vivos quando o sol nascer. Mas se tem uma coisa que aprendi esta noite em meio a todo esse álcool, loucura e caos sangrento... se tem uma coisa que eu sei... é que se resolvermos isso e sairmos vivos... vamos nos foder até perder os sentidos!
+149|Essa conclusão ridícula não faz o menor sentido, nem leva em conta nenhuma das evidências que temos. Só de ouvir isso me deixou mais burro. Tem mais alguma coisa a acrescentar?
+150|O quê?
+151|O quê?!
+152|Argh, você está quebrado. Alguém tem um martelo? Eu conserto! A menos que você tenha mais alguma coisa a dizer...
+153|Certo, Larry, o Brincalhão. Há alguma verdade no que você disse, mas isso não explica nada sobre o assassinato. Por favor, me diga que você tem outra coisa.
+154|O quê?
+155|Sim, é muito sexy. O sentimento é mútuo, tigre, mas o que eu quis dizer foi: continue juntando as peças da verdade sobre o que aconteceu.
+156|Isso é fofo e um pouco sexy, mas o que eu quis dizer foi: continue juntando as peças da verdade sobre o que aconteceu.
+157|Ah, é. Mas o que eu quis dizer foi: continue juntando as peças da verdade sobre o que aconteceu, e talvez a gente esteja, e talvez a gente esteja na mesma página.
+158|Não estrague o clima. Continue no seu papel de detetive sexy.
+159|Ufa, tá bom. Nossa. Desculpe, as coisas estavam ficando intensas. Mas essa é provavelmente a informação mais importante que temos para pegar aquele filho da puta... ou aquela vagabunda, simplesmente.
+160|Essa é provavelmente a informação mais importante que temos para pegar aquele filho da puta... ou aquela vagabunda, simplesmente.
+161|Ah, é, é! Não aguento mais. Temos que chegar ao fundo dessa história, desvendar esse mistério, chegar ao cerne da questão... quer dizer... ao cerne da questão! ...Tá bom, nossa. Desculpe, eu estava ficando um pouco animado demais! Mas essa é provavelmente a informação mais importante que temos para pegar esse babaca sorrateiro!
+162|Você costumava bater a cabeça muito no jardim de infância, né?
+163|Não, mas você está completamente no caminho errado.
+163.1|Você está completamente no caminho errado, tigre. Vamos nos concentrar nas pistas de verdade, por favor.
+164|Hmm, essa geralmente é a parte do filme em que os tambores começam a tocar, as pessoas pegam suprimentos, desenrolam plantas na mesa, apontam para coisas no mapa, dormem em suas mesas e, milagrosamente, terminam todo o trabalho de qualquer maneira, todos cumprimentam uns aos outros e os personagens mais sensuais se beijam para dar sorte antes da cena final começar. Tudo em menos de 60 segundos!
+165|Claro, mas isso é a vida real. Ou inventamos alguma coisa, ou vamos nos meter em encrenca. Boa sorte, parceiro!
+166|Claro, vem cá.
+167|Que tal bolarmos um plano primeiro? Depois, podemos partir para as coisas mais picantes.
+168|Bem, poderíamos tentar entrar nas aberturas escuras e claustrofóbicas. Soltar o assassino com um lança-chamas sem o elemento surpresa. Tudo contra um predador furioso que já sabe navegar pelas aberturas melhor do que nós. E tudo isso enquanto torcemos para que não morramos sufocados pela fumaça.
+169|Ou podemos começar uma fogueira. Cedo ou tarde, as aberturas vão se encher de fumaça, e ele terá que sair antes que a casa vire cinzas — tomara que sem a gente ainda lá dentro.
+170|Talvez pudéssemos ver se alguém tem algo que possamos todos tragar e deixar a fumaça passar pelas aberturas até o assassino sair... e aí ele provavelmente vai nos matar enquanto estivermos rindo. Hmm.
+171|Talvez pudéssemos ver se alguém tem algo que todos possamos tragar e deixar a fumaça sair pelas aberturas até o assassino sair... e então ele provavelmente nos matará enquanto estivermos rindo. Hmm.
+172| 171|Ou também poderíamos encontrar os componentes do feitiço para invocar um portal dimensional do sistema de ventilação para o forno, e então queimar algo no forno para encher as chaminés com fumaça. Mas há uma pequena complicação nisso.
+172|É, eu não sou um mago de nível nove.
+173|Ok, vou continuar pensando. Talvez pudéssemos inventar algum tipo de arma de energia que dispare discos multidimensionais que possam conectar diferentes locais no espaço e no tempo sem distorcer a gravidade, e então encontrar um vulcão fumegante...
+174|Uau, você fez um ótimo trabalho.
+175|Bem, há várias grades de ventilação na casa, tipo uma por cômodo. Coloque esse cérebro lindo para funcionar e veja se consegue descobrir como concentrar melhor a fumaça. Parece que aquela saída de ar na garagem é a única grande o suficiente para entrar e sair do sistema. Vou ficar de olho naquele cômodo enquanto você trabalha nele. Te aviso se eu ouvir ou ver alguma coisa.
+176|Esta não é a noite que eu esperava, mas, apesar de todas as coisas terríveis que aconteceram, não há lugar onde eu prefira resolver mistérios do que com você. Boa sorte.
+177|Como vão as coisas, parceiro?
+178|Bem. Ótimo. Tudo está indo como planejado.
+179|Ha ha, não. Mas é uma boa piada, considerando que estamos prestes a dar uma lição neste assassino.
+180|Que fantasia sexy. Obrigada pela dica. Mas vamos voltar a resolver assassinatos e mistérios.
+181|Ok, não me importo com a sua ideia de interpretação, mas talvez outra hora. Por enquanto, vamos voltar a resolver assassinatos e mistérios, ok?
+182|Nossa, desculpe, mas acho que vou passar. Não é hora para isso, vamos voltar a resolver assassinatos e mistérios.
+183|Não se preocupe, posso não ser um anjo perfeito, mas também não sou um demônio. Mas sua piada foi boa, considerando que estamos prestes a dar uma lição neste assassino.
+184|Cuidado, estamos combatendo o crime, mas não fique na defensiva comigo. Talvez eu só tenha olhos para atos impuros. Mas vamos voltar a resolver assassinatos e mistérios.
+185|Nossa, sinceramente, ela parece estar no meio de um beijo da Perugina. Vamos esquecer isso e voltar a resolver assassinatos e mistérios.
+186|Nossa. Bem quando eu achava que você tinha um pingo de humanidade. Vamos recomeçar. Estou te dando uma última chance de cair nas minhas graças... "parceiro". Que tal voltarmos a resolver assassinatos e mistérios?
+187|Ouço batidas e tosses nos dutos de ventilação. O que quer que você esteja fazendo está funcionando.
+188|Mas antes de enchermos os dutos de ventilação com fumaça, eu estava pensando que precisamos considerar como lidar com a situação quando ele entrar na garagem.
+189|Não estamos brincando de Super Smash Hammer Master... Quero capturá-lo e expô-lo. E vamos precisar de reforços. Sugiro que recrutemos pelo menos um dos guardas estraga-prazeres que guardam a bebida. Coloque-os do nosso lado e será tão fácil quanto atirar em patos com um zapper na tela.
+190|Patrick é primo de Madison e Ashley. Elas devem estar aqui para o desmascaramento, caso saibam quem ele é.
+191|Pode apostar. Estamos tão perto que consigo senti-lo. Sério. Entre as minhas pernas. Estamos chegando perto de uma revelação crucial. Estarei ao seu lado até o final desta história.
+192|O show acabou! Você está preso.
+193|Frank, não, você não é policial. E precisamos interrogá-lo.
+194|Certo! Espero que tenham feito suas apostas... é hora da revelação! Quem é o culpado misterioso?
+195|É claramente o Patrick. Não poderia ser outra pessoa.
+196|Obrigado, parceiro.
+197|A suposta cabeça decepada do Patrick foi encontrada no freezer poucos minutos depois de seu desaparecimento. Cedo demais para uma cabeça humana cair a -18 graus, a menos que aquela geladeira seja modificada com um módulo de carbonita líquida. É falsa.
+198|Além disso, ligamos o ar-condicionado e fomos surpreendidos por uma chuva de sangue.
+199|Como eu disse, aquele sangue tinha um cheiro distinto de sangue falso. E como eu sei, você pergunta? Porque eu tenho sangue falso no meu porta-malas. Ou talvez eu devesse dizer que tinha. Todas as minhas bolsas de sangue falsas sumiram, provavelmente usadas por Patrick para simular o trágico descarte do corpo pelas lâminas do ar-condicionado externo.
+200|Quanto ao meu conhecimento de que o suposto assassino usava sistemas de ventilação, essa era a única explicação possível para a fuga de Patrick após o ataque na garagem.
+201|E uma das pistas mais cruciais foi a descoberta de que o próprio Patrick me convidou secretamente para a festa, usando uma conta falsa que ele usava para se masturbar... presumivelmente para roubar itens do meu porta-malas e usar meu programa como distração.
+202|Parceiro, você quer responder isso?
+203|Hum, sim. Nós... espera, o que fizemos?
+204|Ah, sim. Isso. Sim, nós fizemos...
+205|Hã? Ah, sim. Desculpe. Estou um pouco distraído. É que... nossa. Que noite. Preciso liberar um pouco de tensão. Tipo agora. E bastante.
+206|Bem, resolvemos o mistério! Que experiência. Que descarga de adrenalina, que tensão reprimida. Talvez você tenha o que é preciso para ser um detetive. E não faria mal continuar trabalhando com alguém ao meu lado, mas não tenho certeza se agora é o momento certo. Acho que perdemos algumas boas oportunidades juntos. Mas isso faz parte do trabalho, jovem Padawan. Talvez nossos caminhos se cruzem novamente por causa de um corpo, e tentaremos novamente.
+207|Você se importaria de me acompanhar até a porta?
+208|Obrigada novamente por toda a ajuda. Parece que a festa está voltando ao normal, mas eu, hum, realmente tenho alguns assuntos pessoais para resolver. Preciso, hum, "examinar" esta máscara de perto, na minha cama, talvez com um tentáculo e um travesseiro macio.
+209|Esta noite, resolvemos alguns mistérios, sim. Pensei sobre esta noite várias vezes. E a resposta a que cheguei é que você pertence a esta festa. Eles precisam de você aqui.
+210|Digo isso porque é verdade. Nós dois sabemos que eu não posso ficar e você não pode ir. Quase tivemos algo especial. Mas se eu ficar, não vai dar certo e eu vou me arrepender. Talvez não hoje à noite, talvez não amanhã de manhã quando estivermos de ressaca, mas em breve, e pelo resto de nossas vidas.
+211|Sempre teremos a cabeça decepada na geladeira. Nunca conseguiremos esquecê-la. Mas você não pode me seguir para onde eu vou. O que eu tenho que fazer, só eu posso fazer. Não é preciso muito para perceber que algumas pistas encontradas por algum convidado de festa não valem uma pilha de jeans neste mundo louco. Um dia você vai entender.
+212|Shhh. Tudo bem.
+213|Deixe-me te lamber.
+214|Eu, hum. É. Molhada. Quer dizer, espera, o que você disse?
+215|Ah, é. Não, isso foi, hum, sim. Nós consertamos, hum... suas calças.
+216|Está muito quente aqui, sabia? Por que você está usando tantas roupas?
+217|É. Quer dizer, não. Eu não posso fazer isso com você.
+218|Escuta, eu pensei em uma coisa hoje à noite. E agora, eu quero pular em você. Não, quer dizer. Eu não acho que você conseguiria me controlar. Por favor, me abrace. Não, eu tenho que me controlar! Se controle! Muitas emoções hoje à noite.
+219|Escuta, não tem meio termo, nem mas. É tudo ou nada, e eu não aceito nada menos.
+220|Me dá seu pau! Eu quero te sentir dentro de mim. Não, desculpe. Eu quero mais do que isso de você. Eu quero tudo. Cada parte dura, dura. Mas eu não posso fazer isso com você.
+220.1|Me dá seus dedos, todos eles. E sua língua. Não, desculpe. Eu quero mais do que isso de você. Eu quero tudo. Cada curva linda. Mas eu não posso fazer isso com você.
+221|Você realmente acha que pode me controlar, né? Eu não sou assustadora?
+222|Você sabia que esta pode ser a nossa única noite? Sempre teremos esta noite, aqui nesta festa, mas eu não posso prometer nada.
+223|Se você se entregar completamente a mim, eu farei o mesmo com você. De mãos dadas. Corpo a corpo. Diga... só me diga que você pode me controlar. Me convença.
+224|Oh ho ho, usando psicologia reversa durante o seu interrogatório? Quer ser um policial mau? Agora você fez bonito. Vem cá, parceiro!
+225|Espere!
+226|Você vai precisar desta máscara!
+227|Bem, essa também é a parte divertida. E eu sou muito bom em descobrir quem deve ser a vítima minutos depois de chegar.
+228|Uma plateia de um? Acho que depende de quem...
+229|Você está falando da profecia do escolhido que será capaz de lidar com a sétima vinda de Liz Katz?
+230|Não, esta é a parte em que ninguém acredita que você é o escolhido ainda. A cena de amor começa depois que você se prova.
+231|Não tenho certeza se sou o antigo mentor, mas agradeço a confiança.
+229| 232|Sua sabedoria está aparecendo. Não a perca.
+233|Você pode tentar, mas será melhor se nos concentrarmos em aproveitar a festa.
+234|Haha, com nossos poderes combinados... veremos o que o destino nos reserva esta noite.
+235|Me fazer? Talvez você pudesse fazer coisas "comigo" algum dia, mas, hum, acabamos de nos conhecer. Talvez você devesse conhecer uma garota primeiro.
+236|Você verá o que este corpo pode fazer com o seu se não parar de agir assim! Nunca mexa com uma garota que sabe tirar manchas de sangue do carpete!
+237|Ainda não. Ainda estou explorando a festa e conhecendo todo mundo.
+238|Ok, vamos ver... qual tartaruga ninja é a sua favorita?
+239|É, essas katanas são tão legais.
+240|É, eu também gosto de ser um pouco nerd.
+241|É! Esse também é o meu favorito!
+242|Vou te contar uma coisa: quando eu tinha quatro anos, não entendia essa coisa de animais se transformando em humanoides e achava que eram pessoas fantasiadas. Então, eu tinha uma queda pelo Michelangelo, e quando ele foi à minha festa de cinco anos, as coisas ficaram um pouco estranhas e estranhas.
+243|É, eu gosto de caras rebeldes e confiantes.
+244|Mmm... o cara da máscara de hóquei...
+245|Nossa. Tá bom. Acho que vou me distanciar de você. Muito.
+246|Tá bom. Quem vence numa luta: Wolverine ou Deadpool?
+247|Agradeço a consideração cuidadosa que você está demonstrando à minha pergunta.
+248|Mmmhmm, tá bom, tá bom. Como você disse.
+249|É, é o que eu diria também. Ele se regenera mais e melhor.
+250|É, talvez. Seria uma ótima luta, e o Wolverine nunca desistiria.
+251|Bem, o Wolverine é mais veterano, mas eu escolho o Deadpool.
+252|Hum. Olha só. Esta casa tem interruptores de luz. Eu nunca vi antes. Com licença, vou dar uma olhada em cada um.
+253|Não, quero dizer, o personagem existe há mais tempo.
+254|Não tenho nada contra baixinhos.
+255|É. Quer dizer, eu posso gostar de um homem peludo, mas ele é uma fera. Bem, não "a fera", mas você sabe o que eu quero dizer.
+256|É, é verdade. Só funciona com a máscara. É importante que ele sempre use a máscara.
+257|É! Eu adoro usar fantasias.
+258|Por mais estranho que pareça, é.
+259|Quer dizer, dá muito trabalho montar essas fantasias e acertá-las. E elas nunca são confortáveis. E às vezes você tem que usá-las por dias, em lugares lotados, e viajar de um evento para o outro, e você sempre tem que manter a mente e o corpo em forma... mas sempre vale a pena porque você consegue se divertir e fazer algo que realmente gosta.
+260|Espero mesmo que você esteja tentando ser adorável, porque novidade: cosplay não é consentimento.
+261|Que bom que você é adorável, eu até poderia aceitar, mas novidade: cosplay não é consentimento.
+262|Sayonara baka!
+263|Ah, obrigada!
+264|E já me pediram coisas mais estranhas, acredite.
+265|Ok, talvez não tão estranhas assim.
+266|Estou indo embora.
+267|Tenho uma ideia melhor, mas veremos depois da festa. Por enquanto, vamos nos divertir.
+268|Nossa! Onde você encontrou isso? Encontrar bebidas aqui é como um minijogo.
+269|O senhor é meu herói; estou eternamente em dívida com você.
+269.1|Obrigada, querida. Você é oficialmente meu herói.
+270|Você é o melhor barman que já tive!
+271|Nossa. *Soluço* Com licença. Por que tudo está balançando? Olha! Meus braços estão como tentáculos. Hehe.
+272|Mais um? Valeu! Alguém está com calor aqui? Quem quer se refrescar na jacuzzi? Mas primeiro preciso pegar uma coisa... do meu porta-malas. Porque... é hora de *soluço* com licença. É hora de LIBERTAR O KRAKEN! ...Já volto.
+273|Bem, eu tenho várias. Mas como sou Liz Katz, acho que ter uma faz mais sentido.
+274|Bem, eu normalmente só uso em ocasiões especiais, mas você tornou esta noite muito divertida, então por que não? Vamos fazer uma loucura. Me dá um minuto, já volto.
+275|Ah, ei, você. Você é uma ótima pessoa, mas, hum... distância. Me dá um espaço pessoal, ok?
+276|Bem, o que você acha do nosso novo gatinho?
+277|*Bronzeia sedutoramente*
+278|Obrigada. Fico feliz que tenha gostado. Agora, onde estávamos?
+279|É uma fantasia de empregada neko. Liz "Katz." Tipo "gato". Neko. Esquece, vou tirar.
+280|Bem, vocês fizeram um ótimo trabalho como parceiras, e nós definitivamente formamos uma dupla dinâmica! Me dá um minuto, vou colocar de volta.
+281|Ufa, aqui estamos de volta ao mundo real. Com outra peça do quebra-cabeça. Tenho a sensação de que Patrick está envolvido na própria morte, ou talvez seja uma farsa parecida com algum tipo de pseudo-suicídio psicótico.
+282|Isso é definitivamente uma pista. Foi deixado aberto nesta página antes de ele supostamente ser morto. Precisamos descobrir se esta é a letra de Patrick e o que os símbolos e senhas deveriam proteger. Vamos ver se alguém sabe de alguma coisa.
+283|Me conta tudo!
+284|Esta pista é mais suculenta que um melão maduro! Vá encontrar aquele livro de segredos!
+285|*Risos*
+286|Ok. Vamos transar. Eu quis dizer, vamos nos concentrar! Vamos nos concentrar. Afinal... um assassino está à solta. Devemos triunfar sobre a mediocridade, deixando de lado nossos sentimentos aparentes em favor da lógica fria e implacável para solucionar este crime enigmático. E depois? Vou investigar você minuciosamente, muitas vezes e em muitas posições. Bem, é hora de voltar ao trabalho, parceiro.
+287|É hora de LIBERTAR O KRAKEN!
+288|Não sei o que fazer com isso.
+289|Não, não importa agora.
+290|Esse é o limite. Você acabou de ultrapassá-lo. Prepare-se para morrer.
+291|O que você espera que eu faça com essa coisa?
+292|Uau.
+293|Isso é nojento!
+
+[Responses]
+0067914d-dfcb-49b7-9781-8aa46cf100a2|A conta do Instagram pertence ao Patrick.
+00bb843d-e359-4419-b50f-6370bae845ad|Você está bem equipado.
+00c2b565-a1d0-4a0a-8973-9c50b7993e50|Entendido.
+0572670a-12cd-4e87-8708-d7eb05839657|Ok.
+058cbfba-1b77-4cef-8751-9d66d906386e|Claro. Podemos fazer isso. Ou...
+058f9944-9109-414f-8577-f58bea894abf|Hum, claro, Patrick adora peitos, então ele te convidou. Afinal, quem não gosta de peitos em uma festa hoje em dia?
+061657bd-2f4e-4170-85c9-5dde6154cda2|Parece grande o suficiente para caber um corpo.
+06522694-8e66-4b59-94a1-9db000dfb22d|Mal posso esperar!
+06e93b44-8d70-4050-86d5-7b1d9f280f0e|O poder de Tyrael chama sua atenção.
+0730817f-1093-44f9-b694-d3afefd93832|Uau! Você está... ótima!
+077bbbfc-1071-4c22-855c-8fcba56fb2e7|Alguém enfiou uma faca de cozinha no ar-condicionado lá fora.
+08570ec7-b451-4366-bda3-a967c8226d7c|Não sei se isso me assusta ou me excita.
+08941fcd-91a5-464f-a20c-4046a5473028|Ser ou não ser? Essa é... hum... a questão.
+0a22a500-0f50-4083-931d-855a6837b119|Sim, mas...
+0a5bff88-db73-4ac7-8a9a-4a6ff4b1ca53|*Pular*
+0a74ab75-08cb-4651-ad77-40857cae3cd2|Ok, mas quando você diz "assassinato", você quer dizer...?
+0af6bb0e-f489-4b14-a1ae-9e01657bcf16|Descobri quem te convidou.
+0af7bce8-15e6-4036-a0d2-b310b96cfe3c|Certo. Estávamos dizendo?
+0b1e7d4a-180b-43db-afe4-cdec5b1ad229|Você tem razão. Vá em frente.
+0e2e4d3e-a493-4d0f-af8f-f1f04bba9336|Você encontrou mais alguma coisa aqui?
+0e3ea7ad-36e9-44b8-9f74-7b2f6de390e7|Mmm...
+0e8d62b0-e8df-41b5-ada7-e3c82dc8c6c1|O assassino enfiou o corpo dentro do ar-condicionado.
+0eedf246-f563-4570-999e-5ba30f022784|Esta evidência parece importante. Talvez devêssemos voltar para a festa.
+103c351f-2ec0-417a-b5b5-69bf858d148d|Ok, mas mal posso esperar para descobrir o que tem nesse porta-malas e tornar esta festa verdadeiramente única.
+1119dbaa-3006-4976-a8aa-c17ee9f8a845|Ah, acredite em mim, você pode. Faça o que quiser comigo. E por mim, quero dizer tudo de mim.
+1306b06c-40c9-430e-9f63-62f5d633bbea|Hum, claro, o Patrick adora peitos, então ele te convidou. Afinal, quem não adora peitos em uma festa hoje em dia?
+13271618-bb1c-4396-aa6e-fa23d183a40e|Mas o Deadpool geralmente não é deformado e cheio de cicatrizes?
+133a19db-4087-4065-a041-67d771a468ec|Ok, precisamos de um plano.
+138e8302-ec9b-47fc-8c68-0764f37c4a28|O assassino usou os dutos de ventilação para escapar.
+13dbbb92-05a3-4f3f-b3f7-f813683656ea|*Pular*
+150b39ef-0d6b-4dfd-87bd-17a75edc9a7e|Continuarei procurando pistas.
+153b80bb-270e-403c-bffe-fe8fedc3d763|Qual é a sua fantasia favorita?
+155eb478-8562-4f96-b162-3e06aa05be34|Anjo caído ou demônio sexy, ainda vejo o paraíso em seus olhos.
+15d41770-08be-4ce5-adac-36cc417e0e06|Impressionante! Você tem meu respeito.
+15e7775d-734a-40f6-a583-dbb9030ab235|Detetive Katz, encontrei uma pista lá fora.
+161c80d6-8d98-441d-8dab-f40eeaa0573c|Deveríamos abrir!
+170e7680-1bcf-41d0-bc67-63173a38764d|Ok, vamos ver se o VR Patrick tem algo a dizer.
+17b13820-cfc7-48bd-bfcd-3e0261887f72|Certo. Estávamos dizendo?
+181ef2cf-c40d-4cd9-b695-6236edaf4078|De fato, vamos nos despir!
+186a943e-d3cd-4059-b3b4-23fc6a1809f5|Podemos colocar na secadora.
+1913a5d2-7d34-44c8-8a35-c24ce5369405|...uuuh...
+1922c208-31eb-4643-ad19-801acb887074|Certo. Você sabe por que alguém iria querer matar o Patrick?
+1a49c2da-7801-4ede-ad32-c2ab1f027637|Ótimo!
+1b3b2c31-9de7-4e93-ac07-7655ba42513c|Tudo bem?
+1b4399d2-9dbe-48a6-807c-051a8236569b|Quer verificar aquele respiradouro na garagem comigo?
+1b4786f3-df1a-4794-a123-c184ac150a99|Certo. Estávamos dizendo?
+1c74ca42-ed22-476b-9636-fd0a904c9a7d|Desvendamos o caso! Acho que formamos uma boa equipe.
+1ce15a78-c9c6-471f-a982-c37077b7a02e|Então, qual você prefere?
+1d5e626b-6b11-42f2-ba12-a6dba3cce819|Excelente raciocínio, Detetive Katz. Vou continuar investigando.
+1e59dc3e-535a-49f3-9a7f-e73e87ca59b8|Este é o programa de realidade virtual do Patrick.
+1eb2f5f2-7bd7-4be0-b660-9ef7e5906dbf|Excelente raciocínio, Detetive Katz. Vou continuar investigando.
+1f501415-d262-4006-af87-0e3834cb31ad|Ah. Certo.
+1fb2b24c-77c2-4b8d-8240-b6cd934c942a|A motivação do assassino pode estar relacionada aos impostos não pagos de Patrick.
+1fe6535e-507e-48a3-b72a-8a708a06b7f7|Ok, vou tentar me lembrar de verificar.
+20983644-9f63-4760-a3e1-56b0dcaaa4de|Ok, bem, na verdade, Stephanie disse que está começando a esquentar, e eu concordo.
+211ddea4-6100-4e47-999e-6cd37603a1ce|Siga-me.
+21bf40b4-4cab-49c9-88ce-f41a5b191d0a|Que porra é essa? Tenho a sensação de que está mais quente aqui e pensei que poderia ser importante.
+230ab534-ad94-4797-bce2-5c3ed072ac01|Resolvemos o mistério?
+23efdd62-e960-4d06-911b-592b9f78f155|Alguma ideia de como tirar o assassino dos dutos de ventilação?
+244f5c0c-8aa3-4503-b8a4-455124cf907b|Você acha que temos evidências suficientes para resolver o mistério?
+24804584-1cde-4af2-995b-6db371691601|Você está certo.
+24ce03cf-b1d8-4748-8169-34bfa1fc8d58|O assassino usou os dutos de ventilação para escapar.
+252f4a9d-c9d7-49fe-b052-67727140eb4b|Certo, certo. A maior pista é que o assassino gosta de comer cachorro-quente em dutos de ventilação, com muito ketchup. Que cara estranho. Quem coloca ketchup em um cachorro-quente?
+25b5c286-2df0-4e6b-b0a4-d04cbfc5ca73|De nada!
+25f08012-001c-41b3-a38f-4367833b8a72|Com certeza Deadpool.
+26114114-2385-4810-a7cc-fee40990bc66|*Pular*
+26fd10f8-4943-4b23-9f26-3ddb3518a9a4|Bem, um pouco de adrenalina nunca fez mal a ninguém.
+27a96a21-6424-4c88-9659-686e6e08ad0b|Que tal abrirmos seu porta-malas para deixar a festa mais interessante?
+2854967f-32e6-4ddd-8679-d1c0e5b1f794|Vamos continuar.
+289a89ec-a3d5-4a91-965b-321fecfc346b|*Pular*
+2932509a-e92f-4aa7-ac82-12be9bf78cfa|Ok, bem, na verdade, Stephanie disse que está esquentando, e eu concordo.
+295e8b98-d737-4518-ade8-e031153e0603|Vamos lá!
+2b422427-2ecc-4d77-a98d-a3c7ab61668e|Sabemos que Patrick convidou você para organizar um mistério de assassinato como um possível disfarce.
+2c0d4b12-25b9-4cd5-8b30-364bcb261a15|É, eu sei.
+2ceaba8d-8cd2-4624-8182-5b2414d76894|Certo. Prioridades.
+2f705d26-5bcb-4bdd-becd-035dfa39868d|Certo, bem, na verdade, Stephanie disse que está ficando mais quente nesta casa, então acho que isso pode ser uma pista.
+2fd759e2-7a26-4ca4-be8b-5ac9470a09e6|Bem, então o que tem naquele porta-malas?
+31de8644-6245-45e2-8ef5-96ac0a3ac072|Acho que entendi.
+326835e9-32a2-4d90-b6f4-25f41ac4bd00|É, mas acredite em mim: você ficaria muito sexy com uma fantasia de Psylocke.
+33898a4d-ed2d-4ab6-8805-1ad23a531478|Ótimo! Vou avisá-lo.
+341e71bd-49a1-4175-b775-bfc7c0c9d441|Encontramos um bilhete dentro da cabeça do Patrick.
+34ec06f4-643a-4c5b-b33d-51f4e11320d8|Certo. Obrigada, Liz.
+354f5590-7254-42af-bc6f-a02a3217c4ef|De nada.
+358a2e21-cb64-43c9-8275-f421f0e1c2f8|Do tipo que você corta e come na sopa.
+35b56b5c-a551-45cb-a7b3-4e152ec85b81|Vou te mostrar do que sou capaz!
+3602e42e-2ca9-4ce4-a801-b8eb956694fb|Você tem razão, concordo.
+360ab50d-0ba7-4dcf-a613-af42174b7635|Estamos prontos para pegar o assassino?
+36e038e5-ec98-4581-aeeb-74a20a0274ea|Raphael.
+38fba3fb-6235-4dff-acd2-e2854fdbdc49|*Pular*
+39012abd-82f4-4348-a9b9-24caa95d1480|Não conheço o futuro, mas o presente, agora mesmo, é o que eu controlo. Então, vamos começar aqui e criar nosso próprio destino.
+3917b174-14b5-4e95-b410-0e114891140e|O assassino enfiou o corpo dentro do ar-condicionado.
+3a1ea6ee-b28d-4d54-b626-adf4e33e222e|Estamos prontos para pegar o assassino?
+3bea928c-5f0a-4b95-93d0-b7250f1f14a4|Haha, Liz "Katz". Entendi. Que fofura.
+3c069a00-cde7-41fd-a7d5-c0449deba8d4|Estou falando sacanagem.
+3c9c6916-5f90-4f8d-9dd5-129e101ce501|Acho que tenho uma ideia do que significam as coisas no caderno do Patrick.
+3d096969-4e36-403f-bf51-c2d46f233040|Mal posso esperar para ver!
+3d695220-b9df-4621-b0db-044e6c4b536b|Ótimo!
+3f9b7dfe-1194-4dc2-b1ac-ae96375d05d7|Concordo.
+4028188c-5d07-42f4-9168-673374790511|E aparentemente inteligente também.
+406a3ec2-3a52-43e0-81bc-f10e8c385b99|Excelente raciocínio, Detetive Katz. Vou continuar investigando.
+40c51e63-7c83-404c-8cfb-7c58ab81b7dc|Deixe-me tentar de novo. Seu nome é Maya? Por que você está...
+414b23bf-32c9-4fcf-8170-399a2ec93610|O assassino inseriu uma sonda anal USB no ânus de Patrick para baixá-lo para uma pequena ilha escondida em uma mala.
+41616251-32e5-4b01-8a08-c35faf059186|Tenho certeza de que podemos dar um jeito. Você pode ser a letra miúda no final da página, querida.
+42b76d04-0bdd-4360-9cd1-d898d780fa78|Acho que vou acreditar em você... por enquanto.
+43380478-31e8-4157-9a47-7b723caff7ea|Encontramos um bilhete dentro da cabeça de Patrick.
+43529bc8-b723-4425-bfa4-4de42346be1a|Certo!
+44abc461-5c93-4bb4-acb9-772a91a6ac85|O culpado está usando os dutos de ventilação para se movimentar e nos observar.
+456cd611-d0c1-4cc7-9c29-01b83e115915|Exatamente.
+47053c9b-de82-4bb5-a096-2e76dac3d85e|Detetive Katz, encontrei uma pista na garagem.
+47225257-d0fe-40ce-a448-eac308c53332|Foi algo que eu disse?
+47a71219-3c9b-426c-9d8b-4e60db45cd52|*Pular*
+47be5679-27d6-4868-8f1e-72611cdf21d4|Pergunte-me qualquer coisa.
+47ecc9f3-5e7c-414d-87f6-f4e39c3f84af|Ok, vamos ver o que acontece.
+491274d9-cdec-42a7-972f-b7a998c5e8f1|Eu não estava... falando sério.
+49a6f111-7831-421c-9d4f-f08cd5d917c2|Que tal relaxarmos na jacuzzi juntos?
+4a9074da-978f-436a-be46-4bf9f76ecb57|Estou te dizendo, você pode me hipnotizar e fazer o que quiser comigo.
+4b75dec9-fc46-4a40-8ede-3e6003e9c911|Quando tentei religar a energia da garagem quando ele me atacou.
+4bc398c1-9d21-4742-973e-45fb285ca601|Serei sua plateia.
+4e1e3076-24f5-4a6e-ba70-cf3cfeded0c0|Estamos prontos para pegar o assassino?
+4e2bedad-b83d-4338-871a-4fa19cd9ae32|Parece crítico. Eu cuido disso.
+4e84bb94-9c2b-48e9-b49d-a92765e2d914|Patrick recentemente registrou seu último testamento, indicando que ele pode morrer em breve e dando um motivo para alguém matá-lo.
+4ec71d53-daa1-4b53-bd6c-bdc27fff37a9|Como costuma ser um mistério de assassinato?
+4ec833e4-ed58-4066-bbce-241ec9fea81c|O culpado está usando os dutos de ventilação para se movimentar e nos observar.
+4f663e02-6fcb-4680-921d-2c1a2bcea2d0|Isso é uma profissão?
+4f703ad6-5941-4c9d-b974-129658989db4|Então essa é a sua ideia de diversão? Me bater com um martelo no escuro?
+50051ef2-5b10-4620-b015-28a170cbabef|Patrick é o cara que te convidou para a festa hoje à noite, o que o torna o principal suspeito da própria morte.
+5025efe1-e78d-4dc2-b02c-c634b571e0e2|Ah, ei, desculpe, eu não sabia. Você está... incrível!
+505d6063-5847-4b51-9890-bc26f536cbe7|Certo. Estávamos falando?
+509ae25c-9672-467b-b562-11fbfeb41dec|Certo. Vamos ver se essa coisa começa de novo.
+512b8ea6-9a82-4fd3-bc3e-20d53798c7d7|A menos que você e eu sejamos os escolhidos?
+51a72b52-7a5d-4574-b05b-d79000034cb0|Este é o programa de realidade virtual do Patrick.
+52d4ec0a-fa3d-4bb5-8a91-3dfd9c3b1018|*Pular*
+538cef0a-3600-4725-965d-4ed0314779ae|*Pular*
+53a9f810-df2d-4619-a9c6-4c55d1e27ea3|Devíamos fazer um teste de qualidade completo, talvez ver se conseguimos mudar a gravidade e ver o quão elástica é aquela cama.
+543e8eaa-c390-43f2-b665-0be5400aab60|*Pular*
+544a2c9d-9b52-454f-902d-c3ad6a7009c0|Não exatamente. Jacuzzis são uma merda.
+553578c7-8acd-4761-9095-415ed949d157|*Pular*
+554193fe-28fd-4f87-8f80-ac5adc14b5a5|É, desculpa por antes. Achei que deveríamos trabalhar juntos e queria compartilhar algumas informações com você para ajudar.
+557cc9a4-7f3e-4be8-ac9b-ee2834f6cc0a|Mas o Deadpool não costuma ser deformado e cheio de cicatrizes?
+559f7832-d974-482f-beeb-71b34a3c049b|Acho que sim? Quer colocar a mão na minha testa e descobrir?
+568032ba-9363-4871-a7bf-4364f9ac1c18|Escute, tudo o que eu sei com certeza é que seu corpo é o maior mistério desta noite, e não posso deixá-lo sem solução.
+582aca84-ab04-458d-aed6-8afa92deca67|Ele tem instruções de como escanear e imprimir uma cabeça humana realista.
+5a4c2fb9-72bc-49f2-9564-113a3607a4a4|Então, quem você prefere?
+5afa20a3-da2a-472f-8fb1-f8fc2dbf8165|Sim, claro.
+5b3a3c1f-f4a6-412c-a86d-e34bd0459325|O sentimento é mútuo.
+5b76647f-6837-4104-b7ca-a7fb8f5c32ea|Bem, então o que tem nesse baú?
+5d8b5c18-9850-4faa-ad59-b4276e310f8e|Farei o que você disser, o que você quiser que eu faça.
+5d919658-fd98-4c65-803c-cda49847d117|Estou bem, obrigada. Mal posso esperar para ver o que você vai vestir. Continue procurando pistas.
+5df27937-48e1-4703-ac43-1aba74d6ff30|Ouvi dizer que você é cosplayer.
+5e8f9396-07b0-4f0e-9ed5-8b041957b2d3|Certo, certo. A maior pista é que o assassino gosta de comer cachorros-quentes em dutos de ventilação, com muito ketchup. Que cara estranho. Quem coloca ketchup em um cachorro-quente?
+5f10edd8-f42c-4a20-9c10-ff65683add3d|Mal posso esperar para ver!
+5f369468-6c2d-4841-95b7-63437ca6b81d|Vamos esquentar no micro-ondas. É o único jeito infalível de fazer.
+5f614e1a-be24-478e-86f2-24eaf5025cda|Encontrei um projeto de modelagem 3D.
+5f85fd2c-9157-44a3-ba08-9e40e15249b0|Bem, tenho a sensação de que aqui também está mais quente. Acho que isso pode ser importante.
+601018fb-1d7c-4a9a-b9ac-fecb4dd757d9|Ok, precisamos de um plano.
+62e4fb05-34d7-4ac7-84df-6f01522a8a63|Sim, senhora!
+6348edd8-3b80-46db-99a6-0a8b0684c931|Ok, sem problemas, Liz.
+63b30e4d-080d-4717-9626-c15cb927a15b|Não se preocupe comigo. Você pode fazer o que quiser comigo.
+63fd835f-a623-44f8-95c1-3d7b49a4127b|Está muito mais quente nesta casa, então o assassino bebeu rapidamente um refrescante suco de cereja e vomitou no ar-condicionado.
+6475263a-92a8-4bdc-84b3-6e8388b0183c|Talvez tenha sido o destino que nos fez nos conhecer esta noite.
+64ddadb3-336d-4db7-8b10-ac9ecd8a6d70|*Pular*
+655b3afe-adb9-4be6-a96f-987c3bbbab46|Wolverine, sem dúvida.
+65d9019d-487f-4a71-bd84-6ff8846a0237|Nossa, parece um trabalho fácil.
+6626cf4f-0688-457c-b551-d8b774943bce|Patrick é o cara que te convidou para a festa hoje à noite, o que o torna o principal suspeito da própria morte.
+66aab582-fa9c-45cc-85b0-53a980891fe4|Com certeza!
+672c7f0f-e222-47bc-93ed-7b8dbb8bb02e|Ok, o que posso fazer para ajudar?
+67944b4c-3363-4410-8a2d-fac3710e0da1|O quê?
+68500f7c-bbae-4710-8d67-99a44481f7d2|Ok.
+68545783-20be-4de7-bb7d-7b686cfca8a1|Estou começando a fechar as saídas de ar. Deve estar enchendo de fumaça em breve.
+689f07ed-d6b4-474d-8fbb-94101ab49550|Você tem alguma informação sobre quem te convidou para a festa hoje à noite?
+6956d329-a980-4798-a8da-9ecf61ad22e9|Sim, estou seguindo seu exemplo. Mas talvez...
+69e41cc1-bd98-4c31-a197-d07947b6f82b|Aposto que dá muito trabalho.
+6a3817ae-3865-4903-81c5-7507bf921f47|Encontrando pistas. Entendido.
+6b165fd9-185b-4a97-bd7a-9e95b467c585|Me chame de Samus. Ou Rey. Ou Katniss. Ou Diana.
+6c6cc68f-ca88-406e-868c-49dd1a050aa2|Nossa, eu não sabia que essa era uma noite de mistério e assassinato!
+6cbf94cb-31c3-49fc-8167-71c50f8c9ecc|Bem, na verdade... Eu poderia fazer isso o dia todo. O que você me diz agora?
+6d6bea5c-3756-4e55-986e-8da5324652e0|Parece que dá muito trabalho.
+6ec34a57-889c-493d-b608-67f5889b4509|Foi algo que eu disse?
+6ede9372-395e-4ed2-af47-df486f81fb22|Espero que demore mais de um minuto!
+6f76f6e3-0a98-45f2-b857-39827e76d3c7|Talvez alguém possa nos ajudar.
+6fd0c593-af10-4845-b382-0f8bc2d1a0f3|Então, sim, está muito mais quente nesta casa, então o assassino claramente bebeu uma grande quantidade de um refresco sabor cereja muito rápido e teve que vomitar no ar-condicionado.
+70eda717-cf52-4dda-8c8d-e8dbe8bbb0ae|Eu preferia ver o Deadpool sodomizar o Wolverine!
+714a73cd-6e2e-417d-9a2b-fa1a088974c0|Colocar provas falsas na forma de sangue falso no ar-condicionado foi um disfarce para simular o descarte de um corpo inexistente.
+714e7817-aed8-4d31-902d-5b25716e5a3a|Entendido.
+71fa0cb9-6243-4630-ae6b-cb53bbf8a507|É, colocar na secadora não ajudou com o cheiro...
+72eca154-f5c1-452d-94f7-198a7500fd71|Hum, o que é isso mesmo?
+7347778e-35da-43c3-a7b6-82ce17a6a432|Conversei com a Stephanie e talvez tenha encontrado uma pista.
+73e4499f-ad47-48e7-bd41-7033a2dbe26b|Certo, então alguém derramou muito sangue no ar-condicionado. Mas por quê?
+73f19a66-3420-4b49-bd54-bafce0441246|Ainda não. Estou trabalhando nisso.
+744072cc-4949-4b41-a42c-3567635870e3|Hmm... preso...
+74624643-0630-4dde-8a89-93b3367eaec3|O motivo do assassino pode estar relacionado aos impostos não pagos por Patrick.
+74b07d45-c084-41c8-9fb9-65eb893c3692|Ok, eu acredito em você, Liz.
+74b3da93-eeb7-4f20-8427-669bbbb1fed5|Que dedução brilhante!
+74fe6741-2211-4bd8-b9fb-529443ce4e07|Bem, Patrick já tinha uma mente antes. E depois não tinha mais. Então acho que Johnny Cage vence?
+75201629-ac25-468e-9356-35af2544227f|Sabemos que Patrick te convidou para planejar um mistério de assassinato como possível disfarce.
+75d7843b-9897-4a61-a5df-278e90f0cc93|Há muitas coisas divertidas que você pode fazer com fantasias, brinquedos e algemas.
+77c70823-1dc2-46fc-96b6-70fb7066f183|Stephanie teve a boa ideia de tirar algumas camadas de roupa.
+78a4854f-87bf-457c-a632-28e45ae6e16c|Patrick é o cara que te convidou para a festa hoje à noite, o que o torna o principal suspeito da própria morte.
+78fe0154-7e67-40b7-8fb9-ca0000229610|Hmm... preso...
+7a65840d-4ab3-4623-b0dd-49788f17614e|Sinceramente, não tenho certeza se você consegue lidar comigo. Acho que sou demais para você.
+7b8ddbe9-97b8-4fb5-9c06-0d975993fef7|...como você sabe?
+7bb14735-0a33-4911-b4d0-090b2bb30664|Sim, detetive.
+7c537ac7-a375-4290-8425-7f0c2168c8fe|O assassino inseriu uma sonda anal USB no ânus de Patrick para baixá-lo para uma pequena ilha escondida em uma mala.
+7c7c64d0-ee96-4864-9822-f231e1d50983|*Pular*
+7cce1b39-cc7f-4dbf-bdb2-96e53401e97c|Poderíamos tentar esquentar no fogão.
+8138a125-8d9c-41c9-b88a-e9e24e4e71cf|*Pular*
+81654f94-3c6c-4610-9a80-a7f0e5001ad1|Ah, então você deveria saber que o assassino me atacou na garagem!
+81ef6ad5-7af2-4a3f-994e-1fc57ed240bd|Parece que tem um anúncio de uma impressora 3D aqui.
+82285f09-26f8-475b-87f5-2cbd7749058f|Donatello.
+8239ddca-3fa7-496b-a713-3a4fd5282fe4|Colocar provas falsas na forma de sangue falso no ar-condicionado foi um disfarce para simular o descarte de um corpo inexistente.
+82650918-bcb7-4ccb-b2cd-6a2927510495|Certo!
+82fe6036-0a7f-48e1-a7c9-2f911e39fab1|Bem, então o que tem naquele porta-malas?
+83501a59-6ca2-41c0-beab-c6bf37a08ade|O assassino enfiou o corpo dentro do ar-condicionado.
+85137800-6044-45c2-8f0b-202459d07341|Sim, sim. Até mais.
+8571f36d-4cdc-4bb5-96d0-ee696c796f00|Hum, claro, Patrick adora peitos, então ele te convidou. Afinal, quem não gosta de peitos para uma festa hoje em dia?
+857fdba1-6814-4147-a737-c79f8d3630ce|Se testículos fossem saquinhos de chá, eles transpirariam sêmen?
+85b34091-e3a5-40e2-a1f3-de0c44f20b36|Excelente raciocínio, Detetive Katz. Vou continuar investigando.
+867e083f-e6a2-4444-ae01-d42e6095231d|Ah, não. O que foi?
+8712203c-5f1f-45d6-97ed-5561b59d9058|Ok!
+87e8183a-804f-406b-a557-16d3b0afa69d|Sabemos que Patrick convidou você para organizar um mistério de assassinato como um possível disfarce.
+88204c4e-3db2-4785-b64d-c95696c76d48|Desculpe. Vou parar.
+88a7572a-a48e-4ad0-b447-7e77c6d27543|Ah, desculpe.
+8bbfbd86-4bd2-47af-a06e-caadd9a03a31|Estou falando sério.
+8dab04e4-dde1-4394-8a7b-536da2479c7e|É aqui que nos apaixonamos?
+8ea188b2-377b-440f-855f-cde5ca54eda7|Patrick, se você estiver realmente morto, não poderá descobrir.
+8f90612a-cdc3-4bf3-b049-8f92b178a421|Bem, eu poderia tirá-los.
+8ff80ea8-302f-4f91-92b1-a831840712da|Ok, precisamos de um plano.
+90af6166-3c37-4080-b6f1-37f62b95e494|Sim, com certeza.
+90e4494a-6fd6-46d2-ab82-516f70bd969b|Não sei se isso vai me ajudar a me acalmar, mas com certeza. Vamos lá!
+91c83260-9bae-4483-944f-8a7c64040c26|Se controle, é só realidade virtual.
+91cc27e4-ed23-4142-9e06-9de60fe6b131|Eu nunca teria imaginado.
+920fcc99-feea-41bc-84e3-46b776bf9e24|Ah, é, é que a Stephanie disse que está ficando quente aqui em casa, e eu concordo.
+9431ad22-fd98-476c-8d53-d9a07da2cee8|Hum, claro, o Patrick adora peitos, então ele te convidou. Afinal, quem não adora peitos numa festa hoje em dia?
+944e15c1-4fb3-4d19-9df9-42d37471a29c|Não acredito que estamos fazendo isso.
+9475554f-99cd-4846-a78b-f81cdfcc9703|Hum, tudo bem?
+96b16291-ca9b-4b25-b36f-05b8ed96a7bd|Certo, e aí resolveremos a inflação imobiliária.
+97874438-08f2-4faf-aea9-a58bac94ea30|Se você não consegue, eu consigo...
+97a27803-9ee2-492b-a362-ab14b824e754|É, o Wolverine é baixinho.
+991993c8-5276-42b6-bf73-fcda2150005b|Claro, eu vou buscar para você.
+9967b040-8cf5-4956-ac2b-0b5fbdfeb007|O assassino usou os dutos de ventilação para escapar.
+9a2998af-2966-48f9-898b-94a490605dc8|Ok, precisamos de um plano.
+9b3fb946-0d61-4301-abb6-816ac24e27ed|Patrick é o cara que te convidou para a festa hoje à noite, o que o torna o principal suspeito da própria morte.
+9b4062ce-db36-441e-baf9-b544109ae838|Eu tenho meus segredos...
+9b66b36d-6a2d-4895-9211-26561deccf28|Ok.
+9c1b38ea-f3d4-4d69-8a73-b1546ef09274|Ah, ah.
+9d4dad20-2adc-49e5-a3d8-af11fbb65389|Aquele que Hugh Reynolds interpretou.
+9da5f34b-f2c1-4f0c-8fb5-f225094ce5d4|Isso pode excluir muitos convidados desta festa...
+9dcd128a-c0fd-4cb7-aeb6-ad44daa4015f|O quê?
+9ebf89e9-be09-456c-b32d-bfa5de373de2|Certo. Estávamos dizendo?
+9ec1bcf9-1b6d-44c0-a994-436cf1c8afab|*Pular*
+9eef2422-19d2-47ea-b82c-0ea850da84e8|Certo!
+a0ee3d31-40f9-43cf-8b58-3785acb548f8|Encontrei uma saída de ar na garagem que pode conter evidências.
+a0f7179b-93e5-40ff-8d65-a7ea4eeac8e9|Certo, certo. A maior pista é que o assassino gosta de comer cachorros-quentes em saídas de ar, com muito ketchup. Que cara estranho. Quem coloca ketchup em um cachorro-quente?
+a16f6268-cc6c-4d83-9403-a42eb9c381ad|Sim, aqui é a Madison.
+a21ab96a-312b-408e-9630-49d025b08943|Ah, é. Uma cabeça caiu. Só preciso ver onde caiu.
+a2b3d418-f0d8-4329-b583-6faffe5e1331|Mas o Deadpool não costuma ser deformado e cheio de cicatrizes?
+a3a0ea52-022c-491c-afc7-b465fad88890|Certo.
+a3bf6254-cd34-4a4f-9012-dc2850d0ddc6|Então você trouxe muitas fantasias?
+a3cc681d-b486-4161-98f4-a892dced3d00|Ei, arrume um emprego de verdade.
+a3d6168c-b726-47fb-8b25-98add24d4e6d|Você tem a sensação de que eles estão nos observando?
+a4607b1a-d14f-4745-ac87-8ea43020792e|Vou encontrar uma solução rapidinho, você vai ver.
+a462946a-e3ab-487d-8a61-5159c4413be5|*Pular*
+a4ab86c7-46f4-47f0-ae8b-46d68ff0c96e|Ok, eu só estava me certificando de não ter que te queimar na fogueira.
+a4b01d01-8597-44fc-a3d0-202d2abbedec|Não faço ideia.
+a4c95dff-daea-4725-8a64-3cfcfa2c8adb|Ai, meu Deus!
+a6ed555d-7078-4834-9f0a-63a992bf87b4|Desculpe, queria perguntar sobre aquele baú que você trouxe.
+a867464a-081d-45e7-865d-2278dec2cc03|Bem, vamos ver!
+a8c146a1-8b9b-449b-9282-b362482112cc|Eeeehm...
+a9700e2a-28b9-4476-9ef4-c4586465199a|Encontramos um bilhete dentro da cabeça do Patrick.
+a9862366-8c78-4a00-988f-ce3ba5c2d226|Michelangelo.
+aa43cd04-41ed-42c0-89d1-e7dee986b6c5|Parece haver algo nos dutos de ventilação, mas a grade de ventilação está bloqueada.
+abd998f9-8cd6-450d-b6ce-fd2e2675e898|Certo. Estávamos dizendo isso?
+ac60baec-0985-4b91-8a85-01528a56a441|Encontramos um bilhete dentro da cabeça de Patrick.
+acac0be1-4e52-4c9e-8e79-5a89eff5501c|Patrick deixou seu testamento para Compubro pouco antes de desaparecer. Estou errado?
+ad595573-4b17-4f89-9e4e-3fb4b06d8cd4|Ei, só queria te dizer que estou com calor.
+ae5a8ef6-ca04-416b-8fe2-1c6cc59dd359|Parceiro amoroso?
+aef3ce07-6719-4bf3-b745-25d76592dcd5|E o mistério do assassinato?
+b06643e8-cf1a-4303-83cc-41cdab2086b6|Ela está aqui mesmo. Aqui é a Madison.
+b0bcb5eb-0218-41db-a924-5e1db538b93a|Sim, eu sei.
+b0e6c286-2740-4c10-9be4-936ea6e03685|O que devemos fazer com a cabeça decepada de Patrick agora?
+b0f13217-c241-408c-b13d-7268125706fc|Eu cuido de você. Pensei em você a noite toda.
+b118354a-530b-4a2f-8fb4-e6a2a7dc4da8|Não vamos esquecer a pausa dramática.
+b13b0214-8e17-45e0-9907-3a3f933690ea|Não faço ideia.
+b297d3e5-90b0-4bed-92e1-9120fef112c9|Essa é a minha resposta, e eu a mantenho.
+b3fdcc54-5676-4a56-a518-11a5da48f3fa|A motivação do assassino pode estar relacionada aos impostos não pagos de Patrick.
+b4de0b3a-ca15-4e6f-bb9d-16291a10c2a9|Viu? Eu quebro coisas por uma boa causa.
+b5ff697e-3ba6-4a38-9fae-7528cc79fbc1|Diga-nos por quê, Detetive Liz Katz.
+b63a728c-f198-491f-9183-ebd2b0b79a7f|É, também não estou convencido com esta solução... mas estou começando a perceber um padrão. Talvez você esteja no caminho certo.
+b642fb74-193f-44c5-bbf5-6ffda1407394|Certo, festa de garagem, eu acho.
+b65d2801-58df-4343-a9d4-251db5750c2f|Certo, certo. A maior pista é que o assassino gosta de comer cachorros-quentes em saídas de ar, com muito ketchup. Que cara estranho. Quem coloca ketchup em um cachorro-quente?
+b6ca5f8e-b654-4ec2-88fe-d1105e634f26|A experiência completa?
+b7a44e16-a7e6-4054-9868-6a127b7623f5|Você sabe o que isso significa no caderno do Patrick?
+b7def07e-1efc-4465-8823-f9948a1f6a20|Concordo.
+b839bffa-acec-4b7c-9e6b-50a2fded02f0|Sério? Legal!
+b8549fb5-0758-47e9-8c19-7ec08fae7488|Colocar provas falsas na forma de sangue falso no ar-condicionado foi um disfarce para simular o descarte de um corpo inexistente.
+b86b9379-7977-4c47-bb51-2837cf302588|Você tem peitos lindos.
+b8a7f352-4ec3-44ad-8c8a-160b1cce35ef|Para chegar na grande orgia peituda no céu!
+b8b6f6cb-c1a7-422d-be0b-884e21b64869|Sim, e eu posso ajudar, porque acho que vi...
+b94f2ec0-bfc3-4451-9c48-253458a473f1|Ah. Certo? (Sexo interativo)
+ba1433ce-3d71-4c3c-bcdb-d8dc4008d43e|Ah. Achei que era conquistar novos territórios.
+ba6e5ff1-e18f-4e40-b28a-42e3d92e102a|Patrick recentemente registrou seu testamento, indicando que ele poderia morrer em breve e dando um motivo para alguém matá-lo.
+bb2506b1-59ba-4cea-aa4e-59d7b5460fdc|Mas por que as saídas de ar?
+bb8b49b5-8637-41fc-a4d7-8ac4366cb187|Nenhuma das duas opções. Eu transaria com o cara da máscara de hóquei.
+bbfbe8fc-e12b-420a-8602-a8a7ce42149a|Mas é disso que o partido precisa!
+bc18bddb-d82d-423e-8e8b-8ba1b78e425c|Estamos prontos para pegar o assassino?
+bd6f8ccb-28e2-427b-a52c-b5467fd6784f|É, o Wolverine é bem peludo.
+bd8c15ee-f3c4-41cb-a083-d8652a12ca0c|Ok, vamos ver se o VR Patrick tem algo a dizer.
+be27989c-ff10-43fd-bae5-91438ee12ac4|Eu não daria nada menos do que tudo o que você precisa para ter um orgasmo.
+be3035a7-2acb-4434-a8af-d159241d5a32|Bem, o anúncio diz que pode imprimir coisas do tamanho de uma cabeça humana.
+bf6304f9-7592-4116-bf81-d392956aa333|Eu adoraria ver você usando.
+bf84a350-292a-44aa-8767-bd6948f79a7b|Você é tão sexy, só de olhar para você me faz suar como se estivesse indo para a academia.
+bfac3869-563e-47cc-9f65-8a5c88fdd501|Hum, claro, Patrick adora peitos, então ele te convidou. Afinal, quem não ama peitos em uma festa?
+bfbbbe56-aeaa-49cd-93a9-879fb87f29ab|Até mais, Liz.
+c095e941-7704-4d35-a9d6-a8cc4937bc6a|Estamos prontos para pegar o assassino?
+c0da7adc-d5dc-4d45-9476-80512e754c27|Patrick recentemente registrou seu último testamento, indicando que ele pode morrer em breve e dando um motivo para alguém matá-lo.
+c1044538-0b74-453e-b215-55b2451689d4|O criminoso está usando as aberturas de ventilação para se movimentar e nos observar.
+c14b5c6f-4843-4324-93ba-34567623de82|Quer um beijo dramático de boa sorte?
+c2f2bf22-ff40-4de8-b0c0-0592d5448f3f|O assassino enfiou o corpo dentro do ar-condicionado.
+c34e0e49-5166-481b-889f-dd0001a10851|Sim, eu também.
+c3ed9c16-ec99-4a76-a7e6-51e2e992cdca|O culpado está usando as saídas de ar para se movimentar e nos observar.
+c46934ec-6954-483d-996f-5e2062f3a430|Stephanie disse que está ficando mais quente nesta casa, então acho que isso pode ser uma pista.
+c50401a3-e85c-4934-ac40-5acf4121c163|Obrigado. Você viu ou ouviu alguma coisa?
+c5243469-6b92-44ae-b9e0-559629ae4c24|Vamos ver se o VR Patrick tem algo a dizer.
+c5d6207b-1d46-496e-a628-c1cdf185fd57|Essa roupa é bonita, mas eu gosto do seu visual com a fantasia de empregada neko.
+c5ecf7c0-86c0-4c6e-86b5-6322ac9f9899|Você pode autografar minha bunda?
+c6996018-4072-4e28-8159-909875d33677|Me chame de Link. Ou Luke. Ou Neo. Ou Harry...
+c7771537-92c4-416d-92ef-f6f0bfe82245|Ah, então você deveria saber que o assassino me atacou na garagem!
+c8771207-3d14-4fd7-833e-59c3876d9ba1|O que mais devemos investigar?
+c887388c-cebe-46c4-845e-436c9857d1fa|*Pular*
+c8f345e4-5581-481e-aa4e-724d425f7f83|De nada!
+c9251418-28d8-40a8-9794-dff48c2626f1|Rufem os tambores...
+c9a60c88-f7f6-4973-a5f3-85d09c741406|Porra, sim!
+cab2f385-5ca2-4973-b941-8e8620371db8|Ou talvez esta seja a parte em que eu simplesmente derroto os infiéis.
+cb023f69-7582-4280-81a7-f99cfdf7d155|Então é sempre a mesma coisa.
+cb6da936-61c2-4ead-893b-542f8c2661e8|Excelente raciocínio, Detetive Katz. Vou continuar investigando.
+cbc02931-6d78-4dba-b2b6-41feeef30caa|Então, sim, está muito mais quente nesta casa, então o assassino claramente bebeu uma grande quantidade de um refresco sabor cereja muito rápido e teve que vomitar no ar-condicionado.
+cbcbcbc3-66f3-4024-b1ce-50990775454b|O assassino tem uma propensão a deixar bilhetes, o que sugere uma necessidade psicológica de ser descoberto.
+cde6f743-fc96-4703-a074-9e6d0016c7a8|Não preciso provar nada a ninguém.
+cf27835b-a722-46bd-b867-4604e4108aa6|Mas acho que você consegue.
+cf27c364-b11a-49d2-a962-ddc4f6d3424b|Ok, mas quando você diz "investigar", quer dizer...?
+cfb02948-5d45-4cfe-ad83-8b54af48024f|Resolvemos o caso, parceiro!
+cfdb3a53-6aea-4fe3-9f5f-e329d053727f|Ok, dedos cruzados.
+d00dc202-d172-41a0-bcee-0cdc75ada4d3|Eu poderia bater nele com o martelo.
+d0ef765b-af7d-4e8c-a5c7-1d0711d12235|Siga-me.
+d18f2132-8534-4789-9488-10cf5c813fd1|...Pilha de jeans?
+d19412b8-c0e9-4f0e-905c-da2625116fb8|Sim, mestre. Transmita-me o seu conhecimento.
+d19c5641-6a63-4bda-bae4-39c4a0e0e3eb|Hum, eu também. Pessoas mortas são emocionantes!
+d1c1c8fb-eb06-47b5-b9f5-da192629943d|Não sei, parece bem real para mim. Como sabe?
+d1dd9fbc-5ea0-4390-8168-7d5edbcce8da|Patrick é o cara que te convidou para a festa hoje à noite, o que o torna o principal suspeito da própria morte.
+d20c134c-968a-423a-b151-08a469b4a676|Nossa, você tem poderes psiônicos?
+d25b5032-ea36-467c-9460-9b9dc6db66b1|Ah, então você deveria saber que o assassino me atacou na garagem!
+d25ba57b-f9de-48c2-a671-52e9f1bc2c99|Patrick, precisamos saber quem te matou e por quê!
+d2fef8c7-37e8-4a0d-837a-665307c4f803|*Pular*
+d5295411-dc4a-4eb5-8532-f83f271d7337|Quero tocar cada parte do seu corpo. Acho que posso te dar a mais gloriosa gratificação!
+d578ac40-96b0-49d6-94c0-3de0c0a8be0c|*Pular*
+d69b9b21-2e61-4c4a-afbc-c2ba8b5d91ac|Então esta não é uma das suas noites de mistério e assassinato?
+d7adba25-4268-4356-8760-81256b6636b2|Você está dizendo isso para me fazer sentir melhor?
+d7eb526e-24f9-4677-b1ea-1f9ee81cc7a7|Então você não gosta de homens mais velhos?
+dac29ec0-7e7e-421e-b24d-8adaeb73d15e|Sobre aquela cabeça decapitada...
+dad2eeb6-97ee-4494-9c94-a12503774b56|Por que você também usa roupas?
+db01811c-f478-4f3b-a62b-890244ca7457|Claro.
+db4aa939-9e90-427e-bc7e-268ac6d8f4fb|Eu não consenti em ser observada!
+dbdcd29d-f35e-41b4-828b-b435e4c979db|Ok, ok. Bem, então o que tem naquele porta-malas?
+dbf7a1b3-5481-4a96-8787-e671f9a985f3|Ok, convençam os lutadores a lutar. Entendido. Mais alguma coisa?
+dc780f0b-dc07-46de-99df-7dfc9f25e09c|O assassino inseriu uma sonda anal USB no ânus de Patrick para baixá-lo para uma pequena ilha escondida em uma mala.
+dd4c4b01-2e15-484b-8939-e8652a638272|Encontramos um bilhete dentro da cabeça de Patrick.
+dedf2a4c-a37b-41c2-96da-d58fad43ff39|Então você deduziu alguma lógica, hum... dedução para produzir um axioma de... descobertas probatórias?
+dee834f5-1ab7-4525-86da-6e4bec1ce66f|Obrigado. Mais alguma coisa?
+df21be9d-8960-48cf-ac32-fcec21d3b832|Já sei o suficiente olhando para o seu corpo.
+e01aece6-c164-4e07-b856-510e9e7fb140|Ah... tudo bem?
+e0c7defc-260c-4493-888f-3b94b283acef|A motivação do assassino pode estar relacionada aos impostos não pagos de Patrick.
+e0ceee7e-ee9b-479d-9d2a-a73752315d94|A motivação do assassino pode estar relacionada aos impostos não pagos de Patrick.
+e17d8b6f-40f2-4929-9092-c172a1066494|Sabemos que Patrick o convidou para organizar um mistério de assassinato como possível disfarce.
+e192f8b5-9934-4c96-a799-af8d921b5231|Ideia interessante, no entanto...
+e1ccdf39-450a-4dd6-b79d-868e3d5f6488|Ah. Certo?
+e414e447-6691-48b8-ad95-5a55c40b7910|Leo.
+e4b3107d-5096-493f-90db-11593da08b56|A experiência completa?
+e606d1b7-31d3-4dfc-9cba-6cc14ca25763|Exatamente. Alguma ideia?
+e62a124d-3df6-4716-a39a-b0162594c5a7|Hum, Liz...
+e69f393e-a903-44f0-afd3-b7359aa98543|*Pular*
+e7cb4077-1e66-4d0e-871f-1f557a11c2a6|Não sei que tipo de reação eu esperava.
+e8ac055b-90a9-4502-b01d-0b1dc6179c06|Detetive Liz Katz, você está me excitando.
+e90cd955-a458-45ff-8bb4-e4cf4ce87f44|Sabemos que Patrick a convidou para organizar um mistério de assassinato como possível disfarce.
+e963d548-2a03-40c9-bcf9-df630ca241e9|É, esse golpe doeu muito.
+ea5d1eb6-2d8f-4147-85d2-552e2886d4ae|Você está bem?
+eca3666c-f011-482c-a9a3-d5c20480cffc|Nossa, eu não sabia que isso era um mistério de assassinato!
+ecfc823f-9d3b-41a1-8432-8dcfece9d35f|Ok, sem problemas. Eu entendo.
+ed4301fb-7308-424b-b9a2-2085d1673710|Meh, os dois são péssimos.
+ee0c12e1-b994-41f5-885e-c9e0cd2995c6|Ok, cuidado.
+ee6ab706-9738-43ad-b21f-7b5d62677e5d|*Pular*
+eeac46ee-efde-4bee-800d-bca919f610a2|Detetive Katz, parece que tem algo na boca da cabeça decapitada.
+eeb241d3-2d3a-4778-bade-398f3d0462b9|Na verdade, a Stephanie disse que está ficando mais quente nesta casa, então acho que isso pode ser uma pista.
+eecd57cf-ee55-4473-8b1f-e214baf0cc65|Que bom!
+eef1f92d-d935-4773-bd3c-f7d95f3a1864|Bom saber!
+ef844e4d-3a70-4c1d-8155-d4c113c06b53|Confirmei que é a letra dela, e provavelmente é uma palavra ou frase secreta para desbloquear algum dispositivo que ela tem aqui na casa da Madison, onde ela guarda seus segredos.
+f01cfe56-757e-471f-ab70-d98ea8763b1a|*Pular*
+f0ff5cb5-1816-418c-98fb-2c1544a60025|Excelente ideia, detetive!
+f13d6223-199f-4d72-8028-aff9e7d65b89|Posso assinar sua bunda?
+f19365b4-2972-45a4-ae74-1714b4a2924c|Certo. Vamos ver se essa coisa começa de novo.
+f31a0d6d-0fb6-4e37-87e5-ac6e2a9203aa|Acho que temos pistas suficientes para descobrir como capturar o suposto assassino.
+f3c2056d-4915-4756-b4bf-34e1a39c143e|Se você gosta de ser observada, eu poderia te observar como um pôr do sol caindo entre minhas pernas sempre que você quiser.
+f4d56d97-3251-4b1f-992e-363d80dd617d|*Pular*
+f4d7bf10-6436-4938-a08c-1306ad821eaf|Nada mal, se me permite dizer. Mas você! Você foi incrível!
+f52ec137-3eaa-44c7-8cb1-9c2cf05f6039|Porque, hum, ele deixou algumas pistas. Conte a ele, Patrick!
+f5a7f5f2-aae5-466a-9b48-7ce92093201b|Gostaria de ajudar você a tirar suas fantasias.
+f775053c-d555-4045-bd23-4a9103121245|Ok, Patrick, acho que isso deve ser importante. Pode falar.
+f790c94c-b814-4dd2-9480-55b8f7d2653e|Na verdade, não. Estava escuro. E o assassino estava usando uma máscara.
+f831bac1-8dd0-4a4f-9370-0486864bce22|Parceiro no crime. Na resolução de crimes, quero dizer.
+f9670be3-5498-486d-a6eb-8abdb2ac7318|Vou procurá-lo.
+f9d501a6-7a0a-48c7-aa03-584765909de3|O que mais devemos investigar?
+fa0f206c-dad4-454b-9840-c3c8608603cf|Nossa...
+fa103b39-21f3-4c93-b277-53470cf2f2ce|Eu estava me referindo àquele porta-malas bacana que você trouxe aqui.
+fa941427-8ca2-43d8-8032-02de1558023b|Finalmente.
+fad26269-efee-4f2b-99cb-70c6901174c3|O assassino enfiou o corpo dentro do ar-condicionado.
+fb431e7a-89a8-40bd-a699-ca9b7a58fa73|O assassino usou os dutos de ventilação para escapar.
+fc26adc0-6803-4e09-8a02-4843be10b913|Isso é realmente emocionante.
+fd82f8d4-170b-4de7-8453-8c9172063d1f|Sim, um cara mascarado...
+fdeb22a7-92db-45cd-b0af-9354e8266b76|Não se preocupe, eu entendo. Estou feliz de estar aqui nesta festa também.
+fe868fd1-6771-449a-b084-e0f4dd20ed31|O quê?
+fe98356c-2bc5-4202-af78-28e1f477468a|Incrível.
+ff952b0e-258f-450f-9d83-bceefaeab6a|O assassino usou os dutos de ventilação para escapar.
+ffd20264-8d71-4f53-9fb8-7cafaaccfc3c|*Pular*
+
+[Quests]
+fcd09ca9-faca-4d5f-916d-67eeb95fb212FailedDetails|Olá escuridão, minha velha amiga.
+fcd09ca9-faca-4d5f-916d-67eeb95fb212Description1|Você consertou as luzes! E eles bateram na sua cara com um martelo. Você ganha e você perde. Agora, que tal a gente dar um jeito de sair da garagem?
+fcd09ca9-faca-4d5f-916d-67eeb95fb212Description|Sério? Você não consegue ficar cinco minutos sem quebrar nada? É melhor dar uma olhada e ver se tem um jeito de acender a luz de novo.
+fcd09ca9-faca-4d5f-916d-67eeb95fb212CompletedDetails|E fez-se luz! Espero que esse não seja o único objetivo que você alcance esta noite.
+fcd09ca9-faca-4d5f-916d-67eeb95fb212|Apagão
+d0a5ba5b-30f5-4ffe-a862-d76e19a7ead1FailedDetails|Ter que tocar num peito te assustou, não é? Não tenha vergonha, meu amigo tímido. Há mais de uma maneira de resolver um assassinato!
+d0a5ba5b-30f5-4ffe-a862-d76e19a7ead1Description1|Você manda bem com essas mãos, amigo! É hora de ouvir as últimas palavras do sábio e magnífico Patrick.
+d0a5ba5b-30f5-4ffe-a862-d76e19a7ead1Description|Belo laptop! Agora você precisa descobrir o que significam aqueles símbolos enigmáticos.
+d0a5ba5b-30f5-4ffe-a862-d76e19a7ead1CompletedDetails|Você completou uma jornada muito tocante.
+d0a5ba5b-30f5-4ffe-a862-d76e19a7ead1|Última vontade e testamento
+9c5b941f-67d7-4e46-8ee0-1d69d04700eaFailedDetails|Você não conseguiu manter a calma, não é?
+9c5b941f-67d7-4e46-8ee0-1d69d04700eaDescription|Está tão quente aqui que a Nelly vai chegar logo na festa. Por que o ar condicionado não está funcionando?
+9c5b941f-67d7-4e46-8ee0-1d69d04700eaCompletedDetails|Como disse um participante do Fear Factor há muitos anos: "Em que diabos estou coberto?"
+9c5b941f-67d7-4e46-8ee0-1d69d04700ea|Calor mortal
+8629d0d8-d3e8-45df-b109-87793c4ef2b5FailedDetails|Quem convidou Liz permanecerá para sempre um mistério... até o próximo jogo.
+8629d0d8-d3e8-45df-b109-87793c4ef2b5Description1|Você deveria ver se alguém é inteligente o suficiente para hackear uma conta do Instagram porque, bem... é, você não é inteligente o suficiente para fazer isso. Desculpe.
+8629d0d8-d3e8-45df-b109-87793c4ef2b5Description|Talvez Liz Katz saiba mais sobre quem a convidou para a festa do que ela nos contou.
+8629d0d8-d3e8-45df-b109-87793c4ef2b5CompletedDetails|Patrick convidou Liz Katz! Embora não seja nenhuma surpresa, pensando bem, ela é uma delícia.
+8629d0d8-d3e8-45df-b109-87793c4ef2b5|Convite
+832e5883-eb56-4aee-8ad9-09995af4d447FailedDetails|A história se lembrará para sempre de que o jogador (você) falhou miseravelmente. Nos vemos no documentário sobre o assassinato de Patrick Scrotingson no Hulu em 5 anos.
+832e5883-eb56-4aee-8ad9-09995af4d447Description4|
+832e5883-eb56-4aee-8ad9-09995af4d447Description3|Chega de minijogos, é hora de resolver o caso! Jogue um minijogo. Vá encher as saídas de fumaça!
+832e5883-eb56-4aee-8ad9-09995af4d447Description2|É hora de fazer um plano e descobrir a causa da morte de Patrick para que você possa acabar com Liz Katz completamente.
+832e5883-eb56-4aee-8ad9-09995af4d447Description1|Parece que o mistério é mais profundo do que eu suspeitava. O mistério se aprofunda! Continue procurando por pistas!
+832e5883-eb56-4aee-8ad9-09995af4d447Description|Que nojo! É melhor começarmos a investigar antes que encontremos mais corpos por aí. Quem disse que festas em casa são só sobre peitos e cerveja?
+832e5883-eb56-4aee-8ad9-09995af4d447CompletedDetails|Como disse o grande salvador, Patrick ressuscitou.
+832e5883-eb56-4aee-8ad9-09995af4d447|O assassinato de Patrick.
+5a77d0ad-694e-4c50-b9a8-f20a1257f651FailedDetails|Você... explodiu... a cabeça do Patrick... Vamos lá, irmão! Como pôde?
+5a77d0ad-694e-4c50-b9a8-f20a1257f651Description1|Liz está prestes a enfiar a cabeça na secadora. Talvez você devesse garantir que tudo corra bem.
+5a77d0ad-694e-4c50-b9a8-f20a1257f651Description|Tem alguma coisa presa na boca da cabeça. Argh! Alguma ideia de como descongelar?
+5a77d0ad-694e-4c50-b9a8-f20a1257f651CompletedDetails|Bom trabalho descongelando a cabeça do Patrick. Agora, cadê o álcool em gel?
+5a77d0ad-694e-4c50-b9a8-f20a1257f651|Coloque sua cabeça nisso
+2a3f722d-893f-4d5d-b425-c5d7dc899309FailedDetails|Às vezes, na vida, tentamos e falhamos. Esqueci o resto, mas foi você quem errou, não eu.
+2a3f722d-893f-4d5d-b425-c5d7dc899309Description1|Você deu tanto álcool a ela que agora ela murmura "continue nadando" baixinho toda vez que vai embora.
+2a3f722d-893f-4d5d-b425-c5d7dc899309Description|Agora a festa vai dar em alguma coisa. Parece que a Liz Katz pode estar interessada em se divertir.
+2a3f722d-893f-4d5d-b425-c5d7dc899309CompletedDetails|Uau. Sabe de uma coisa? Vou ser sincero. É por isso que o Twitch nos odeia.
+2a3f722d-893f-4d5d-b425-c5d7dc899309|Bêbado e Caótico - Liz Katz
+0be30357-49a5-42fc-92e9-3045384dfe12FailedDetails|Nossa, você garantiu que essa noite de mistério e assassinato não tivesse NENHUM assassinato, NENHUM mistério e NENHUM peito. E você irritou a loira gostosa? Por que você comprou esse DLC?
+0be30357-49a5-42fc-92e9-3045384dfe12Description1|Liz Katz, extraordinária apresentadora de mistérios de assassinato, concordou em não apresentar nenhuma noite de mistérios de assassinato. Você provavelmente deveria conversar com ela e fazê-la se sentir bem-vinda.
+0be30357-49a5-42fc-92e9-3045384dfe12Description|Uma estranha misteriosa invadiu sua casa! E você a deixou entrar sem nem verificar a identidade dela? Bom trabalho, Diretor Norton. Você provavelmente deveria avisar a Madison.
+0be30357-49a5-42fc-92e9-3045384dfe12CompletedDetails|Liz Katz se juntou oficialmente à festa.
+0be30357-49a5-42fc-92e9-3045384dfe12|O convidado surpresa
+0237af8a-91f9-472a-b75c-0262cdc702caFailedDetails|Vou ser sincero, eu não sabia que era possível falhar nisso, e eu criei o jogo.
+0237af8a-91f9-472a-b75c-0262cdc702caDescription|A ventilação da garagem parece suspeita. Talvez você devesse verificar com a Detetive Liz?
+0237af8a-91f9-472a-b75c-0262cdc702caCompletedDetails|Você esperava algo sexual por causa do nome desta oportunidade? Desculpe, mas bom trabalho com esses respiradouros!
+0237af8a-91f9-472a-b75c-0262cdc702ca|Atos de sexpionagem
+
+[Events]
+07bec4d1-4432-47ac-b64a-602738e1ea3e|*Nota do desenvolvedor: Dê uma olhada na porta da garagem!*
+0f43010b-1f01-412f-a060-d26ee77cad1f|Bom trabalho com essas saídas de ar! Você provavelmente deveria se certificar de que todas estão no lugar na garagem antes de fechar a última.
+17888abc-c484-4ba9-ad08-2f2cfe7c86c0|O quê...? A Compubro fechou!
+1ae40616-aba8-438f-8d23-2cde142f546a|Algo interessante está acontecendo nesta sala agora. Eu provavelmente deveria terminar qualquer coisa que eu tenha pendente aqui antes de abrir o porta-malas do Katz.
+240d1f94-64d2-493c-ae62-52b3b7da3131|Abre com um chiado agressivo...
+24e3dc94-b4a9-4391-8b10-822129e9c548|Parece que Liz precisa de ajuda, e este pode ser o momento perfeito para passar um tempo a sós com ela...
+288e857e-3eb0-48af-a5e1-0fe7a21575f4|Eu o parei a tempo antes que algo horrível acontecesse. Bem, e agora?
+29a8cf62-4465-4dbb-82c5-db649e39349d|Testando: Apagão
+2d22fa2b-1b1f-4ed4-9d9e-f5bf5a39ba31|Parece que você perdeu a chance de abrir o baú misterioso da Liz. A fechadura parecia barata. Será que tem como arrombá-la?
+2e89ee60-cb7a-453f-a142-b98e876212c4|Psiu! Ei! Você parece meio perdido com essa coisa toda de fumaça. Talvez você devesse ir até a garagem e ver se tem alguma coisa pesada com um buraco na região pélvica para enfiar um cabo de vassoura...
+35d90f1f-90da-4357-95af-23e969f81141|Hmm, talvez eu devesse me certificar de que a secadora esteja disponível antes de sugerir algo tão brilhante.
+3973d603-b80c-42e2-9a36-4abee83fae47|Uau, vamos mesmo fazer isso? É hora de desvendar o caso? Você vai transar? É hora de descobrir!
+39aa0483-90b1-443b-9181-e89028d655db|Espera aí, merda. Desculpe, força do hábito. É o pinguim. Você precisa do pinguim. Vá buscar o pinguim. Depois, pegue a caixa de fósforos; é lá que fica a lareira. Então — ok, essa parte é meio maluca — você monta o pinguim na vassoura e ateia fogo nele com o fósforo. Entendeu? Ótimo! Boa sorte!
+43c19d3b-e68b-4d55-9f50-31704ed9f350|Algo me diz que eu provavelmente deveria garantir que o quarto principal esteja disponível... só por precaução...
+43d0cc54-3236-4ec9-aa22-b262024f29de|O quê...? Parece que a lanterna de indução queimou.
+5817454e-9402-4cff-9f47-f0c5c9bb2602|Parece que a Liz precisa de uma mãozinha, e este pode ser o momento perfeito para passar um tempo a sós com ela.
+5975c4ed-9868-4e9b-a6b1-177848ea73ea|*Nota do desenvolvedor: E agora continuaremos depois de completar todas as cinco pistas...*
+597735f7-0bc7-447f-a3e9-2267781dcab1|*Suspiros* Sabe de uma coisa? Vou quebrar a quarta parede. Já se passaram mais de dez minutos. Sabíamos que essa parte do quebra-cabeça seria difícil, mas falando sério? Vou ser franco: a resposta é P-E-N-
+687f5d6d-d61f-444b-8392-e31da5ccca3f|Preciso esperar um pouco. Já dei uma para ele.
+75b43e31-018b-4127-be58-f52af726131f|Algo me diz que dar mais álcool a ela não vai ajudar...
+790b201c-f304-41bd-8c3d-e2a176ea31d6|Algo me diz que a vassoura que coloquei no ar-condicionado externo pode ser útil. Mas eu deveria perguntar por aí para ver se alguém tem alguma boa ideia.
+7bc84c27-aace-4963-9a55-36ba7edca97c|Hmm, parece que não funcionou. Algumas dessas saídas de ar estão abertas.
+7d4a3f9d-a8aa-4b35-86ca-3f46fc087dfb|Preciso me certificar de que não tenho nenhum assunto importante inacabado antes de abrir o porta-malas da Liz Katz. Será que o Patrick está bem?
+7ec1b187-9dfd-4a3d-9b31-6268cc8a976a|Testando: O Assassinato de Patrick
+8d215229-4605-4438-89a9-5c8fc0de45e9|Devo ver se alguém tem uma boa ideia.
+98c8c292-472e-4208-a5e8-9867b2192092|Quase perfeito, mas algo me diz que poderíamos ter feito mais juntos.
+a4ea4e4f-b18e-4484-a502-1659c722d7cc|Tentáculo montado.
+a51c2fea-a34c-47be-9e78-4080773db7b3|Está acontecendo alguma coisa que tem a ver com as bolas do Frank e salvar o Natal. Preciso terminar isso antes de abrir o baú da Liz Katz.
+a8231724-45df-4b0b-8051-fdbb39493b65|*Nota do desenvolvedor: Você está pulando o minigame do duto de ventilação. Só um aviso: todo o resto da história provavelmente não funcionará como esperado! Isso é só para o minigame do duto de ventilação!
+aabbe5ac-9c3b-4311-b972-a558efcda3d7|*Nota do desenvolvedor: Você precisa abrir o baú. Talvez você devesse falar com a Liz ou olhar no seu inventário.*
+acb43dbd-770d-4523-81ca-4ce0be33d68d|Bom trabalho! Você só precisa fechar os outros dutos agora!
+b05e63ef-cada-48e6-8f54-e1dcb67f27e7|Provavelmente preciso da Liz aqui antes de começar a martelar as coisas em busca de pistas, certo?
+b4e9a04d-7f91-4350-94cf-f60b5c16c6f9|Devo ver se alguém tem alguma boa ideia.
+c17db852-227e-4110-a24f-6c39b7725857|Peguei a tempo antes que algo horrível acontecesse. Bem, e agora?
+c2d56912-0afc-4849-ba76-02695980dac3|Essa coisa de mistério de assassinato é complicada. O que o Derek disse sobre usar fumaça? Ah, sim, eu provavelmente deveria encontrar algo para encostar no ar-condicionado. Provavelmente algo fino e longo onde eu possa prender algo.
+c5d5aeac-8b65-4b9a-8353-caee14f053e9|Bem, ninguém vai acreditar que isso aconteceu!
+c9d50aec-7e6c-4121-b196-8993b70a9d10|Testando: O Assassinato de Patrick
+db6ca40f-7b1c-42c7-a642-cc0845315023|Algo me diz que a vassoura que apoiei no ar condicionado pode ser útil. Preciso perguntar por aí se alguém tem alguma boa ideia do que fazer.
+dbf02278-4fa8-4205-8dfa-5fb12be6bfcf|O show da Doja Cat é lá fora! Acho que devo esperar até terminar isso antes de abrir o porta-malas da Liz Katz.
+de842f34-4045-48e9-afdb-d6ecd1003821|Essa coisa de mistério de assassinato é complicada. O que a Brittney disse sobre usar fumaça? Ah, é, acho que devo encontrar algo para encostar no ar condicionado. Provavelmente algo fino e comprido em que eu possa montar algo.
+e4b211a5-4469-480b-988e-ca624aec759b|Psiu! Ei! Você parece meio perdido nessa coisa toda de usar fumaça. Talvez você devesse se perguntar se tem algo no seu inventário que seja pesado e tenha um buraco prático na região pélvica para passar um cabo de vassoura...
+e5402410-297b-4a8a-b7e0-a4651d784736|Será que alguém aí sabe alguma coisa sobre como funciona o sistema de ventilação? Nossa, é mesmo isso que eu estou pensando? É por isso que nunca sou convidado.
+eff6237d-468b-4258-9f5f-2be088d6e7c9|Teste: O Assassinato de Patrick (Final)
+f29f8127-79bb-4529-b58e-a9866da408da|Teste: O Convidado Surpresa
+f2df5166-5023-4bd3-a236-74a8f9cba474|*Nota do Desenvolvedor: Hmm, talvez eu devesse dar uma olhada mais de perto nessa cabeça.*
+f806c257-6da4-4190-b1b6-3e26bfeac424|Preciso me certificar de que não tenho nenhum assunto importante inacabado antes de abrir o porta-malas de Liz Katz. O que será que a Madison anda aprontando?
+f9506653-6465-4ca9-90eb-2170540ac313|Parece que alguém está batendo na porta, mas ninguém percebeu. Devo atender?
+fe43c366-b5e7-47e4-af47-ee663157bb2a|Tem algo interessante acontecendo na garagem agora. Eu provavelmente deveria terminar qualquer coisa que eu tenha pendente lá antes de abrir o porta-malas do Katz.
+Patrick|Patrick
+Unknown Assailant|Atacante desconhecido
+
+[Background Chatter]
+BGC1|Nossa, você deveria verificar o sistema elétrico. Você sempre demora tanto para vir? Espera, foi um pensamento intrusivo, finja que eu não disse nada.
+BGC2|Eu sei que estou atrasado. Peço desculpas. O motorista demorou uma eternidade para vir e não me deixou ir até eu avaliar o cachorro dele... estranho.
+BGC3|Uma DAQUELAS festas então. Certo, mãos à obra.
+BGC4|*SUSPIRO!*
+BGC5|Ai! ...E também, nossa! Mas isso não está ajudando. Meu braço está preso lá dentro e não consigo abrir a porta. Tente de outro jeito.
+BGC6|Sério? Estou preso na maldita secadora da morte e você está tocando minha bunda?! ...Bem, não pare agora!
+BGC7|*Sons de prazer*
+BGC8|Sim, tire minha calcinha.
+BGC9|Por que você não fecha a porta para termos um pouco de privacidade?
+BGC10|Eeee, você deve ser o Patrick.
+BGC11|E você deve ser o Patrick. Quão bêbado você está?
+BGC12|Ei, seu pervertido. Pare! Isso não é legal. Não tente de novo. Vou entrar no modo Super Saiyajin-Mewtwo-Raphael e te dar uma surra! Agora, por que você não se faz de útil e descobre como abrir esta porta? Ela está presa!
+BGC13|Parece presa. Você acha que precisa de um tapinha de amor para destravá-la?
+BGC14|Coloque a cabeça na secadora... gênio! Não acredito que funcionou.
+BGC15|Espere, você não vai acreditar que terminamos agora.
+BGC16|Isso foi só preliminar.
+BGC17|Vá em frente! Vá em frente!
+BGC18|Espere, eu tenho uma ideia!
+BGC19|Oooh, estou quase gozando!
+BGC20|Ah, pelo amor de Sherlock, continue!
+BGC21|Ah, sim, tem um mistério lá embaixo!
+BGC22|Certo. Uau. Isso foi incrível. Nossa, eu realmente precisava disso. ...Não, ainda não terminei. Quero continuar. Vem cá!
+BGC23|Uau, uau, uau, uau. Nem pense nisso. Acabei de começar.
+BGC24|Espero que você não esteja contando, porque vamos continuar até terminarmos.
+BGC25|Ufa, tudo bem. Você é um soldado hoje à noite.
+BGC26|Ah-ah-ah... Ainda não terminei com você!
+BGC27|É a noite do kraken. E este kraken não para!
+BGC28|*Gritos longos de prazer*
+BGC29|Este assassino claramente tinha uma estratégia de fuga. Seja o Plano A ou o Plano B, precisamos descobrir como ele escapou e voltar atrás a partir daí.
+BGC30|Alguém aumentou o aquecimento? Alguém pode pelo menos ligar o ar condicionado?
+BGC31|Comppubro, comando do console: setgravity igual a zero.
+BGC32|Noite traumática? Não. Esta noite não é tão traumática quanto aquela vez em que eu estava jogando aquele jogo chamado Skunny Kart, e aquele esquilo demente veio até mim, riu de mim e disse que eu nunca vou largar o jogo, me convenceu de que estava falando a verdade e que eu nunca vou sair do computador. Aquela foi a noite mais traumática da minha vida...
+BGC33|Há consoles de videogame nesta festa? Tecnicamente, sou um convidado, então isso significa que eu vou primeiro e jogo o quanto eu quiser, certo?
+BGC34|Esta casa não tem personalidade. Onde estão os objetos amaldiçoados? Onde estão os Furbies?
+BGC35|Bem, se tudo mais falhar e esta festa for uma merda, eu tenho Pokémon no meu Gameboy.
+BGC36|Eu não me importaria com um café. Mas um com aqueles xaropes especiais e todos aqueles sabores diferentes!
+BGC37|Tem sorvete aqui? Você sabia que misturar sorvete de brownie com sorvete de café é o mesmo que tomar café? É o que eu sempre digo a mim mesmo.
+BGC38|Eu não vim aqui para morrer. Esta noite eu vou descobrir se estou realmente vivo. Mas no final, o que acontece, acontece.
+BGC39|É, da última vez que eu disse que queria tocar, eu quis dizer o mana.
+BGC40|Não, eu não vou dar a qualquer um acesso ao meu baú de tesouro portátil. Além disso, nunca se sabe o que um mímico pode ser hoje em dia. Melhor ficar longe dele.
+BGC41|Eu preciso de diversão! Alguém trouxe algum jogo?
+BGC42|É água fresca da torneira ou salgada? E você acha que a Madison se importaria se tivesse algo com tentáculos aí dentro? Estou perguntando por um amigo.
+BGC43|Se estiver com fome, tenho um doce gigante em forma de controle remoto no meu porta-malas lá em cima. Acredite, há muitas maneiras de se divertir com doces.
+BGC44|Então, a festa já vai começar ou devo abrir o porta-malas e pegar algo para apimentar as coisas?
+BGC45|É, as fechaduras do meu porta-malas são só enfeite. Não precisa de muito para quebrá-las.
+BGC46|A Madison disse que não, mas tenho certeza de que o que essa festa precisa é de um bom e velho mistério de assassinato! Quer dizer, um quebra-cabeça com tema de detetive, quero dizer.
+BGC47|Então, o que aquele cara musculoso e certinho está fazendo nessa festa?
+BGC48|O que foi isso? Ah, deixa pra lá. Achei que vi alguém usando uma máscara. Ele era muito gato!
+BGC49|Então, hum. A Doja Cat. Nesta festa. Eu não fazia ideia de que ela viria aqui! Você acha que eu sou meio gato mesmo?
+BGC50|Obrigada! Essa fantasia é muito legal. Sabe, eu sou meio elfa por parte de pai...
+BGC51|Não, eu não sou um policial disfarçado. Não, eu não sou um detetive de verdade. Um detetive usaria isso? Não, eu não sou um policial disfarçado se passando por um detetive falso.
+BGC52|Há tanta tensão sexual nesta festa.
+BGC53|Não sei dizer se esta é o tipo de festa em que dou sorte ou se vou queimar até a morte. Mas é certamente emocionante.
+BGC54|Espero que tudo isso culmine em um clímax apaixonado.
+BGC55|Se eu fosse fazer cosplay nesta festa, seria um pinguim de festa em casa... porque isso é muito legal!
+BGC56|Você acha que uma garota e uma tartaruga ninja poderiam ficar juntas neste mundo louco em que vivemos?
+BGC57|Meu traço de personalidade tóxica é que tenho uma fraqueza por traços de personalidade tóxicos.
+BGC58|Olá, só a Barbie hentai!
+BGC59|É H-2-Oh.
+BGC60|Bem, eu não sou uma obra de arte, mas ainda sou um bom tema.
+BGC61|Dane-se o Skunny Kart!
+BGC62|Se o multiverso existe, tenho certeza de que você consegue dançar em alguma dimensão... só que não nesta.
+BGC63|Isso sim é uma festa!
+BGC64|Puta merda! Uma briga! Faça seu melhor combo! Faça spam, spam, spam!
+BGC65|Nossa, parece que você acabou de sair do Friday Night Funk! Belas jogadas!
+BGC66|Ervilha ao vento!
+BGC67|*Palavras sem sentido alcóolicas*
+BGC68|Socorro! Não, sério, socorro. Me tira daqui!
+BGC69|Mmm... é, pode ir.
+BGC70|E aí, Sr. Tentáculo... Acho que você não faz sexo porque é um membro.
+BGC71|Você decidiu "relaxar"? Gostei!
+BGC72|Ah, ainda não terminamos, tigre. Deixe-me mostrar onde fica o botão de ligar.
+BGC73|Primeiro de tudo, preciso saber uma coisa: você tem alguma ferida, limitação ou palavra de segurança?
+BGC74|*Sons de prazer*
+

@@ -1,0 +1,23 @@
+﻿[General]
+Name|Ashley
+
+[Dialogues]
+0|"Olá, querida irmã. Já que você não me deixa guardar minhas guloseimas na geladeira como qualquer boa irmã, tive que procurar outro lugar frio. Se você encontrar esse lugar, não toque nas minhas coisas. Obrigada por ser tão chata. De novo.".
+1|Lembretes:
+COMPRE TOPS QUE NÃO SEJAM FÁCEIS DE ABRIR
+TERMINE A DEVER DE QUÍMICA
+A CHAVE ESTÁ DENTRO DO VIOLÂO
+OCULTAR A CORRESPONDENCIA DA MADISON
+2|"Hum, olha, eu não queria te ver se masturbando... Desculpe, foi estranho, eu só ia pedir para você abaixar o volume daquele filme que estava assistindo. Achei que os gemidos fossem parte de algum... filme de terror."
+
+[Responses]
+10657ff3-f4ce-4ed2-8229-0c75c3f7a465|* LEIA EM *
+82d97650-aad8-43e8-8c04-b369596593c1|* Fechar lembretes *
+fb15546c-eb46-4428-8af1-0c936a1c1c2e|* Continue lendo *
+
+[Quests]
+
+[Events]
+b23023d9-b662-47d5-bf6c-77a59c6b109f|Toque violão! Minhas mãos gordas nunca vão conseguir alcançar. Preciso chamar a Vickie.
+
+[Background Chatter]

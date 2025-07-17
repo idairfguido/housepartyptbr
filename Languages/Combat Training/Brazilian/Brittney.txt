@@ -1,0 +1,13 @@
+﻿[General]
+Name|Brittney
+
+[Dialogues]
+0|Enter dialogue text here.
+
+[Responses]
+
+[Quests]
+
+[Events]
+
+[Background Chatter]

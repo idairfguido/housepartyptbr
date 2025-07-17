@@ -1,0 +1,1320 @@
+﻿[General]
+WhichStoryText|Que história você gostaria de jogar?
+UnderDropDownText|(Você pode adicionar mais histórias baixando-as ou criar as suas próprias!)
+StartNewGame|Iniciar um novo jogo
+LoadGame|Carregar um jogo salvo
+VisitWebsite|Visite nosso site para as últimas notícias
+DownloadStories|Baixe ou compartilhe histórias em nosso fórum
+StoryCreatorHelp|Aprenda a criar sua própria história
+Quit|Sair
+ChooseLanguage|Escolha o idioma
+LockedDoor|Está trancado
+CantDoThat|Você não pode fazer isso.
+
+[Item Names]
+Mama Chupacabra's|Mama Chupacabra's
+Laxatives|Laxantes
+Stingy Pinchy Boi|Mesquinho Pinchy Boi
+Cucumber|Pepino
+Dark Long Sleeve Women's Top|Blusa feminina escura de manga comprida
+Fireplace|Lareira
+Fast Food Bag|Sacola de Fast Food
+Paper Bag Crunched|Saco de papel amassado
+Sleeping Mask|Máscara de dormir
+Sundress|Vestido de verão
+Sunglasses|Óculos de sol
+Amy|Amy
+Arin|Arin
+Armchair|Poltrona
+Window|Janela
+Ashley|Ashley
+Ashley's Panties|Calcinhas da Ashley
+Ashley's Top|Top da Ashley
+Media Dock|Doca de mídia
+Bathroom Door|Porta do banheiro
+Bed (L)|Cama (E)
+Bed (R)|Cama (D)
+Bedroom Closet Door (L)|Porta do armário do quarto (E)
+Bedroom Closet Door (R)|Porta do armário do quarto (D)
+Bedroom Door|Porta do quarto
+Bike Lock|Cadeado de bicicleta
+Tiny Key|Chave minúscula
+Blue Hair Dye|Tintura de cabelo azul
+Brittney|Brittney
+Broom|Vassoura
+Bug Zapper|Mata-insetos
+Cabernet|Cabernet
+Cabinet (L)|Gabinete (E)
+Cabinet (R)|Gabinete (D)
+Camera|Camara
+Cat Picture|Photo de un Gato
+Cell Phone Jammer|Bloqueador de teléfono
+Chardonnay|Chardonnay
+Chicken|Pollo
+Chicken Nuggets|Nuggets de Pollo
+Mama Chupacabra’s|Mama Chupacabra's
+Chocolate Syrup|Calda de chocolate
+Chocolate Bar|Barra de Chocolate
+Laxative|Laxante
+Closed Briefcase|Maleta Fechada
+Ashley's Clothes|Roupas da Ashley
+Coffee|Café
+Collar|Colar
+Compubrah|Compubrah
+Computer|Computador
+Condom|Preservativo
+Couch (L)|Sofá (E)
+Couch (M)|Sofá (M)
+Couch (R)|Sofá (D)
+Credit Card|Cartão de crédito
+Dan|Dan
+Dead Snake|Cobra Morta
+Derek|Derek
+Derek's Shirt|Camisa do Derek
+Drawer (L)|Gaveta (E)
+Drawer (R)|Gaveta (D)
+Madison's Diary|Diário da Madison
+Dining Chair|Cadeira de jantar
+Dining Chair 2|Cadeira de jantar 2
+Mound of Dirt|Monte de terra
+A Dildo|Um vibrador
+Open Toilet|Banheiro aberto
+Dresser|Cômoda
+Dryer|Secadora
+Dryer Seat|Assento de secadora
+DVD|DVD
+Vape|Vaporizador
+Eggs|Ovos
+Empty Cup|Copo vazio
+Face Cream|Creme para o rosto
+Faucet|Torneira
+Fifty Dollars|Cinquenta Dólares
+Fire Pit|Fogueira
+Flask|Frasco
+Flower|Flor
+Foam Finger|Dedo de espuma
+Frank|Frank
+Frank's Chair|Cadeira do Frank
+Fridge|Geladeira
+Garage Door|Porta da garagem
+Gastronomy Book|Livro de Gastronomia
+Gut Grip|Boa aderência
+Gutter|Calha
+Hot Tub Stairs|Escadas de hidromassagem
+Hot Tub (R)|Banheira de hidromassagem (D)
+Hot Tub (L)|Banheira de hidromassagem (E)
+Hot Tub (B)|Banheira de hidromassagem (T)
+Hot Tub (F)|Banheira de hidromassagem (F)
+Whack Spankiel's|Whack Spankiel's
+Joint|Articulação
+Katana|Katana
+Katherine|Katherine
+Kettle|Chaleira
+Bathroom Skeleton Key|Chave Mestra do Banheiro
+Mysterious Key|Chave Misteriosa
+Cock Keyring|Chaveiro de Galo
+Cabinet|Gabinete
+Laptop|Notebook
+Laundry Room Door|Porta da lavanderia
+Lawn Chair|Cadeira de gramado
+Leah|Leah
+Lety|Lety
+Dining Room TV|TV da Sala de Jantar
+Back|Voltar
+Play All|Reproduzir tudo
+Loop Track 5|Reproduzir faixa 5
+Loop Track 4|Reproduzir faixa 4
+Loop Track 1|Reproduzir faixa 1
+Loop Track 6|Reproduzir faixa 6
+Loop Track 3|Reproduzir faixa 3
+Loop Track 2|Reproduzir faixa 2
+Madison|Madison
+A Phone|Um telefone
+Marijuana|Maconha
+Master Bathroom Door|Porta do banheiro principal
+Master Bedroom Door|Porta do quarto principal
+Mayonnaise|Maionese
+Merlot|Merlot
+Microwave|Microondas
+Money Makers Monthly|Criadores de dinheiro mensais
+Motor Oil|Óleo de motor
+MP3 Player|Leitor de MP3
+Mug|Caneca
+Natty Lite|Natty Lite
+Nightstand Drawer 1|Gaveta de mesa de cabeceira 1
+Nightstand (L)|Mesa de cabeceira (E)
+Nightstand (R)|Mesa de cabeceira (D)
+Office Chair|Cadeira de escritório
+Desk Drawer (L)|Gaveta de mesa (E)
+Desk Drawer (R)|Gaveta de mesa (D)
+Open Briefcase|Pasta aberta
+Orange Bin|Lixeira Laranja
+Outside Sofa (L)|Sofá externo (E)
+Outside Sofa (M)|Sofá externo (M)
+Outside Sofa (R)|Sofá externo (D)
+Outside Sofa 2 (L)|Sofá externo 2 (E)
+Outside Sofa 2 (M)|Sofá externo 2 (M)
+Outside Sofa 2 (R)|Sofá externo 2 (D)
+Painting and Easel|Pintura e Cavalete
+Painkillers|Analgésicos
+Pantry Door (L)|Porta da despensa (E)
+Pantry Door (R)|Porta da despensa (D)
+Paper|Papel
+Paper Bag|Saco de papel
+Patio Armchair (L)|Poltrona de pátio (E)
+Patio Armchair (R)|Poltrona de pátio (D)
+Patrick|Patrick
+Pencil|Lápis
+Dusty Penguin|Pinguim empoeirado
+Petition|Petição
+Phone Call|Chamada telefônica
+Phone2|Telefone 2
+Patrick's Phone|Telefone do Patrick
+Goodbye Kitty Underwear|Calcinha de Goodbye Kitty
+Pizza Box|Caixa de pizza
+You|Você
+Practice!|Prática!
+Popcorn|Pipoca
+Wizbanger Poppers|Wizbanger Poppers
+Potatoes|Batatas
+Pouf|Saco de feijão
+Printer|Impressora
+Rachael|Rachael
+TV Remote|Controle remoto da TV
+Ripped Whale Poster|Pôster de Baleia Rasgado
+Router|Roteador
+Rum|Rum
+Safe|Cofre
+Salami|Salame
+Salmon|Salmão
+Satchel|Mochila
+El Escorpion Mezcal|El Escorpion Mezcal
+SD Card|Cartão SD
+Slider Door|Porta de correr
+Closet Door (L)|Porta do armário (E)
+Closet Door (R)|Porta do armário (D)
+Soda|Refrigerante
+Sofa (L)|Sofá (E)
+Sofa (R)|Sofá (D)
+Room Door|Porta do quarto
+Spare Room Chair|Cadeira de quarto de hóspedes
+Spare Room Door|Porta do quarto de hóspedes
+Spare Room Sofa (L)|Sofá de quarto de hóspedes (E)
+Spare Room Sofa (M)|Sofá de quarto de hóspedes (M)
+Spare Room Sofa (R)|Sofá de quarto de hóspedes (D)
+Speaker|Buzina
+Spoon|Colher
+Spray Paint|Tinta spray
+Starbomb Box|Caixa Starbomb
+Stephanie|Stephanie
+Stove|Forno
+Study Door|Porta do estudo
+Sweeties|Doces
+Tablet|Tablet
+Sleazy Sancho|Sancho Sleazy
+Terrarium|Terrário
+Thermos|Garrafa térmica
+Thermostat|Termostato
+Toaster|Torradeira
+Towel|Toalha
+Trash Can|Cesto de lixo
+Upstairs Bathroom Door|Porta do banheiro no andar de cima
+Closed Toilet|Banheiro fechado
+USB Stick|Pen drive USB
+Utility Closet Door|Porta de armário de utilidades
+Vanity Chair|Cadeira para maquiagem
+Vibratron 3000|Vibratron 3000
+Vickie|Vickie
+Vickie's Panties|Calcinha da Vickie
+Empty Vodka Bottle|Garrafa de Vodka Vazia
+Voice Recorder|Gravador de voz
+Washer|Máquina de lavar
+Whale Poster|Cartaz da baleia
+Whipped Cream|Chantilly
+
+[Item Actions]
+Sex Radial|Menu radial de Sexo
+Default Radial|Menu radial padrão
+Against Wall - Swap|Contra Parede - Troca
+Fuck;(POV)|Fuder; (POV)
+Default;Radial|Padrão; Radial
+Poke;Chest|Cutucar; Peito
+Poke;Ass|Cutucar; Bunda
+Hold in Hand|Segure na mão
+Shake|Sacudir
+SwordFight|Luta de Espadas
+Pose Radial|Menu radial de poses
+Hands;Behind Head|Mãos; Atrás da Cabeça
+Kneel|Ajoelhe-se
+Hands;Behind Back|Mãos; Atrás das Costas
+Bend Over|Curvar
+Take a Selfie|Tire uma selfie
+Touch Herself|Toque-se
+No!|Não!
+No.|Não.
+Noo!|Nãão!
+...No?|...Não?
+No-no-no!|Nã-nã-não!
+...No!|...Não!
+N-n-no!|N-n-não!
+Nnnooooo!|Nnnããooo!
+...Brah?!|... ¡¿Brah?!
+Ridiculous;CutScene|Ridículo;Cena de corte
+Open...|Abrir...
+Open...;(POV Intimacy)|Aberto...;(POV Intimidade)
+Listen...|Ouvir...
+Open Slowly...|Abra lentamente...
+Slip Item;Into Pants|Deslize o item; dentro das calças
+Remove Items|Remover itens
+Remove;Shirt|Tirar a camisa
+Put On;Shirt|Vestir a camisa
+Remove;Pants|Tiras a calça
+Put On;Pants|Vestir a calça
+Remove;Boxers|Tirar cueca
+Put On;Boxers|Vestir cueca
+Remove;Panties|Tirar a calcinha
+Put On;Panties|Vestir a calcinha
+Remove;Shoes|Tirar os sapatos
+Put On;Shoes|Calçar os sapatos
+Expose;Penis|Mostrar o pênis
+Sheath;Penis|Esconder o pênis
+Flash;Breasts|Mostrar os seios
+Cover;Breasts|Cubrir os seios
+Masturbate|Masturbar-se
+Stop;Masturbating|Pare de se masturbar
+Pee|Urinar
+Stop;Peeing|Parar de urinar
+Dance|Dançar
+Dance...;Betterer|Dançar...Melhor
+Stop;Dancing|Pare de dançar
+Remove;Everything|Tirar tudo
+Put On;Everything|Vestir tudo
+Hide Inside|Esconder dentro
+Inspect|Inspecionar
+Talk|Falar
+Give|Dar
+Sit|Sentar
+Use With...|Usar com...
+Lock|Trancar
+Fuck|Fuder
+Get Head|Bola gato
+Shoes Off|Sem sapatos
+Approach|Aproximar-se
+Top Off|Sem camisa
+Take Panties|Pegue calcinha
+Bottom Off|Sem calças
+Loot|Saquear
+Untie|Desamarrar
+Secure|Assegurar
+Open|Abrir
+Close|Fechar
+Unlock|Destrancar
+Knock|Bater
+Lay Down|Deitar
+Punch|Socar
+Take|Pegar
+Drink|Beber
+Take Photo|Tirar foto
+View Photos|Ver fotos
+Move Aside|Afaste-se
+Turn On|Ligar
+Turn Off|Desligar
+Eat|Comer
+Throw Dildo|Jogar Dildo
+Tap|Tocar
+Create Petition|Criar Petição
+Doggie|Cachorrinho
+Missionary|Missionária
+More|Mais
+Less|Menos
+Cowboy|Vaquera
+Against Wall|Contra a parede
+Swordfight|Luta de espadas
+Poke|Cutucar
+Read|Ler
+Search|Procurar
+Drink From|Beber de
+Hop Up|Subir
+Blaze|Chama
+Pick|Escolher
+Slap Awake|Desperte com um tapa
+Sit In|Sente-se
+Climb|Escalar
+Get Out|Sair
+Invite Lety|Convidar Lety
+Cowgirl|Vaquera
+Help|Ajuda
+Sixty Nine|Sessenta e nove
+Make Out|Fazer
+Her|Ela
+Rachael|Rachael
+Bang|Estrondo
+Select|Selecione
+Throw Beer On|Jogue cerveja em
+Doggy|Cachorrinho
+Contacts|Contatos
+Voicemail|Corrieo de voz
+Calendar|Calendário
+Light On|Ligar lanterna
+Light Off|Desligar lanterna
+Peruse|Ler atentamente
+Reach For|Alcançar
+Use VR|Usar VR
+Poke Boob|Tocar seios
+Rummage|Vasculhar
+Take One|Pegue um
+Blow|Mamar
+Give Head|Fazer um Bola gato
+Set Free|Liberte-se
+...Insert|...Inserir
+Remove Shirt|Tirar a camisa
+Remove Pants|Tirar as calças
+Remove Boxers|Tirar cueca
+Put On Boxers|Vestir cueca
+Put On Pants|Vestir calças
+Put On Shirt|Vestir camisa
+Remove Shoes|Tirar sapatos
+Put On Shoes|Calçar sapatos
+Start|Iniciar
+Stop|Parar
+Throw One|Jogue um
+Print Petition|Imprimir petição
+Lety|Lety
+Start Music|Iniciar música
+Stop Music|Parar música
+Prev Track|Música anterior
+Next Track|Próxima música
+Play All|Reproduzir todas
+Loop Current|Repetir atual
+Unpack|Desempacotar
+Kick Open|Chute aberto
+Take Bag|Pegar bolsa
+Panties Off|Sem calcinha
+Latch|Travar
+Unlatch|Destravar
+Smell|Cheirar
+Tamper|Alterar
+Clitpocalypse|Clitórax
+Remove Panties|Tirar calcinha
+Play|Tocar
+Loop|Repetir
+
+[Item Group Actions]
+Hold in Hand|Segurar na mão
+Use With...|Usar com...
+Take|Pegar
+Drink|Beber
+Inspect|Inspecionar
+
+[Events]
+The key is just a bit too big...|A chave é um pouco grande demais...
+The key is just a bit too big...|A chave é um pouco grande demais...
+The key is just a bit too big...|A chave é um pouco grande demais...
+23d1b215-6b87-4839-9818-60098d394fb4|Estou tão perto... Não consigo... Tem um cone!
+1d8e8eb8-3374-4dfd-85c3-f8239db5e84e|Ela está tão perto, eu deveria continuar...
+fca41347-86c1-4f3d-aef5-aa79602e0b23|Estou tão perto... Não consigo... Tem um cone!
+1e0cfab5-fe93-4da0-a4b8-f7cf8cc1d334|Ela está tão perto, eu deveria continuar...
+67d1e92d-ac80-451c-a895-cafdb009d261|Estou tão perto... Não consigo... Tem um cone!
+7e2c1860-68c6-49fe-abef-b52d18e9a310|Ela está tão perto, eu deveria continuar...
+2a6f303c-c06f-41b9-ae6c-9122e81f1b2f|Estou tão perto... Não consigo... Tem um cone!
+99cf59bf-9f8e-4547-82e2-61b0e2e8b8bc|Ela está tão perto, eu deveria continuar...
+d927b700-8387-422c-b1c4-f73fc8c68f52|Estou tão perto... Não consigo... tem um cone!
+6ae2e764-2917-44e8-8f69-52fa0d9b3808|Ela está tão perto, eu deveria continuar...
+d9688717-10bf-4314-9c7f-f9dcd7193032|Droga... Preciso de um momento para recarregar as energias lá embaixo. Talvez se eu simplesmente me mexer... AI! Merda! ...Não. Teremos que esperar um pouco.
+7b477356-72f0-4f6c-a7f8-f087b017e9ef|*Gulp!* Que momento incrível e eu ainda estou me recuperando lá embaixo. Melhor me dar algumas para recarregar primeiro...
+1a6f39c9-9a67-4d31-a0c7-9079cf329c28|Estou tão perto... Não consigo... Tem uma casquinha!
+9099d106-6dfd-4cac-a740-aa44a9965cdf|Ela está tão perto, eu deveria continuar...
+e15f828d-cea5-4920-b8ab-74ed60a2a09a|Estou tão perto... Não consigo... Tem uma casquinha!
+a841bba3-5890-4965-8f37-22340891c33a|Ela está tão perto, eu deveria continuar...
+391d9187-e9ab-49bf-95a5-80f5c16ba806|Estou tão perto... Não consigo... Tem um cone!
+1d57d73e-2b26-4159-a6d7-45609f6630c1|Ela está tão perto, eu deveria continuar...
+00c7c81b-e105-4046-ac55-8af81c8214a9|Estou tão perto... Não consigo... Tem um cone!
+0a040cca-2462-4ca4-899e-b2bc60f8746d|Ela está tão perto, eu deveria continuar...
+b156695e-dc44-48ce-ac5d-10f1e3cd57ed|Estou tão perto... Não consigo... tem um cone!
+e8c8981e-d36c-4b83-a991-4b034da3a411|Ela está tão perto, eu deveria continuar...
+58fd970b-6b8b-4b5b-be3e-dc22eb17c697|Droga... Preciso de um momento para recarregar as energias lá embaixo. Talvez se eu me mexer... AI! Droga! ...Não. Vai ter que esperar um pouco.
+79e4dd94-bd3b-44ee-bab7-2f8a3733ce2d|"Um monte de gente vai ver minha exposição de "arte"... incluindo a Ashley. Acho melhor esperar até acabar."
+0e26bf4f-f067-4753-9fc7-cbbf74fd29ba|A Ashley vai ter uma merda enorme! É melhor você evitar de ficar pegando no seu pé agora, para eu poder comer uma bunda depois.
+502d30a9-b635-464d-bb5f-418a92f20eca|A Brittney está ótima com aquela blusa que eu comprei para ela.
+3e7d1f39-105f-434d-bbfb-0a1220565c30|Parece que a Brittney está gostando muito da banheira de hidromassagem e não quer conversar ainda...
+0e7bf9f6-3187-4f5e-8e5e-3066fe525346|Eu provavelmente deveria deixar a Brittney terminar de se trocar.
+75275475-38b7-4f35-a5d4-f1f901ebd002|É um pouco alto lá em cima. Será que estou tão desesperado assim? ...Ou tão preciso com apetrechos para piercings? Acho que posso tentar.
+fe9140f0-1b82-4831-8f34-26e1e930e7b3|Parece que você encontrou um uso para aquele chapéu de cowboy em miniatura, afinal! ... Espera, chapéu? O quê?!
+29a7d8ba-79c7-45d7-9641-c70d4b8eaa60|Ei, você! É um escorpião na sua calça ou você esperava uma piada melhor?
+3199cff8-14a9-4e84-b089-2c648e7fb821|Uhhh... talvez não. Pode não ser tão acessível quanto parece. Além disso, o Discord não foi muito claro sobre o que diabos ele deveria fazer com essa coisa.
+2b51331b-9f0c-4a62-a88d-ff27b9443b79|No conteúdo do jogo criado às pressas, o Escorpião usa VOCÊ! ...E eu teria feito o Escorpião violar sexualmente alguma parte do seu rosto, mas ninguém tem recursos para toda essa merda. Você tem que escolher. Modificação de textura, trilhas sonoras personalizadas, OU, este escorpião fode uma ou ambas as suas narinas. A urna está lá embaixo. No armário de bebidas. Atrás de todo o álcool.
+0e37efe3-a81c-43d7-b0ed-5a82e79a0e8a|É... tão grosso! Tão saudável! E tão verde! Este é o tipo de comida que faz muito bem para o corpo...
+433f0117-6c2b-4beb-907b-7c9cea197358|Você devora o pepino refrescante. Sério... nossa. Você tem reflexo de vômito? Enfim, parte da sua saúde foi restaurada, e a nutrição aumenta sua força!
+8fd9b0c7-7791-452a-9ca0-543eb4953454|Uma tampa modesta que pode cobrir até as maiores bazucas.
+c6a7fb17-7fd9-40cb-83dc-efacc1aa1f43|Aahh, que aconchegante! Mas ninguém está vendo isso? Não parece seguro. Se algo ruim acontecer aqui...
+8a5919f0-feeb-4e08-821d-89c48da3b6eb|Isso pode ser útil se eu só quiser quebrar o transe dançante megaintenso do Derek! Algo inflamável ou explosivo deve resolver...
+fe646e78-115f-4823-87a0-5fa87675de21|Ah, sim, Explodta-McBurnsHard. Vamos nos encontrar de novo. Adicionar algo com um toquezinho de energia vai incendiar essa porra e arruinar o transe dançante megaintenso do Derek!
+6d833606-2bda-4b32-901c-5068d0a7d476|Você deveria fazer isso...
+cf4946ac-74a7-4817-9de9-11582f4c9faf|As aparências enganam. Aparentemente, só há alguns goles de bebida aqui. Melhor usar com sabedoria.
+eaac21ab-f111-490f-8f5c-a84461ebf8d5|Hm, não parece tão completo quanto eu pensava. Talvez eu devesse parar de beber isso, a menos que eu realmente precise. Ou... foda-se!? YOLO!
+546fa76d-1740-44b0-9d00-72afca701581|Isso ficou muito escuro. Além disso, cheira a frango. Bela ideia, desenvolvedores.
+2f2c3dcd-e3d3-443d-80a6-24eee14568e9|"Gastronomia molecular... também conhecida como "colocar coisinhas na boca e fingir que gosta". Você não tem tempo para isso."
+edaaa4a0-f012-4926-9b70-4371b907c08d|Eles não disseram nada sobre o Digi-Kat. O Katinator, você pode dizer. Em que diabos você se meteu?
+3aae42be-2e58-43a9-8b08-be3087d6e31f|É melhor eu recuperar minha força sexual por um momento... Não quero decepcionar a Katherine. De novo. Espere... Isso é mesmo evitável?
+c4b5adcc-0f95-47da-857e-1fc573cf53ef|Estou tão perto... Não consigo... vai explodir!
+3c35a326-f15b-4008-b544-3aff6b552996|Está tão perto que deveria terminar com seu... clímax!
+39ffdf53-4007-4585-b286-c60c5c857c68|Estou tão perto... Não consigo... vai explodir!
+b7e476db-c945-43c5-96a4-69fa075a0d40|Está tão perto que deveria terminar com seu... clímax!
+c665b56a-34a2-4ff4-87be-307805297580|Estou tão perto... Não consigo... vai explodir!
+3b9df510-45e8-4101-ad3e-f994e9202249|Está tão perto que deveria terminar com seu... clímax!
+e0748afc-065f-49bf-a39a-7382eea1a3e3|Estou tão perto... Não consigo... vai explodir!
+1fe3c269-e2a1-4439-93ed-7c6d8d3834d4|Está tão perto que deveria terminar com seu... clímax!
+9a195f13-5304-4589-93fd-01a0780ef959|Estou tão perto... Não consigo... vai explodir!
+8d0d0939-659f-4c6c-bdaf-bdf00b3e86be|Está tão perto que deveria terminar com seu... clímax!
+6eff2b39-24e8-4d6e-8174-715c00422e92|É melhor eu recuperar minha força sexual por um instante... Não quero decepcionar a Katherine. De novo. Espera... Isso é mesmo evitável?
+86824806-1306-4fd9-a1bb-6e4c4b3d660d|É a Leah, a aluna de artes marciais do Frank. É melhor não mexer com ela...
+94d4bd40-e7fa-4a9b-88ca-176909acd271|Estou tão perto... Não consigo... Tem um cone!
+c560cc09-755d-453e-a7b3-bfa493c37dbd|Está tão perto, preciso tirar!
+7d652193-1d99-4426-a49d-5679f806d69e|Estou tão perto... Não consigo... Tem um cone!
+3bb546f7-7c04-46b2-b4a0-abe8344bafe8|Está tão perto, preciso tirar!
+0986a183-d6cf-4c5a-913e-7286f10f882f|Estou tão perto... Não consigo... Tem um cone!
+141a3689-acee-44f8-97e8-c1438361dab8|Está tão perto, preciso tirar!
+777aca18-3a4e-447c-800f-b3b4d72d0709|Estou tão perto... Não consigo... Tem um cone!
+1294c10e-f357-49f7-af81-c88ed0741f8e|Está tão perto, preciso tirar!
+5a3d893d-2bf2-4bc2-b4bd-7866ff63f934|Ela provavelmente é uma finalista, classe S, mítica... porra, eu sou um perdedor. Minhas partes íntimas... não estão prontas. Droga.
+6479f7a3-3de4-4f46-8c36-f6e7ee60c7cf|Estou tão perto... não consigo... porra!
+6056af79-bf24-43d2-ab79-5b56c9a29aaf|Ela está tão perto, eu deveria tirar!
+6c4f8602-51f1-4a71-b067-e70672ccc3ff|Ela provavelmente é uma finalista, classe S, mítica... porra, eu sou um perdedor. Minhas partes íntimas... não estão prontas. Droga.
+a24da036-a403-46fc-a5d2-bf0ec4b24488|Estou tão perto... Não consigo... tem um problema!
+0bc800e4-7241-4959-86fd-bc503229df2b|Ela está tão perto, eu deveria continuar...
+2f10b923-9eab-419c-ac2a-03ba91540055|Estou tão perto... Não consigo... Tem um cone!
+252a916a-e531-430f-a488-5e7ccae7a07c|Ela está tão perto, eu deveria continuar...
+c6854625-a408-4c7f-8254-d977902997e9|Estou tão perto... Não consigo... Tem um cone!
+6e9147e1-337f-4610-b992-9af6ac211a90|Ela está tão perto, eu deveria continuar...
+fedc6d3c-1fdf-4dd9-acba-1a260f231109|Estou tão perto... Não consigo... Tem um cone!
+c932e6c9-9bd0-47e8-a6d9-7ec78f17938e|Ela está tão perto, eu deveria continuar...
+98cfd324-f9ae-420e-8120-ba1ba78187d6|Estou tão perto... Não consigo... Tem um cone!
+40ef580c-e6ba-444b-a304-fc963c31aa50|Ela está tão perto, eu deveria tirá-la!
+5c483a02-6e27-47a5-962f-47039419a866|Estou tão perto... Não consigo... Tem um cone!
+7cdf7a6a-0612-4410-bc41-09503c16c472|Está tão perto, eu deveria tirá-la!
+046dd515-1415-450a-88d6-28c0199338f0|Ugh, preciso de um minuto para recarregar as energias.
+f52dc13c-31e1-4eb8-8845-b03494eba822|Indo em direção ao quarto dele? Hm... Não consigo imaginar por quê!
+9f30a66e-6b15-4138-960c-51d0f0525922|Droga, estou exausto lá embaixo. Acho que tenho que esperar um pouco até ele recarregar.
+4868b3c0-6967-49ad-b561-04b861bd6de0|Estou tão perto... Não consigo... tem um cone!
+c3a9a856-3ed1-4b61-a8c0-8be413dd43d1|Está tão perto, eu deveria tirar!
+16674420-8472-422c-9f5e-990882734919|Estou tão perto... Não consigo... Tem um cone!
+8bf42abb-e797-44b9-b184-7eb3e08660e9|Está tão perto, preciso tirar!
+0154a0ae-8cb1-4bab-8c8d-1f568ecef1e6|Estou tão perto... Não consigo... Tem um cone!
+2b96ae51-215e-486c-8513-0b5da4c2f815|Está tão perto, preciso tirar!
+db125557-737b-42bc-90b6-1586f48c9097|Estou tão perto... Não consigo... Tem um cone!
+069b01ca-ac70-4c2e-9d56-4539261606cf|Está tão perto, preciso tirar!
+85b6e7ac-0a12-4e25-81f6-216a35b59356|Estou tão perto... Não consigo... Tem um cone!
+868fb27f-de3a-4bd1-9a28-671d85d0edf7|Está tão perto, preciso tirar!
+6d1501d0-d1d7-451b-bf21-76c617d91601|Droga, estou exausto aí embaixo. Acho que vou ter que esperar um pouco até recarregar.
+d1245b2b-8e40-4938-abf1-3ec103b60dca|É o celular da Madison, mas não consigo ver direito daqui.
+33a6768c-b834-4efc-ac90-76478d37d821|SEM NOVA MENSAGEM DE VOZ
+c5d03ee0-0cb3-4239-b365-bbddd0eb7a8b|Ainda não posso fazer isso, estou esperando minhas futuras groupies de arte terminarem de bajular meu trabalho! ... Groupies de arte existem, né? Tanto faz, provavelmente vou transar com uma delas de qualquer jeito.
+d108ad9e-d762-45d4-9d40-cbd19ba3fa13|Droga, eu errei alguma coisa... o que ela disse mesmo? Ah, certo, certifique-se de que ela esteja sozinha, tranque a porta, espere um segundo... e, caso contrário, acho que preciso me preparar para transar.
+bb91e4f4-93ef-41ca-a849-92f34d137ee5|Droga, eu errei alguma coisa... o que ela disse mesmo? Ah, certo, certifique-se de que ela esteja sozinha, tranque a porta, espere um minuto... caso contrário, acho que tenho que me preparar para transar.
+482d3ad1-6931-4069-9b22-a3250b098340|"Não ouço nada. Ela provavelmente ainda não está "aquecida". Talvez eu deva esperar."
+715ed182-5368-44e9-b020-7e1bc9dcfb65|Oooohhh sim. Parece bem quente aí dentro para mim! Acho que está na hora de dar uma volta...
+3a42ba4b-23b7-4e81-853c-63a3f81f3755|Que droga! Parece que está funcionando agora!
+e94c02c5-478a-4d0d-885b-038bcd5193ac|Hm. Pode ser que consertem, mas não quero que exploda na minha cara. Melhor esperar a Katherine confirmar.
+c82d41b0-7800-4fbb-a311-d53e8cbfbc46|Isso faria sentido, certo? Mas este é um jogo de aventura, e não vamos facilitar TÃO para você.
+29b08d68-6146-48fa-8729-884537dc04c8|É um saco de fast food velho e gorduroso que cheira a hambúrguer e autoaversão. Eu conheço bem esses sacos.
+cc782488-513f-4fcf-9476-b0fe946274ea|Perfeito! Acho que pode ser útil para o meu pequeno projeto de arte hoje à noite. Só precisa de um pouco mais de trabalho e aí estarei pronto para o meu grande momento!
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+6e300ea8-6664-46d9-a3b3-09cc49724f4c|Gostaria de saber se combina com molho ranch.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+ac34aa85-5a94-4e0a-a65d-10dd56fb9a79|Bem, isso foi... desleixado.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+50c5c648-d2f5-424d-adc8-7f6e98bf447d|Isso deve dar algum incentivo à sua caminhada.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+79a58bec-a346-472c-b8fc-a691b700ff38|Poder das flores, cara.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+246ebb03-dbd7-4ea7-a960-3bbae2d8b640|Aqui, Pinguim, pegue algum material de leitura.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+e3f7b346-15d1-4e7c-94a4-304729128405|Não sei dizer se isso é legal ou assustador.
+Struggle Bus Penguin|Pinguim do Ônibus de Luta
+83344444-9acb-4b2f-ab52-a959ba7df3ca|Você precisa de alguns minutos para recarregar as energias...
+0ae5d08b-0cde-4b6b-a42a-0f3bcbc65f2a|Talvez você queira beber algo para encher a bexiga ou esperar um pouco...
+5e917afa-1f80-451e-b763-66351bc23ad0|Ah, certo, eu tenho alguns movimentos... como eles são. Será que eles podem ser úteis esta noite...
+9f85ee32-cd55-46a6-a129-d94cd3d6aa98|Ainda não! Tenho que esperar para atacar no momento oportuno... quando ele e seu ego estiverem mais vulneráveis!
+9b9a85ec-f11b-4183-b90e-98561316191f|Pipoca pronta! Que delícia!
+a6c1f751-0208-4b7b-be26-4c0ada55a8aa|Estou tão perto... Não consigo... Tem uma casquinha!
+093f6fbb-7aa8-4496-9fc6-e297211e6bbf|Está tão perto que eu deveria tirar!
+eb7e4f16-9c24-4a15-9680-abfc27abc938|Estou muito perto! Não consigo me conter...
+695f8060-c4d7-412f-8017-e16794a3a3bb|Ele está tão perto que eu deveria tirar!
+91689bd3-9744-46c3-93b2-2a34d3db0a7f|Eu vou... oh, porra!
+341c74f0-b7f9-4ff9-bb7a-d922a208a7ff|Ele está prestes a gozar! Eu deveria continuar!
+20fea6a3-5542-496b-b857-bc9c1dc92916|Estou tão perto... não consigo... porra!
+8cc67f47-2be0-47b4-a2b6-94358d61706a|Ela está tão perto, eu deveria tirar!
+a42236fc-60a5-4013-b591-8ae21567ff99|Estou tão perto... Não consigo... tem um cone!
+3cc07fac-1417-4416-ab5b-1a3fea910175|Ela está tão perto, eu deveria tirar!
+0d12520a-f8f6-4982-965f-5008987da5d8|Meu medidor de orgasmo (que eu vejo toda vez que me exponho) precisa recarregar primeiro. ... Nossa, estar perto da Rachael realmente me faz ver as coisas de forma diferente.
+f95b12c4-5dc1-4fc6-9aa3-2ffd382f526e|Tenho uma chave comigo. Me deixe em paz... não. Parece que o teclado é a única maneira de abri-la.
+1bf2f5d2-866d-49f2-a19a-5edab90ab60f|Nossa, que nojento! Vai embora, suco de demônio! Droga... sobrou um pouco. Talvez não tenha sido inteligente. Ah, bem...
+6c40fa18-972f-4001-8705-dae43185c102|Belo design. Isso com certeza cobriria os olhos de alguém.
+96e7ec45-4bde-4893-8547-c6a6dfedf241|Ah, certo, eu tenho alguns movimentos... por assim dizer. Será que eles podem ser úteis esta noite...
+bb80a912-24e4-425e-a949-1def8f719796|Você pode parar ou começar a dançar novamente pressionando a tecla "Y" (padrão).
+0fc9b391-316b-4e99-a19a-17a52be5d6a9|Ainda não! Tenho que esperar para atacar no momento certo... quando ele e seu ego estiverem mais vulneráveis!
+da739c62-8433-44ba-8adb-bfadbab779db|Ah, certo, eu tenho alguns movimentos... por assim dizer. Será que eles podem ser úteis esta noite...
+c6f70fd4-7998-46b9-9c0f-84287ba52424|Você pode parar ou começar a dançar novamente pressionando a tecla "Y" (padrão).
+3a9ccc4a-8ada-4cd9-bdde-b54e6c2c9fff|Ainda não! Tenho que esperar para atacar no momento certo... quando ele e seu ego estiverem mais vulneráveis!
+a1d85b90-858f-4ada-a3fb-5bcd41ca8832|...Nada. Excelente. Ela claramente ainda está muito ferrada para me ajudar com qualquer coisa que me interesse. Preciso ver como ela está novamente em alguns...
+29237d7b-61c5-4bc1-82ec-5dc79cd10c68|Estou tão perto... Não consigo... ela vai explodir!
+944fc7d0-1933-43f4-a7a4-f4cada5d9042|Ela está tão perto, preciso acabar com ela!
+b7d23fed-6989-4569-bfa9-2066b75309eb|Eu provavelmente deveria tirar a calcinha dela...
+23c9b777-70f0-4f23-b9f0-7f4d806115d4|Estou tão perto... Não consigo... Ela vai explodir!
+901cde8c-6ed0-4edf-9c4f-9ffdf7299a88|Ela está tão perto, eu deveria acabar com ela!
+83cf3c24-9e02-4d3b-b4e2-41e1883a894e|Eu provavelmente deveria tirar a calcinha dela...
+6d09f3eb-9aea-4d12-b06d-01e9b7b7f7be|Estou tão perto... Não consigo... Ela vai explodir!
+f328c2c7-2377-4e9a-bafe-49f7c6a0b04b|Ela está tão perto, eu deveria acabar com ela!
+52521071-c263-483a-a144-73ae58b1daa0|Eu provavelmente deveria tirar a calcinha dela...
+1c3a2f6c-1db5-4463-bb70-ac33f8551511|Estou tão perto... Não consigo... ela vai explodir!
+c0e85c6d-a33c-4203-911d-cf52f679fef4|Ela está tão perto, eu deveria acabar com ela!
+ca4a7e0a-c101-44af-b416-816f4744e1f6|Eu provavelmente deveria tirar a calcinha dela...
+4813bd11-f32c-4606-b5f8-40bffda91465|Estou tão perto... Não consigo... Ela vai explodir!
+0f2ebeb1-85d1-4866-8016-ee6823645ac2|Ela está tão perto, eu deveria acabar com ela!
+24dd7f86-0917-4288-867e-4dda769806f0|Eu provavelmente deveria tirar a calcinha dela...
+23594c74-1fb6-482f-9789-4ad99ccce08a|"Vamos dar uma olhada no rótulo...""CHA + 1, SEX + 2, AWW + 1, ciclo médio, agite vigorosamente para secar, gênero neutro..."" Uau. Que característica! Tão estiloso!"
+a3a90a0d-d0b9-4897-ac30-cd7ed1695c7a|Um par de óculos de sol matador. Estiloso, elegante e de origem ética.
+f9cc000a-c16e-4f70-8ae5-ea1b8b108ffd|AAAHHH AÇÚCAR AÇÚCAR FILHO DA PUTA SSSS-uau. *Aham* Meu Deus, que delícia. Eu provavelmente poderia canalizar um pouco dessa energia para os meus punhos agora, caso seja necessário...
+4523de3c-8f15-4c2a-bc23-7e583d0efbd3|Parece que a Vickie não quer conversar agora. Devo tentar de novo mais tarde.
+5fa9daac-f352-4c1b-94a2-73d7275e2c58|Não tenho certeza se consigo me comportar ainda. Melhor me dar algumas para recarregar.
+e97d49aa-2814-4976-bc00-ed5ab598860c|Acho que... é assim que a Vickie escolhe recarregar suas baterias sexuais. Não o meu saco, mas cada um na sua. Melhor dar algumas a ela.
+fc8a5f16-7e7a-49e2-82f7-1c463ab6bc89|Estou tão perto... Não consigo... Tem um cone!
+bde5968e-313a-485f-afed-8ba664cef449|Está tão perto, preciso tirar!
+364c8a5c-4d7a-4feb-ae1e-5c61496bdee3|Estou tão perto... Não consigo... Tem um cone!
+f6a84544-daca-45b6-ae2b-cf63ca0e200f|Está tão perto, preciso tirar!
+b1cc4294-138e-46e6-b31a-c0178c1c2613|Ainda não sei se consigo atuar. Melhor me dar algumas para recarregar.
+7eb8062c-24e8-4a8a-9d19-1028da6370c5|Acho que... é assim que a Vickie escolhe recarregar suas baterias sexuais. Não o meu saco, mas cada um com o seu. Melhor dar algumas a ela.
+c6d28e4f-48d0-48dd-9029-f0eefba1e6bb|Tem uma festa na casa da Madison hoje à noite, e seu amigo Derek te convidou. Claro, ele é a única pessoa que você conhece, mas sendo novo na cidade, esta parece uma boa oportunidade para se misturar com gente nova. Fique um pouco por aqui e veja que tipo de diversão há, ou talvez em que tipo de confusão e libertinagem você pode se meter. A escolha é sua.
+a1d6dfcf-383c-4411-9c32-10f11d1c5d1d|"Há uma festa na casa da Madison hoje à noite, e sua amiga Brittney te convidou. Ela está com problemas de figurino a noite toda e pediu para você trazer uma blusa extra. Como sou nova na cidade, esta parece uma boa oportunidade para conhecer gente nova. Fique e veja que tipo de diversão há, ou talvez em que tipo de confusão e libertinagem você pode se meter. A escolha é sua."
+Laxatives|Laxantes
+b6d71b5b-b397-486d-afee-0617691f2028|Você virou a morte, destruidor de festas.
+ed4bb8b2-a300-435a-979d-981f7897e422|Sua atenção à precisão e aos mistérios do controle da bola aumentam sua velocidade de combate!
+7ad57a83-3461-4f2c-90b1-c5bfda7adb5e|A garrafa aparentemente indestrutível se enfia no fundo da lareira, sob as brasas. Não adianta tentar tirá-la agora. Esperemos que Lety não precise dela esta noite... ou tenha alguma ideia brilhante se precisar.
+c7ef935d-b46e-438a-9a0b-8f65e659f435|Caramba! Nota mental: tudo que entra ali diz adeus. Isso não é bom. Mas uma rajada de fogo... pode ser útil em algum momento esta noite.
+eca005f2-e7e1-432f-aba6-5c2bd573d8ea|Uau! Nota mental: tudo que entra ali diz adeus. Isso não é bom. Mas uma rajada de fogo na hora certa pode ser exatamente o que eu preciso para despistar o Derek!
+536d3f0c-4fe2-4b99-83bd-78bcd8216327|Uau! Nota mental: tudo que entra ali diz adeus. Espero que o sacrifício tenha valido a pena...
+1557a85e-82cc-4211-a3a1-75b3e00c325c|Uau! Nota mental: tudo que entra ali diz adeus. Isso não é bom...
+fe993d50-624d-4333-9e1b-fbfe7242d89a|Sua brincadeira íntima aumentou um pouco sua resistência de combate!
+4bcf78aa-04c6-4f95-8db6-c95e597b26fb|Hm, bom conselho, Vickie! A prática leva à perfeição! Ou quase à perfeição. Ou talvez só me ajude a me recuperar mais rápido depois de uma super-maldita... Eu deveria continuar praticando.
+c8ec4ab4-e233-47ab-a57d-7e7506d3ec06|Hm. É, não. Nem perto. Com certeza vou precisar de mais do que isso se quiser anestesiar esses rins latejantes!
+8c87cc92-80ca-4612-b35c-23f973226984|"Tãããão perto! Um pouco mais de bebida e um pouco de... "treinamento personalizado" e estarei pronta!"
+89fd5fcd-758e-48f8-90e4-2d17d60cd755|Tá, me sinto bem-*soluço*-uhuu! Acho que estou pronto para mostrar um pouco de diversão para a Vickie...
+6d61e6af-7f26-44a0-b293-8fca79d048bf|Toda aquela corrida hoje à noite valeu a pena, aumentando um pouco sua velocidade de combate!
+17b60899-3784-4d5e-a6b5-ad13d510ab3a|Ei, tem muita coisa para absorver aqui... Mas que sala de arte legal.
+b443e6ab-0559-47d1-b969-4368af76a366|Nãããão! Tão, tão perto da salvação calmante e aquática! Foda-se sua vida, né?! Se ao menos houvesse uma maneira de voltar no tempo para um momento de fracasso menos que completo...
+5cddac33-c585-4513-a52e-884a16945718|*Você despejou os laxantes no rum*
+76ed55f7-5627-446e-b962-ff2c2cd472b4|Apesar de ter mexido na bebida saborosa, você a engole. Sem vergonha nenhuma. E sem arrependimento nenhum.
+e1a3f9bf-11a8-4e62-bca4-76a7e85ae11e|Puta merda... O que há de errado comigo?! Eu não devia ter assistido àquela cena do Xenos com o chupador de tetas ontem à noite! Preciso tirar isso...
+dd6c4962-c36a-452c-80b0-8a4f80c1ec51|Você desaba, gritando e apertando as bochechas em um gesto inútil, na esperança de resistir à tempestade que ruge em direção ao seu esfíncter...
+65f31561-28d5-4a0a-96b8-12f005093d9e|M-mamãe? É você? É difícil de ver... queima, queima! De nada, Katherine... Ashley... quem quer que seja. Porra, aí vem!
+025011a7-9603-43bd-aea0-8980d3081d3f|Ufa, foi mais difícil do que pareceu. Por outro lado, me sinto um pouco mais forte...
+4896a29f-7dca-4c67-a627-8cef5765a091|"Pronto. Coloquei o cartão SD na câmera e a mensagem "Sem cartão" desapareceu. Parece que está pronto para tirar fotos!"
+Used Penguin|Pinguim usado
+e7f59021-1045-43e4-bffe-adff26f7f7be|Você escapou por pouco com vida... e muito pouco do seu orgulho. Mas e os seus companheiros de festa? E o seu amigo Derek? Descubra na próxima vez em... Puta merda, você salvou como a gente falou?
+9ca4d293-4dc6-4b59-b2d3-a308673f9f92|Você tenta escapar do inferno, mas estar em chamas é muito mais difícil do que aqueles caras de túnicas chiques fazem parecer. Ou... talvez você seja só uma vadiazinha. Os dois? Quem se importa... você salvou o jogo como a gente falou?
+f67549db-23fd-4ea2-bce0-c47317864c72|"Isso foi excepcionalmente atlético da minha parte. Eu deveria ter usado a mão esquerda. ... Acho que o vibrador sumiu. Para sempre. Espero não ter precisado dele... espera, alguém já "precisa" de um vibrador? Bem, estou me sentindo um pouco mais forte agora. Então, é isso..."
+39734e2a-37b9-4346-950a-b775b194f5dd|Eu não deveria jogar fora materiais de escultura. Não importa o quão... pegajosos. Tenho um pressentimento não tão maravilhoso sobre isso...
+a56b8f94-bb31-4427-b93c-0ccc11e5f425|Acho que posso—
+24fe6c4d-4502-4e38-907f-aea853454233|Merda! Hm... Será que isso está no MP3? Falando nisso, talvez eu tenha ficado bravo. Nunca mais faça isso!
+98da8abc-e828-4367-90f3-3cff36f110a7|Desafiar a morte aumentou um pouco sua resistência de combate!
+80057ae8-93ca-4f1a-93d5-1b046f3e9e96|Droga, acho que está ficando sem álcool nesta festa. É melhor tomar cuidado com o que sobrar...
+ff8a45b3-c77b-4e83-b249-01c6b2e28df8|Merda, talvez eu não consiga mais ganhar a confiança do Frank...
+4862bda3-8171-4a5f-a07e-441f14580880|Bem-vindo ao House Party! Sou uma janela de narração. Se me virem novamente, é porque estou dando outro tutorial ou contando sobre coisas muito, muito importantes no jogo que estão prestes a acontecer. Então, só me escutem, droga! Mas quando terminarem de me ver, podem clicar com o botão esquerdo (padrão) para me fechar e seguir com a vida.
+80da8bab-00f5-4362-81a2-f8041cb5888a|Seguindo em frente! Controles básicos do House Party (padrão): Mova-se com as teclas 'w', 'a', 's' e 'd'. Clicar com o botão esquerdo interagirá com coisas ou selecionará opções. Clicar com o botão direito agarrará objetos à sua frente. Segure Shift esquerdo para correr. A tecla C agachará. Pressione p para se expor. Pressione espaço para entrar no modo de combate. Ótimo, até agora tudo bem...
+1da991b0-5d33-427c-a11f-5f17c5f717be|Seguindo em frente! Controles básicos de festa em casa (padrão): Mova-se com as teclas w, a, s e d. Clicar com o botão esquerdo interagirá com objetos ou selecionará opções. Clicar com o botão direito agarrará objetos à sua frente. Segure Shift esquerdo para correr. A tecla c agachará. Pressione espaço para entrar no modo de combate. Ótimo, até agora tudo bem...
+5d7391be-f111-4473-a2a9-46cefad0c6c5|Se quiser conferir seu inventário, pressione "i". Precisa revisar o conteúdo que está procurando ou reler uma dica? Pressione "o" ou "m" para acessar a janela de Chance e Memórias. Ou pressione "q" para abrir qualquer uma dessas janelas básicas da interface. Precisa dançar ou tirar a roupa? Use a tecla "e"! Por fim, a tecla "Tab" pode ser usada para ocultar ou mostrar algumas partes da interface, como a mira, o medidor de bexiga, as barras de status de combate e muito mais. Ah, e para sua informação, você poderá ver outro tutorial mais detalhado sobre alguns deles mais tarde.
+35a9265b-2937-4f00-aab3-36331dc2adc5|Se quiser conferir seu inventário, pressione "i". Precisa revisar o conteúdo que está procurando ou reler uma dica? Pressione "o" ou "m" para a janela de Chance e Memórias. Ou pressione "q" para abrir qualquer uma dessas janelas básicas da interface. Dançar ou tirar a roupa? Use a tecla "e"! Por fim, a tecla "Tab" pode ser usada para ocultar ou mostrar algumas partes da interface, como a mira, as barras de status de combate e muito mais. Ah, e para sua informação, você poderá ver outro tutorial mais detalhado sobre algumas delas mais tarde.
+a039fcb9-e85d-44e3-a234-98af5b240cb9|Ok, hora de sair e ser alguém! Não se esqueça de que há outras pessoas aqui também. Diversas ações e diálogos podem afetar seus relacionamentos com outros participantes da festa e seu comportamento. Às vezes de uma forma positiva, outras vezes... nem tanto. Tente não ser pego fazendo coisas ruins. Ou sendo um babaca. Veja aonde isso te leva. Enfim, pense bem em suas ações e divirta-se!
+0ed3fcbb-8edc-4f5b-aa28-2137ffb45cc4|Ah, preciso de ajuda para lembrar de uma coisa, né? Olha só você, seu velhinho adorável! Para sua sorte, as janelas Oportunidades e Memórias estão aqui para ajudar! Você pode alternar entre elas usando as teclas "o" ou "m", ou usando as abas na parte superior da janela.
+bb774618-421e-4482-a810-e96e004884b3|Oportunidades mostra as oportunidades que você iniciou com cada personagem e informações sobre sua progressão. Você também pode ver quais oportunidades você perdeu. Elas são marcadas com um "X". Oportunidades perdidas, que são aquelas que não podem mais ser descobertas ou aproveitadas, não são exibidas individualmente. Reinicie o jogo para tentar novamente! Use os botões na parte inferior para ocultar certas oportunidades e facilitar a leitura da lista. 
+5a36934f-86cc-4be6-be36-56075f39e9e2|Memórias mostra todos os pequenos balões de pensamento, dicas, narrações e mensagens de tutorial que você viu anteriormente enquanto jogava. Volte aqui se você perdeu uma pista, quiser reler um tutorial ou simplesmente não conseguiu acreditar no quão horrível foi o nosso humor. Ok, "é", tempo presente. As memórias são exibidas com as mais recentes no topo. É só por enquanto, tchau!"
+7ac4af86-e292-41e6-8f3f-c4f36f12a6e8|Este é o seu inventário. É tão grande. Então... desculpe, *ahem*. Toda vez que um personagem lhe der um item ou você "Pegar" um item usando o Menu Radial, ele aparecerá aqui.
+00ab5ba0-b74a-44c7-a5ba-ad5ce03dbe2b|Após terminar este tutorial, você poderá clicar com o botão esquerdo (por padrão) para interagir com qualquer item exibido no seu inventário. A interação permitirá que você os inspecione para obter mais informações ou dicas, use um item com outro e muito mais! Alguns itens podem ser retirados do seu inventário para serem guardados, alguns podem ser comidos e outros... bem, você verá. Lembre-se apenas de que certas ações, como comer, beber, jogar, etc., podem fazer com que você perca permanentemente um Item!
+c30a31dd-4705-496b-bede-17ba95528308|Para tornar sua vida menos dolorosa, seu inventário também pode ser organizado de várias maneiras usando o menu suspenso na parte superior da janela. Você pode fechar o inventário pressionando o botão "X" ou a tecla Escape (ESC). Fim do tutorial. Você está livre!
+c1df5eb7-e26a-4af4-83a6-3abee59b30a0|Tentando interagir com outro ser humano (mais ou menos?)? Bem, você conseguiu! Bom trabalho!
+0e1e3868-1c99-44d8-bf97-f21834efd8af|Com esta radial, você pode inspecionar a outra pessoa para saber mais sobre ela, dar a ela um item do seu inventário ou conversar com ela para tentar iniciar um diálogo — não, um relacionamento! Hum. Ocasionalmente, dependendo do conteúdo que você procura, também pode haver interações especiais para descobrir!
+717cf1f1-6fe9-4aac-94b2-4d70a9aa9cfc|Ah, e se você estiver tentando apalpar essa pessoa, precisa clicar com o botão direito (padrão). Lembre-se de que você só pode tocar na bunda ou nos seios dela (e de homens também, não importa o tamanho!), e somente se ela estiver de frente para você, sem se mover e perto o suficiente. Você também pode fazer isso durante a intimidade, se tiver optado por cenas de intimidade POV nas opções do jogo. Pronto, terminamos por aqui. Ugh, preciso de um banho agora...
+ea9f05e5-e028-4e46-9d1b-ca5b8a4b397c|Ei, é isso aí! Esta é a sua interação via rádio. A partir daqui, você pode tirar roupas, vestir roupas, dançar e muito mais! Os PNJs reagem de forma diferente a cada uma dessas coisas, então experimente cada uma delas. Na hora certa, é claro.
+b8e65174-5979-4104-b2e3-6d0d8e684348|Dica profissional: "O tempo todo" é a hora certa. Para todas essas opções. Com certeza. (Talvez.)
+177e30fa-2c8f-4ea4-9ed0-3ec7f4e39833|Você interagiu com um item! Você realmente vai longe! Com esta radial, você pode inspecionar um item para aprender mais e, às vezes, pistas. Você também pode levar o item para o seu inventário (a tecla "I" por padrão), usá-lo com um item do seu inventário e, em alguns casos... fazer coisas especiais e supersecretas!
+366b3a5b-5e67-4a0c-bee3-92807b87bdb2|Muitos itens também podem ser agarrados (botão direito do mouse, por padrão). Você pode então soltar esses itens ou jogá-los. Preste atenção ao diálogo dos personagens, às informações sobre a janela de oportunidade, ao texto de inspeção e muito mais para aproveitar ao máximo os itens que encontrar. ...Ou escondê-los em um canto. Tanto faz. Então!
+aa145ab0-f00c-4df3-9c50-68293be2ce62|Portas também são itens. Uau! Caso não tenha ficado óbvio, elas podem bloquear a linha de visão de um personagem e, se você tiver o item certo em sua posse, podem até mesmo impedi-lo de chegar até você completamente! Isso pode ser bom ou ruim. Você terá que decidir.
+a2f4503e-ada0-4448-bbed-6c7c01598bb1|PNJs também podem trancar portas por dentro e, às vezes, impedir que você as abra. Nesses casos, você terá que realizar outras ações para reabrir a porta.
+0d379ecb-af71-4168-b3bc-7916f5dbe993|Este item é uma cadeira. Você sabe o que fazer com ela. Lembre-se de que apenas um personagem pode usar uma cadeira por vez. Então, se você está tentando liberar uma cadeira, talvez precise encontrar um jeito de fazer a pessoa que a usa se foder. Com todo o respeito, é claro. É só por esta lição. Até a próxima!
+9b55cb9c-8378-47d8-b7f6-5d534c6935fe|Este item em particular é uma cama. ...Você já sabia disso, certo? Enfim, camas costumam ser onde a mágica acontece. Não como um show de mágica infantil de merda. Mágica para adultos. Magia molhada. Só lembre-se, se um personagem estiver deitado em uma cama, isso pode impedir outros personagens de usarem aquele ponto da cama também. Tente assustá-los usando diálogos ou... outros meios. Meios molhados. Argh, esses tutoriais são amaldiçoados.
+049103a2-792b-4548-9d59-2340cc5f995a|Bolhas, aqui você goza! ...Não... não estrague as bolhas, por favor. Para usar um assento de banheira de hidromassagem, é necessário traje adequado. Ou melhor, a falta de traje. Comece a se despir! Assim como camas e cadeiras, os NPCs que os usam precisam ser espantados de alguma forma antes que outro NPC possa tomar o lugar deles. Dica: fazer uma bagunça nas bolhas pode resolver. Então!
+298cd42a-ee31-45ff-8e11-f7cb2c211b9a|Você ainda não teve nenhum treinamento de combate, então suas habilidades são, bem... nenhuma. Usando os controles padrão, pressione a barra de espaço para entrar no modo de combate. Você verá sua saúde no canto inferior direito da tela. Se você clicar com o botão esquerdo, usará um soco básico. Se você acertar um personagem, ele se tornará seu alvo de combate e você verá a saúde dele no canto superior direito da tela. Esse personagem ficará... descontente com você.
+eec8a32d-11ff-4fd0-a05e-4105aa44bd99|A cada ataque, você consumirá parte da sua energia de ataque, como mostrado no canto inferior esquerdo da tela. Se sua energia estiver muito baixa, você não poderá usar certos ataques (se os tiver desbloqueado) ou até mesmo atacar! Sua energia se regenerará sozinha. Correr no modo de combate reduzirá sua regeneração de energia pela metade.
+f82af07d-1c96-4840-a323-8b1babab35f9|Se um personagem te atingir, você sofrerá dano e poderá ficar atordoado, permitindo que ele ataque novamente. Muitos personagens podem bloquear seus ataques, reduzindo o dano que você causa. Personagens diferentes apresentarão diferentes níveis de perigo e, dependendo da sua habilidade, estatísticas de combate e conjuntos de movimentos que você desbloquear, você pode não ser capaz de derrotá-los. Você pode aumentar suas estatísticas de combate completando certas ações menores e desbloquear conjuntos de movimentos completando certos conteúdos. Boa sorte!
+35ab61cb-05cf-4a42-af13-756b80131076|Como você está apenas começando seu treinamento, Leah não vai te revidar... por enquanto.
+134a8ada-f60a-44bc-908b-4c5fee72aa83|Você desbloqueou sua fúria interior! Sua taxa de regeneração de dano e energia aumentou bastante, e sua resistência também aumentou um pouco, permitindo que você receba mais alguns golpes. Hhhellloooo, canhão de vidro!
+df9d400f-7871-4121-aada-bb2817ee8af9|Você também desbloqueou novos movimentos no modo de combate! Usando os controles padrão, pressione a barra de espaço e clique com o botão esquerdo para atacar! Você tem quatro conjuntos de movimentos. Novos movimentos são ativados segurando uma tecla de movimento (W, A, S ou D por padrão) e atacando. Cada conjunto de movimentos acionará uma animação aleatória, mas todos os movimentos dentro de um conjunto funcionam da mesma forma. Movimentos mais fortes consumirão mais "energia" de ataque, então fique de olho no medidor!
+90b479a1-cf9a-4573-8133-60a4961574a3|O conjunto de movimentos padrão é usado quando não se pressiona botões de movimento e se ataca. Agora você tem mais duas animações neste conjunto de movimentos. Às vezes, elas causam 25% mais dano do que seu soco básico e são muito rápidas. Pew Pew!
+46820a2d-e5f7-4d96-be90-a1e9cdc9174a|Se você segurar 'A' ou 'D' (padrão) e atacar, usará um gancho de esquerda ou direita. Eles sempre causam 25% mais dano e são relativamente rápidos.
+3ca34886-6d6f-45f6-a406-08c4a5176d85|Os próximos dois conjuntos de movimentos são ataques mais fortes que têm um pequeno tempo de recarga após usá-los, então certifique-se de conectar! Se você segurar a tecla "W" e atacar, usará um leve movimento para frente ou um ataque de estocada. Esses ataques sempre causam 50% a mais de dano.
+689a0b85-3b0f-4c0c-9e2f-9e4542cb078b|Por fim, se você segurar a tecla "S" e atacar, usará um "movimento poderoso". Esses ataques sempre causam entre 75% e 100% a mais de dano. Eles quase sempre resultam em um atordoamento mais longo no personagem. Além disso, o efeito de atordoamento de um movimento poderoso ignorará o bloqueio do personagem. Então, esquive-se com as teclas de movimento e movimentos terrestres poderosos para atordoar o inimigo e, em seguida, use um DPS incrível! Supere esses medidores! Boa sorte... mas você não vai precisar!
+5d097107-935c-48c5-bc22-f233de6381bf|Suas experiências com Leah aumentaram sua resistência em 2,94 métricas! Isso reduzirá a frequência com que você fica atordoado e reduzirá bastante o dano que recebe!
+74984e8c-8449-49bd-a44a-db6f1cce9b57|Além disso, você levou a sério o guia de autodefesa de Leah e pode bloquear ataques mantendo o botão direito do mouse pressionado (padrão) no modo de combate. Além da sua resistência, bloquear faz com que os golpes causem metade do dano. Mas tome cuidado, bloquear um golpe consome bastante resistência e, se você ficar sem resistência, não conseguirá bloquear com eficácia!
+87722113-4d75-4b2a-98ac-489cfdf2baf1|Seja paciente, use seu bloqueio e contra-ataque rapidamente enquanto seu alvo estiver vulnerável! Mas tenha cuidado; alguns lutadores altamente habilidosos têm um ataque que pode atordoá-lo durante um bloqueio, então não fique parado por muito tempo. Bons tanques não atrapalham o fogo. Vá em frente, boa sorte!
+fa42d1a1-05fa-424f-9716-69477bd59e2b|Claro que sim, bem no meio da sua cara! Você acabou de consumir um item. Dependendo do que era, ele pode ter sumido para sempre, o que pode significar que você não poderá mais terminar o conteúdo que o exigia. Ou talvez você realmente precisasse deixar isso na escotilha para terminar uma Oportunidade. Só o tempo dirá!
+93cb0055-708e-4fc5-8a37-ca2c0e58c391|Consumir certos itens na frente de certos personagens pode... provocar uma reação. Bom? Ruim? Isso você vai descobrir. Consumir certos itens também pode aumentar suas estatísticas de combate ou aumentar seu medidor de bexiga! Sofra menos dano! Bata mais forte! Bata com mais frequência! ... Faça xixi com mais frequência! Ei, cada um com o seu gosto.
+41ae2768-6ea5-44b0-9d1b-f1f3ff6b74c3|O objetivo é colocar as bolas de pingue-pongue do recipiente aos seus pés em um copo na ponta da mesa. Para pegar uma bola, passe a mira sobre ela e (por padrão) clique com o botão direito!
+be686e7f-6c2d-40ce-b971-b7e41c5e2076|Em seguida, olhe para os copos novamente, mire em um e clique com o botão direito (ou segure e solte para um arremesso mais forte) para lançar a bola.
+4911b124-cefa-43b5-bdcc-2a13478c83ef|Você ainda pode marcar um ponto se quicar uma bola na mesa, parede ou teto antes que ela caia em um copo, mas não pode pegar uma bola arremessada até que ela seja recolocada no recipiente. Regras da casa, seu filho da puta atrevido! Boa sorte!
+6809ebb5-1f41-437c-927a-780298b69880|"Certo, seu degenerado, você conseguiu. A câmera está pronta. Para tirar uma foto, interaja com ela no seu inventário e clique em "Tirar Foto". Depois, aponte para o seu alvo e toque no botão de interação novamente."
+00ed22f9-8929-4334-9a39-052704626c60|"Para garantir que a foto de um NPC "conta" para qualquer ato pervertido que você esteja fazendo, certifique-se de que ele esteja a poucos braços de distância de você e que todo o corpo dele esteja o mais próximo possível do centro do quadro."
+80fd02d4-8b6d-4039-8433-30efd3ec679a|Cada foto pode ter um nível de nudez associado. Uma foto nua conta como uma foto nua, uma foto de topless... TODOS os níveis de nudez! Mas lembre-se, uma foto de topless não conta como uma foto nua.
+5f3d066b-47dc-4e96-90b6-c74781aa95ec|"Quando terminar de envergonhar a si mesmo e aos seus entes queridos, pressione a tecla 'ESC'. Ou qualquer tecla que você tenha definido como "não" para sair dos menus. Você poderá então visualizar as fotos que tirou interagindo com a câmera novamente no seu inventário e selecionando "Ver Fotos". Entendeu? ...Isso foi retórico. Paz."
+d7f6e649-ddc3-486a-b3b0-196c1ebf8fd0|Você pegou um item! Observe que, embora nenhum item se oponha moralmente a ser pego dessa forma, nem todos os itens podem ser pegos. Você pode clicar com o botão direito (padrão) novamente para soltá-lo ou pressionar e segurar o botão direito do mouse para arremessá-lo. Quanto mais tempo você segurar o botão, mais alto será o arremesso. Você também pode soltá-lo se desmaiar, for atacado ou fizer outras coisas desagradáveis. Fique de olho em itens que você possa ter derrubado e certifique-se de não jogá-los por cima da cerca ou onde você não possa alcançá-los. Uma vez que eles se foram, se foram!
+a97adcee-ae95-43ca-90c6-b89abad03faa|Lembre-se também de que os PNJs podem ver qual item você tem, e alguns PNJs podem não gostar da sua posse de certos itens. Na maioria dos casos, possuir um item será tratado da mesma forma que tê-lo em seu inventário, mas há exceções. Por fim, alguns PNJs podem até reagir ao serem atingidos por itens arremessados em momentos específicos. Se sentindo aprendido? Ótimo, agora vá buscar mais coisas!
+1b22cbd8-013a-42f4-911d-862f2a7fcbc1|Você fez isso agora. Você está exposto!
+f26c804e-7d9f-4494-8bf8-b9395147f465|"Você já fez isso. Você está exposto! Confira os novos medidores da interface do usuário no lado direito da tela. O de baixo é o medidor de orgasmo. Ele enche conforme você... está satisfeito e, em seguida, reabastece com o tempo, quando você termina o prazer. Observe que você não pode ter relações sexuais enquanto este medidor estiver reabastecendo. Você pode pressionar a tecla '1' (padrão) para se masturbar enquanto estiver exposto. Talvez seja melhor ter cuidado quando e onde fizer isso. ""Você pode.""
+3da3a30b-e640-423a-b899-6ee2eb7024ce|O medidor de cima é o medidor da sua bexiga. Sim, você pode urinar em coisas. Segure '2' (padrão) enquanto estiver exposto para fazer isso. Você não pode urinar se sua bexiga estiver vazia. Há várias bebidas e itens na casa Isso resolverá o problema. Embora a maioria das reações ao ver você molhar o mundo do jogo seja o esperado, você pode precisar urinar em algumas coisas de vez em quando. Sério. Algumas emergências são assim, sabia?
+34ed77d2-68ce-4562-95c1-6a3b885412f9|Os PNJs reagirão à sua exposição de maneiras diferentes. Em certos pontos da história, você também pode precisar se expor (ou até mesmo ficar completamente nu) para progredir no conteúdo. Ok, é isso por enquanto. Saia e exiba seus produtos! ...Ou talvez não?
+d8f656dc-8ed4-419c-a286-112731dcb587|Ei! Escute! Alguém está falando! Isso é um diálogo. Você os verá com frequência. À esquerda, você pode ver seus indicadores sociais. Eles representam os sentimentos de amizade e romance de um personagem em relação a você. Eles são importantes, pois geralmente determinam o quão prestativo ou hostil outro personagem é. estará e o quão romanticamente interessado(a) ele(a) está em você. Por fim, você também pode ver o quão bêbado(a) ele(a) está. Isso será útil, pois todos sabemos que nenhuma pessoa sóbria te suporta. ... Isso deveria ser motivador. Foi motivador?
+3dfd3ea4-2f11-4b48-893d-5403733b0202|Na parte inferior, no centro da tela, você verá uma ou mais respostas. Escolha uma delas para continuar a conversa, encerrar uma conversa ou apenas ouvir o que está acontecendo. Muitas delas serão sensíveis ao conteúdo ou contexto, então, se você não vir algo útil, continue tentando coisas novas e volte para o personagem mais tarde!
+4afdd023-defa-4a45-a044-0981b939c42d|Novidades: Assim que eu estiver fora da sua vista, você pode manter pressionado o botão direito do mouse (padrão) para mover a câmera enquanto estiver em uma tela de diálogo, mas não pode andar, Correr, agachar ou realizar a maioria das outras ações. Certifique-se de procurar pessoas interessadas antes de escolher certas respostas com certos personagens. Resumindo: não fale bobagens na hora errada, porque as pessoas podem gostar de ouvir você. Entendeu? Com certeza. Tchau!
+b1416ee3-c430-455d-9e5c-452758d38f6b|Não é este o momento da sua vida? Retórico. Atos de intimidade podem terminar quando um ou ambos os parceiros descarregarem sua carga pegajosa. Lembre-se de que nem todos os atos de intimidade agradam a ambos os parceiros. 
+cbbaf4e1-d124-465c-91a0-55265460b53c|Não é este o momento da sua vida? Retórico. Atos de intimidade podem terminar quando um ou ambos os parceiros atingirem o limite de seus medidores de orgasmo e descarregarem sua carga pegajosa. Nem todos os atos de intimidade agradam a ambos os parceiros, mas se necessário, seu medidor estará no canto inferior direito da sua tela e o deles no canto inferior esquerdo.
+8f1f0ffb-41d5-4e43-a272-77e537215b62|Nem todos os atos de intimidade terminam da mesma forma ou têm as mesmas opções disponíveis, então interaja um pouco com seu parceiro (botão esquerdo do mouse, por padrão) e tente fazer o momento durar. ...Supondo que seja isso que ele queira. Ok, sim, este é o pior momento para um tutorial. Vai! Vai! Vai!
+5f243845-3f36-4565-908f-bea46a9aabea|Alguém está pirando! Quem estiver fazendo o trabalho precisa mexer as mãos e a língua para dar prazer ao parceiro. Se você estiver dando prazer, isso significa mover o cursor do mouse! Quanto mais rápido você movê-lo, mais rápido seu parceiro chegará ao clímax. Se você estiver recebendo... bem, relaxe e aproveite!
+1190e45c-fd9b-434a-9731-f0d2ec731b78|Ah, a tradição consagrada de testar o reflexo de engasgo. Que coisa linda. Err, enfim, quem estiver recebendo seu pau precisa ter o pau arrancado. Se você estiver fazendo o serviço... bem, não há muito o que fazer. Apenas espere pelo seu parceiro. Se você estiver sendo atendido, apresse-se e tire-o, se ainda não o fez! Você tem e... espera, você merece isso? Vamos presumir que sim. Aproveite.
+1190e45c-fd9b-434a-9731-f0d2ec731b78|Ah, a tradição consagrada de testar o reflexo de engasgo. Que coisa linda. Hum, enfim, quem quer que esteja pegando seu pau precisa ter o pênis arrancado. Se você está sendo atendido... bem, não tem nada demais. Só espere pelo seu parceiro. Se você está sendo atendido, apresse-se e tire-o, se ainda não o fez! Você tem um... espera, você mereceu isso? Vamos presumir que sim. Aproveite.
+de61dc50-4bff-447e-b75b-16711a8c7d6d|Algo sugere que a maleta é um item único! Desvendar seus mistérios e tê-la pelo menos parcialmente utilizável e em seu inventário antes de procurar outro conteúdo pode levar a maravilhas incalculáveis. ...Ou horrores. A decisão é sua!
+5beba5a6-93b5-445d-9a96-a2174f34b221|Algo sugere que a maleta é um item único! Mantê-la no seu inventário antes de procurar outros conteúdos pode levar a maravilhas inimagináveis. ...Ou horrores. A decisão é sua!
+ccdd8dd7-a3d6-454b-9de9-bbf7b922835e|Droga, o sistema CompuCompa VR está pronto! Para usá-lo, basta interagir com a Maleta aberta no seu inventário e Empurrar ou Usar VR. Só não se preocupe com combate, conteúdo importante ou sexo primeiro! Aproveite!
+17ddc3e8-dcc0-42eb-8f16-6894ef9e4bd4|"Certo, mano! Você acabou de receber um item com uma habilidade especial! Ou... nada especial. Depende de quem você perguntar. Interaja com ele e use "Blaze" enquanto estiver perto e na frente de alguém. As reações da pessoa podem ser úteis! Ou talvez não. Quem se importa? Simplesmente faça!"
+49a062ad-0ec4-449e-bad0-c22522b10103|Legal! Um celular desbloqueado! Vai ser útil, já que você não tem um. ...Por motivos de enredo. Você pode interagir com ele para transformar o flash de LED em uma lanterna e segurá-lo na mão! Só tome cuidado para não deixá-lo cair, pois você também pode precisar dele para algum conteúdo importante!
+a36e7358-5b9e-4e74-b5e7-a41133384f41|KABOOM! ...Na verdade não. Agora você pode arremessar explosivos interagindo com sua caixa e pegando um. Depois, arremesse aquele explosivo segurando e soltando o botão direito do mouse (padrão)! Ele produzirá reações diferentes de diferentes PNJs... e outros efeitos especiais em determinados momentos. Sugestão: Não para uso profissional treinado. Definitivamente, use na casa de outra pessoa.
+ceb899c4-469d-439b-9bf5-f1ae82cc1389|Hehe, o vibrador faz brrrrrrr. Você pode inspecionar e interagir com ele no seu inventário para, bem, brrrrrr. Fazer brr ...
+21e229c1-d390-42e9-b7de-86f151320fd4|Puta merda, que comecem as batidas doentias!
+87b535ed-47b6-4976-9e09-a06b02f512f1|Até a TV se importa!
+64fdb923-9e26-43c3-bd62-4726a6199ac2|{Player: Alvo de Foco do Diálogo Atual} parece ocupado. Ou talvez algo mais interessante do que a perspectiva da minha empresa tenha surgido. De qualquer forma, talvez eu não consiga fazer ou falar sobre... hã, merda, o que eu estava planejando?
+And waste a perfectly good $7.99 Radio Shack special? No way!|E desperdiçar uma promoção de US$ 7,99 da Radio Shack em perfeito estado? De jeito nenhum!
+You hear what sounds like Patrick imitating painful, obnoxious bowel movements...|Você ouve o que parece Patrick imitando evacuações dolorosas e desagradáveis...
+Why would...I...is this some Freudian thing?|Por que... eu... isso é alguma coisa Freudiana?
+That doesn't really need drying...|Isso realmente não precisa secar...
+For now I'm going to save this until I really, really need to ID a scapegoat for something.|Por enquanto, vou guardar isso até que eu realmente precise identificar um bode expiatório para alguma coisa.
+*You hear what sounds like Patrick...imitating a violent bowel movement*|*Você ouve algo parecido com Patrick... imitando uma evacuação violenta*
+Why would...I...is this some Freudian thing?|Por que... eu... isso é alguma coisa Freudiana?
+For now I'm going to save this until I really, really need to ID a scapegoat for something.|Por enquanto, vou guardar isso até que eu realmente precise identificar um bode expiatório para alguma coisa.
+They're not ready to be underwater besties yet!|Eles ainda não estão prontos para serem melhores amigos debaixo d'água!
+They're not ready to be underwater besties yet!|Eles ainda não estão prontos para serem melhores amigos debaixo d'água!
+I don't need to wash that...|Não preciso lavar isso...
+d20cb5ff-f2d8-4879-8a4e-2adeea5841bd|A Amy é bem novata por aqui. Acho que ela não conhece muita gente aqui na festa.
+a258d08e-8339-4f1f-b4df-987045009a20|Arin Hanson! Como tem três irmãos Hanson na turma dos Hanson, isso faz de Arin Hanson o quarto Hanson mais famoso da internet!
+0e49362f-2696-4fc6-836c-55c51a71ab73|Quando os Grumps estão fazendo o que querem, é melhor deixar rolar. Afinal, isso é um videogame.
+14f4ea40-4263-42ec-a847-3c06087914ad|Os Grumps são um bando, é melhor esperar até o Sonic Talking terminar o que está fazendo.
+5e4a8694-3aac-41e5-a4eb-597a20cfe79c|Acho que esta tem a melhor vista da casa... mas não sei que inspiração artística você tiraria de uma vista dos subúrbios.
+449dbf5f-f914-413b-969b-13818a8c7121|A Steph pode voltar aqui a qualquer momento. Preciso cuidar dela primeiro, ou posso estragar tudo.
+9208389d-709d-4b59-9504-46c440363e7b|Merda, preciso cuidar da Stephanie. Ela não faz parte dos meus planos para o Derek... e ela não ganhou um concurso de arte! Não que ela não pudesse. Ouvi dizer que drogas são uma ótima inspiração.
+c227fc6a-0cf1-44b1-8817-f84a088cf46e|É isso aí, joguei o gravador no teto e deixei ele rodando...
+4ad4c78d-8c2f-4855-93a8-aae852df3ae5|É a Ashley, irmã da Madison. Ela me odeia... Não tenho certeza se tenho alguma chance com ela.
+f0e38c53-a2f6-4656-9946-0ad1c035654a|É a Ashley, irmã da Madison. Ela parece um pouco chateada. Eu tive algo a ver com isso?
+583d3fbb-961e-4ddb-afb0-d201ab256bac|É a Ashley, irmã da Madison. Ela é conhecida por ser o alvo de todas as piadas da Madison.
+3368aee3-11b4-4e7f-beab-996dd7188639|Ashley, minha parceira no crime, a rainha das pegadinhas!
+6f4cacbe-22b5-4e30-adab-5b6523c71041|É a Ashley... Eu realmente a decepcionei esta noite.
+87749e77-ad1e-436a-8f68-98d9cde47aaa|Ashley e Patrick ainda estão conversando profundamente. É melhor eu dar um tempo.
+869077d2-7067-48e7-bee1-f949f42ef06c|Patrick está divagando sobre algo, claramente alheio ao desinteresse palpável de Ashley. É hora de salvá-la...
+90d59bb1-8887-4079-800f-0f7adea2f4a8|Ashley terminou com Pat. Ela tem um cheiro agradável de madeira e da necessidade desesperada da companhia de um adulto humano funcional. Mamãe a amaria!
+bd46b1d0-8334-4195-a92e-261d2f27aba9|Parece que terei que ir um pouco mais devagar.
+29681245-52a0-4e4e-a951-3bd0ab44de52|O troféu final!
+d705eaa0-1106-4970-8cb8-adba3911c66e|Parece que esta é a única linha de defesa que mantém os peitos enormes da Ashley dentro da blusa...
+cc9bd59e-66fc-4ac1-bbf2-6b89595867be|Eu não deveria brincar de tocar bunda agora, para poder tocar bunda depois.
+bd3442e6-5b0c-418d-a263-e4491b875e0e|Hmm... ela realmente precisa disso agora? Decisões, decisões...
+c4d5f223-bdad-407c-913b-ae36b766142f|Já causei um drama com a Ashley. Quero ver uns peitos enormes, mas isso pode causar sérios problemas...
+81bbcbbd-09df-4ea7-81bf-d8976ed216c7|Eu provavelmente deveria fazer as pazes com ela antes de fazer essa merda de novo... supondo que ainda seja possível.
+f44f7747-0965-4cbc-8725-acdd1992cdd4|Acho que posso esperar pelo menos mais alguns minutos por essa... palhaçada com peitos. Droga.
+dea5b763-579c-4e35-aab7-563da510bfa7|A Madame não me deu permissão para confraternizar com ela... agora. É melhor eu me concentrar até ela terminar.
+178e52d3-5d54-4bd9-a4a5-7000bdaa5783|Legal, parece um daqueles docks que transmitem música ou até vídeos para outros dispositivos. Valeu, ciência!
+ff20b8cd-a418-4ef0-b14c-2e9a420d1f7f|Uau! Que comece a música!
+823df99d-3d28-491d-a4c6-66c77b8910f3|Até a TV se importa!
+b8d45c56-d009-4d06-96a1-3fb195ca04ff|Ei, onde a Steph está indo?
+b6e997b2-f3fa-4aac-a4bd-120e5ae89e4b|Ei, onde a Steph está?
+a896e08e-2a57-4761-b0ba-8a0736c7fab5|Vivendo quando alguém está me perseguindo? Isso é pedir para morrer... preciso de um psicólogo?
+0012c752-aa57-4bc9-91f1-e21b6e2b488c|Viver de boa quando alguém me persegue? Isso é pedir a morte... preciso de um psiquiatra?
+22dbfce9-2bcd-407e-b701-0c936e33da29|Hmmmm, talvez eu consiga arrombar a fechadura?! Dá o 1-2 de sempre.
+80e605da-be6d-47e4-a0cf-694f1ffb7256|Se ao menos as calças da Ashley fossem tão fáceis de vestir. Ah, espera...
+5c8d095b-1e7d-49b2-b68b-8499c72fc370|Se ao menos as calças da Ashley fossem tão fáceis de vestir.
+09338f57-accc-4172-b3b0-aff57b6eb324|Este cadeado foi projetado para uma bicicleta, mas está sendo usado para trancar as portas deste armário. Minha mão dói só de olhar...
+b86a37de-2a67-4740-94b5-71f17153f2f0|Por que diabos eu acharia que funcionaria? Estou fraco pra caramba. Por outro lado... Sinto que posso bater um pouco mais forte agora.
+e8ea6e5f-40e7-44a9-ad77-82e75a44d2fd|Talvez eu pudesse simplesmente *contar* às pessoas que bati na fechadura da porta. Ninguém me incomodaria assim!
+91845b55-9b24-4acb-b063-132ee358a853|Uau! Hora de dar uma boa olhada no que a Ashley escondeu aqui...
+37897dda-3d8c-485d-b6aa-308bde8cc2fb|É uma chave pequena de plástico. Definitivamente não é para uma porta. Cinto de castidade, talvez.
+e39429fa-a7ac-417d-985c-165ea7df622e|É tinta de cabelo azul. Interessante. Talvez a Madison tenha sido a Arlequina no Halloween? Nossa, isso parece sexy...
+73a58849-5a65-44af-aa4a-c18e49565d67|Perfeito! Agora eu tenho uma flor azul!
+97b01f56-be12-43c4-9891-a78eaa187749|A Brittney está sozinha neste quarto e parece triste. Talvez eu possa animá-la.
+162fb960-541d-4121-9228-421c93279079|Brittney parece muito mais feliz depois que você a "convenceu" a largar a escola. Talvez ela seja mesmo uma festeira de carteirinha...
+f7feafc0-c003-4623-9b22-f17e4ad7ab68|Brittney se revelou em toda a sua glória... uma verdadeira beldade sulista!
+1731d4b6-caa2-47ae-beeb-62fcb99f496c|Brittney não está tão sozinha agora. Meu Deus! Talvez haja espaço para uma terceira...
+e3c56988-32b7-4c0c-8cb4-ee4c50b0ed3e|Brittney não está tão sozinha agora!
+f1cbd0a9-7533-4c78-bdb6-32fd75364e53|Parece que a Brittany não aguentou o calor.
+b9ef1bd1-d06c-4c80-9334-2b91398bf32b|Provavelmente é melhor eu não interromper a união de duas mulheres gostosas. A menos que eu seja um idiota.
+9a53b84c-3547-40d1-aebe-c18affdf3d3e|Eu não deveria interromper a Brittney e a Lety agora...
+773ebb03-6d23-4239-9b2d-5456f8676f37|Parece uma vassoura comum.
+0c73fa97-28b7-472a-b953-c14ecd567970|Pesado... mas nada mal para um suporte de trompa feito em casa... Depois de carregar isso, me sinto um pouco mais forte também!
+3d54e3be-56c6-48cb-865c-12862d96cb0d|Nada mal para um suporte de trompa feito em casa
+f15b0dc4-827e-4f82-8ac1-ef8491da528d|Parece um mata-moscas, mas é um pouco velho. Tem vários furos na caixa, cada um grande o suficiente para um dedo ou... sim, um dedo.
+743ec9b0-a432-49eb-835c-d7869920f392|Parece um mata-moscas. Tem alguns furos na caixa e é claramente velho... parece perigoso.
+d324adc0-b426-4999-b68a-7455601c7642|Nada como um bom cabernet para acompanhar um bife. Espera aí, pareço um idiota, não é? Podemos apagar isso dos meus registros de pensamentos?
+be530d91-782f-4663-ad8d-4323740facf5|Você bebeu o cabernet. Sente que pode bater um pouco mais forte... UAU!
+dafad62a-839f-45fc-ae7d-19f2e0c4bdfc|Parece que a câmera está pronta para uso!
+407ada6a-9625-4a2b-a268-5c5ecabda9d8|É uma câmera digital. Parece que salva fotos em um cartão SD, mas não há cartão na câmera.
+1c4a956e-932b-4d82-bcec-041c37a8b2f2|Pronto. Coloquei o cartão SD na câmera e a mensagem "Sem cartão" desapareceu. Parece que está pronto para tirar fotos!
+55ec75b3-275b-4dec-9689-f96c823fb91e|Uma foto adorável de um gatinho. Poderia ser da Madison?
+886a262c-91da-4e0e-9570-010ccf2acfb2|É. É um bloqueador de celular. O que a Madison está fazendo com um desses? Isso pode ser útil.
+4626081b-65f9-4cdd-85d7-8cd3d9a66e5a|Tudo bem, consegui e segui as instruções claras da Katherine... eu acho.
+5045bd8e-5f21-4c75-b3a3-50b99426ad27|Você ativou o bloqueador de celular.
+b6a259f0-5eec-46b2-94f9-43e05669fca7|Por outro lado, acho que vou deixar esses Resmungão fazerem o que quiserem. Imprevisíveis, seus filhos da puta!
+5cd971e0-0621-4d87-9268-60ce22f72924|Você desativou o bloqueador de celular.
+c9167144-670b-4ac4-ac81-cd29da06d6b1|Eu fazia parte desse plano todo? Ah, é claro que sim! Eles não conseguiriam sem mim! Ou... comigo tão longe!
+735478f9-f82c-4eb6-a9ee-a4feb01ed64d|Ah, é, Compuputo ou sei lá o quê precisa estar aqui. *Suspiro*... Preciso chegar mais perto dos Grumps.
+f882719d-9fa1-4201-a5be-7fec02231ad1|Ah, é, Compuputo provavelmente precisa estar perto dos Grumps para fazerem o que eles fazem. *Suspiro*... Preciso chegar mais perto deles.
+5dd5a60b-e0bd-42e0-af7d-c6d59bde1e42|É uma garrafa de Chardonnay. Deve ter passado despercebida pelo Frank. Está ali no armário.
+0f729e96-7247-492c-978d-5e82bea6202e|Você bebeu o Chardonnay. Você sente que pode beber um pouco mais forte... UAU!
+eecffbd4-be52-4699-98ba-fc77a761fae4|Ahh, frango. O frango de... espera, acho que estraguei a analogia.
+c0f6d619-e569-4e8c-a70d-01890a89753b|Quem não gosta de garotas? Parece o tipo pré-cozido...
+7dbf5310-7a6c-44eb-bb7b-250130151f16|O reforço proteico de comer um saco inteiro de pintinhos restaura um pouco da saúde e te deixa um pouco mais forte!
+9d7bd3af-7da2-4c2f-86cb-712fa28ac1e7|Nossa, a informação nutricional no verso da garrafa diz apenas "Bem-vindo ao Inferno". A tampa do pote tem um pentagrama.
+2733ecde-340c-4e50-aaae-361b540a9526|Posso pensar em algumas garotas perto de mim de quem eu gostaria de lamber essa coisa!
+1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|Ei, uma barra DELÍCIA! Minha favorita! O melhor chocolate de todos!
+f064d280-5db2-48f8-8213-ee6f44cfea62|AAAHHH AÇÚCAR AÇÚCAR FILHO DA PUTA SSSS-oh. *Ahem* Hoje, hoje, isso foi uma delícia. Eu provavelmente poderia canalizar um pouco dessa energia para os meus punhos agora, se necessário...
+5cd91de9-b582-443b-985f-54b0d2afbf7f|Pronto. Amassei a barra de chocolate e joguei no copo. Está feliz agora? Isso tem que voltar para o meu bolso...
+Chocolate in Mug|Chocolate na Caneca
+Chocolate & Water in Mug|Chocolate e Água na Caneca
+ab79b721-df83-40e6-8a1b-01201f80cff6|O rótulo diz "Não ingerir. Pode causar efeitos colaterais graves." E as pessoas colocam essa porcaria nos olhos?
+17610b12-3f24-42c2-b2a1-13ecd2f1ee81|*Você coloca os laxantes no rum*
+Tampered Rum|Rum adulterado
+0d85973b-d6b5-4ca8-bf5c-cacb6e5a48ef|Parece haver uma maleta... ou... uma caixa reforçada com aço no topo do mirante. Está fora de alcance.
+c3e400ab-58e6-43e0-b030-f73cc92f9862|Você não consegue deixar de se perguntar... o que tem na caixa?!
+20d60da4-aec4-4520-86ba-22a38849d82c|Em uma demonstração incomum de capacidade atlética, você joga o vibrador na maleta... com um pouco de força demais. O vibrador está perdido, para sempre. A maleta não parece impressionada.
+ac76bc8c-233e-4f1d-bfae-7c2bd0718c0a|Droga. Eu deveria ter usado a mão esquerda. De jeito nenhum, me sinto um pouco mais forte agora. Então, já é alguma coisa.
+34d26431-0f32-40f0-9a07-fd0b7b7c9516|Abre com um chiado...
+1ae08107-db6c-4bbb-9309-c640b7cd1e3c|*Alguns toques depois...*
+0e4c3c05-d519-4673-9566-fdc2d26ec627|Abre com um chiado...
+4ee21de0-c38e-46e3-b3b0-007dba37d465|São as roupas da Ashley, e estão no meu lugar favorito; em qualquer lugar, menos nela.
+bf34053e-2664-44bb-9f41-c2263a6d6ddd|Parece que alguém deixou uma xícara de café aqui. Está praticamente cheia.
+69cba89a-3439-43ea-9b50-7bc399b5b552|Este café está bem quente. É incrível como não tive queimaduras de terceiro grau por enfiar isso no bolso.
+2c94bde1-05e6-4a49-a176-d438518a1cc8|Nossa, isso foi estimulante! Um pouco terroso, com... notas de baunilha, nozes e trabalho mal remunerado. A regeneração energética aumentou... obrigado, cafeína!
+451ca68b-a7c4-4e94-9be6-84481703dcc4|Nada mal! Um pouco terroso... notas de baunilha, nozes e trabalho mal remunerado.
+9d94f292-eaeb-4ed3-9be7-8a0867cea0bb|É uma coleira para animais de estimação. Dá para ler "Purg" nela, mas o resto está coberto de sujeira e... isso é sangue?
+91493baa-7872-4ceb-b7f5-2263727ec69a|Nossa. Que PC dhorrível. Compre um Mac.
+9e3cf5ca-43a6-45a8-9837-ee2d3d1c89ad|Claro, claro. Vou preparar um documento de petição rapidinho...
+de0ad7b4-50b5-444f-9524-2450e5b79b59|Vamos lá... Você realmente esperava que este jogo não tivesse uma camisinha em algum lugar?
+7e956204-0a21-4945-8edd-29be42dcf7d4|Parece um dos cartões de crédito antigos da Madison. Está vencido.
+413567db-dc5e-460f-b4fc-30a9b76bf211|Olha, é o Dan Avidan! Principalmente por fechar uma passagem subterrânea em Nova Jersey, quando ele ignorou as restrições de altura para sua van de mudança no final dos anos 2000. Nada muito mais notável.
+4a6a2141-4ff5-4b5c-be83-54088e9c02ed|Quando os Grumps estão fazendo o que querem, é melhor deixar rolar. Afinal, isso é um videogame.
+7546cfa5-f2c6-4be0-b186-88446d757c92|Os Grumps são um bando, é melhor esperar quem fica cantando músicas do Peter Gabriel terminar o que quer que esteja fazendo.
+e47b7992-55f8-4b03-ba74-34100a878a20|Cara, essa porra morreu. Eu sei que esse é um jogo de aventura onde tenho que combinar coisas ridículas, mas não vou incluí-lo no meu inventário.
+ac87d9ac-e25c-4bdd-8fde-6e724903c180|Respeitamos que qualquer coisa pode servir de consolo se você for corajoso o suficiente... mas saia daqui, seu doente. Você não leu o texto da inspeção?
+0a841f89-73a4-4666-9a6b-558acfaaf34d|Esse é o Derek. Ele é meu amigo que me convidou para a festa e o único que conheço aqui.
+8878eda6-9b18-4be0-a757-9f917eda1c78|Derek, meu amigo e, aparentemente, às vezes, rival ferrenho. É... provavelmente está tudo bem, né?
+9359a881-343e-486a-9700-1973cd966a39|Derek, meu amigo e aparentemente defensor da minha honra. Ele prometeu me defender se algo acontecesse esta noite.
+996cbfa1-ea11-4913-a2d1-3d3ec508ec41|Esse é o Derek. Ele é meu amigo que me convidou para a festa e nunca se esquece de tocar nas minhas bolas. Ah, Derek.
+9e6dc0ac-a5bc-43fe-8d12-0a8077a5491e|Esse é o Derek. Ele é meu amigo que me convidou para a festa e acho que é a mão dele na minha bunda. ...Acho.
+468f2494-3fad-4fd2-9f31-f912b5219dca|Esse é o Derek. Ele é meu amigo que me convidou para a festa... e parece que ele se machucou um pouco. Coitado do Derek.
+9608434f-444d-4978-bbab-1a57bdaef028|Eu nem saberia o que dizer nessa situação. E contato visual? Não, obrigado.
+571837f8-16e8-4375-9d56-d7e0ea147284|A atenção do Derek está completa e totalmente focada em outra coisa. Além de mim, seu amigo. Inaceitável!
+e5168510-1933-4b15-b446-9ddc44a22b6d|A atenção do Derek está completa e totalmente focada em mim neste momento. Eu não o culpo.
+57be6722-c63d-4596-bce9-14a7e491d963|Acho que o Derek não precisa de nada agora...
+ef886308-b568-407b-9a91-39e04205cc15|Ele não me respondeu. ...Grosseiro.
+61595c87-1ef8-4467-933c-4975ed0a6f73|Acho que ele não estava brincando quando disse que me daria a camisa dele...
+67ca9a09-0b4b-4513-b728-aa5bc849016d|É o diário da Madison. Eu adoraria ler, mas tem umas mulheres aqui com quem eu poderia ter a chance de dormir.
+11cef411-d55e-4d31-a6b8-e5af414184dd|Bem, já que eu o tenho, acho que posso ler um pouco...
+a69d5ca5-8493-4713-b5d5-ad208098e992|Uhh... parece que o chão aqui é macio, como se tivesse sido escavado recentemente.
+25980de3-23bb-4655-bb83-d2e6831dc7a2|Perfeito. O chão estava macio o suficiente para enfiar esta vassoura. Embora eu não tenha certeza do porquê fiz isso...
+0076af08-99b7-413e-bd5c-c18dfb7b1259|Não... "seu" vibrador. O nome dele é Desejo Ardente da Ashley.
+0dc8b413-6eeb-4e4a-a0c7-faad305f9d36|Perfeito! Encaixa como um... torso? Eu deveria deixar o Derek ganhar.
+Born Again Penguin|Pinguim Renascido
+7046e229-64f0-48be-8ecb-8a19d1490e78|Eu realmente queria que eles adicionassem um medidor de "bexiga" à interface para que eu não precise fazer isso aleatoriamente. Espera... pensou no vaso sanitário! Eu tenho bexiga mesmo? Preciso pensar bem nisso...
+2035c56a-6c9b-4c5f-9c81-6f0e98e0a4f4|Geralmente, tiram-se mais roupas antes de sentar no vaso sanitário. Cagar nas calças não parece uma boa maneira de fazer amigos ou influenciar pessoas. Acho que posso tomar um laxante se esse for o meu objetivo.
+df3b0b12-4b1f-4f27-9a37-0b07744867f2|...Eu não tenho tanto seith assim. Ainda.
+dec7c4a1-950e-436d-82d4-5873e592b759|Bela superfície plana, iluminação decente, bastante espaço... sim, eu poderia empilhar algumas roupas aqui.
+e6b6f1a0-508f-4f70-8968-01234ba53219|Já é um começo!
+2943f970-d80d-465e-8e6f-e9b16e313ab8|Não serão só os pés da Madison que ficarão felizes quando ela vir isso!
+5746c895-86b2-4be8-8689-679ce98971cc|Isso... foi definitivamente uma piscadela...
+e977b899-76e0-4f7c-a2a3-f8c7a2e51531|Que máquina de lavar está completa sem uma secadora ao lado?
+8531048c-960f-4a91-9a19-85ffe80ab169|Parece que as roupas ainda estão secando. Preciso verificar mais tarde... espera, que barulho é esse?
+102814f8-4870-4ed7-b68f-abdf1e3ed28f|Parece que as roupas ainda estão secando. Preciso verificar mais tarde...
+3ea9d626-d919-43d5-9529-3a979107f095|Parece que a roupa ainda está secando. Preciso verificar mais tarde...
+55b770f8-4500-4ec7-a237-160f83c1e551|Ei, a roupa está lavada! Legal!
+Ashley's Clean Clothes|Roupas Limpas da Ashley
+8327fb88-e708-462d-b726-b5886cf95e1b|...Ah, parece que caiu alguma coisa da blusa da Ashley.
+6b0c0b4a-413e-4b51-a340-dceac065359d|Você colocou as roupas da Ashley na secadora.
+2e5ec0b2-24fc-4dcd-a4a8-c412ff52ec42|Ei, dizem que pegaram a versão de 2001 e adicionaram sexo mais realista. Esse modelo de negócio nunca funcionou para ninguém. Idiotas
+77a3699b-14a6-46dc-b2ad-9896a2341e02|Leitura digital... mod de dissipador de calor personalizado. Vida de brinde maldita. Dava para imaginar alguém acertando esse e o Frank na cara a 720 sem alcance.
+a126faef-070b-49e9-bf2d-d0fd956c0a35|Ok, pulmões, vamos lá...
+d2a4c4f9-47ea-48ad-9c2a-9351ae6cd982|É uma caixa de ovos. Você está planejando fazer todo mundo tomar café da manhã?
+b41aab26-bf5c-4cc9-baf5-a6e6cf7fafb3|É uma xícara de café vazia. O que você estava esperando?
+8e269cdc-b4ba-45e5-87f5-465f047a8068|"Hidratante sem ácido Lady Cassandra: Hidrate como se ninguém estivesse olhando. Allons-y!"
+aa225d4f-069f-460c-90d1-ded86560bf10|É uma torneira. De onde você veio mesmo para que isso seja novidade para você?
+005689e2-a868-476d-9b5e-0d8f94cec792|Tenho certeza de que ninguém está assistindo a esse exercício descarado de selvageria. Além disso, tenho "sede" estampado em mim.
+Bottle of Water|Garrafa de água
+e8ffbbaf-092d-464f-a587-f2d5d8aa81ce|A garrafa de vodca foi enchida com água.
+01fd9b35-ae50-4243-8579-8f3649e63125|Já está cheia de água...
+184c2909-812e-4e3a-9346-0b54cf87cf13|Você encheu o copo com água. Bom trabalho!
+Water in Mug|Água na caneca
+Chocolate & Water in Mug|Chocolate e Água na Caneca
+009cc91f-804f-4219-ad20-b53c9da3ab2b|Cinquenta dólares!
+729b3710-f91b-4745-b825-6a3e750ef3e6|Perfeito, uma fogueira! Quem me dera ter uns marshmallows...
+b78947f5-2c59-4c91-8678-45ab39f07d66|Isso ficou bem macabro. E, além disso, ele cheira a frango. Bela ideia, desenvolvedores.
+Lit Joint|Maconha acesa
+0d828cbb-a157-43de-a5dd-739db5901f4d|Deve estar ótimo...
+6147fd48-3ca6-4f5a-9bd8-a8d006cd72e3|Perfeito. Um cantil. Não sei se vai ajudar muito por aqui, considerando a situação do álcool como está, mas eu provavelmente deveria roubá-lo mesmo assim.
+4502fb40-e929-4811-8534-996986753886|Rachael encheu o cantil com a mistura que tem na garrafa térmica. Sinto que posso morrer de intoxicação alcoólica só de olhar.
+61b4a824-4960-4ae2-9057-9ce3cd4610c9|Você bebeu o que tinha no cantil. Você sente que pode bater um pouco mais forte... UAU!
+Filled Flask|Frasco cheio
+3b69886e-b7a5-4976-835c-2a8c3491e562|Que flor linda.
+af676ad8-6ccd-4d61-8062-00be614483d6|Perfeita! Agora tenho uma flor azul!
+a3cf67e2-4355-49a7-ad3e-0919b4b443ff|Quem expôs isso? Ridículo.
+4d3f60cf-cfa7-483a-b16d-d22f7fcde520|A pequena está melhor agora!
+Born Again Penguin|Pinguim Renascido
+a5241c6c-be2b-468e-a80d-bfefefa4af74|O Frank é um idiota e fica bravo rápido. Não o incomode.
+c532edcd-8a3c-4554-8ff4-829662bd906d|O Frank é um idiota e fica bravo rápido. Eu provavelmente deveria tentar avisá-lo quando terminar.
+3de49f4a-ef32-42e5-a24d-605bb2278fc7|O Frank é um idiota e fica bravo rápido. Eu provavelmente deveria aproveitar esta oportunidade para dançar em cima do corpo inconsciente dele enquanto ainda posso.
+11d4c50d-72e5-4286-ac2a-6ccaa44bc738|Não consigo falar com o Frank — ele vai comer uma bunda gostosa. Ou ele está correndo atrás de bunda gostosa. De qualquer forma, ele não consegue falar.
+8b6ddd8b-9a64-49da-a7c8-81520786b3d5|A saliva escorrendo pelos cantos da boca aberta de Frank me faz pensar que ele não vai querer nada agora. O cara pode nem estar neste planeta agora.
+8c312500-05cd-4ac8-95dd-d30fc81a2acb|Frank não parece estar interessado em escambo, troca de presentes, negociação de ações ou, bem... qualquer tipo de troca agora.
+fe4f22f8-39d2-4232-bc83-82377fcdc67d|Tenho a sensação de que o Frank, sendo o babaca que é, pode arruinar meus planos com a Vickie... Preciso tentar isso mais tarde...
+cbcd8560-aefb-4b59-913f-0ef9c9d65dd4|Merda, acho que o Frank tocou a campainha muitas vezes esta noite... errr, espera, ele precisava dela para alguma coisa? Talvez eu tenha que esfaqueá-lo com um garfo. Garfos são tão sem graça...
+f5acec4a-1a16-4025-ba63-d9fa0849195e|...Não me sinto diferente. Hein...
+c0aa7bda-d659-477c-b18a-c509781c2800|Como Frank pode ser um idiota tão grande e inchado sentado nesta cadeira confortável?
+7f68dc0d-2917-4c02-8904-0a9f90d7f624|...Uma voz fraca emana da madeira: "Como vai...?"
+a9491361-3eff-48a1-a686-5c9e4ea3d7b0|Não. Nã ...
+6f6e2e91-5341-4ddf-837e-363d8c3fa9c1|...Não me sinto diferente. Hein...
+e481f5ae-49f0-40c6-a411-193656f5c5ae|Como o Frank consegue ser um idiota tão grande e inchado sentado nesta cadeira confortável?
+2483ef79-5d94-4d96-870c-71d7071c7f18|...Uma voz fraca emana da madeira: "Como vai...?"
+0d243f1a-0d1b-4780-8a91-bd330ba77f33|Não. Nã ... 
+a3379eb7-591d-47d9-96e5-d43a4201d192|Três cadeiras para os meninos da academia flexionarem e construírem músculos,
+Sete para os traficantes que fazem entregas desconhecidas,
+Nove para enganar figuras de autoridade que nunca estarão completas...
+99a4df3f-2f7b-4145-9c84-0b185850f9aa|Um para o Sr. Chuveiro, para servir como seu trono suado
+No coração do subúrbio, onde as mães do futebol se reúnem.
+1c8d5fd9-200c-43e6-a2f6-4cfe1c150b33|Uma cadeira para se apoiar, uma cadeira para cumprimentá-lo,
+uma cadeira para descansá-lo e, sob a camiseta da esposa, para sentá-lo.
+...Por que a voz de Christopher Lee ecoa na minha cabeça?
+85299c95-d781-4387-a450-df30daf2541c|Parece um dos livros escolares da Madison. Parece haver algo deprimido na capa do livro, quase como se alguém tivesse escrito algo nele. No entanto, não consigo entender o que diz.
+602bc6db-c5eb-486f-b9ec-54f2527a3e25|*A garrafa diz: Aperto de estômago, porque você já tem merda inesperada demais na sua vida.*
+09fa2a0d-9f23-46ec-a784-54d66f898711|Ufa, foi mais difícil do que parecia. Por outro lado, me sinto um pouco mais forte...
+a7b11895-6592-4a41-9bb4-a76e4c7befb6|Preciso me concentrar para subir até aqui... Não consigo fazer isso com a morte iminente me seguindo!
+fab6e527-19a1-4ab7-b682-96e328f1fbd6|Eu provavelmente deveria soltar minhas mãos... e meu bastão, antes de subir aqui.
+2bc64c00-c598-46db-8037-196189cbd91a|Não consigo subir aí... Frank está bloqueando o caminho!
+3f88f4e6-9b4a-493c-b3ec-b6b7b502c6e9|Não estou vestida para a ocasião...
+c10927f8-9655-4d71-a873-679b8f86e33e|Não estou vestida para a ocasião...
+fff6b058-20dc-4a87-af3f-3e5bec1c95ac|Não estou vestida para a ocasião...
+43457002-1521-4be5-b4d9-5c7794ff5a36|Não estou vestida para a ocasião...
+65a787b5-c541-4597-8046-96b05f6e03bf|Ei, Whack Spankiel's. Este com um pouco de Coca-Cola é minha bebida favorita. Pelo menos é o que eu digo às pessoas. Sinceramente, acho que tem gosto de merda, mas acho gostoso de beber.
+c4712aa1-7843-4261-a514-dd96b7a92991|Você bebeu o Whack Spankiel's. Você sente que pode bater um pouco mais forte... UAU!
+cbb34c16-9958-43e6-8502-16303b62d690|Não é uma posição ruim, se eu puder dizer...
+9f4dc2bf-b5b8-4d0d-9f93-3c02c33a8a61|Uma espada está presa nos postes da cerca. Está cravada fundo demais para você conseguir tirá-la.
+41d94ed1-0aff-4d1b-a552-9eaf240bee16|O que temos aqui... Merda, está bem encaixado. Talvez o treinamento da Leah finalmente chegue... ENTREGUE. Heh.
+f04960f6-1c30-4cce-b2fe-4af95a469609|Esta espada começou como um brinquedo de barba de pescoço. Já foi vista muitas vezes desde então.
+aa1cbb6d-ba9c-4a6c-8506-899f909d0f4e|Parece que esta espada passou por muita coisa.
+4da46341-8145-4775-a664-7b3d022e181b|AI AI AI AI FEGADA AI AI AI Por que diabos a Aria faria isso? Direto ao ponto... Sinto que agora consigo bater em outras coisas com um pouco mais de força...
+44df90ef-bdfe-446c-812d-aa91304e1fd7|Disseram que a Katherine está sempre com o celular na mão. Também disseram que ela é muito esperta. Também disseram que ela pode ser uma vadia muito fria.
+e803b102-a56c-4d9b-b609-35e74e61315f|Disseram que a Katherine está sempre com o celular na mão. Não disseram que ela é hiperagressiva com hidratação e carnes curadas... eles não estão informados.
+ef0bc0e8-05a4-4488-b352-b790967045e2|Disseram que a Katherine está sempre com o celular na mão. Também disseram que ela é muito esperta. Também disseram que ela pode ser uma vadia muito fria. Eles são idiotas por zombarem de uma pessoa inconsciente.
+4406b673-8187-40f7-99bf-e6799a5386fe|Katherine não parece muito bem.
+254e60d1-6f0f-4582-9614-1a898a54257b|Como esperado, Katherine te ignora. Você ouve alguns murmúrios sobre "idiotas em chamas". Nunca mude para Katherine.
+4078ce23-e586-42b8-b314-a46cd1850acc|Apenas uma chaleira comum. Nada mais para ver aqui. Podemos voltar ao jogo agora?
+a9a1286d-dcd3-42e3-a69c-dd573c96dfef|A chaleira está cheia de café.
+1985d27b-35e9-4226-bb06-eb6aa2f971d0|Talvez eu devesse colocar a chaleira no fogão primeiro...
+Hot Coffee|Café quente
+b710008b-2bb6-49c0-9c8f-a3a86b47d2fc|Esta chaleira está com cheiro de café velho. Tem que ter outro jeito de esquentar isso.
+1298b7f3-c87c-4c11-828a-ec43b94043af|Hã. Quem diria que existe uma chave mestra para cada banheiro? Incrível!
+287f2bbc-31d5-411c-b504-289c6350ed03|Hã. É uma chave. Ela pode abrir e fechar algumas portas da casa, imagino. Não sei qual...
+aecea386-325a-4aa1-8323-58f84db54e6b|Um chaveiro pequeno, mas com o formato de um anel peniano. Então... uma corrente peniana?
+3894f956-6a3d-434e-8a79-1b550a0f88b0|Está completamente travado. Um pouco mais de esforço coloca um sorriso desconcertante no rosto de Patrick...
+b0bbb817-0d01-425f-bbfb-e1290acf0e98|*Você ouve o que parece Patrick imitando vagamente um modem antigo, seguido por uma mistura de um bipe e um... gemido?*
+7b52c609-cbe2-4152-b85b-84bb25f1ba20|Abre com um chiado...
+f2cfc540-46d5-49e7-a3e8-beabaaad873d|Nossa. Droga de Mac. Compre um PC.
+1a35017f-036c-430f-a7ea-1133b7e9d47b|Hmm, uma solicitação de senha. Parece que vou precisar hackear ou adivinhar meu login...
+5b34b9be-0b74-4240-b0a7-c4fa700ad515|Pfft. Droga, Mac. Compre um PC. E uma senha melhor.
+be52c33a-01b8-4418-a3b9-6d8b5ad9b4d8|Uma mensagem de "Lety" foi deixada aberta... parece que ela está ensinando espanhol para a Ashley. A foto do perfil dela é incrível! Eu poderia mandar uma mensagem daqui e ver se ela está comemorando...
+77a3853f-6c62-4927-9d0d-50380b3980a8|Como estou na conta da Ashley, convidei a Lety para uma "sessão de tutoria de emergência". A Lety disse que está vindo! Habilidade de Enganação +1!
+7433c9cb-0f64-46c4-8dac-0b36b5e53537|Não faço ideia de qual seja a senha...
+54299277-17eb-4abf-9b69-a969bf45a458|Hmm, vou tentar "chingamadison"!
+d755519c-3722-4ca7-b5dc-97129f35fed6|Legal!
+7cf3345b-41d1-4924-8da9-70aa69e45afe|Quem é? Ela está em ótima forma, caramba! Mas parece que ela pode ter... problemas de raiva.
+966fcd7e-a28c-438c-853b-8a237dd3d30a|É a Leah, a aluna de artes marciais do Frank. É melhor não mexer com ela... ou ela vai beber perto de você.
+b3961a83-73e8-4599-809f-bdf13f2885b4|A Leah está te ignorando completamente por algum motivo. Talvez você precise fazer algo para tirá-la dessa.
+253817e2-9960-46b9-bf7d-44311cde84dd|É a Leah, a aluna de artes marciais do Frank. Parece que ela não vai se meter entre mim e a bebida tão cedo.
+46c7e1ac-7a7e-4de6-981e-2dd09aaddede|O fac-símile do PeneVR da Leah não parece menos intimidador do que sua versão real. E não, este jogo não oferece níveis de dificuldade, seu susio casual.
+0f8da1bd-eb4c-48e6-91ad-c691fbdb40be|A Leah está sendo muito assertiva. Não consigo afastá-la com minha personalidade tentadora... Vou ter que causar uma distração...
+6b90338e-14c3-4185-b6c4-2a823cd55965|A Leah só briga, nada de correr. Ela não tem tempo para falar comigo de qualquer maneira.
+d5eb1635-7609-43cd-b0f3-a106fb7989fb|Preciso distrair a Leah da Lety, não... suborná-la. Ou dar um vibrador a ela. Será que eu tenho um vibrador dentro de mim?
+0d8b7a15-d01f-4cd5-b2b0-e797129785ac|Hmm, quem é essa? Ela parece um pouco nervosa...
+74104912-1bd6-43c2-91c2-e96a9107e41a|A Lety parece ser muito divertida e, sendo professora particular, ela claramente tem inteligência. Mas o fato de eu ter conseguido trazê-la aqui sob o pretexto de uma "sessão de tutoria de emergência" me faz pensar que ela também é ingênua.
+0b923581-d3a4-4175-a2e4-8673461c6b1f|Nada mal, Patrick — hã, Compucompa, nada mal. Você não só capturou o corpo maravilhoso dela, como também o desconforto doloroso dela!
+19678cd5-e2e8-462f-9658-36acf435a269|A Lety está realmente explorando estereótipos... sim. Uma exploração realmente profunda. Agora... Como faço para participar dessa ação?
+ab312c7a-feda-4090-b1e4-436cea4daf43|É a Lety! Provavelmente há coisas melhores para fazer com ela agora do que inspecioná-la como uma louca.
+4c3492d7-98b2-4a16-942f-92eb0180a778|Lety está hipnotizada pelas palavras de Leah, sem saber o quão ruim isso poderia ser. Se a curiosidade matou o gato, então Lety é uma gatinha gigante. Eu tenho que parar com isso. De algum jeito.
+1a981fad-ad70-4c9b-8910-c0e8476f807d|Lety está ocupada. Ocupada demais para mim.
+3c81ea93-89a8-42ff-8bb2-d1c92c452969|Eu provavelmente não deveria interromper. Lety tem que fazer isso sozinha.
+9babebb2-c9d0-4637-923f-837cf99551ec|Provavelmente é melhor eu não interromper quando duas mulheres gostosas estão se conhecendo. A menos que eu seja um idiota.
+0a462ec6-1d2c-4dc6-8a4b-47ca77f2421b|Por mais que eu queira interromper, provavelmente preciso encontrar um jeito diferente de ficar só lamentando "Isso não é justo, isso não é justo!"
+9af8d100-c6d0-49af-8741-e76a109a86e1|A Lety tem um... foco singular agora. Bem, talvez dois focos, já que o Derek tem dois, deixa pra lá, eu não deveria interromper.
+6ab10c69-f153-428b-8fec-7fd775364ae7|Ufa, preciso de um minuto para recarregar as energias.
+9253b98e-666b-44a8-a042-2f260984e404|Eu provavelmente deveria ficar pelado. Pelo menos, é o que a IA faz primeiro naqueles jogos de sexo baratos do FuckHub.
+5632ada3-1430-4298-95f4-c576fcdbc466|Por que eu tive que gozar bem antes disso? Preciso esperar um minuto e recarregar minha bateria de esperma... reabastecer meu depósito de esperma?... reabastecer meu repositório de esperma? Voltarei a isso mais tarde...
+e9631c13-e6c5-49dd-8872-aee7a1aedb2f|Parece uma smart TV... "WellHung Electronics." Parece uma marca falsificada.
+79724a64-56cc-4c01-97ba-f02b0f7d2e6d|Parece que a TV foi pareada com o dock, me dando algum controle sobre o MP3 player. Nostalgia de 2000... ainda é meu coração batendo.
+5d5b8e40-1264-4a4b-874f-e4a25c38dc98|Sério, Hermione Granger, onde você acha que vai colocar isso?
+1da2f0ab-a1eb-4d3d-98e4-9a3129a63208|Nada está acontecendo.
+84048cfa-45b0-404f-9f90-5ed1fcbfe38a|Voltar ao quê? Ter uma música no repeat para sempre? Por que você completou esse conteúdo? Decida-se!
+7491b41a-9bde-475f-b63f-82ac47ca76f7|Como se pode imaginar, a única música disponível continua tocando. Felizmente, você conseguiu o que queria!
+e2c3b861-414f-4223-a6eb-9f23df0d3a29|Modo de trilha sonora alterado. Cada música será reproduzida antes da trilha sonora se repetir.
+46352955-2b2c-4d37-8108-97cad6f51a95|Parece que já está tocando. Em repetição. Possivelmente para sempre.
+2ae370b1-4f00-4ecc-bca1-27179faa14c2|Essa é a Madison. Esta é a festa dela. Eu provavelmente não deveria ser idiota se quisesse ficar.
+Madison's Phone|Telefone da Madison
+fb8b6d52-6250-4fab-8d44-8bde3aaa9146|Madison parece irritada, mas aponta para a sala de artes...
+f23b502c-9f71-4e60-a13f-3692cd3d4eb4|Madison coloca um dedo nos lábios e pede silêncio, mas não consegue olhar nos seus olhos...
+fb1edaef-b396-4148-83c1-0e7105d87eb2|Madison convida você a segui-la...
+a7ac1c52-f7e9-49d5-9775-76431de09704|Madison morde o lábio e olha para você com fazendo beicinho...
+b5d44820-c1b4-4a68-a5dd-3c1ba1fd02f9|Merda... eu não tranquei a porta?
+ba4626e9-c041-4ccf-885b-ac1e5ef15583|Eu provavelmente deveria tirar a roupa...
+ccfdd5b9-d6b2-452f-b846-aea85795994c|Certamente não ajudaria as chances de Lety causar uma boa impressão se ela afastasse Madison dela.
+fc18c8db-e011-4f39-a9c4-c52931e258a5|Madison não quer conversar agora.
+d7906bac-48cd-4e7e-81d4-d2d8b93af734|Eu provavelmente deveria esperar até que Lety e Madison terminem com a sua pequena conversa. Teta...? Argh, eu sou um idiota.
+fbf16e3b-cb34-40b9-958f-a27c884e81dd|Interromper Lety e Mas agora seria completamente rude. Vou dar a eles mais alguns minutos.
+57ce04f4-920d-47b5-9501-84c6bb4a32bd|Eu queria poder dar à Madison um gostinho do próprio veneno, mas não tenho cerveja.
+fabd409c-0a0d-4477-953c-9310fb65fee5|Estou tentando ser modelo, não começar um concurso de camisetas molhadas!
+d4da240b-4ebc-47c5-adbb-003d56132e1a|Estou tentando ser modelo, não começar um concurso de camisetas molhadas!
+db37efd3-b1b2-4671-98bf-384109b3bef8|Estou tentando ser modelo, não começar um concurso de camisetas molhadas!
+f9aca6b6-72f2-48fd-b17f-e2d39b936582|Hmm... não foi isso que a Madison me pediu para fazer. Eu deveria dar uma olhada no Sr. Pervertido Bêbado.
+34d73c6a-c523-4308-809f-204742fa5276|Hmm... não foi isso que a Madison me pediu para fazer. Eu deveria verificar o Sr. Pervertido Bêbado.
+720a6029-df4f-41b7-9347-7afed058668e|Ela não parece se importar com um pouco de voyeurismo!... Ou talvez ela pense que somos uma exposição de arte agora? Ei, DE JEITO NENHUM.
+7555a143-9888-4e6e-9200-9bb609c9b482|Quer saber de quem é este telefone...
+bc197bfa-1aec-47d8-a7fc-2541b08d00a7|Provavelmente é o telefone da Madison. Ela deve ter esquecido perto da pia.
+9ddd7698-8b9f-4b10-9626-dc4666767b9d|Nossa, eu jamais deixaria meu celular assim. Consigo pensar em algumas pessoas que bisbilhotariam minhas coisas ou apagariam meu autenticador do ViolentConfrontations.net. Idiotas
+34033e01-083a-485e-833a-fb1bfc92bbb0|TELEFONE BLOQUEADO - DIGITE O CÓDIGO
+0efe7458-bc1c-4f12-aada-51585c20d2b3|TELEFONE BLOQUEADO - DIGITE O CÓDIGO
+258dcabc-b11b-454b-8eca-5c84dc65fe26|SEM NOVO E-MAIL
+2e024a87-82a9-49ce-9935-f1c021010a13|TELEFONE BLOQUEADO - DIGITE O CÓDIGO
+bc17eea9-675c-4a60-9e8a-958de9a98152|Estes são os remédios que comprei do Frank. Eu provavelmente não deveria estar dizendo isso em voz alta.
+61412529-2ca7-4cce-8042-bcd297771f99|Uhh, provavelmente uma péssima ideia agora. Além disso, a Ashley não queria me comer? Havia implicações de possíveis... possibilidades.
+2007e871-86dc-4203-9237-463c3a01f62b|Uhh, provavelmente uma péssima ideia agora. Além disso, a Ashley não queria me comer? Havia implicações de possíveis... possibilidades.
+17c3fbfd-fe32-4430-a7cf-c6f6bf156392|Ugh, é maionese diluída. Por que se preocupar?
+2b8cd7ea-7c31-4287-9b0d-522ea272421f|Como diabos o Patrick conseguiu uma garrafa de Merlot com o Frank?
+92cb0c54-ec1e-4c66-b454-03e5553691ea|Você bebeu Merlot. Você sente que pode beber um pouco mais forte... UAU!
+b7c9130a-8dcd-4437-ad05-3fdb81e92afb|Olha só. Parece que está funcionando agora.
+79cf85c2-9054-4850-b1f3-3d00293e9e86|Parece que está quebrado. Tem um adesivo na lateral que diz "Somente para uso do tutorial". Estranho.
+Hot Chocolate|Chocolate quente
+fd8635c9-bbe0-4841-a5c6-02fe4d5897c8|O micro-ondas parece estar quebrado. Vou ter que encontrar outro jeito...
+6646571f-5e9b-4c7e-b6c1-6adefe8ae83e|Não acho que isso seja feito de materiais próprios para micro-ondas. A única coisa pior que câncer é um câncer bem quente e parcialmente derretido.
+9bf22930-30c8-402a-9302-eb75f0e7708e|Seria uma ótima ideia... se o micro-ondas funcionar...
+7fd8caf8-01e7-432c-887d-cdaa4bad698c|Um artigo sobre um homem rico misterioso estampa a primeira página. Ei, não se preocupe, isso é um pouco cafona demais para o meu gosto.
+4c918f8a-10e2-40c4-a73c-c41d0031c462|*O artigo em destaque, na verdade, foca em... Patrick!? Seus olhos são atraídos para uma citação específica...*
+01617002-ead7-4b1b-b339-3992b8d9236f|Óleo de motor, mas não é carro? Não é um motor de dois ou quatro tempos... bem, é só isso. Este é o lubrificante mais estranho e inútil que já vi.
+107556b9-8b5c-44e1-b328-1e13b53ebbde|Um MP3 player. É uma festa em casa ou um museu?
+8a9e531b-30a0-4e46-8d7c-1cfb517fd305|Acho que consigo-
+381ae130-d197-4135-b2a1-d22906e6f0f6|Merda! Hm... Será que isso está no MP3? Falando nisso, talvez eu tenha ficado puto. Não vou fazer isso de novo!
+84541fd0-b4de-43a2-9373-e77c1905a375|Desafiar a morte aumentou um pouco sua resistência de combate!
+602cef0e-63c4-4365-befd-fae6ce757897|Dildocu, use Ataque de Veia!
+aa196bd0-4608-47fd-8bc4-3d6ae7214f9a|É super eficaz... ugh, o que há de errado comigo?
+00fd50c4-acb7-454a-838d-d2e0a51bd100|Yyyy...
+1b31f66b-998e-4dce-9194-b5591d7c82af|Uau!
+4f880f6c-5f35-417f-b9f6-28110efb2c9d|É uma caneca. As pessoas colocam coisas nela. De onde você é mesmo?
+9c497936-c64a-489b-8b81-19da903f137c|Ahh, chocolate quente! É suave e reconfortante. Não muito diferente de mim.
+Mug|Caneca
+20aedfe6-54df-45e8-9318-64694aa0ec17|Ai, meu Deus... ah, é tão duro! Este é o pior chá de bolhas que já tomei. Com certeza.
+f4ee09c1-cb55-40ab-af85-bd1f4ae3e1be|Suave e encorpado! Muito melhor que o Crestle, e eu nem precisei fazer nada errado para prepará-lo! Que decisão saudável e inteligente eu tomei.
+2ae0dcf9-cb68-41f3-8e58-9da548ed34d5|É tão suave, encorpado e reconfortante! Me sinto um pouco mais corajosa e um pouco mais forte... obrigada, chocolate!
+ef145427-aa4f-47a5-b9ae-9918fbc2c9a2|Pronto. Amassei a barra de chocolate e joguei na xícara. Está feliz agora? Isso tem que voltar para o meu bolso...
+Chocolate in Mug|Chocolate na Caneca
+Chocolate & Water in Mug|Chocolate e Água na Caneca
+02408991-458f-4e20-9c61-4bb8244df5ad|Um computador enfiado dentro de uma maleta... parece bem avançado. Espera aí, aquele botão rosa brilhante tem o formato de um peito?
+5121d5db-fe46-438a-a284-1ad1ff86231f|*Você ouve o que parece o Patrick imitando um modem antigo, seguido por uma mistura de bipe e... bode?*
+b1ed14c3-5efb-4770-9e1f-fc745c65f82d|Ugh, parece que os Grumps estão ocupados demais para mim agora. Típico. Sabe, eu tenho dezenas de seguidores no Twitter. Dezenas!
+8fc054d2-6e4c-4a03-acf5-ab5108005e53|Não adianta fazer isso sem o Grumps e o destruidor de caixas por perto. Talvez até de mãos dadas... alças. Cada um com o seu gosto.
+4a4ed1ee-9e20-4dc6-9784-f6bf2c8b9758|Está marcado como "Roupas Velhas da Madison"
+1a707cad-3f3a-43fa-bf96-d0672c4b170c|É a imagem de uma coruja voando. Pelo menos, acho que é isso?
+39f6ba5a-ebd2-4d4c-80ec-14ce2052941e|Dê a esta pintura o título de "Ode à Nevasca" e ela deve render alguns milhares de dólares no mercado aberto. Arte, vadias!
+68efbf32-c7b4-4a20-b89a-41301060d149|Agora mostra um animal magnífico visto do céu... e seu pênis bem grosso. Se tivesse tentáculos, isso seria mais ou menos estranho?
+01bbe632-922a-4e7d-835f-2980879962d7|Ah, marca genérica! Madison é uma compradora inteligente!
+a0c905cd-ff43-42a3-bd89-f08f92785992|Sua reação à dor parece entorpecida, aumentando ligeiramente sua resistência ao combate!
+1b0dce0f-b8d1-4a9b-9121-cafd14735127|É um pedaço de papel que parece ter saído de um caderno.
+4cb05ab4-4986-4d52-b3d6-d2119fc792f0|Depois de esfregar o grafite no papel, consigo ver o que estava gravado na capa do livro. Diz "36-24-36". Hum. Deve ser o código da Madison... ou as medidas dela.
+b668fa14-e9a9-4f18-a58c-c6db5eb188ce|Você não tem coisas melhores para fazer do que artesanato?
+fb00bd60-f268-4d54-accb-4b6612dadedc|É um saco velho e gorduroso de fast-food que cheira a hambúrguer e eu odeio. Conheço bem esses sacos.
+b0d2a3ac-7b9a-4a95-9114-611540303364|Todo mundo odeia o Patrick. Nem sei como ele foi convidado.
+e6720b38-bfbd-4012-8ef2-731b47e2899e|Patrick não parece estar se sentindo muito bem...
+3426e4d1-b417-4825-af60-bc3eea9a9167|Ashley e Patrick ainda parecem imersos em uma conversa: é melhor eu continuar por mais um tempo.
+34ca9c43-0a37-40b7-9665-1ba4f0588fa1|Patrick está divagando sobre alguma coisa, claramente alheio ao desinteresse palpável de Ashley. É hora de salvá-la...
+95a2b4c2-374f-4b36-93e8-91e963d10064|Patrick está indo embora, finalmente. Espero que minha historinha não o inspire em nenhum sentido da palavra...
+2b175eab-91fe-4352-a44b-65d7b9dc6e13|Merda, ele morreu. Melhor chamar a Rachael. Ou o legista.
+3d245a49-49af-4e90-b038-bace65e7a7b9|Você sussurra "Mano, achei mais vinho" no ouvido dele, mas ele não se move...
+c3826a1c-6b65-40e9-8d19-0e3df93b6bff|Nossa, tão realista! Parabéns ao Patrick por não dar um pau enorme e cômico ao seu avatar.
+7b94b23f-ba90-4127-a8ff-ac269e2635c9|Eu devia terminar de tocar na maleta do Patrick... mancando... coisa da vizinhança.
+1e9617de-b850-4c17-9707-178550d03c71|Eu deveria terminar de tocar na maleta do Patrick... na caixa de areia... na coisa da vizinhança. Acho que está quase pronto.
+f31b8b1f-e975-4b3a-96d2-0d51935ef6c9|Eu deveria terminar de tocar na maleta do Patrick... na caixa de areia... na coisa da vizinhança. Acho que está quase pronto.
+2a7dcd02-45f5-4ba6-8d11-a397aa86110d|Ele parece... perturbadoramente focado em outra coisa agora. Vou bater nele de novo mais tarde.
+1d34ec1b-803c-4fb5-bc82-924ede8e1d50|Por mais que eu queira interromper, provavelmente preciso encontrar um jeito diferente de ficar só lamentando "Isso não é justo, isso não é justo!"
+cae8da2c-5cf3-4e2b-8e49-180e6fb08c2f|Patrick à la Flambé. Esse jeito tão "Patrick" de morrer...
+43fd083d-b3a9-484c-b7ac-e1500357a83d|Parece que Patrick está indo para uma terra prometida... bom para ele.
+12ea1a66-90f3-4be2-a623-addcb169e5f8|Não parece uma boa hora para dar nada a ele... talvez ele seja mais receptivo depois.
+128e0405-97c4-40e3-b7ed-d5aed85c81d4|É um lápis grafite. Um daqueles pequenos sem borracha.
+517a9c79-77ea-4434-9fe4-bce291483592|Uma engenhoca empoeirada de pinguim, com uma mão manca e um buraco na frente. Algo saído de um pesadelo... e bem pesado. Quem diabos trouxe isso?
+1d8079a0-f33f-4f65-a6f8-144721795945|Estou impressionado com este objeto. Poderia ser usado para uma escultura, se ninguém se importar que eu o carregue. Eu deveria perguntar sobre isso.
+78fb95a1-9403-4301-bcb4-e08bbee5f06c|Aquilo era pesado como bolas. Minhas bolas. Uma distinção importante. Parece bom aqui, mas ainda sinto que falta alguma coisa...
+d2c80042-14ba-496a-8704-1d63e9be50f6|Ao contemplar sua majestade, um calor iluminador se espalha do seu coração, energizando sua mente e, por fim, suas entranhas.
+a6531b16-391d-4dca-9ed5-3a14a64ff76d|Sim... OLHE PARA MIM!
+f13cd59f-0dae-4ee9-add7-63d83e1ad982|Os olhos do pinguim brilham, e você parece não conseguir soltá-los. Acho que ele vai ficar para assistir...
+44992858-5dc6-4efc-aaee-e4f0bacd1d98|...Não era isso que eu pretendia. O que há de errado comigo?
+b74b29a0-87ee-4e7b-bbb5-600453801cd5|Perfeito! Encaixa como um... torso? Eu deveria deixar o Derek ganhar.
+Born Again Penguin|Pinguim Renascido
+9da6c7d8-ab95-4715-a8b0-87029566435e|O pequeno parece melhor agora!
+Born Again Penguin|Pinguim Renascido
+d3cdbbf2-2ea4-494a-b1c3-8d7c63a9336d|Bem, o Sr. Pinguim agora é 100% menos assustador.
+Born Again Penguin|Pinguim Renascido
+751651d7-2200-4a4e-bd74-31b17086aff0|Preciso de assinaturas suficientes aqui para o Derek levar isso a sério.
+19bc342a-6b73-4a3f-bd8a-be2705269c0c|É o celular da Katherine.
+1d4d4fae-ebc8-4f23-8ca7-1bbf58dae48a|É o celular do Patrick.
+dc4a2daf-cc67-41a5-9b2f-0509c0470d89|Nossa, a Madison realmente tinha uma calcinha da Goodbye Kitty! Deixa eu parar um momento enquanto penso nela com elas. Ok, tudo bem. Vai lá!
+c837dfa2-5cbe-4a07-9353-74e11ae8cd3b|Está vazio. Que chato. Acho que se eu juntasse todos os pedaços horríveis de lama grudados no fundo da caixa, conseguiria juntá-los para formar uma última peça... ou não.
+531a1d3a-8906-4dc2-9882-71f7a8dbac43|É melhor você praticar um pouco antes que esses criadores sorrateiros me vire contra os senhores robôs...
+a7fa5d88-1f79-4755-98a5-d43eef4ef19f|Ajuda: O objetivo é levar as bolas de pingue-pongue do balde aos seus pés para um copo na ponta da mesa. Para pegar uma bola, passe o mouse sobre ela e (por padrão) clique com o botão direito!
+24025fed-06d1-458f-a0ed-b098bcb8041c|Ajuda: Em seguida, olhe para os copos novamente, mire em um e clique (ou segure para um arremesso mais forte) com o botão direito do mouse para lançar a bola.
+1f4e3fff-44d7-4479-9e2f-47c72c4a5ae8|Ajuda: Você não pode pegar uma bola lançada até que ela seja recolocada no recipiente. Regras da casa, seu safado atrevido! No entanto, você ainda pode pontuar se jogar a bola contra a mesa, parede ou teto! Boa sorte!
+e58463d8-ef92-4472-a250-285f9bebb623|Frank? Só coincidência? Frank não parece ser o tipo de pessoa que gosta de pipoca...
+e26a557e-6198-4e2a-8fdf-144cf7d9051c|Ei, eu lembro disso! Faz um estouro e parece um tiro! Diz "Fabricado no México" na lateral da caixa.
+23fd3156-8416-47d3-973d-268b94fb9606|Meu Deus, por favor, não me diga que a Madison atribui toda essa tendência de "orgânico é melhor" a ele. Mas se ele gosta de orgânicos, eu consigo pensar em algo orgânico que ele poderia experimentar...
+c8c43766-dd6a-46bc-827d-e111ff1ba712|Cheio de papéis e pronto para usar! Agora, se eu tivesse algo para imprimir...
+c0a7f382-8857-474e-b173-c53be9aaa12c|Totalmente carregado com papel e pronto para usar! Agora, se eu tivesse algo para imprimir...
+0536a726-6063-45d6-87c5-ebedc78e59de|A Rachael é ótima. Ouvi dizer que ela é amiga de pessoas muito prestigiosas, como a Vickie Vixen.
+c50ed1af-8983-4c68-81d2-dfea696f44b0|Uma simulação surpreendentemente realista e sem fetiches da Rachael. Claramente, o Patrick não teve nada a ver com isso.
+1fa5a069-0979-4eb6-9193-24cb41983196|Ela tem aquela cara de "Não me incomode". Posso tentar conversar com ela novamente em um instante.
+83079b8d-2ce0-484e-8c13-c76b93ad7ae5|Um controle remoto para a smart TV da sala. Olha só todos esses botões... nojentos.
+eb9a8309-4125-4d0b-aac5-12d0df5cd2a9|Nada está acontecendo.
+72d8d0d0-8bf2-4496-9b8b-170a391194c9|Nada está acontecendo.
+7aa27a7d-aa01-4648-89f2-af4ecf44265b|Nada está acontecendo.
+6c57f5b5-b4c8-473a-a893-8f236543472a|Modo da trilha sonora alterado. Cada música será reproduzida antes da repetição da trilha sonora.
+2ef2b52e-d47e-4b55-8199-4e6d81d1d76c|Nada está acontecendo.
+d378569f-97b1-4973-b1cd-bd543ee9b242|Modo da trilha sonora alterado. A música atual está em repetição.
+6733aac8-8a2b-4ace-96e8-6d702297b626|Bem... pelo menos entendi a maior parte da mensagem.
+3a0687a8-d24c-4f83-9acd-be2a5b4a7c95|Ok, o Sr. Pinguim agora é 100% menos assustador.
+Born Again Penguin|Pinguim Renascido
+7d9d84f1-fed1-439f-b4a8-7cffb21b5bd0|Uhh. Parece que este é o roteador principal que fornece Wi-Fi para a casa inteira.
+dbe4e154-be9e-4e87-9dfa-4bc930724ca6|Desliguei o roteador...
+8293180f-806e-4718-82b3-0f7e932a326f|Isso sempre parece funcionar quando meu Wi-Fi cai...
+26392236-1bad-4165-9f39-59788bfb1e60|Eu nunca gostei do sabor do rum.
+674c4edf-5803-4d4b-9bc7-98b5f7195a27|Você bebeu o rum. Você sente que pode bater um pouco mais forte... UAU!
+63e808f4-b161-4ece-82b5-767fbc611cb5|Você bebeu o rum, por algum motivo...
+3104b379-44aa-4fb0-b860-f1489e2419c7|*Você despejou os laxantes no rum.*
+Tampered Rum|Rum adulterado
+06a8f933-f98b-457a-98ff-ec14dd7cf548|É um objeto grande, em formato fálico. Olhando mais de perto, parece que dá para colocar na boca. Ah, é salame. Certo.
+09a7c498-812f-435d-baee-6c19c1812370|Aqui vai uma piada de pênis que você pode fazer, mas você é melhor do que isso. Parte da sua saúde foi restaurada e os ganhos de proteína aumentaram sua força!
+a642bd4e-260c-46e6-8fd7-5a909db171c9|Só achei que deveria ressaltar que você está jogando um jogo adulto, tem gente bonita aqui para conversar e você está inspecionando o salmão na geladeira. Vá se apaixonar!
+e0e92c31-687d-44c6-a2dd-b99e35292c09|Parece um filé de salmão saboroso. É surpreendente que o mercado local ofereça um corte tão superior. Mesmo assim, ele não vai te amar. Não pode.
+2c6f1f05-7c1d-4398-bb7e-5eddb197b7e1|Os ganhos de proteína pura ao comer um filé de salmão inteiro restauram um pouco da saúde e te deixam um pouco mais forte!
+a1bee2a6-e8b5-4106-8ca3-8b7b6e475524|Ahhh, olha só as cores lindas. Alguém realmente tem bom gosto!
+35419873-bb4d-4a07-9209-40407bb5edab|Assim como a sua personalidade, esta sacola é colorida e cheia de maravilhas por fora, mas completamente vazia por dentro.
+47b5ffdd-1bfd-4724-a9dc-0ccc8e0d80be|Assim como a sua personalidade, esta bolsa é colorida e cheia de encantos por fora, mas completamente vazia por dentro.
+6ac167e2-8d8c-42f1-b4c7-f98ff4d44888|Espera aí, será que estou em um RPG? PORQUE VOU PEGAR MEU SAQUE, MINHA BABINHA!
+d60417e0-2237-45ca-aab8-bcae3d237aa0|“O Mezcal do Escorpião”... Tem cheiro de tequila! Definitivamente tem um escorpião nesta garrafa. Não sei bem se está se movendo ou flutuando...
+8d4c33ac-59ec-40ce-b1ac-3203b6b072b1|Você bebeu o resto do mezcal. A Lety provavelmente não precisa mais dele mesmo. Você sente que pode bater um pouco mais forte... UAU!
+2b8180e2-84b6-403c-ac61-f527677cb73e|Parece que a câmera está pronta para uso!
+cbbe29b5-5834-443f-8c99-29c295bbd367|É um cartão SD de 16 GB.
+650e784e-1920-488c-80ef-8cbafabddb0b|Pronto. Coloquei o cartão SD na câmera e a mensagem "Sem cartão" desapareceu. Parece que está pronta para tirar fotos!
+80746a36-4608-4f73-87af-624dbd947ccc|Ei. Parece que a porta deste armário não fecha direito...
+d0461358-87eb-450c-8d65-4f768ce3c6c6|Nada como um refrigerante refrescante!
+593247fc-f522-4ad4-a8b0-d6ca23122eb3|Este refrigerante foi "enriquecido" com laxantes. Pessoalmente, eu odeio quando faço xixi pela bunda.
+2ef7aaba-c72f-48a1-9113-f7a20cb961be|Por algum motivo, você bebeu o refrigerante falsificado...
+8fffdda9-a17a-43f6-89a9-4baa7adf8773|Nossa, que refrescante! Com certeza não consigo pensar em um uso melhor para uma água com açúcar tão deliciosa! A regeneração de energia aumentou... obrigado, cafeína!
+20d3a3b8-da2e-47e2-bf66-a0eabfbc6865|Nossa, que refrescante! Com certeza não consigo pensar em um uso melhor para uma água com açúcar tão deliciosa.
+612f50c3-49eb-4d87-b6b9-704fcf3fd6f5|Droga, ela fechou a porta! Não que arrombar teria sido uma boa ideia... Será que tinha como eu ver o que está acontecendo lá dentro...
+d6956a7f-0e76-417d-8143-e4a4fa6e946b|Nossa, o cheiro de tinta está muito forte aqui dentro.
+2c29f63f-b913-4fdd-90cc-18c62b1fd806|*Você abre a porta e tenta tirar a sacola da mão da Stephanie*
+828ea824-7fa8-43c2-a018-a217176de22d|Ótimo, é uma caixa de som Wi-Fi! E é a pilha! Madison não erra quando se trata de caixas de som.
+f9265d84-1ecc-47da-9e21-854a10b9f319|É melhor não. Stephanie vai ficar brava.
+5adb4979-96d2-4c0e-b864-57999919a697|Ótimo, é uma caixa de som Wi-Fi! E ainda por cima é a pilha! Madison não erra quando se trata de caixas de som.
+263c885d-4818-4033-a444-3e20db84ee76|Stephanie só precisa de uma dessas...
+2b7d827d-4274-46e5-9b2d-67164fdd11ef|Pronto. Transmite a mesma música que está tocando na sala.
+27d80e1b-b572-4a54-a2bf-e5ba53bf5a17|Alguém deixou uma colher no micro-ondas. Que falta de consideração. Se a festa fosse minha, eu não toleraria isso. Talvez seja por isso que ninguém aparece nas minhas festas...
+13e74f7d-dd56-4061-a113-90d45d6ed4e1|Uma lata de tinta spray... talvez se eu ficar entediado eu possa marcar algumas casas. Ou desabafar minha frustração com a geopolítica atual... ah, é vermelho! Minha cor favorita, eba!
+d2511ab4-966f-43d5-a953-850e4fb33fdf|Definitivamente não é uma cobra.
+8cb75b31-a796-42f6-9804-229f402ecbfa|Grande parte disso está escrito em uma língua diferente. Posso deduzir que essas Starbombs são: 1. Totalmente aceitáveis para comer ou 2. Morte garantida por diarreia se ingeridas. Nossa, como eu tive uma boa educação.
+49cadac3-83be-46c7-836e-c5a06b56bc26|A Stephanie é louca, mas é tão fofa. Olha só ela!
+4d9c4e4f-554f-4f18-a4c9-1ddf925d761a|Meu Deus, coitada da Stephanie!
+1ad07b8f-b4da-4447-9089-79297e1315f3|Parece que a Stephanie está com a boca cheia agora.
+1981fa56-fa15-45c7-9ffa-5f48186470d8|A Steph está se movendo rápido demais para falar.
+b03a62f1-fc78-4abf-ae48-279360e2bff2|Ela... ela está no meio de uma dança da chuva? Ou uma dança dos irrigadores? Como diabos ela ainda está dançando agora?
+c790e534-3aaa-44cf-b337-c53c11077b58|A Steph está se movendo rápido demais para pegar qualquer objeto.
+0745441e-5133-49b2-a7c6-6903577a0c7d|Heh, acho que estou "dando" tudo o que a Stephanie pode agora.
+ebe04965-49ae-42ef-b387-2593baa0ffcd|Os olhos da Steph estão vidrados... Não acho que ela esteja interessada em bugigangas, bibelôs, vibradores... espera, eu tenho um vibrador aqui?
+b1e44348-b838-4e67-9ddf-aaaf8645bcc0|Os olhos da Steph estão vidrados... Não acho que ela esteja interessada em bugigangas, bibelôs, vibradores... espera, eu tenho um vibrador aqui?
+c65530ff-042b-487d-9865-7291b4f91c67|*Você tenta arrancar a sacola das mãos da Stephanie, mas ela se afasta*
+c5b679f9-1a5f-4fe5-ab8e-fb52348a90a2|Droga, ela jogou tudo... ou guardou em algum lugar? Meio quentinho... mas acho que não vou levar nenhuma lembrança para casa...
+a72cc437-61af-4b23-acf6-ab2272d3837f|É um aquecedor. Preciso explicar tudo?
+3fb0bbb2-a81a-4ecd-b5ff-bba5c78b6995|Ok, o fogão está ligado. A chaleira deve me avisar quando estiver pronto.
+e312cbc9-c086-4e9f-ae1c-6943d3a25140|Queridas! Porque aquelas outras coisas que parecem marcas registradas!
+0153ed31-60cb-43ed-b97b-c69c9773f624|Hmm... parece que alguém deixou um tablet aqui embaixo da TV...
+534a7d3c-2f5d-4c32-9912-f2f116c36b6f|Que diabos é "Sordid Sancho the Pigfish"? Na parte de trás do suporte está escrito: "Pendure Sancho na parede e curta abuso verbal por horas! Divertido e degradante para toda a família!"
+9e8742eb-a5da-47cd-b7a2-ccfb5049afd1|Seus olhos vidrados não demonstram nenhum sinal de reconhecimento... talvez ele precise de uma pausa.
+497154b8-2d5b-483b-b6fa-ec00666d081b|Caramba, isso NÃO é o que eu esperava! Aquela coisa é enorme!
+757a1e7a-d0c6-4b5e-9219-b0cbb4dcf0a1|Antes era o recipiente de uma grande cobra. Agora é apenas uma triste caixa de vidro.
+c7de8165-133e-442d-bce6-b9f7dbcb93fd|Acho que não quero causar pânico... ainda.
+e45aea95-604a-45a9-af54-97f2eeba453d|Bem, não tenho certeza do que pensei que ia acontecer. Acho que ele é muito tímido...
+6f31473f-f9aa-456a-a1ef-e77c86a4e50e|Estranho. Tem uma garrafa térmica aqui no armário. Parece um pouco fora do lugar...
+9b2be7d1-5040-4a69-8bde-607bee53365b|Deve ser a garrafa térmica de que a Rachael estava falando...
+3c9dac08-f4b7-4305-8a2a-189453977d2c|Eu provavelmente deveria devolver isso para a Rachael, considerando todo o trabalho que passei para conseguir.
+7afcf02c-dd48-4e40-b9b1-b3ba08cfa683|Ugh, eu realmente preciso carregar isso no bolso agora? Não posso ficar flutuando no ar a noite toda. E se as pessoas virem? Seria histeria!
+643f2aed-75c2-49cb-9e33-248548f1d605|Aparentemente, isso está cheio de "mistura da morte"... A surpresinha da Rachael para o Patrick. Será que é tão forte assim?
+a899075c-af60-4c52-af66-6929ab9ddbbd|Pelo amor de Deus! Isso cheira a álcool! Está quase todo cheio de algum tipo de rum. Devo contar a verdade para o Frank ou mentir para ele?
+Filled Flask|Frasco cheio
+1315e4af-1c36-4ae1-bf16-f4302ec3d34b|Parece que este é o termostato que controla a temperatura da casa inteira.
+32a202f0-1c22-4986-a71e-81b7f0bef896|Olá. Sou uma torradeira.
+a4b1a3db-36b9-40da-a915-52b20e523ed5|É uma toalha. E é muito fofinha.
+a708d39a-1bbd-4a27-9019-f9fd49ebad39|Você ouve sons terríveis, nojentos e horríveis vindos de dentro da lata. Provavelmente é hora de entrar.
+35e600e8-dd74-4e4e-a540-bb4bb98f01aa|*Encontrando uma revista manchada, mas intocada, ele limpa o que parece ser areia de gato, enrola-a e guarda no bolso...*
+f8408225-f2eb-4e8f-b9fa-08d9e49d28a8|Sozinho... relaxando em um banheiro fechado. Isso é pior do que usar óculos escuros dentro de casa, ou crocodilos de meias...
+8832f260-9b72-499c-9162-0eabcb3268d6|É um pendrive. É. Quem será que o deixou aqui?
+a0b7bb79-78f3-4f9b-86cd-5e88ee68bc98|Um pendrive. Tenho a impressão de que não é usado com frequência. Tipo, talvez uma vez a cada 950 dias, mais ou menos. Mas isso vai mudar!
+ea3bb7dc-cfe0-4e07-ae77-d1c1064b93e4|Aff, parece que os Grumps estão ocupados demais para mim agora. Típico. Sabe, eu tenho dezenas de seguidores no Twitter. Dezenas!
+f9191b24-ea71-4458-b2e5-c0cd65c69079|Não adianta fazer isso sem os Grumps por perto. Talvez até de mãos dadas... Não que esse idiota manco vá fazer isso.
+f1081a86-d353-4e9b-8b92-84328ac53e9f|Os rótulos em letras minúsculas na parte inferior indicam que há quatro configurações: "baixo", "médio", "alto" e... "apocalipse clita". Esta última configuração tem uma notação adicional: "Pode acordar os mortos... útil para quartos e muito mais!"
+43705945-89f8-499e-975a-cd2c0b184da0|É a Vickie Vixen! Ela é uma atriz pornô. Ei, não que eu tenha visto nenhum filme dela...
+e5f84a0e-b594-4656-82cb-a391e8b67b58|Prova de uma noite cheia de autorrealização, humildade, excitação e sexo profundo.
+e7cfb50b-f919-4203-b333-9d3c7a6f01a5|É uma garrafa de vodca, mas parece vazia.
+d6a2f560-10fa-4591-b941-b5c3ecb666ae|Tecnicamente, é uma "garrafa de água". Mas isso parece ser o melhor que consigo encontrar agora.
+Empty Vodka Bottle|Garrafa de Vodka Vazia
+1edca124-965b-4515-8d6b-3000c0062106|Ahhh... refrescante!
+d9270154-0b90-4c7b-b920-da24998e1f0d|Estava escondido atrás da imagem do gato... que tipo de vergonha secreta poderia estar escondida em um dispositivo como esse?
+78ee9b6c-7b2d-4030-8f1e-99dc1fbd6f05|Isca perfeita, só preciso colocá-la em algum lugar onde ele não tenha chance de escapar. As únicas coisas além de mim que podem parar o Derek são o medo dele de lugares altos e a obsessão com os mamilos...
+fbecb0c8-fd5a-405a-a2b8-27dd8c310d3c|Bom o suficiente! O Derek deveria se afastar rapidamente da porta do banheiro se ouvir isso. Mas ele não pode brincar muito longe nem muito perto, e precisa estar em algum lugar onde eu possa pegá-lo...
+8d4e3f62-138b-455b-b3c9-cfd9d6aebff7|É uma máquina de lavar. Parece mais surrada do que tudo na casa. Devem tê-la usado. Espera, quem sou eu para julgar? Comprei minha calcinha usada. Droga, talvez eu devesse parar de pensar alto.
+f3bb5a84-4fba-48df-8586-a07e0c81026e|Parece que a roupa ainda está lavando. Devo voltar mais tarde.
+03817f77-9f42-4fe9-bb16-7c25106dd3e8|Ei, a roupa está lavada! Perfeito!
+4231ddcb-781c-4e3a-b429-6bfb4b071a42|É bom saber que essa coisa ainda funciona, mesmo parecendo tão antiga.
+Ashley's Wet Clothes|Roupas molhadas de Ashley
+8bd1c9af-6922-4e5b-ad49-a787e5366542|Você colocou as roupas da Ashley na máquina de lavar.
+9eddd69e-03fd-4eb5-87af-c71dbab17642|Ah, será que elas já foram salvas? Como conseguem fazer com que elas fiquem assim?
+c5282009-406d-48f9-913f-eb033cd7412b|Caramba... que barulho uma baleia faria a esta altura...
+9eb713ef-53b2-41c7-94b0-1eeb0dd26b69|Não consigo pensar em nada que eu preferisse fazer com uma lata de chantilly em uma festa cheia de garotas... Pensando bem, é melhor eu tomar isso...
+5f99dfb7-19df-44e7-9924-841754d0d34e|Ahhh Natty Lite. A bebida preferida dos pobres estudantes universitários.
+
+[Achievements]
+590eda1a-88d6-4cf2-9cbb-471cf1bc2a97|Mariposa Social
+590eda1a-88d6-4cf2-9cbb-471cf1bc2a97Description|Conheça todos os personagens do grupo em uma única jogada.
+12310fdb-636b-465e-8996-3b103c60dcf7|Ashley
+12310fdb-636b-465e-8996-3b103c60dcf7Description|Complete a história de Ashley ajudando-a a pregar uma peça em sua irmã!
+3e889b15-3a18-48d0-b05a-c391af559b99|Bêbado e Bagunçado: Ashley
+3e889b15-3a18-48d0-b05a-c391af559b99Description|Deixe Ashley bêbada e no caminho da destruição!
+aadc3551-05e9-4d89-813a-538e07f6ea12|Operador Suave: Ashley
+aadc3551-05e9-4d89-813a-538e07f6ea12Description|Fale suavemente e conquiste o afeto de Ashley sem completar sua história principal.
+db7befb8-c2cf-4e11-8ae9-32cc55d91fcd|Rachael
+db7befb8-c2cf-4e11-8ae9-32cc55d91fcdDescription|Complete a história de Rachael e conquiste sua afeição.
+cb1fd76c-14a5-40e7-9ce8-c2fdf842e9a4|Katherine
+cb1fd76c-14a5-40e7-9ce8-c2fdf842e9a4Description|Complete a história principal de Katherine e ajude-a a se vingar do namorado.
+5483913d-1359-4a96-9723-19df8f056a37|Nova chegada: Vickie
+5483913d-1359-4a96-9723-19df8f056a37Description|Chame Vickie Vixen para a festa.
+545fd924-3246-49df-9a2e-e144b781099a|Vickie
+545fd924-3246-49df-9a2e-e144b781099aDescription|Complete a história principal de Vickie para um final "quente".
+f2a2bba6-16d6-4dd9-a9c3-cde9c070eb04|Amy: Caça ao Tesouro
+f2a2bba6-16d6-4dd9-a9c3-cde9c070eb04Description|Complete o caminho da Caça ao Tesouro da Amy.
+22d4a416-eb87-402c-9b65-f5166b5a7fb1|Amy
+22d4a416-eb87-402c-9b65-f5166b5a7fb1Description|Complete a história principal de Amy e conquiste sua afeição.
+5c79a6a4-b8b7-4123-a4fa-26c1865a8a55|Dobre e vire
+5c79a6a4-b8b7-4123-a4fa-26c1865a8a55Description|Evite os socos de Frank e Derek ao mesmo tempo por pelo menos 60 segundos. (Sem trancar as portas!)
+99c1d2c9-8b73-4079-b151-97a8c9995a62|Primeiras impressões
+99c1d2c9-8b73-4079-b151-97a8c9995a62Description|Fique nua na porta e cause uma primeira impressão em todos na festa. (Vickie não é necessária)
+a0efba86-e25a-4341-acd9-ebe0ba7512aa|Banho de gelo
+a0efba86-e25a-4341-acd9-ebe0ba7512aaDescription|Coloque-se na "lista negra" de todas as garotas da festa. (Vickie, não precisa.)
+fce8bf01-bb16-4ca1-a6f0-1f8cef359c0a|Inspetor
+fce8bf01-bb16-4ca1-a6f0-1f8cef359c0aDescription|Inspecione pelo menos 30 itens em um jogo.
+fc36eac1-5289-46cb-9c65-874819ee60a9|Operador Suave: Madison
+fc36eac1-5289-46cb-9c65-874819ee60a9Description|Fale docemente para desbloquear a habilidade social especial do Guaxinim de Lixo.
+a0f37f7e-f8b6-4e52-8936-6321ff0f2955|Bêbado e Bagunçado: Madison
+a0f37f7e-f8b6-4e52-8936-6321ff0f2955Description|Dê um pouco para Madison e veja o que acontece quando ela assume a imagem de sua estrela de TV favorita.
+40b3b39f-95c6-4c0b-a45b-10ef3eed6517|Bêbado e Bagunçado: Stephanie
+40b3b39f-95c6-4c0b-a45b-10ef3eed6517Description|Dê um pouco de coragem líquida a Steph e descubra o que ela REALMENTE pensa de seu chefe!
+87bf06b6-21b4-409c-af26-c58dfcb1cb02|Stephanie
+87bf06b6-21b4-409c-af26-c58dfcb1cb02Description|Diga não ao leite, beba água da escola e ajude Stephanie a descobrir sua verdadeira vocação na vida.
+3c4b0a29-ad65-4279-8343-06e36560dd68|A musa: Madison
+3c4b0a29-ad65-4279-8343-06e36560dd68Description|Mostre suas habilidades artísticas e estrague uma amizade em troca de uma recompensa de Madison.
+31e675d1-f03b-4ee1-9b21-dc13d316c6e5|A musa: Derek
+31e675d1-f03b-4ee1-9b21-dc13d316c6e5Description|Tome o caminho certo, não durma com Madison e experimente as maravilhas da amizade com Derek.
+438eb211-653c-485c-bcfb-e912f4d9b842|Regra 34
+438eb211-653c-485c-bcfb-e912f4d9b842Description|Sim, quero dizer... você pode, mas por que faria isso?
+8c9a3295-3f9f-4247-88a2-63eea32fe140|Como vai, garoto?
+8c9a3295-3f9f-4247-88a2-63eea32fe140Description|Viva um momento mágico, não violento e artístico com Frank.
+e7aa5dad-2694-451f-8baa-73bc4f48e253|Implacável
+e7aa5dad-2694-451f-8baa-73bc4f48e253Description|Fora do "Derek Hits!", ele acerta Patrick 5 vezes em um jogo.
+7cba661d-a99b-403a-b89d-829237803519|Você sente cheiro de sangue?
+7cba661d-a99b-403a-b89d-829237803519Description|Dê uma concussão em Frank, depois aproveite a situação e libere o álcool!
+15f1cfb1-de33-4179-8d9a-2488d5e6e812|Encontrado em flagrante
+15f1cfb1-de33-4179-8d9a-2488d5e6e812Description|Seja encontrado por outro personagem no meio de uma experiência sexy!
+8175f950-9160-4004-a9ef-d8d94c9d23da|Aquafiestas
+8175f950-9160-4004-a9ef-d8d94c9d23daDescription|Experimente uma vida melhor através da química e perca seis quilos ao mesmo tempo! Obrigado, Laxapas!
+bc31642e-7dd1-4a6a-8584-9928728f0bb3|A Brahdisseia
+bc31642e-7dd1-4a6a-8584-9928728f0bb3Description|Ouça atentamente toda a história épica de Patrick.
+61da78a9-988f-48ea-a209-2619cdd6e439|Eu retornarei
+61da78a9-988f-48ea-a209-2619cdd6e439Description|Desbloqueie a CompuCompa, aprenda sobre os negócios de Patrick e talvez, só talvez, evite que uma situação com a Skynet se desenvolva.
+ecbc0734-463e-409d-a82b-e257f701ff8b|Se você não tiver sucesso na primeira vez...
+ecbc0734-463e-409d-a82b-e257f701ff8bDescription|Jogue um vibrador nele. Óbvio. Precisamos te contar tudo?
+fe33a06d-f827-4280-9770-89bd5b738462|Bento Brahrnold
+fe33a06d-f827-4280-9770-89bd5b738462Description|Dê a combinação de eliminação de Patrick a Rachael e faça o que for necessário para desativar o site dele!
+eb8676e9-c6d1-493a-bf03-69bd598fc141|Uma semelhança impressionante
+eb8676e9-c6d1-493a-bf03-69bd598fc141Description|Descubra o fundo do drama de Patrick e Rachael e ajude Pat a conquistá-la!
+1438b472-d65e-4b58-b1aa-ee72f3dbe50e|Me nota, Sensei
+1438b472-d65e-4b58-b1aa-ee72f3dbe50eDescription|Ofereça um pouco de inspiração, um pouco de orientação física e um lanche nutritivo para elevar o nível de poder de Leah.
+9bde8faa-edf1-49f2-b7fe-cf413fa5b954|A Coochadora
+9bde8faa-edf1-49f2-b7fe-cf413fa5b954Description|Acenda a chama da rivalidade dentro de Brittney dando a ela um presente extremamente suspeito.
+3d3b37d9-aa30-4dfe-bc34-98c86b12b2d8|Derezzed
+3d3b37d9-aa30-4dfe-bc34-98c86b12b2d8Description|Eles são mais espertos do que parecem! Descubra o final secreto do conteúdo da Lety.
+f664fefa-f114-4475-931c-32f69931366b|Eu te amo Lety
+f664fefa-f114-4475-931c-32f69931366bDescription|Conclua a oportunidade "Viva La Lety".
+6d072140-d54d-41c0-80d0-15660c6fcccb|Os Velhos Brahs
+6d072140-d54d-41c0-80d0-15660c6fcccbDescription|Reverse pickpins algo nas calças de Patrick durante "Disrupt the Disruptor".
+f603275c-3a21-43aa-8d6d-5a437627b8b9|Geometria simples
+f603275c-3a21-43aa-8d6d-5a437627b8b9Description|Ele interrompe a conversa de Leah e Lety com um popper, de muito longe.
+192ddc8d-d941-4b69-a710-4a9906870103|Quanto mais forte eles caem...Dood
+192ddc8d-d941-4b69-a710-4a9906870103Description|Derrote Frank 1x1 sem treinamento de combate ou treino.
+bf958a74-c1b5-4ba8-88f8-bad39f083763|A Noiva
+bf958a74-c1b5-4ba8-88f8-bad39f083763Description|Ajude Leah a dar um fim rápido à cobra e colher as recompensas...
+b42f9b6d-ebac-461b-aa0e-30e1bbbd3fc5|Ronin
+b42f9b6d-ebac-461b-aa0e-30e1bbbd3fc5Description|Convença Leah a abandonar seus caminhos legais... e sobreviver!
+d4ed0b21-e1a9-4954-bd82-2aab4a540474|Golpe surpresa
+d4ed0b21-e1a9-4954-bd82-2aab4a540474Description|Acerte Frank, Derek e Patrick quando eles não estiverem olhando e não estiverem em combate, tudo em uma única jogada.
+3bfad1ba-7f52-42cc-89cd-988e8bf1db0e|Tiro de dinheiro
+3bfad1ba-7f52-42cc-89cd-988e8bf1db0eDescription|Frank bate nela com um brinquedo sexual enquanto dança no teto. Não bate... tapa. Você entendeu.
+852678fc-c0c5-4887-aad7-67157896a4e1|Eu sou o Grump-Fu
+852678fc-c0c5-4887-aad7-67157896a4e1Description|Ajude os Game Grumps a saírem da festa usando a magia da realidade virtual!
+681e5a45-6301-43ea-9a78-bcd67d2f2ed9|Não queime
+681e5a45-6301-43ea-9a78-bcd67d2f2ed9Description|Faça o oposto disso e coloque os Game Grumps em seus nobres corcéis! Yeehaw e tudo mais.
+af7b3d77-8351-4751-b3a0-4d158cbdbd67|Jogador IRL
+af7b3d77-8351-4751-b3a0-4d158cbdbd67Description|Assista ao jogo Grumps causar uma cena 8 vezes em uma única jogada. Não se esqueça de se inscrever, curtir, avaliar, fazer updoot, etc.
+f4dbef3d-ddfb-4182-b9ed-e1de3d91b317|P-Club Certificado
+f4dbef3d-ddfb-4182-b9ed-e1de3d91b317Description|Faça com que Frank se junte ao P-Club.
+ed737422-8704-4067-894a-8a6b75196616|Casanova
+ed737422-8704-4067-894a-8a6b75196616Description|Chegue a um... clímax com quatro rainhas em um movimento.
+042d051e-0e3a-4a1b-b030-d9787da43a14|Casabrova
+042d051e-0e3a-4a1b-b030-d9787da43a14Description|Chegue a um... momento culminante com dois homens em uma peça.
+c841bd37-2697-46ad-addd-9696e735ef19|Os bons dias
+c841bd37-2697-46ad-addd-9696e735ef19Description|Reviva os velhos tempos e convença Derek de que você leva seu passado tão a sério quanto ele.
+a65b95c0-e55a-48b8-9dee-4df1cfdca7fb|Quebrado
+a65b95c0-e55a-48b8-9dee-4df1cfdca7fbDescription|Descubra o destino de Purgalicious e apresente as evidências a Derek.
+4f426aa0-3d36-4565-a913-b67127a1129a|Além do chamado para o serviço
+4f426aa0-3d36-4565-a913-b67127a1129aDescription|Dê realmente ao Frank algo para apreciar... por exemplo, uma foto de Katherine completamente nua.
+87fadd24-2306-48cf-84c4-0faf9be3687b|Tenha uma boa viagem!
+87fadd24-2306-48cf-84c4-0faf9be3687bDescription|Isso destrói a autoestima e as noções de masculinidade de Frank a ponto de ele não aguentar mais! Adeus, cara!
+ce5625cd-a418-4e27-81d0-672cbdcca29b|Contra todas as probabilidades
+ce5625cd-a418-4e27-81d0-672cbdcca29bDescription|Por uma vez, faça amor, não faça guerra com Frank.
+6e711154-3677-4cc1-9c1b-aae9437241da|Agora é uma festa!
+6e711154-3677-4cc1-9c1b-aae9437241daDescription|Dê vida ao palco fazendo com que três ou mais participantes da festa aproveitem o resto da noite enquanto mostram diferentes quantidades de pele.
+adadf5f3-a960-4fef-83b5-71b8c007f845|O número mágico
+adadf5f3-a960-4fef-83b5-71b8c007f845Description|"Complete a oportunidade "Bons Hóspedes que Deram Mau" da Vickie com Vicki e outro amante."
+808c3f0d-ccf8-44be-b47a-753f5ced80e4|Um amigo em necessidade...
+808c3f0d-ccf8-44be-b47a-753f5ced80e4Description|Ajude sua amiga Brittney atendendo ao pedido dela por uma camisa substituta.
+eb0def8b-8821-4bb5-baf3-99756eb9f8cc|O acidente
+eb0def8b-8821-4bb5-baf3-99756eb9f8ccDescription|Ajude Brittney a descobrir quem a faria verdadeiramente feliz. Depois, banque a companheira e ajude-a a marcar pontos!
+7ce05f10-601f-40b9-8cc3-d036d5c004d8|Apaixonar-se (é)
+7ce05f10-601f-40b9-8cc3-d036d5c004d8Description|Faça com que Brittney perceba quem a faria verdadeiramente feliz. Depois, veja se ela compartilha um pouco dessa alegria com você.
+d3173f7a-b92a-4d58-8588-549bcb136ec2|Brincadeiras de anfitrião
+d3173f7a-b92a-4d58-8588-549bcb136ec2Description|Ajude Derek a se vingar de Madison por submetê-lo a todos os seus jogos mentais.
+e25401f1-eea9-426f-a382-551ce68adac2|Travessuras evitadas
+e25401f1-eea9-426f-a382-551ce68adac2Description|Ajude Derek a seguir o caminho mais alto e, em vez de se vingar de Madison, tomar uma decisão mais saudável.
+529f3a0c-354e-45e5-a687-8b4cdbd6a1f5|O amor conquista tudo
+529f3a0c-354e-45e5-a687-8b4cdbd6a1f5Description|Você consegue dar à Brittney mais do que uma camisa velha e sem graça? Leve seu relacionamento a novos patamares e descubra-o!

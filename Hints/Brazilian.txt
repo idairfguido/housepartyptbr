@@ -1,0 +1,33 @@
+﻿0|SEJA SOCIAL: Se você estiver preso em uma oportunidade específica, tente conversar com outros personagens. Eles podem ter uma sugestão para você.
+1|CONSIGA UMA AJUDA: Pressione o botão direito do mouse/selecione o analógico direito (padrão) para pegar certos itens. Você pode usá-los para interagir com, ou jogar, muitos itens na casa!
+2|MULTITAREFAS: Você pode mover a câmera enquanto o diálogo de um personagem estiver na tela! Arraste o botão direito do mouse/selecione o analógico direito (padrão) para executar esta estratégia de alta inteligência.
+3|DÊ A ELES O P: Jogando com um cara? Pressione "P"/gatilho direito (R2) (padrão) para expor suas partes íntimas ao mundo. Sério, e não se esqueça de rebolar um pouco. Rebolar? É, um depois o outro.
+4|CURIOSIDADE RECOMPENSA: Certifique-se de inspecionar tudo ao redor da casa. Às vezes, você pode obter informações valiosas sobre como avançar em uma oportunidade fazendo isso.
+5|ESCOLHAS IMPORTAM: Optar por algumas oportunidades ou conversas fará com que você perca outras. Não tenha medo de recomeçar e tentar coisas diferentes!
+6|FLASH, THEN BANG: Em histórias que permitem, pressione "E"/botão direito (R1) (padrão) para abrir um menu para vestir ou tirar suas roupas. Algumas situações podem exigir mais... ou menos roupas!
+7|OH, SHINY: Pressione "I" (padrão) para abrir seu inventário. Se estiver usando um controle, você terá que abrir a interface radial com o botão esquerdo (L1).
+8u|FAÇA CHOVER: Depois de se expor completamente, pressione a tecla "2"/botão Y (padrão) para esvaziar sua bexiga... supondo que você já tenha bebido o suficiente.
+9|TENTE, TENTE DE NOVO: Você não pode completar todas as histórias de uma só vez. Suas decisões moldam a história. Recomeçar pode levar a uma experiência completamente diferente!
+10|BOTÕES E DISCOS: A GPU está quebrando? O jogo não está brilhante o suficiente? Não está gostando do seu campo de visão ou do desfoque de movimento atual? Pressione a tecla "ESC"/Botão Iniciar e confira as opções gráficas.
+11|TUDO É UMA QUESTÃO DE PERSPECTIVA: Pressione a tecla "C"/selecione o analógico esquerdo para baixo (padrão) para agachar.
+12|CONVENIÊNCIA: Você pode pressionar (padrão) a tecla "F9"/botão Select para salvar rapidamente, "F10" para abrir a janela Salvar Jogo ou "F11" para abrir a janela Carregar Jogo.
+13|PERSONALIZAR: Pressione "F8" (padrão) ou selecione Configuração de Entrada no menu do jogo para personalizar seus controles.
+14|CUIDADO COM O ARREDOR: Alguns personagens reagirão negativamente a você (ou outros personagens) se virem ou ouvirem certas ações ou diálogos. Conheça os participantes da festa e fique de olho!
+15|VELOCIDADE É UM DEMÔNIO: Apressar o jogo pode fazer com que você perca certas dicas pop-up ou outras informações úteis. Quebre aquele recorde de velocidade mais tarde!
+16|OBTENHA MAIS AJUDA: Confira nossos diversos fóruns de discussão específicos do site, os fóruns oficiais do Eek! Games, o subreddit r/HousePartyGame ou o Discord do Eek! Games para obter ajuda!
+17|DEIXE IR: Enquanto segura um item que você pegou, segure o botão direito do mouse/analógico direito (padrão) para carregar um arremesso ou pressione rapidamente para soltá-lo!
+18u|QUE DUPLA DIVERSÃO: Você pode pressionar o botão direito do mouse/analógico direito (padrão) em certas partes do corpo de NPCs para tentar pegá-los, mas precisa estar perto! Faça isso o tempo todo, eles adoram! Acredite, eu sou o texto oficial do jogo!
+19|LOCAL, LOCAL, LOCAL: Um NPC está esperando por você? Você está esperando um NPC? Esqueça o espaço pessoal, você pode precisar se meter na merda deles para começar certas brincadeiras!
+20|OH, MEU DEUS, REEBUS, É AQUELA PORRA DE COMBATE BURRADO: Entrar em uma briga nem sempre é o fim! Se você não consegue vencer, às vezes você pode escapar ou sobreviver ao seu agressor!
+21|"WORLDSTAR": Pressione a tecla Espaço/Botão X (padrão) para entrar no Modo de Combate. Pressione o botão esquerdo do mouse/Botão A (padrão) para atacar!
+22|TESOUROS ESCONDIDOS: Várias ações ou escolhas na História Original podem aumentar suas estatísticas de combate, como Velocidade, Força e Vigor, ou conceder novas habilidades de combate! Não deixe pedra sobre pedra!
+23|CRIADOR DE COMBOS C-C-C: Tente usar itens pela casa com itens do seu inventário ou dê-os aos Personagens. Quem sabe o que você desbloqueará?!
+24u|AME A SI MESMO: Depois de se expor completamente, pressione a tecla "1"/Botão D-Pad-Down (padrão) para... se dar prazer. Ninguém vai se importar. Não, ninguém mesmo! ...Esta fonte é confiável, certo?
+25|DESCOMPLICADO: Perdido? Com dificuldade para lembrar o que está acontecendo? Pressione a tecla "O" ou "M" (padrão) (ou use o Radial da IU) para abrir uma janela totalmente útil com duas abas cheias de coisas úteis!
+26|OUÇA COM ATENÇÃO: A maioria dos personagens conversa com outros participantes da festa enquanto estão apenas relaxando. Essas conversas podem ser específicas de conteúdo ou contexto e podem conter uma ou duas dicas!
+27|ENQUANTO DURAR O ESTOQUE: Jogar, beber ou usar certos itens nos Diálogos ou no Menu Radial pode fazer com que o item desapareça ou fique inutilizável para sempre!
+28|DE PERTO E PESSOAL: Quer usar um ponto de vista em primeira pessoa e controles de intimidade "clássicos" para aqueles momentos mais sensuais? Pressione a tecla "ESC"/botão Iniciar e ative a Intimidade POV nas Opções!
+29|O MONÓLOGO DENTRO DE VOCÊ: Seus pensamentos, lembretes e mensagens do sistema aparecerão no lado direito da tela. Fique de olho em dicas, sentimentos e... coisas assim.
+30|VALE A ESPERA?: Os PNJs vão esperar até que você esteja pelo menos completamente sem fundo antes de começar com certas coisas... sensuais. Alguém esperando por você? Abra o Menu do Jogador (padrão "E"/botão direito/R1) e tire a roupa!
+31|USAR MINHA INTERFACE: Abra aquela interface radial! Usando um teclado? O padrão é "Q"! Controle? O padrão é o botão esquerdo (L1)! Isso lhe dá outra maneira de abrir as telas de Inventário, Oportunidades ou Memórias.
+32u|EI, GAROTAS: Jogando com uma dama? Pressione "B"/gatilho direito (R2) (padrão) para expor suas partes íntimas ao mundo. Sério, e não se esqueça de rebolá-las um pouco. Rebolar? É, as duas coisas.

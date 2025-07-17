@@ -1,0 +1,15 @@
+﻿[General]
+Name|Frank
+
+[Dialogues]
+0|Enter dialogue text here.
+
+[Responses]
+
+[Quests]
+
+[Events]
+3caf4c16-6bfc-4183-a783-992c7a673376|Ha! É! Você vai ver essa merda? Ninguém? Ei, espe-
+f701d35a-3f45-4cf5-b985-da9bd2a5bf36|Ha! É! Você vai ver essa merda? Ninguém? Ei, espe-
+
+[Background Chatter]

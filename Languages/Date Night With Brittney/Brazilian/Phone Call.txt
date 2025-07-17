@@ -1,0 +1,45 @@
+﻿[General]
+Name|Chamada telefônica
+
+[Dialogues]
+0|Aqui é o Flash N'Dash, que porra você quer?
+1|Por que diabos você está usando o aplicativo se não sabe o que quer?
+2|Ei, você é retardado?
+3|Cara, não preciso da sua história de vida. Você vai pedir ou não?
+4|Certo, bem, temos pizza.
+5|O que eu te disse? Temos pizza. Você vai comer pizza, vadia.
+6|Vejo você em breve. Bom conselho.
+7|Bem-vindo ao Neighborhoodwatch.com. Você tem fotos para enviar?
+8|A imagem foi enviada com sucesso. Seu login de administrador garantirá que ela seja fixada na página inicial para que todos possam ver. Espero que quem está nessas fotos esteja pronto para os holofotes.
+9|Foto selecionada. Que legenda você gostaria de usar?
+10|Meu amigo, Pat! Obrigado por participar do podcast. Adoramos ouvir sua história sobre como o Neighborhoodwatch.com surgiu. Não é o site que você imaginou, mas não dá para dizer que não deu certo.
+
+[Responses]
+f681cca3-1d86-409b-b8c3-584eaa1ff692|Eu, uh, não sei.
+e7a58f33-67d5-4a68-a2b3-502b9e0c2785|Ei, tivemos um desastre na cozinha e ...
+5e5e45ca-1ce5-48c1-a04c-57a9f2be67a7|Eu, uh, não sei.
+966d432f-c3b6-4e6e-9991-581b7f7360a8|Eu, uh, não sei.
+5052fdf8-cada-4467-967d-f7168e40eb10|Sim, quero fazer um pedido.
+ca2173c2-e56c-4343-8db2-a5bbbfd75233|O que mais você tem?
+b3d15f79-55d1-48b0-83dc-f4bf1a511482|Hum, tudo bem.
+9331c763-f7c4-4785-a0a5-91bbd35a0f4d|Adeus, eu acho.
+d87752a8-e20a-49ee-b960-f7652db94ef6|Pode acreditar. *Selecione a foto*
+792fad32-99f6-49c6-a12e-f1c3790c9893|Não, acho que não. *Recusar*
+6c62219d-043b-4085-8ce5-76b2d2a020fd|Doce, doce ironia.
+cd1167e4-1bac-45dc-872b-d9cdf3688a3e|Ela já é grande. Vai ficar tudo bem.
+25a6026c-7dee-4742-867a-3c36611d45b3|"Eis o dono do seu terreno em toda a sua glória."
+1fe71403-3a42-4888-96ea-bdaaf1f6f618|"Patrick deixaria Negan muito orgulhoso com a rapidez com que ele chegou à Cidade das Calças Pee-Pee."
+83ce2834-87cc-4219-a640-b1ee76db43a1|"Administrador aqui. Por favor, ase."
+233e94d2-e755-448a-b574-bd65449559f0|"Loira sensacional é espancada até Bangor."
+ac6d0078-36e0-4e20-8632-febfd008db86|"A terra de combate fica suja mais uma vez."
+e653f403-9fbe-4bb2-b5a9-1b0842f3bf15|"A bela sulista assobia Dixie em volta da cabeça do meu pênis."
+d15f9b49-91c8-48a4-8835-3e2493fe7ee9|*Continua*
+
+[Quests]
+
+[Events]
+72919f1e-3fb8-4ca2-bda2-5fc357da1dc8|*20 minutos depois*
+466148b0-abf4-49ca-8233-e53f85549460|A pizza estava deliciosa! No entanto, Brittney encontrou a garrafa vazia de óleo de motor e provavelmente sabe que você teve algo a ver com o fracasso dela na cozinha. Felizmente, ela é educada demais para mencionar. Mas ela definitivamente não está mais "afim".
+47655b66-e330-4c8d-a6c8-cf17559c9f22|*Aqui está seu telefone, Pat. Algo me diz que você receberá muitas notificações.* Ele joga o telefone no corpo inconsciente de Patrick.
+
+[Background Chatter]

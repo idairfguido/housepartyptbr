@@ -1,0 +1,388 @@
+﻿[General]
+Name|Arin
+
+[Dialogues]
+0|E aí, não-Chet.
+0.1|E aí, como vai, amigão? O que posso fazer por você? Hee, hee hee...
+0.2|Que noite louca e selvagem.
+0.3|E aí, uhhh-huh, que casaco bonito!
+1|Aquela queda foi de uns 6 metros, CHET! Agora eu tô com os JOELHOS DOENTES, CHET!
+2|Caramba! Temos certeza? Talvez o BJ Scooters seja tipo um gastropub descolado e moderno com... tipo, tema de festa em casa. Tipo o jogo "Festa em casa". Malditos joelhos, não consigo nem pensar direito!
+3|Você, não-Chet, me dá o seu celular! Já estamos muito atrasados para o Game Grumps Live, e por mais fofos que sejam, vão ser comidos se tiverem que esperar muito mais.
+4|Bem, que tal você levantar dessa festa e nos levar para o Game Grumps Live, ok? Por favor, você pode fazer isso por nós?
+5|Jesus Cristo, Dan. Não... Chet, você pode me passar o telefone para a gente sair daqui, por favor?
+6|BWWWWWWWOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAOOOOOOOOOOOOOOOOOOOOOOOOOOAAAAAAAAOOOOOOOOOOOOOOO ...
+6.1|BWOOOOOAAAAAOOOO-ME AJUDE-BWOWOOOOOOAAAAOOO-POR FAVOR-BWWWOWOOWWWW-ESTOU PRESO-BAOWWWWRR ...
+7|D-Não a deixe...
+8|Dan, me escute. Embora eu tenha mijado um pouco, você não pode deixá-la atravessar para este mundo. Ela é má, Dan!
+9|Isso não é uma dama! Ela é uma súcubo, Dan. E ela me mostrou visões que me envolviam fazendo xixi. OHHH NÃO! É REAL!
+10|He-he-Ei, cara! Cara. O que está acontecendo? Uh-uh, cara. Eu só estou aqui relaxando. Só me refrescando. Só curtindo. Relaxando. Relaxado.
+11|MMM. Vou provar suas entranhas. Eu gosto do seu gosto!
+12|Dan, lembre-se do plano!
+13|As chaves do seu carro.
+14|Carros com caras dirigindo por aí com música inapropriada tocando... SIM. Sempre me deixando desconfortável...
+15|Vai embora, você está estragando a ilusão.
+16|Porque eu odeio isso aqui! Todo mundo é bêbado, sensível e SENTINDO, e eu só quero ir pro Game Grumps Live e FICAR QUENTE. Então, sai daqui, e MUITO QUENTE, e me ajude a encontrar alguém que esteja sóbrio e NÃO QUENTE e competente o suficiente para dirigir, e NÃO QUENTE.
+17|Bem, você me aponta a direção certa e partimos como uma matilha de gnus GAAHHD DROGA. Aqui tem um terreno enorme, por onde começamos?
+18|Eu estou ali, não-Chet. Daniel, vem comigo!
+18.1|Bem, aqui vai uma curiosidade, não-Chet. Eu não dou a mínima para você. Dan, vamos ficar bravos. Vamos revistar algumas casas e tal.
+19|Ooohh droga, você tem que mostrar pro Dan! Enquanto ele estava com as garotas, ele estava estudando a espada!
+20|POR FAVOR, guarde isso! Sou alérgico a flores. E a árvores. E a frutos do mar. E à caspa de certos gatos domésticos. E a levar os dedos ao nariz.
+21|Uma chave! Meu Deus, é uma chave! Isso dá partida em um veículo? Leve-nos até este veículo, No-Chet!
+22|Porra! Então enfie no seu olho mágico.
+23|No-Chet, qual é! Você sabe que estou tentando ver minha silhueta.
+24|Hehehe. Dê isso ao Dan, ele vai adorar essa merda.
+25|Mhmhmhm, acho que acabamos de descobrir o que nos torna zognoides, querido Dan.
+26|Não, eu não estou a fim disso. Eu não entendo e, portanto, posso FODER!
+27|Desculpe, meu inventário já está bem cheio. Merda, eu tenho um inventário onde meu pau deveria estar! Dan, olha nas suas calças, o que você vê?
+28|Hmmmm, o que temos aqui?
+29|Não é um Dan esperto, esperto! Estes são dos nossos balões de ar quente; são os mais novos produtos relacionados à Starbomb produzidos pela Starbomb! Estes, meu querido Daniel, são as Mini Bombas de Banho Starbomb™ oficiais.
+30|Eu também, Dan. Só precisamos colocar essas mini bombas de banho na banheira de hidromassagem e deixar a água ficar borbulhante e sofisticada. Com certeza os exploradores aéreos que estão nos procurando agora verão as cores incríveis da Starbomb e virão nos salvar! Tudo por causa das Mini Bombas de Banho Starbomb™ oficiais!
+31|Eu estava no meu carro, Dan: Rosquinhas, Wiimotes e drones com capacidade de busca e resgate. Estamos seguros, meu amigo. Vamos, vamos molhar essas Mini Bombas de Banho Starbomb™ e nos abraçar para que as correias dos socorristas possam nos puxar para um lugar seguro ao mesmo tempo.
+32|Vamos lá! Jogue uma nessa vadia grande! Desculpe, eu quis dizer a banheira de hidromassagem. Não sei por que eu disse "vadia grande".
+33|Bem, não posso dizer que não estou totalmente decepcionada com a falta de diversão na hora do banho agora.
+34|Dan, não tem jeito. Nossa única chance de sair daqui com a ajuda de espuma de glitter, e essas coisas estão uma bagunça. É uma bagunça, Dan!
+35|Ah, olha só, é o Starbomb Sud Dud...™. Essa coisa é de lhamas, No-Chet. Não vale a marca Starbomb. Starbomb, veja bem, é de altíssima qualidade.
+36|Dan!
+37|Estou ferrado!
+38|Estou querendo jogar alguma coisa desde que acordei hoje de manhã. Passa pra frente.
+39|Ahhh meu Deus, fala.
+40|Você está... você está citando Matrix? Vai nos mandar para Matrix, No-Chet? Porque eu definitivamente não estou usando couro suficiente para isso, e também não é real. Matrix NÃO é real.
+41|Ah, não, se for parecido com aquele jogo Resident Evil VR, eu não... eu não faço parte dele. Não quero ficar assustado.
+42|Nosso almíscar é metade do nosso apelo... Mas foda-se, vamos lá, VR Boy. Diga-nos o que temos que fazer.
+42.1|Vamos lá, VR Boy! Diga-nos o que temos que fazer.
+43|O que é isso? Meu Deus, é pesado! Você está prestes a roubar nossos órgãos e mantê-los no gelo?
+44|Compu-boy, para que você precisava daquele USB?
+45|Uma imagem está bom, No-Chet. Estaremos aqui, então vá buscar a Katherine e vamos fazer esse show na estrada.
+46|Olha, o que o Dan quer dizer com "esta noite é uma merda e você está adorável" é que estamos nos divertindo muito nesta festa e é uma merda, e sua inclusão nesta foto não vai mudar isso em nada... nossa noite ainda é uma merda.
+47|Espera aí, sério? Você gosta de prisão?
+48|Então você quer que a gente... te expulse? Então você quer que a gente corra até você.
+49|Eu vou correr até você, atingir SUPERVELOCIDADE e depois desaparecer nos seus nano-inferiores? Dan, eu não sei sobre isso. Acho que a CompuCompa está copiando "De Volta para o Futuro" e Dave Matthews ao mesmo tempo.
+50|Dan, eu não sei sobre isso... Podemos confiar nesse cara?
+51|Dan! Estou indo! Calma... cara lindo!
+52| 
+53|Tudo bem! Lá na velha fazenda dos Hanson, chamamos a cerveja de "Esqueça a água!" "Você nunca pode ser preso por coisas que não lembra!"
+54|O No-Chet chegando de mansinho! Valeu pela segunda cerveja, mas não conte para o Dan. Ele vai ficar bravo se der um mergulho. Tem alguma coisa sobre eu ter tentado atravessar um campo de carro uma vez?
+55|O No-Chet tem razão, Dan. Eu quero aquela cerveja. Então, sabe de uma coisa? Vou aceitar. Obrigado.
+56|... Bahdibahdi-bou ye yah! Ei, não, Chet! Sabe, você não é muito bom em roubar chaves de carro ou chamar um táxi, mas, caramba, você sabe como resolver problemas com ÁLCOOL. BAHDI BAHDI BOU YE YAH! ...
+57|Aquele maldito Frank, me mandando parar de cantar... um grande idiota, é o que ele é, com uma cabeça de OVO. Ele tem uma cabeça de ovo. O que ele está fazendo aqui?
+58|Frank, por favor, tira essas mãos lindas de mim, eu preciso... disso. Eu preciso disso. ...Onde estão minhas bebidas?
+59|COMO VAI, CARA? Como vai? CARA, eu sou um idiota do caralho. VOCÊ QUER ÁLCOOL, DEMAIS, PORRA, PORQUE EU ROUBO TUDO, PORQUE SOU UM PEDAÇO DE MERDA, UM HOMEM BONITO COM UMA CABEÇA DE OVO.
+60|Lá vamos nós de novo, de volta à coisa gay. Frank, você é um estereótipo ambulante. E você provou que NÃO é absolutamente material para o P-Club, então...
+61|Você quer mesmo ver do que se trata o P-Club? Você quer mesmo ir por esse caminho? Quer ver? Quer ver, Frankie Chico? Então vem comigo, gata.
+62|Desculpa, cara, eu só posso iniciar um membro por vez. Uma iniciação a três no P-Club é simplesmente confusa. Já fiz isso antes e é ótimo, mas é confuso. Sai dessa.
+63|Frank, o P-Club é uma organização sagrada e seu único propósito é promover a confiança. Autoconfiança, confiança na própria sexualidade e confiança... de que eu não sinto nenhum arrepio quando olho para o seu xixi.
+64|...
+65|Isso mesmo, meu novo iniciado. Agora, é hora de prov- Uau, uau, Frank, uau!
+66|Ei, cara, entendi. Sabe, o P-Club não é para todos. Me desculpe se te coloquei em uma posição constrangedora. Eu te respeito como pessoa, Frank. Eu te acho legal... E você, seu babaca.
+67|Tenho que dizer que a experiência toda me deixou muito à vontade, cara. Me sinto ótimo agora!
+68|Somos grandões com responsabilidades de grandão, No-Chet. Temos que sair daqui. Achem um jeito ou estamos ferrados.
+69|Legal...
+70|Sou o Arin, o bonitão! Haha, brincadeira. A menos que...
+70.1|Sou o Arin, o-uh... ei, sou o Grump, é esse mesmo.
+71|Ah sim, com certeza, a espinha quebrou.
+72|Ele vai fazer pré-gozo! Entendam isso, a pré-gozo está quente!
+73|Au... tá, tchau.
+
+[Responses]
+5d736558-7b19-4288-a7ff-eb48c1f7c91c|...então não? Palavra.
+66398c11-c8bb-4c5b-a40d-40a145ef3be1|Arin, me diga tudo o que você pensa sobre paus versus bolas. Isso é superimportante.
+549cf2fd-6d19-4292-b8b8-b00350c5e142|Calma com as acusações do Chet! Eu não sou o Chet!
+0204804b-b80d-42c4-801b-af1ff7954752|Acho que você está com a gente hoje à noite!
+84685158-b63a-45eb-85b2-f7986d2eb842|Sério?
+3572656b-df09-493b-bdd1-c88ec87f3e5b|Acho que vou ver o que posso fazer.
+91b5fa54-4ed9-4d63-ae74-8de6189147f9|Pfft, vocês, Grumps, estão por conta própria!
+36de33fd-5403-4c37-b6b2-0fec1db7f415|Vocês não podem se divertir enquanto estão aqui?
+12cbf489-24ca-4107-89cc-948cb949968f|Tudo bem, eu peguei este telefone mais cedo. Acho que você pode usar.
+4e01d5f1-a52e-4ae4-ba46-4aa9500cd32c|É, aqui está.
+652576b8-7610-467e-9c3b-8f1792c422ff|Na verdade, eu estava inventando essa merda. Porque eu sou um mentiroso.
+2c5e51fc-1429-400e-8682-7537603fd05d|Uhhhh...
+6dc4e716-1842-4a13-975f-a3fe170ecaed|Uhhhh...
+23dfba12-c774-414f-b963-4e3cbebede11|Para com isso, cara!
+7a270096-9d01-45f1-bf41-aa169579f39c|Arin, se recomponha, amigo!
+0fb191ad-db78-411d-b061-653b5b1f2674|Arin, se recomponha, amigo!
+ac9db5ab-86e8-46f0-a637-8a92657ad3a0|Fala mais alto!
+c22c7702-dd42-463a-8f89-4ad4a29476b0|*Ouvir*
+0021babb-0bea-4e81-b6fc-752353942ced|*Ouvir*
+99b2c8fb-1cc4-42a3-a947-1c6385d99ba6|Se você está procurando vibradores, pode experimentar o quarto da Ashley.
+4ce5b40e-c238-4c97-8858-b53e1d4e9b98|Então, esta é uma performance de dois atores?
+4b3d7873-476b-495b-aa8c-db46abebe93d|Eu consigo te ouvir!
+851ade58-9299-4440-89d7-50335e5ba0f9|Desde quando ele fez uma traqueostomia no beco? E eu não trouxe a minha chave.
+bfaee513-a125-498d-8eef-74ddb1d70869|*Suspiro*
+0666944e-9cf7-4e4a-b6f3-e4f982d3faca|É. Atrapalhou bastante o mergulho, né? Foi mal...
+18d1cbe3-b963-486f-b152-487cd5f665c0|Você conheceu nosso Senhor e Salvador, Frank — não, pensando bem, não importa.
+2717a5e1-e5fb-47d0-9af0-43e4232a0527|*Suspira e vai embora*
+547f9e13-09f2-43c1-abae-35078c18235f|No quintal.
+c9386946-46a6-4cc9-9cd8-c5c6a8e28f25|No primeiro andar, em algum lugar, eu acho.
+99849cef-4652-475c-ab10-7d3371198076|Tenho quase certeza de que estavam no segundo andar!
+3363c52c-e8f3-4da1-bc1c-78dbe2df2844|Não tenho muita certeza, eu... espera, é. Eu não dou a mínima.
+3dbbcf55-9454-4799-b352-61a7b4b007ee|Sério, foi minha culpa, deixa pra lá!
+0706e1cd-29fc-4e5d-bb24-e2bffa046f19|Continue!
+5c4d1733-af62-4f2d-b1fc-ee3fbbe5de13|Ah, vou mostrar a ele direitinho.
+60826ec4-0f1d-48ed-afc0-f59c1eeb8bca|Você deveria ter uma chance.
+2a3044a3-8ad3-4287-93a7-bb9d99a37f98|Acho que não dá partida em nenhum tipo de veículo, mas achei que você gostaria do brilho dele.
+b50c4ab4-58d8-4ffb-a52a-5fe44d63f291|Certo, sim. Claro.
+481d05ca-821f-4ca1-b7a3-f4da129b8c3a|Bem, isso é inteligente.
+e13a4fcf-008d-4280-b88b-0273a38281b8|Então o Dan digita tudo? Entendi.
+6a2b0562-870a-4b6d-bb99-58ad30ebde7b|Zognoides, você diz?
+078404fc-f433-4d78-8414-1a5543a3656a|Entendi perfeitamente.
+8cc8dc97-46c6-4fa7-91ef-19fc93652e3a|*Escuta... enquanto resiste à vontade de olhar*
+a61b3d7a-a877-4126-988f-d13aba184340|Encontrei isso no local do seu acidente. Não veio de... você, veio?
+00adaac2-3677-4947-a503-5544ebb635e7|Bombas de banheiro Starbomb... Não é uma má ideia.
+2240eb83-28f0-4267-ae0a-759876cb9b5b|Entendeu? Uma equipe de reconhecimento aéreo?
+73323779-bf6d-4a0f-af9e-abb1bc2aa2be|*Escute*
+7347b2fa-5a51-469e-9e0f-178477bab993|Claro, claro. Jogando na banheira de hidromassagem.
+198fb0b0-b4ce-449c-bba3-023f0a8736ef|Talvez eu precise resolver esses problemas.
+8f122191-466f-48de-898a-8d6dce9ea6eb|Sud Dud é como eu chamo meu... deixa pra lá.
+90bcbf02-b76f-4796-9b83-4231b1e3c567|Queime-os, você disse? Hmm...
+29d34459-7485-4c3c-81de-ff4ab6cb4362|*Ouça*
+cfd3358a-226b-4fd6-b7d8-8230f471c71f|*Ouça*
+c7855920-1f8f-44dc-8e17-2c9441646a62|Faça!
+97e10184-3855-4c8b-bfb0-30354042e6e6|E se eu te dissesse... que existe uma realidade além desta? Um mundo virtual.
+a3109a72-6d3c-4708-a34b-b2a1b7b08354|Hum, uh... primeiro, vamos todos tirar as calças!
+08dda169-7126-4417-8f57-6aa47cdbb1b2|Não. Mas você vai precisar tomar um comprimido. Por causa da erupção cutânea do Patrick.
+c970544c-e86a-4c4c-beb1-bc8c520481bc|*Escute alguém mais inteligente que você*
+6d9cafe5-a858-4fe4-b2c0-7e2cf5d1f27d|Segure isso. *Dê Compucompa para os Resmungão*
+577887e9-c54e-4f6c-af65-b51ecdd62da7|Na verdade, não sei se essa é a melhor ideia.
+7f9ec7c4-21c4-48bb-b860-2d592a836c87|Conheça Compucompa!
+9fd6f090-a53c-4b3a-a772-3461f8487755|Acho que sei a resposta para isso.
+a98d329b-d026-4541-bd69-089dd47ca71b|Que reação sensata.
+a52d23e3-f05c-4836-91d3-2173c02329df|*O tremor se intensifica. Continue ouvindo*
+fc15807d-77e3-4acb-831e-8e7fd264b66c|*Ouça*
+c282830d-9a9d-424d-a958-532bc42e23c3|Não parece muito científico.
+e0d18fac-094f-4b04-8012-6c09afdabc86|Confie no robô, Arin!
+38590c89-4f39-4d02-a9d7-729ed0ca3b12|Claramente é um amigo da humanidade. Talvez dar um tempo?
+443a0535-4642-495b-bdf7-c4c0981c5e1a|*Escute*
+8355d0c8-4e9d-456a-8943-9ca6bd226368|Cerveja é praticamente água, mas com mais diversão!
+aaa42fe2-bd64-476a-978b-b041d73fd9a3|Um campo não é tão ruim.
+eb7f6456-2c5a-465b-9892-8f1470d5cd8a|Droga!
+05145d27-dfd4-46a3-b6a5-8dba552a7b70|Nossa! Você está realmente bêbado depois de apenas 3 cervejas.
+ee703035-c310-4f62-92ed-37cf77f33587|Não vamos nos preocupar com ele. Vou continuar trabalhando para te tirar daqui.
+0cad3a8c-6ad6-4aa1-8d1b-466136375ed8|Calma! Frank só está mantendo todo mundo sóbrio... Guardando o armário de bebidas como se fosse seu primo tarado.
+7da67238-bf5e-436f-a8ea-ba5bb82632a3|Sabe, eu ouvi ele dizer que é o festeiro. Não você. Ele é quem está se divertindo!
+f83a136d-0490-477a-be6f-d39478592e38|Não tenho certeza, mas adoro essa energia assertiva e estranhamente difusa que você tem. Aguenta firme, vou fazer um reconhecimento.
+202c0147-698b-4bb5-8513-472038168a84|*Ouvir*
+06f0b1bf-15d9-41c7-8081-8b0965de7a0e|*Ouvir*
+d5a95c39-525a-4664-82e7-7fae016482ba|*Ouvir*
+678a18fd-b108-4bb9-bcc7-5c2dbaed2ae9|Ah, não! Clube dos Caras! Tem que ser... né? Alguém?
+46d8400b-d87e-47f6-a82b-8e7d46e6e570|Droga!
+61386036-6878-490b-96de-110ea0c15a1c|*Escuta, espantado com o que "o D" realmente significava*
+e0626a7e-8acc-4107-a954-ac8f462450c3|*Escuta*
+f84c041e-715e-4416-bb2a-bba95af0444d|O quê?!
+3dd8bc64-8967-4a25-9717-19d5c12e4c60|Ei, falando bem rápido... você parece estar preso naquele beijo.
+9b01441c-d2fa-4c25-90ea-b73850e0102c|É, você já teve o suficiente. ...E talvez você queira dar uma pausa entre você e o Frank por um tempo.
+162e6b00-bea3-461a-aa13-75491634d3f3|Tudo bem então.
+8eb66976-e436-4d87-b585-ca5797063c15|Belo nariz!
+f4a177f4-d717-4841-bd2d-dad84095400a|Acho que... quero falar com o outro agora.
+9ad2a4eb-e5dc-4173-b883-6695f5db7713|Que bom ver a HP se recuperando! Mas... talvez fique longe do mega turbo, Frank?
+9b0cc6da-3496-4963-b9cc-126c3a453090|Eu diria "ENTRANDO", mas seria mentira. Droga, estou tão sozinho.
+072e9e6d-91ab-45a5-93e7-0b28edaede08|Acabei de ouvir alguém falando em sair da festa. Você acha que deveria fazer um reconhecimento?
+f9e1c23b-8c06-4291-8d6b-14fc6f44c9cc|Algum dos seus capangas conseguiria quebrar esta maleta?
+53e5c3be-228d-4946-84ac-d564e85be538|Escute aqui, Grumps: eu tenho um plano para tirá-los daqui.
+0cdc2c19-53e0-4d16-a343-09f4cb5b7f93|Preciso de uma foto sua. Com a Katherine.
+31f0493b-4152-4a29-813d-603204f84909|Não seria mais fácil se você relaxasse e ficasse aqui esta noite?
+e3d07fbe-7a0c-4990-ba06-2a50b1ac0cef|Eu peidei.
+34f45c39-b87d-4825-87d7-258016cfcf1b|Então... qual Grump você é?
+7e1a2e37-4ed2-42d3-933a-0f379b3a5775|Segura esse pensamento, tchau, cara.
+d7acd498-a842-4e04-be04-1de8198d4b81|Eu, uh... eu literalmente tenho que ir para outro lugar por um momento.
+
+[Quests]
+f1629f86-ba14-4756-ab60-3eab7d36a095|O Retorno dos Grumps
+f1629f86-ba14-4756-ab60-3eab7d36a095Description|Os Game Grumps já estão aqui. E, assim como você, eles odeiam este lugar. Use essa parte de você para endireitar o navio e colocá-los a caminho. Ou... deixe-os tentar encontrar a própria saída.
+f1629f86-ba14-4756-ab60-3eab7d36a095CompletedDetails|
+f1629f86-ba14-4756-ab60-3eab7d36a095FailedDetails|
+
+[Events]
+5112888d-1e4d-4b2d-b016-332d63695ec1|Não tenho certeza se o Frank consegue nos ouvir... Eu deveria tentar puxar o Arin um pouco mais para perto dele.
+6ccd4957-3bc2-4681-ad85-a873a137f28f|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua resistência, força e velocidade de combate aumentam um pouco!
+4b192434-8ae9-414d-91ba-c232f9a488a9|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua resistência e força de combate aumentam um pouco!
+351cb8ba-497b-4aa2-a2dd-34592ef2b2b9|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua velocidade de combate e força aumentam um pouco!
+819f8811-0968-407c-b492-75929c58a922|A sensação de uma única e linda lágrima escorrendo pela sua bochecha... te enche de determinação! Sua força de combate aumenta um pouco!
+c7706694-229c-4f96-ac4f-c4ece2d29a7d|Hmm, o Frank está disponível para a Arin transar? Só consigo uma opção de fan service improvisada e preguiçosa. Posso muito bem usar Alt-F4 e sair com meu amigo. Não, eu sou dono do "House Party", o jogo...
+50f9eb7f-08c2-43f5-9b14-eaffb5722e99|Será que vou mesmo dar um telefone para vocês saírem daqui?
+c57baebe-2607-4997-853c-2d93d06034f8|Caramba... como vou tirar o Arin dessa?
+d1c8bcf4-d8f7-4a4d-8c17-cb916a3479aa|Certo, já estava na hora de acabar com essa vergonha alheia...
+2822496b-34f6-4634-9e32-fc075a7de1f1|Caramba, que mal-humorado! Eu devia dar um soco na Katherine quando eles chegassem onde quer que seja "aqui".
+4729a6d5-22eb-4cba-b57e-4bbcec9283ee|Esse tipo de clube é muito restritivo... Acho melhor deixá-los em paz.
+c6f051d0-849b-464e-8358-0f736111c17c|Algo não parece certo, é melhor eu entrar e manter a reunião do Clube P em ordem...
+7616668a-c0f7-4c5c-b725-99641df183a1|Merda, pode ser tarde demais para encravar o balão dos Rezingões...
+a33ece12-fb9a-4c35-9271-1acbe7784725|Os Rezingões estão presos! Você provavelmente não precisa mais ficar com o bloqueador ligado...
+2484e644-44e0-47ff-97ab-43292de1fd4e|Eu me pergunto em que tipo de encrenca esses Grumps estão se metendo. Eu provavelmente deveria dar uma olhada neles.
+9c1531b1-8c72-40fe-8f5c-1f60a28a0828|Eu me pergunto em que tipo de encrenca esses Grumps estão se metendo. Eu provavelmente deveria dar uma olhada neles.
+f393d2a9-5f05-45ce-9cea-e41186e8e39a|Eu me pergunto em que tipo de encrenca esses Grumps estão se metendo. Eu provavelmente deveria dar uma olhada neles.
+30d888b2-1e50-4f62-b9d5-c333746d5f34|Essa dupla dinâmica tem um talento para se livrar das bobagens que os cercam. Como sou versado em estupidez, aposto que você terá algumas coisas a dizer sobre as travessuras em que me meto.
+ba1d6f72-d18e-4975-a9ec-e6c2649db257|Hmm, os Rezingões estão fazendo alguma coisa no quarto. Talvez eu dê uma espiadinha...
+01812456-ea98-4a61-abb6-a8ab6490124d|...O que o Arin está fazendo?
+7cfa68a2-6e33-4de0-9904-af57096e33e5|Ah, droga... os Rezingões vão atacar o Frank da cozinha!
+d3227092-afd9-4c41-968b-ea7e77acc6be|Parece que os Grumps vão dar uma surra no Frank... toda vez que ele deixa a bunda firme cair na cadeira.
+a81791ec-e414-450f-91d6-bcbc3848f1b1|É melhor eu fazer companhia aos Grumps...
+955ba7bf-e0bc-4e77-88b7-29e9f1dd8564|Nossa, que cores chamativas! Você é... você é, Fantasma Chamativo?
+c0114494-2a1a-411e-b807-438465b6d2a7|Ok, eles já tiveram tempo suficiente. Os Grumps agora estão prontos para a grande sessão de fotos.
+533aeb26-c630-45aa-8242-6cb2a742a178|Parece que o Arin precisa de mais alguns minutos com aquela cerveja que acabei de dar a ele...
+4bf04bde-9e5e-4837-be04-2a99a061cc81|Algo me diz que o Arin não precisa de mais nada para beber...
+fab0ae29-8706-45ff-9ed4-235b71d084a7|Dar um celular e deixar os Grumps se acalmarem tão facilmente? Não sei se os desenvolvedores do jogo permitiriam. Afinal, eles são uns babacas. Hmmm, então que se fodam esses babacas e tentem de novo, ou parem de transar de vez...
+ef85808a-f662-4d84-9a47-2971fe945ad7|O celular da Madison ainda está bloqueado e, portanto, inútil. A menos que os Grumps tenham pó mágico para desbloquear o telefone, o que duvido. Não seria lendário...
+472775ff-5a68-4777-a87c-4e9ab2853422|Dar um telefone e deixar os Grumps se acalmarem tão facilmente? Não sei se os desenvolvedores do jogo permitiram. Afinal, eles são uns babacas. Hmmm, então que se fodam esses babacas e tentem de novo, ou evitem transar de vez...
+3ab26f4f-4421-4895-bd00-e1ce8f39795c|Porra, já tivemos uma conversa inútil sobre essa chave. ... Sinto que acabei de resumir esse conteúdo. "Inútil."
+c558664e-025b-4822-b378-5792fe33ba9c|Porra, já tivemos uma conversa inútil sobre essa chave. ... Sinto que acabei de resumir esse conteúdo. "Inútil."
+bb8c95d6-b913-4343-80e3-c6e7f2c6c2f3|Acho que os Grumps não devem chegar perto do Compucompa de novo. Por mais que... ele... ela... tanto faz, queira.
+e0f15d2e-33cd-46a5-8ee3-0f4897c256bb|Arin não quer isso agora.
+
+[Background Chatter]
+BGC1|Chet — Quer dizer, "Busteroo", aqui é o Zangado 1, entra no Busteroo. Eu e o Zangado 2 estamos caindo.
+BGC2|Não é hora, Dan, só pule!
+BGC3|ACAM! MEUS JOELHOS PODEROSOS.
+BGC4|Bem, que porra você sabe? Até o No-Chet é um saco de merda! Dan, pega minha bengala.
+BGC5|Dan, por favor, não mencione o incidente envolvendo essas pessoas que não conhecemos. No-Chet, vou te guardar uma surra para outro dia. Mas nos ajude a sair daqui e eu vou eliminá-lo de vez. Agora, me despeço.
+BGC6|Sinto que vou ter uma grande enrascada em um minuto. Haha! Vamos entrar no Dan e ver se conseguimos sair daqui nós mesmos.
+BGC7|Que solução incrivelmente simples para o nosso problema! Se fosse um videogame, eu diria que o jogador simplesmente pegou o caminho mais fácil para a vitória e não colherá nenhuma recompensa! Mas vamos sair daqui! Danny, vamos esperar na rua enquanto alguém nos limpa!
+BGC8|Uau, Nelly, por que você não coloca esses pistoleiros de volta nas montarias, chefe? Não precisa recorrer à violência.
+BGC9|Ah! Dan, lembra quando a gente jogava beer pong com todos aqueles refrigerantes malucos? Aquela merda era nojenta.
+BGC10|BBBWWWWWWOOOOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOOOOOOOOOOWWWWWWWWWWWWWWWWWW ...
+BGC11|Não utilizado
+BGC12|Eu avisei!
+BGC13|Está quente aqui, muito quente! Oooh, tira a roupa!
+BGC14|Quantas vezes eu já pensei a mesma coisa! Não consigo me concentrar com você falando desses dedos esquisitos e finos. Merda! Estou quase lá.
+BGC15|A Microsoft deu tudo de si com-WOAH-GUAHHH!
+BGC16|É, isso quebrou algumas vértebras. Olha só, consegui uma conquista. Legal!
+BGC17|Ah, é, porque um micro-ondas é a coisa mais emocionante de se inspecionar em um jogo. INSPECIONE UM ITEM COM PIZZA DENTRO, CARA!
+BGC18|Cooooamigo No-Chet. Você pensaria que o mata-moscas seria um lugar divertido para colocar a língua para fora...
+BGC19|Mas, na verdade, é uma má ideia. Eu entendo. Eu também queria que não fizessem essas coisas exatamente da mesma cor que o sabor de framboesa. Não é justo.
+BGC20|Aqui está o formato de um campeão. Um espartano de merda. Bem ali!
+BGC21|Vou chutar... Bar-Bartholome: Você tem um senso muito real, então talvez o Bartholomew?
+BGC22|Meu Deus! Isso seria perfeito! VOCÊ seria a combinação perfeita. Donghauser: NOME EM LUZES! Você seria o Diddle Kid perfeito.
+BGC23|Com a implicação.
+BGC24|O Diddle Kid sempre trabalha sozinho.
+BGC25|Ele veio até aqui para nos enganar, Coruja Spoiler? Tem algum spoiler divertido na manga? Responda!
+BGC26|SIM, mas isso parece incrível.
+BGC27|Ok, DE NOVO, vamos encher esta banheira, talvez colocar um pouco de gelo aqui, eu não me importo, e então você vai... colocar a torradeira na água, ok? Corta para: Estou sendo expulso deste mundo, deste mundo de sonho em que estamos presos, e de volta à realidade de onde viemos.
+BGC28|Hum, ok, Dan dos Sonhos. Pare, pare de voltar atrás! Por favor, me ajude aqui.
+BGC29|Hum, isso só prova o meu ponto, Dan, porque o Dan DE VERDADE, não o Dan dos SONHOS, que é você, estaria na torradeira na banheira.
+BGC30|Ahh!
+BGC31|Aquilo pareceu muito real. Aquela torradeira pareceu muito, muito real. Dan, você poderia ter me matado.
+BGC32|Ok, sim, desculpe.
+BGC33|Chaves do carro! As chaves do carro, Dan! Chaves do carro! Chaves do carro! Não sei como descrever CHAVES DE CARRO para você. São chaves feitas para CARROS. Tem que se apressar, mano. Viu quanta gente safada tem nessa festa? Tem muita. E TODAS estão safadas. Com certeza alguém vai vir aqui e ficar com tesão. Na cama.
+BGC34|Nossa... É tão lindo.
+BGC35|Eu... Nunca mais vou precisar fazer piadas em eventos sociais. Toda vez que dou uma festa, abro essas portas e deixo todos os meus convidados escolherem os casacos que quiserem! O resto da noite, nos parabenizamos até a hora de ir para casa.
+BGC36|Esqueça o roubo das chaves da Madison, Dan. Vamos sair dessa festa do jeito certo: usando nossas roupas lindas como o jogador. Ele com certeza vai encontrar uma solução ridícula para o nosso problema.
+BGC37|Dan... DAN! Chaves do carro! As chaves do carro, Dan, as chaves do carro!
+BGC37|Dan... DAN! Chaves do carro! As chaves do carro, Dan, as chaves do carro! BGC38|Sem uso
+BGC39|Sem uso
+BGC40|Eu conheço essa garota! Eu a vi online!
+BGC41|Uh, pornô! Eu assisti a um pornô com ela!
+BGC42|Sem uso
+BGC43|É, e mesmo sem ter uma irmã, consigo me imaginar me incendiando! Então, por favor, pare.
+BGC44|Você está brincando comigo, né? Esses são os itens que você precisa conseguir em uma caça ao tesouro de irmandade? Isso é besteira de liga de base! Cadê o animal vivo? Ou a lápide de um político local?
+BGC45|Certo, rapazes, vamos tentar manter essa briga limpa. Vocês ainda são garotos de classe, então nada de flanquear, nada de dar uma manivela, nada de palmadas e NADA de se masturbar. Só quero ver socos na cara, ok?
+BGC46|Então, Madison, entendi que você também é, ah... uma artista. Talvez uma colaboração seja boa. Talvez eu pose para você, você pose para mim, isso... isso não é nada nojento.
+BGC47|Nossa, uh, vamos nunca mais nos falar.
+BGC48|Aranha-Sem-Chet. Lembra? Ele não é o Chet... SEU IDIOTA!
+BGC49|Senhoras, senhoras, SENHORAS! Escutem, o Dan e eu não somos estranhos a brigas entre irmãos.
+BGC50|Então acredite em nós quando dizemos: essa merdinha te incendiou de verdade?... Desculpe, não vale a pena. Vocês já deveriam se AMAR.
+BGC51|Irmãs são amigas que têm o mesmo sangue, irmãos são amigos que têm o mesmo sangue, irmãos e irmãs.
+BGC52|-ah estão se distanciando.
+BGC53|Ah, estou vendo um cara NutBuster, só uma gíria da Blockbuster que você provavelmente entende porque trabalhou lá. Tá bom, tá bom, tá bom. É uma coincidência você estar aqui, nessa festa que encontramos por acaso, eu não quero estar.
+BGC54|Que tal uma foto antes de acordarmos, Katherine? Katherooni Kat-man-du.
+BGC55|Levanta, não-Chet! Tem trabalho a ser feito!
+BGC56|Não me importo com os tornozelos de vidro dele, eu tenho JOELHOS RUINS para esse filho da puta!
+BGC57|O que você está fazendo aqui? Se escondendo no escuro como uma espécie de... homem-sombra.
+BGC58|Ei, não, o Chet tem BOM GOSTO. Que tipo de sucesso você tem guardado para nós, moleque?
+BGC59|Qual o problema com isso? Minhas mordidas são todas Shnibbity-ba.
+BGC60|Ah, você vai esquentar seus filés perto da fogueira, moleque? É, pode falar. É, não é como se eu e o Dan precisássemos da sua ajuda para tirar essa MERDA daqui!
+BGC61|Dan, o moleque está roubando coisas! O moleque está roubando coisas!
+BGC62|É, é, é, é isso, é, isso explica. Quando foi a última vez que você roubou alguma coisa de uma festa e ficou tipo "Vou devolver para o moleque, Timmy!"
+BGC63|Vamos lá, Dan, vamos matar esse cara!
+BGC64|Não, não, o 10-Minute Power Hour é um programa que fazemos no nosso canal. É divertido, descontraído e muito inocente, e não tem nada a ver com enfiar cocaína no meu cu. Que você, o que você disse que era. Não é!
+BGC65|Tenho que dizer, você é uma moça adorável. Talvez esteja pensando demais nessa coisa de peitões. Sério, por que você não vem dançar? Quer dar uma dançadinha, Brittney?
+BGC66|Bem, acho que vamos só trazer a diversão. Dan, dance um pouco para a Brittney.
+BGC67|DAN!
+BGC68|Dan, é fácil, basta dobrar os joelhos até o bumbum tocar o chão, depois saltar como uma fênix das cinzas e se impulsionar para frente com várias estocadas na virilha. Se você conseguir dar uma cambalhota incrível em algum lugar, melhor ainda, então é só passar a bunda por cima dessa cerca, por favor.
+BGC69|Droga! Obviamente nenhum de vocês conheceu a Flórida, porque eu nasci com esse talento para pular cercas. Está no meu sangue. Agora voltem para o filho da puta!
+BGC70|Bati com a cara na cerca e agora minhas narinas estão cheias de brotos.
+BGC71|Com Jimmies?
+BGC72|É, tá, eu acho. Essa coisa toda de cobra no pescoço é meio cansativa, não acha? Quando um artista de verdade vai aparecer e fazer Gangnam Style? Isso vai agitar as coisas.
+BGC73|Ei, ei, ei! Isso não vai mais acontecer! Guarde essas coisas, Katherine. Elas são muito bonitas, mas, por favor, guarde-as.
+BGC74|Meu Deus... você já participou do concurso de Maior Fã do Game Grumps mais de uma dúzia de vezes!
+BGC75|Isso mesmo, e quando chegarmos onde precisamos, estaremos todos lá, e será o fim!
+BGC76|Humm, com licença, quem está fazendo uma bebida quente que já foi deixada de lado? Você sabe o quão perigoso isso é?
+BGC77|Adivinha? Só tem uma resposta, e é "UMA BOMBA INCENDIÁRIA!" Isso é risco de incêndio, pessoal, e eu vou pedir um lenço agora mesmo porque todos deveriam ser protegidos pela lei. Então, alguém me dê um telefone para eu ligar... para o corpo de bombeiros. Me dê um telefone, por favor.
+BGC78|Ei, Dan, olha só! É como um sabre de luz... mas é um pau!
+BGC79|Sinta o poder do lado negro...
+BGC80|Estou voltando para casa! De volta para casa, sim!
+BGC81|Jogue mais No-Chet! Mais mini bombas de banho!
+BGC82|Okayyy.
+BGC83|Na verdade, sim, essa fumaça é bem atraente. Me sinto melhor com essa situação terrível POR UM SEGUNDO!
+BGC84|O que, uhh, o que estamos fazendo com essas pequenas bombas de banho Starbomb? Porque, uh, tenho que admitir que estou me sentindo MUITO ALOOOOOO!
+BGC85|Futuro Dan, é tão fácil de ver: estamos com dor de cabeça para dar uma volta, mas o mais importante, estamos exalando os vapores de mercadorias defeituosas, alguma merda que teria piorado seu banho.
+BGC86|Daniel, então vamos dar uma olhada! Vamos voltar para nossas belezas e nosso Ninja Brian e reunir nossa ordem sagrada NO BJ SCOOTERS TABLETOP GAMING E BUFFET. Starbomb, Game Grumps, Fart-holes, Arin, Dan, Ninja Brian, liberdade e cachorros... e Nintendo!
+BGC87|Oi, eu sou o Grump!
+BGC88|E nós somos os Game Grumps! E estamos AQUI FORA! Haha, é!
+BGC89|Tchau, No-Chet! Nós te amamos!
+BGC90|Estou jogando alguma coisa!
+BGC91|Ha! Roubar essa bebida é legal! Agora ele nunca mais vai beber álcool pelo resto da vida.
+BGC92|Dan, não quero duvidar de você, mas você com certeza sabia muito sobre essa coisa de RV sem ter aprendido essa informação em encontros anteriores com No-Chet ou os outros participantes desta festa.
+BGC93|Hã... eu já te perguntei se você gosta de empanadas? Acho que deveríamos comer empanadas juntos algum dia, porque o escritor disse isso.
+BGC94|*BUFFLE* Puh puh puh! Puh! Puh puh! PLEGH! SPLT! Ugh, isso é muita cusparada...
+BGC95|E se vai haver uma revolta em nosso nome, com certeza é melhor eu acreditar no Dan, e eu quero VER ESSA MERDA. RÁPIDO, NÃO-CHET! ENCONTRE O BLOQUEADOR DE SINAL!
+BGC96|Quando foi isso?
+BGC97|Olha, eu sou um careca grandão e grito com as pessoas por diversão. Estou com cheiro de desodorante e vergonha! Cala a boca! Cala a boca você.
+BGC98|Ah, tudo bem, uma piada sobre a minha sexualidade. Você é um cara bem previsível. Senta aí e CALA A BOCA, seu idiota lindo. Você é tão lindo.
+BGC99|E pra você eu digo: Foda-se. Dan, vem comigo!
+BGC100|Na hora, jovem Daniel. Mas primeiro, precisamos roubar álcool daquele homem. MALDITO DO SR. FAXINEIRO.
+BGC101|Você sabe o que fazer, Dan.
+BGC102|Bom garoto.
+BGC103|Ele quebrou o código sagrado do P-Club! Proibido tocar e, com certeza, sem estourar! Vou banir o Franklin de todos os eventos relacionados ao P-Club! Dan, qual é!
+BGC104|Não machuque meu doce menino!
+BGC105|Dan! Dan! Levanta! Eu não consigo encarar as Lovelies sozinha!
+BGC106|Ei, que diabos? Não é assim que se faz amigos, você deveria fazer perguntas sobre os sentimentos deles.
+BGC107|MINHAS CÓRNEAS! MINHAS CÓRNEAS!
+BGC108|Ah, sim, chupando aquele sabre de luz. Rasgando umas nuvens...
+BGC109|Podia ter umas vozes legais, mano! Até mais!
+BGC110|Parece que você errou e não seguiu o caminho certo com todas as piadas engraçadas. rsrs! Até mais!
+BGC111|É, eu também, diz o roteiro!
+BGC112|Dan... assume a posição.
+BGC113|UH HUH UH HUH UH HUH...
+BGC114|Ei, uhhh-uh, QUE CASACO BONITO!
+BGC115|É, desculpa... isso é muito estranho para nós dois, para ser sincero.
+BGC116|Você sabe onde fica o banheiro? Preciso cagar!
+BGC117|Podemos dizer isso? ...podemos dizer.
+BGC118|Oooooohhhh!
+BGC119|Oooh!
+BGC120|MmmmmMMMM...que tipo de carro o Boba Fett dirige? ...UM MANDALORIANO! Mmmm...Piada hilária!
+BGC121|Já estou perdido nessa porra de casa...
+BGC122|Meus joelhos estão fracos!
+BGC123|Ele parece o T-1000 do Exterminador do Futuro 2!
+BGC124|Talvez eu pose para você, você posa para mim? Isso... não é nada nojento.
+BGC125|Você não tem um pênis?
+BGC126|Pare, não me toque.
+BGC127|Estou tão ferrado!
+BGC128|Meu terapeuta me disse para estabelecer limites, e este é o meu, agora mesmo.
+BGC129|DOO DOO DOOO, DOOOOO DO-DO-DOOO... DOO DOOO, DOOOOO DO-DO-DOOO... Eu amo essa música. E-eu amo-eu amo essa-eu amo essa música, cara... Eu amo...
+BGC130|Espada legal!
+BGC131|Ei, você sabe onde fica o banheiro? UH OH!
+BGC132|Este terreno é grande.
+BGC133|Me dá um beijinho na bochecha. Me dá um beijinho na bochecha.
+BGC134|Cara, para... Tô fazendo alguma coisa!
+BGC135|Dan, calma! Está ficando quente aqui dentro agora!
+BGC136|Hehe... hahaha!
+BGC137|Estamos sempre juntos?
+BGC138|Ah, você tá brincando, né? ... EU SABIA que você era minha alma gêmea!
+BGC139|FODA SUA MÃE Peraí, o quê? Meu Deus! Foda-se!
+BGC140|Todo mundo na festa é fã do Game Grumps?
+BGC141|Quando um artista de verdade vai aparecer e fazer Gangnam Style?
+BGC142|Sabe... Op... Oppan Gangnam Style!
+BGC143|É isso que eu tô dizendo...
+BGC144|Ei, cara, boca é boca!
+BGC145|Você viu aquele dedo de espuma, Dan?
+BGC146|O que você disse sobre bundas?
+BGC147|Quer dizer, você realmente não pode negar isso.
+BGC148|Ah, é claro, mal posso esperar para ganhar um colete com alguns patches.
+BGC149|Cala a boca! Da-ACHOO! ... Dan, vem comigo.
+BGC150|Como vai, amigo? COMO VAI FICAR BOM?! Eu sou um idiota! VOCÊ QUER UM ALCOOL? BEM, É UMA PENA, PORQUE EU SOU UM GRANDE IDIOTA DE MENINO HUMANO!
+BGC151|É, aí está... oh! OH! OH! Bem na CARA!
+BGC152|PISE NO FREIO!
+BGC153|Frank, pare! PARE COM ISSO! PARE.
+BGC154|...Não, não, não, não, não, não, não...Eu amo Indiana Jones!
+BGC155|Uau! Ok... hum, tchau.
+BGC156|Eu nasci com esse talento para pular obstáculos! Está no meu sangue. Agora me dê um espaço, porra!
+BGC157|Aranha-SEM-CHET. Lembra? Sem Chet... IDIOTA!

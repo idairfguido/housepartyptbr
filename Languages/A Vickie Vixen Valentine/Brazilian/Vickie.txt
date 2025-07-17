@@ -1,0 +1,320 @@
+﻿[General]
+Name|Vickie
+
+[Dialogues]
+0|Puta merda, você demorou mesmo, né? Eu não era seu único plano para o Dia dos Namorados?
+1|Talvez se eu não estivesse no frio na última hora, eu te contasse. Agora é só esperar para ver. Que amigo você é.
+2|Cara, ser amigo é isso, né? Largar tudo por um amigo em necessidade, blá blá blá.
+3|Chame do que quiser. Eu não curto muito essas noções antiquadas de besteira. Somos só dois velhos amigos se unindo por causa de uma festa de merda.
+4|E você acha que a gente não se uniu por causa da festa? Nossa, você está partindo meu coraçãozinho sujo.
+5|Quer dizer, aquela banheira de hidromassagem ali... não traz nenhuma lembrança?
+6|Com certeza! E você sabe o que os amigos fazem? Eles ajudam a Vickie a entrar na casa da Madison porque ela perdeu a chave reserva. Não parece divertido?
+7|Para alimentar o gato dela enquanto ela aproveita o Dia dos Namorados com a Ashley e as amigas solteiras. Parem de fazer perguntas e me ajudem a encontrar um jeito de entrar.
+8|Merda, foco. Estamos aqui fora, temos que estar lá dentro. Veja o que você consegue fazer.
+9|Ei, essa é uma ideia! Gostei da sua ideia sobre os seus pés. Agora use-os para subir ali e chegar até uma janela. Venha e abra a porta de correr quando estiver lá dentro.
+10|Dado aberto: eu, ou como quer que vá. Suponho que vou colocar isso de novo. Muito bem... você subiu aquela sacada como um gatinho.
+11|Ah, não, ele está por aqui em algum lugar. Me faz um favor e localiza ele. Agite este catnip e diga: 'Aqui, gatinho, gatinho, gatinho' até que o pequeno apareça. Vou subir as escadas para pegar outros... itens relacionados a gatos.
+12|Tenho certeza. Só não cheque o andar de cima porque está cientificamente comprovado que gatos não sobem escadas. Aquela Katherine me contou esse fato científico na festa. Ok, te vejo em um instante.
+13|Cara, você me deu um susto! O que eu disse sobre não vir aqui?
+14|Tá, não aguento mais falar nisso. Você anda pela casa sacudindo um saco de maconha encharcado que eu achei no trabalho. Não tem gato nenhum. Eu nunca tive a chave da casa da Madison. Somos criminosos, meu amigo! B e E, PORRA!
+14.1|Deixa eu ver isso. Muito alérgico... blá blá blá. Ok, você me pegou. Sem gato. Nunca tive a chave da casa da Madison. Somos criminosos, meu amigo! B e E, PORRA!
+15|Porque eu sabia que Madison e Ashley teriam uma noite só de garotas para esquecer o fato de que não tinham namorados. Esse é o momento perfeito para atacar, se é que algum dia houve um.
+16|Quer dizer, "roubar" é uma palavra tão dura. A Ashley acabou de voltar do Colorado, e suas redes sociais estavam cheias de fotos de todas as coisas legais que ela comprou em um dispensário. Ela voltou com pacotes de guloseimas, se é que você me entende.
+17|Nunca antes! Mas estou pronta para experimentar, e quero que minha primeira vez seja com algo direto de um dispensário. Imagino que seja, sabe, mais puro ou algo assim.
+18|Bem, você está com sorte, porque não estamos procurando por vegetação do dia a dia. Você pode encontrar isso por toda esta cidade. Estamos falando de mantimentos, meu amigo! Você pode não fumar, mas come. Todo mundo come.
+19|Certo, vou vasculhar cada centímetro desta sala... é a melhor aposta. Mas veja o que você pode encontrar em outro lugar.
+20|Ei, você encontrou alguma coisa?
+21|Argh, eu sei. Essa é metade da razão pela qual estou pronto para tentar, para parar de parecer amador. Me afastei do mundo amador há anos. Então me ajude a encontrar essas goloseimas, ok? Procure por aí e veja se encontra alguma pista.
+22|Discordo, gatinha. Do jeito que seu corpinho subiu naquele poste, eu poderia muito bem te chamar de Hallie Berry.
+23|Você está pensando demais. Gosto de relaxar com você, e você não parece ser o tipo de pessoa que gosta de Dia dos Namorados. Imaginei que você seria o parceiro perfeito no crime, mas também alguém que não tornaria minha primeira vez ruim. Ouvi dizer que é tudo uma questão de meio ambiente.
+24|Ela tinha fotos de tudo, então não me sinto mal em comprar alguma coisa. Era basicamente só doces, então aposto que é isso que vamos encontrar. Se você um dia se mexer!
+25|Não sei se você percebeu, mas ainda estamos do lado de fora.
+26|Cara, isso é como apertar as mãos na minha área. Semana passada, fui madrinha de uma garota com quem fiz um ménage à trois. Foi literalmente a única vez que saímos juntos.
+27|Só para você saber, espertinho, a Madison e eu andamos bem próximas ultimamente. Até mandei um DVD de presente para ela há pouco tempo. Então é por isso.
+28|Nossa, agora você entende por que eu precisava do espaço no bolso? Quanto a gente levou? Isso é... um pote de chocolate.
+28.1|Nossa, que bom que esses shorts têm bolsos... Quanto a gente tem que carregar? Isso é... um pote de chocolate.
+29|Uau, estou realmente fazendo isso! Muito bem, é hora de ver do que se trata. Você está oficialmente no esquadrão de descanso e relaxamento. Morde!
+30|Sério, não faço a mínima ideia. Por sorte, a Madison posta status que nem louca, e dois minutos atrás, ela disse: "A noite das mulheres nem chegou perto de acabar!", seguido por dez emojis de fogo. E um monte de emojis, por algum motivo.
+31|Ei-oh, essa foi uma boa queimada. Está tudo bem agora... Sabe, eu nunca tive um bom Dia dos Namorados. Como sempre.
+32|Hoje em dia, aposto que é por causa do meu trabalho. Não me entenda mal, eu amo o que faço, mas tudo gira em torno de relacionamentos... de curta duração. É, nunca é um bom Dia dos Namorados para a pequena Vickie.
+33|O mesmo aqui. É, nunca é um bom Dia dos Namorados para a pequena Vickie.
+34|Meu Deus! Sabe o que a gente devia fazer? Jogar "EU NUNCA!" É o jogo perfeito para maconheiros.
+35|É simples: você começa com três vidas e seu oponente faz perguntas para eliminar suas vidas. As perguntas devem ser coisas que você nunca fez, como "Eu nunca... saltei de paraquedas". Se a outra pessoa TIVER feito isso, ela perde uma vida. A primeira pessoa a zerar vidas perde!
+36|Sim! Certo, só mais uma regra. É conhecida como a "regra da Vickie". Como sou um fanático profissional, você não pode simplesmente dizer: "Nunca fiz pornografia". Sei que isso funcionaria com literalmente qualquer outro grupo de amigos, mas não comigo. Se você puder ser específico, como um filme em que eu participei, talvez valha a pena.
+37|Ah, coitado de você, não dá para vencer a atriz adulta num jogo sobre como fazer loucuras, meu chapa. Vamos começar!
+38|Mas faça isso rápido. Não quero perder tanto, amigo.
+39|Perfeito! Vamos começar.
+40|Eu primeiro? Que honra. Vamos ver... Eu nunca tive...
+41|A conta de Madison foi carregada para invadir sua casa.
+42|Uma vida a menos! Jogo para manter, amigo. Eu nunca... PERDI um jogo por nunca ter perdido. Sua vez.
+43|Estou esperando ...
+44|Droga, como você sabe? Acho que pode ser a minha gíria... que nunca sai de moda. Uma vida desperdiçada.
+45|Nunca acreditei em um gato fictício.
+46|Só resta uma vida! Você nem está tentando!
+47|Putz... Fiquei tão chapado que esqueci! Ok, ainda preso às duas... sua vez.
+48|Faça valer a pena...
+49|Fraco, e eu também não. Você acabou de se ferrar.
+50|Aha! Você quebrou as regras. Eu disse que você tinha que ser mais específico. Não conta, cara.
+51|E agora, o golpe final. Heh, golpe. Eu nunca...
+52|Que se foda qualquer um dos nossos amigos antes!
+53|Vencedor-vencedor, jantar de frango. Ah, a vitória tem um sabor tão doce. Doce, igual àquele pote de chocolate, que está deixando meus olhos pesados... agora mesmo...
+54|Só preciso fechar meus olhos... por um segundo.
+55|Quer dizer, tecnicamente você conseguiu. Você participou voluntariamente. Tudo bem, vou contar, só porque sei que ainda posso te vencer.
+56|Espere um minuto! Ah, volte depois de cuidar daquele gato.
+57|Não. Eu não sabia exatamente. Acho que vamos dar uma volta pelo corredor.
+58|O quarto da Ashley... idiotazinho, na minha opinião. Mas eu gosto do violão. Vamos ver o que encontramos.
+58.1|* Gritos do outro quarto * Quarto da Ashley... Idiotazinho, se quer saber. Mas eu gosto do violão.
+58.2|Bem-vindo ao showroom do pacote de móveis "I Miss Highschool". Disponível por um preço muito baixo, único e que você nunca fará sexo.
+59|Vamos ver... espera. É sério que aquela garota deixou o celular aqui? Eu nunca saio de casa sem ele. Aqui, soldado, veja o que você consegue encontrar nele. Vou bisbilhotar mais um pouquinho.
+59.1|Nossa, cara, que bom. Vamos ver... espera aí. Aquela garota deixou o celular aqui mesmo? Eu nunca saio de casa sem ele. Aqui, soldado, veja o que você encontra nele. Vou dar uma fuçada mais um pouquinho.
+60|Talvez isso não te surpreenda, mas eu ouço isso com frequência. Me avise onde precisar de mim.
+61|Tudo bem, sai da minha frente, amigo!
+62|Tá, essa é uma história muito engraçada. Eu não conseguia passar o braço pelas cordas, então, como qualquer pessoa sensata, parti o violão em um milhão de pedaços. Então, é isso, vamos trancar o quarto da Ashley e fingir que nada aconteceu. Tá?
+63|Exatamente o que pensei. Aqui está a chave, você sabe onde ela vai?
+64|Estou com você, Sargento.
+65|Cara, você não é muito bom com instruções, né? Você nunca conseguiria entrar no mundo pornô. Fique lá embaixo enquanto eu procuro aqui.
+66|* Atrás do vidro * Você gosta da vista? Ela traz boas lembranças, garotão?
+67|Nossa, eu sabia que isso te interessaria. Abre logo.
+68|Isso não parece algo que um gatinho diria. Devo gostar da minha calcinha nova, é a única maneira que pretendo celebrar este feriado. Mais uma para a bravata, mas preciso do espaço no bolso.
+69|Eu sei que ela é a irmã mais nova... mas ela tinha que ir com o beliche? Me sinto como se estivesse no set aqui... Vickie Vixen em "Babás Peitudas"! Por favor, senhor, eu não queria estragar tudo. Tem como eu te compensar?
+70|Já perdi a conta. Amo o que faço, mas quando os filmes começam a atingir os dois dígitos, paro de abrir espaço na estante para quando meu exemplar gratuito chegar pelo correio.
+71|Claro que sim! Eu também me arraso em literalmente todas as cenas em que participo. Eles me devem uma cópia grátis e um salário gordo, claro. Mas, como eu disse, não estou guardando muitos ultimamente. Ultimamente, tenho enviado para amigos de brincadeira, mas primeiro troco meu filme obsceno por um box de DVD que eles realmente querem. Enviei um para Madison há pouco tempo. Será que ela o guardou?
+72|De jeito nenhum. Eu não vou comer o meu até você comer o seu.
+73|Você poderia se apressar e começar a comer essa maldita coisa logo?
+74|Estranho. O gosto é bom, mas não sinto nenhuma diferença...
+75|...E então o garçom volta para a mesa, e Tara está com o sutiã por cima da blusa! Ele levou apenas uns 40 segundos, no máximo, para tirá-lo, levantá-lo e mais um pouco.
+76|Este pode ser o meu fim!
+76.1|Dê-me o seu melhor, soldado.
+77|Você acabou de... me dar a vitória? Você sabe que este é o melhor Dia dos Namorados que eu já tive. Você poderia ter ganhado...
+78|Certo, então que tal isso? Nunca transei com a Madison.
+79|Você tirou as palavras da minha boca, garotão. Se entendi... Acho que precisamos subir. Sabe, pelo bem do jogo.
+79.1|Sabe, a gente podia empatar... nos chamar de perdedores ou vencedores, mais ou menos. Mas primeiro, preciso transar na cama da Madison... Hmmm, bom, acho que vou subir e ver se dá certo pra mim.
+80|Ah, e faça alguma coisa com isso, não preciso mais do espaço do bolso. Que droga, pegue isso enquanto estiver aqui.
+81|"Oi, Madison, obrigada por me convidar para uma festa tão boba. Para dizer o quanto eu agradeço, fui em frente e te dei o filme que conversamos. Abra e aproveite! Obrigada de novo! Beijos, Vickie."
+82|"Haha! Esse filme ainda não estreou, bobinha. Aproveite meu novo filme hardcore. rsrs - Vickie"
+83|"Eiii, é a Vickie. Deixa eu adivinhar, você também vai tirar férias?"
+84|"Conheço a internet, cara. Não é tão difícil assim. Preciso que você me encontre na casa da Madison... Preciso de ajuda com uma coisa."
+85|"Vamos aproveitar o tempo livre. Preciso que você me encontre na casa da Madison... Preciso de ajuda com uma coisa."
+86|"É só aqui... vai ser divertido. Entre pelos fundos. Quero dizer, pela porta dos fundos e nada mais. Ou não? Apareça e descubra!"
+87|Olha, minha mentalidade vencedora é extrair o melhor de mim. Vou dar outro golpe baixo. Eu nunca...
+88|Ah, lá está meu pai, meus irmãos, meu avô antes dele. Foi o único tipo de vida que conheci enquanto crescia... Aí eu encontrei as revistas pornográficas do meu irmão e o mundo inteiro mudou...
+89|Vou perguntar: você é fã? Ou acabou de encontrar o DVD que enviei para a Madison como um presente de brincadeira? De qualquer forma, você tem razão. Parabéns, pequeno cão de caça.
+90|Deus, finalmente.
+91|Você está tentando escapar de mim ou algo assim? Ninguém escapa da Vickie Vixen, principalmente no Dia dos Namorados!
+92|Argh, vocês são como meus fãs na internet. Eu assisto Brain Friend demais, demais mesmo.
+92.1|Não comece sem mim, venha aqui.
+93|Faça o que tiver que fazer, vou dar uma olhada no meu celular... talvez fazer umas apostas esportivas. Me avise quando terminar.
+94|Parabéns, campeão. Você teria deixado o set bem fluido. Tenho certeza de que este vídeo que acabei de gravar vai realmente mostrar seus talentos.
+94.1|Tá, então foi para te ajudar a durar mais ou algo assim? Respira fundo, cara. Você ainda vai ter que me fuder.
+95|Então... você é um desses caras, precisa se aquecer ou já começa logo? Porque eu poderia te dar uma boquete incrível no Dia dos Namorados, mas não sei quanto tempo temos até que a Ashley se canse das besteiras da Madison e volte para casa cambaleando.
+96|Hum, estarei aqui... esperando.
+97|O que você achou do passeio, sua grande vagabunda?
+98|É quase como se eu estivesse fodendo a minha vida. Agora me fode com mais força!
+99|Merda, porra, estou indo!
+99.1|* Suspiros e risadas *
+100|Cadete, devo dizer, isso foi de tirar o fôlego. Minhas pernas ainda estão tremendo. E sabe o que eu estava pensando no banheiro? Ganhei chocolate no Dia dos Namorados! Afinal, você é mesmo um gatinho! Feliz Dia dos Namorados, gatinho.
+
+[Responses]
+90981fc5-c9ef-47b1-b18e-e851ec0f8586|Eu vou fazer isso, eu vou fazer isso! Só me dá um tempinho, droga...
+b802880a-2398-44dc-ad2b-9cd0d8fe7ee5|Por que estamos na casa da Madison?
+e338b090-bf45-4381-a064-008a57ec0c26|Você me mandou uma mensagem há apenas uma hora!
+bbbbe39c-c772-4837-bc9c-36094fd95846|Então hoje é Dia dos Namorados, certo?
+f7369fde-e462-4364-a93e-e8e5ff1e0e7e|Nós só nos encontramos uma vez antes...
+1cd5e753-3dba-4736-b140-7870e1cea480|Nós só nos encontramos uma vez antes...
+fc0c0205-9e4e-4861-8aa6-fd2eeffb5fad|Nós só nos encontramos uma vez antes...
+ac0e16ac-a70e-403a-b70a-78f519cb3f96|Bom ...
+b7f41db1-5eb3-4d19-a131-4e11fe2a8069|Heh, boa observação. Acho que isso nos torna amigos.
+1815b3be-f410-43e5-94db-0519fbbd6aa3|Por que Madison lhe deu uma chave?
+6bfe53bc-9e3b-44e7-99ec-50e29b30f558|Não me lembro de ter visto um gato por aqui antes...
+87ee0e03-f242-4da9-a800-b42977da77ee|Eu entendi, eu entendi.
+ff68c231-9b9e-4b9b-9dec-c0a3a4e6e1a1|Pode ser.
+445b7c87-ccb4-424b-95e5-e762edd03671|Hum, apenas um gato normal.
+0b69beb0-7fa9-475d-880a-b29ffc3ecfcc|Falando em gatos, definitivamente não há nenhum aqui.
+35c1c612-ba08-473a-9265-e400ebdc4026|Eu deveria simplesmente deixá-los de fora.
+69b2786a-a5aa-4e0f-bf4f-f2e1665545d4|Você tem certeza disso?
+01112fff-ce81-4c6c-866b-43dc4c78fad4|Não creio que isso seja verdade, mas vou ver o que posso fazer.
+3b55873c-22ab-4a29-8d2c-86cd2609d69e|Madison é altamente alérgica a gatos, mentirosa!
+74f3804e-688f-4aa7-afc7-b903809b857b|Pare de me enganar e me diga o que está acontecendo!
+affabc97-88f7-49a5-b049-3c8c78face15|O quê?! Por quê?!
+bc1836cd-6f5d-4c2c-b221-401033454faa|Você está aqui para roubar alguma coisa.
+e9b2a7c6-a517-4e03-a272-3199a13c7228|Mas eu pensei que você não mexia com a maconha?
+bd566f82-c6a0-44b6-88c3-e9d09b77f1ef|Isso é um pouco bobo, mas tudo bem.
+ea83ac1d-8a6b-47b9-8100-f5eb0bdc3bd1|Eu realmente não fumo.
+564fa723-b818-4dd0-a62f-8affb8801820|Não vou fazer isso. Vou para casa.
+42720fb0-2d02-4a76-9852-c1bd083ecb67|Hum, tudo bem.
+b6a17524-df8b-4efb-8005-b888284cf89d|Estou aqui agora, então vamos conseguir uns doces.
+4e2cc33c-c4b1-48e8-8c34-f1a984f3a73f|Que tipo de doce estou procurando exatamente?
+ba996f54-00a5-4135-a66b-aa70452c4d25|Por que você me atraiu aqui com uma mentira?
+19f04e16-71d0-40e8-973a-742864f209ba|Você sabe que este é o quarto da Madison, não da Ashley, certo?
+27f6a3a1-0415-4d61-9060-55d493c4546a|Rápido, preciso de suas mãozinhas!
+d44b22f0-1bf5-474a-adc7-e076af3a694a|Nada ainda.
+5f74779f-aca8-4da7-a348-2f7a961a94ab|Posso entrar rapidinho? Obrigado.
+4010fe66-d532-45c8-b5de-a23a64b44a53|Doces? Ok, vou te ajudar a encontrá-los.
+035e0eff-679f-4679-b830-9dea5762a50d|Falando em gatos, não vejo nenhum por aqui.
+ea8b8928-71e1-43f3-8630-34509627d7fd|Você tem razão. Obrigada por confiar em mim. Mais ou menos.
+3800233d-6608-4248-9ae4-dc81250e57d0|Todos os sensores estão configurados para doces.
+1cb7bdf5-e42d-4a02-9249-52461fe7882b|Então sexo na banheira de hidromassagem nos torna amigos agora, hein?
+841178c9-8509-44e5-a897-5111c38b5aae|Então... Por que Madison entregaria uma chave reserva...?
+4a67e8af-8304-40db-8421-a06b902724cd|Estou trabalhando nisso.
+b7d46a95-d93d-4aa7-a532-88be4fa793cd|Sua vida é uma loucura.
+a6f90199-1878-4768-a200-a95c4d2a98da|O que você disser.
+1539a367-c3e2-4c8c-a665-195105dda7cd|Nós dois comeremos uma barra inteira!
+3b9920f9-82ea-48bc-af47-29b0bb5f62c4|Você vai primeiro.
+fc60c348-8c6e-4105-8ccd-7110e2caf10e|Quero dar uma olhada antes de me aprofundar nisso.
+92454574-e6f5-4dd3-8d16-b6a01c751ab4|Bom, então provavelmente Ashley está lá.
+c31704ef-0340-4391-86ea-e55dafb7c1a1|Porque?
+05e5320d-fc02-4335-b326-216abe4d8a2f|A maioria dos meus se gasta.
+9aabb4f0-2e9a-41a8-b8f5-debd50f0439a|Nunca diga nuca.
+d1d4c336-d5d0-4f4b-a390-6710dac46e34|Nunca diga nuca.
+6c9fb2b8-3ff7-4f45-8cc7-4ddd1b8dc236|Como jogamos?
+356f8a32-c88a-496e-85ef-1aece5717d5f|Sim! Eu sei jogar. EU NUNCA.
+bf815524-dcda-44f5-87d3-31ad0fb42984|Claro que sim! Estou dentro.
+79071dba-2496-4942-8eda-c8e06126c391|Parece uma régra barata.
+efb89e71-908d-4335-bc34-ddbee5318ebb|Por mim, tudo bem. Vamos começar!
+1969c126-be21-41b4-b606-ca4c7a949aa2|Certo, estou pronto. Você vai primeiro.
+2a0f96f0-a229-4cb8-8a83-c1d1d2766b31|Espera, espera! Preciso usar o banheiro antes de começarmos.
+cecdc7c9-251c-4c0f-95d8-a5234826a620|Tudo bem, você vai primeiro.
+e0ed1705-f5f1-4dcc-a300-0aaeefe3a1b4|Espera, espera! Preciso usar o banheiro antes de começarmos.
+7ff65d9a-17eb-4daf-a7cb-e2f124a3351a|* Suporte de impacto *
+82c69902-467c-471d-a62f-8a174af9bdd3|Uau! Golpe baixo!
+c985a658-3a0c-4c0d-8294-ef6cb1eb6f34|Eu nunca tive...
+6bbeaf90-1bd2-41ec-9a94-d0ca00ff9317|Ele teve uma perfuração.
+f47a4e40-52ed-41f8-9ef6-769a4e1613c9|Tentei transformar uma festa em uma orgia.
+779e4f92-b3cd-4946-bae6-fa0755fbaf1b|Vem de uma família militar.
+dc82a327-aaa3-46d2-95a5-d5be4bd33494|Quem na sua família serviu no exército?
+b20c4c3e-08bc-4ab9-9ed3-35818fba1c91|SIM! Estamos empatados, faltam duas vidas. Sua vez.
+ae6e0626-b71b-47c0-9ae7-8cb5780987e3|Maldição.
+d796d93b-b2a2-40c3-a57d-5bc00c130479|Não conta! Descobri que você estava mentindo, lembra?
+87de7a31-b53a-40ff-825d-9b934b2f71ba|Não importa. Eu nunca...
+91bbe694-8755-476f-b560-5518d40f265a|Eu nunca tive um...
+aaa838ee-5808-450e-a9be-e191463a09f4|Ela estrelou um filme chamado "Gothic Gangbang 16".
+9dc63e0c-d334-446d-ab90-f1e0374825d9|Hum, o paraquedismo acabou.
+d02c71e5-3cad-402f-8528-29b7fd50ac95|Eu estava em um filme adulto.
+7be3a21a-bc63-416c-bf9e-e3637a72c2ff|Merda!
+d7e26f79-a505-47f6-9e6a-e4f3c2254f08|Ainda estou nisso!
+29ac9cf2-b1ed-4e41-a564-17e308386660|Merda!
+4c3d63c7-7dea-4b03-a4a9-21f06daba352|Ainda estou nisso!
+b4f2e35d-0e0a-4687-965e-1ca9a02b84d5|* O fim está próximo *
+7786a728-b823-4721-a818-e3965c00823d|E então, estou fora.
+1c6c35eb-746f-4599-aa51-d46b4c6628e5|Merda. Ainda tenho mais uma vida pela frente... Minha vez.
+0613d12d-fcfd-4963-a626-afbdcab21285|Ah, não desmaie!
+f0d59ed2-5c77-41f4-9b10-3d8d6ad3038d|Ah, não desmaie!
+2857efc0-6453-4c4d-9f50-c212c3c90f91|Boa noite, Vickie. Feliz Dia dos Namorados.
+4ecf700e-a0d2-41cc-863a-398f5c046a88|Vamos ver o que você tem.
+6ae4d0b6-8f15-4a7f-9bad-80aa85b34550|Ok, vou continuar... tentando encontrar um gato.
+a68cba5d-2496-4b25-8e04-106343d8c8c9|Você quer vir falar comigo?
+39300971-5f22-4a10-891b-14e7430bbb9a|* Sacode os comprimidos para alergia e abre a porta *
+1710c315-aa25-471f-84e0-9bacdd143a2b|* Jogue a erva e abra a porta *
+d24e6db3-3dfa-4490-a0db-4462e5bef22b|Última porta à esquerda.
+f0bef9dd-5f88-459f-885c-3b1d54499c72|Chego aí em um segundo.
+2bf8424f-47b3-4a61-a75f-29034fdbc6d1|Ela é a irmã mais nova, mas acho que ainda está na idade da faculdade.
+dbdfc454-2dbe-4858-98b2-52e60a2ec9da|Deixa isso para lá, precisamos chegar na chave dentro daquele violão. Minhas mãos são grandes demais para alcançar!
+ee2c2828-e749-445c-bd91-9095a245f2a1|Posso fazer.
+3fc8ee91-e367-439f-ba33-453859604877|O violão da Ashley. Tem uma chave dentro... pegue-a com suas mãozinhas.
+36332caa-c041-4706-83f1-fae0af6615d0|Tem uma chave no quarto da Ashley... você não sabia que esse é o quarto da Madison?
+6a1f8c0d-72e4-48fa-9bc6-af98e53da61f|Uau. Espero que a Ashley chegue em casa bêbada e ache que foi ela.
+ba8ff934-4591-4f50-86ca-49a147dd0bd2|Tenho certeza que sim. Siga-me.
+c930cf95-20d9-43db-8bbd-b87f620e8649|Ainda não, mas tem que ser a solução. Siga-me.
+75be694c-f69f-4aa1-98d1-a252f11f6f22|Que lindo dia dos namorados está se tornando.
+64994a5f-ba5a-4619-9b03-7148f00bf168|Uau!
+b970a28c-64c9-4bc5-b633-ba21a1fa4015|Você é louca, Vickie.
+f3e54ddd-192b-4ba6-a9b5-3bf063b03932|Estou chegando, estou chegando.
+e31f4309-1637-4f0f-a1c0-b3987d0307bf|Falando em gatos, definitivamente não tem nenhum aqui.
+0f390184-3d5e-4842-a237-211d957f6a98|Você verá o que pode encontrar!
+7a1c54ac-81c4-4e35-9222-91e1dbe10fdb|Então, em quantos filmes exatamente você atuou?
+66e26c27-51a0-4eb4-8de7-5cf7c88bf74e|Pegue a chave agora!
+80a33407-1afd-406a-8de3-24e7a56e8aae|Eles lhe dão cópias dos filmes em que você aparece?
+a4e21e39-cb4b-491b-b37f-40359ad40bba|Bem, vamos tentar encontrar algumas pistas aqui e depois talvez façamos uma busca pelo DVD.
+2b9b41e7-18ba-4ee5-b726-0b4c2cfdae38|Pegue essa chave e talvez possamos ir em busca do DVD.
+0066a382-1d0c-48fb-a6d4-5a71f8ecf817|Tudo bem.
+a7a56e04-269c-49fb-9fcc-33a4930cd2cd|Ótimo, Jesus.
+fdd38a35-a34c-4915-9c3c-ad9d19de8e38|É, eu também não...
+d35b7be5-8979-4ca7-b6b4-6d244cbb6587|Nossa, isso é bom demais! Há quanto tempo estamos conversando?
+77a4d982-f7d5-4475-a1ca-2f1ec8d7ee0b|Tive um Dia dos Namorados incrível.
+ca6c6280-8f0b-4931-8022-d05844e00713|Sim, bem, este tem sido um momento realmente incrível.
+29e9af90-6b93-46f7-a1bd-57ffc56017d2|Ah, destruído. Estou fora.
+55c04a03-3954-4bc1-a393-574c21afeb2e|Só tem uma possibilidade de nós dois perdermos agora. Um empate.
+354a19ab-327d-4227-81c6-ffa581adf4ba|Estou logo atrás de você.
+8134d261-19a5-47b6-8f30-1a43248d69f5|Isso foi muito quente.
+fa85d015-0d4e-4b1c-807c-c1ea5a96e0c7|* Finalizar anotação *
+aa12154c-0850-46fc-bdd6-f6f530d96774|* Finalizar anotação *
+078486f2-7501-47f8-bb51-e78aa884b13f|"Olá, sim, com certeza.".
+0f36f0b3-0a6d-429a-88e9-f98dc002f0af|"Como você conseguiu meu número?"
+b41117ef-635e-4e55-b769-5d70fc812c6b|"O que é?"
+84813738-fa5b-47a2-a925-711887c6913f|"Porquê?"
+8d9abab2-8132-44ed-8c68-06fc0de99de9|"Uh, até breve".
+f6897896-2f57-4464-a9c1-65857203a53e|Meu Deus...
+900d00fa-a350-46f1-aae9-10ff41ff1083|É melhor pará-la, antes que entregue algo que possa me comprometer.
+feecf0a7-32e3-4da8-83d4-c8c8a071e466|Pode vir.
+d37f4897-dd37-434e-b974-560009af476c|Pode vir.
+9b4b902e-a8e6-48b2-853b-85bc14ddc0f7|Vickie, onde você está?
+7f53d3c5-8b49-44e0-bdd7-7aa9f1eadecc|Vou para casa, Vicky! Me deixa em paz!
+c552e2af-78ce-4dee-8b84-093198cec9ca|Eu o chamo de Chuck Yeager.
+3c11b1f4-360e-440e-87ce-d3e90717a073|Não vou demorar.
+9dd5a59a-d533-432a-a532-d268e01ed229|Vídeo? Apaga isso!
+f6e3b193-422e-4948-bfef-ac1bf861532e|Certo, só me dê um segundo.
+9f57bc4d-1a2c-4af0-94e6-16bb34b7c546|Explore-me primeiro.
+00833ba9-3340-4053-b2bb-23e52fdfaa0e|Eu quero te foder. Agora mesmo.
+4d0556ed-08e2-4115-9b34-1f5b22dc2430|Isso é incrível pra caralho.
+c7909ba8-10bc-495e-831c-0b1f012cf663|Você conseguiu!
+eb9b2cbd-808c-4c49-be4e-f083f54badb3|* Continuar *
+5055c7e3-5bbe-40dc-a668-04195c27dd8f|Droga... parece que alguém está se divertindo! Vamos relaxar um pouco.
+20d44fc6-9729-4d4f-bdb5-188e4189f67a|Feliz Dia dos Namorados, Vickie.
+
+[Quests]
+25bae201-0cae-404e-bf17-76c378252b9d|Bosque do Tesouro
+25bae201-0cae-404e-bf17-76c378252b9dDescription|Encontre os doces, porque o que seria do Dia dos Namorados sem alguns doces?
+25bae201-0cae-404e-bf17-76c378252b9dCompletedDetails|
+25bae201-0cae-404e-bf17-76c378252b9dFailedDetails|
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0|Grupo de estudos
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0Description|Encontre o DVD da Vickie.
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0CompletedDetails|
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0FailedDetails|
+f41f68a0-7293-4142-958a-45f5ea34482a|Agite, agite, agite, moça
+f41f68a0-7293-4142-958a-45f5ea34482aDescription|Agite a erva para encontrar o gato ou encontre uma maneira de provar que ele não existe.
+f41f68a0-7293-4142-958a-45f5ea34482aCompletedDetails|
+f41f68a0-7293-4142-958a-45f5ea34482aFailedDetails|
+
+[Events]
+73917f0e-83d9-468a-bf26-27d9c702f9b2|Por que fugi daquela moça gentil e quase nua? Preciso reavaliar minhas prioridades...
+4738091c-8de2-4e16-ad22-fc99cbb62a7e|* Vickie devolveu os comprimidos *
+13ab9fe5-be96-4c2a-8686-f3cd8caf41ba|A Vickie não disse que enviou um DVD pornô para a Madison? Será que consigo encontrá-lo...
+dbed221d-9117-424b-ad7d-d50e0c941870|Putz, eu tinha brincos de argola de ouro no ensino médio. Foda-se os anos 90!
+2620e0d2-def7-4056-a608-d278bfcf7de0|Graças a Deus não caí nessa porcaria de gato...
+F44034be-1a24-43eb-a0c3-4e3f5950485a|Merda, talvez eu devesse ter tentado descobrir o nome de um filme específico...
+bb7d0bb3-0f5c-4496-a415-8edfe135b31d|Você joga um cobertor sobre Vickie e apaga as luzes antes de ir para casa. Você manda uma mensagem para Madison, avisando que ela deveria receber uma visita quando chegasse em casa. Quando ela soube que era Vickie, ficou animada.
+Dito e feito, um ótimo Dia dos Namorados. (Tente ganhar na próxima vez!)
+Game Over.
+d5f87a6e-af3c-4e67-a75b-4b51a93a1658|Eu deveria pegar essas pílulas, elas são a prova de que a Vickie está mentindo.
+1984d190-3664-4068-85be-7b8ba39909d0|O silêncio é uma resposta suficiente. Acho que devo encontrar esse gato de novo... ou encontrar uma maneira de provar que isso é um absurdo.
+517d39b6-02a8-413a-b3e0-869eb1825176|Eu sei que isso é uma merda, eu poderia correr para dentro!
+46f18e6a-eff6-4639-aae9-1ab3ca9d80d8|Ora, Vickie, ela guardou. Mas você não precisa saber que eu encontrei.
+0b554829-3cfc-4ab6-a734-d0233e8c355e|Uma hora depois, você e Vickie estão definitivamente curtindo. Comer uma barra inteira cada um foi... uma escolha interessante. Mesmo assim, rende uma conversa muito divertida.
+a7601b5f-decf-4499-8688-2496a2067b9f|* Vickie enfia o short e a calcinha na sua cara. Você os segura com as mãos. *
+0536ad79-8439-4e9a-9ed2-fdb5ce82a30f|Isso é muito engraçado. Droga, essa caixa está vazia. A travessa Madison já deve ter visto. Eu devia tentar achar aquele DVD...
+0f209237-d2e3-44c6-b803-c866f2c0aaa3|Este deve ser o DVD de que a Vickie estava falando. Droga, não está aqui! A travessa Madison já deve ter visto. Eu devia tentar encontrá-lo...
+77dbe5e6-4282-426c-96d9-7f87f58d30cc|Depois de ler as mensagens, você se pergunta se deve comer alguma coisa e ir para casa, mas aí você pensa naquela gata Vickie Vixen e lembra que ela é muito boa em se segurar. Hoje não é mais o Dia dos Namorados da Solteira.
+Aproveite nossa história surpresa e obrigado pelo seu apoio!
+0035f28b-7e18-41a5-a363-7ceea8e3d7aa|Estou tão chapado que esqueci como transar? Vamos ver... Passo 1: Tire a roupa. Passo 2: Confirme se seu pênis está pronto para endurecer? Passo 3: Hmm-fuuuuu sorvete de manteiga de amendoim, seria ótimo, peraí, sem... lucro?
+dea62bc6-7d59-44c1-9860-80f5bbea97b0|Droga, olha só ela. Preciso tirar essa calça e minha cueca!
+5f812e00-3c7d-448b-a538-49dcd9f79fcb|* Vickie arranca a blusa *
+d12b50eb-5c2c-4164-97e8-35733efec555|* Vickie arranca a blusa *
+cc8f7c23-66c1-402e-896f-f3d1f4838747|* É -mas- é hora de trazer um pouco de romance para o Dia dos Namorados, opte pela abordagem de se aconchegar e conversar antes de explorar o caminho de volta para o seu corpo...
+b7820056-b072-4987-9bc6-cc5b0217f31f|Pronto ou não, Vickie, terminei aqui...
+1e985d27-5ef1-4f57-ac9a-a36307753b9a|Você e Vickie limpam qualquer vestígio da noite passada na casa de Madison antes de saírem pelos fundos como Bonnie e Clyde modernos. Madison e Ashley voltam mais tarde naquela noite, bêbadas e ainda solteiras, sem a mínima ideia da noite maravilhosa que tiveram em casa.
+Fim de jogo, feliz Dia dos Namorados.
+Dia dos Namorados: Você está no quintal da Madison e tem a estranha sensação de que não deveria estar lá. Afinal, Madison não te convidou.
+Lembre-se do motivo pelo qual você está aqui: a conversa que te fez levantar do sofá na noite mais romântica do ano. Tudo começou com uma mensagem de um parceiro inesperado... Reveja a mensagem mais uma vez.
+4ec06d04-17a0-404f-b416-987369553fcd|Ela está me esperando... deveria pelo menos tirar minhas calças e cueca...
+ce8c5c14-d4f6-429a-a72b-051a30a5059b|Só preciso de um momento para me recuperar, e depois é hora de retomar essa preguiça do Dia dos Namorados!
+12166807-ce1b-43e1-8d46-5ea420afb235|* Vickie agarra você pelo pau e te enfia dentro dela *
+c54e8db5-43e3-4844-b3e9-694bbd44dc22|A Vickie está pronta para transar, e você já gozou. Quer que eu te provoque ou você consegue lidar com isso sozinha? Não se preocupe, eu vou garantir que você esteja de calça comprida para poder voltar mais tarde.
+9df34884-31ee-42cb-a425-104077a625e4|Seu pau não é tão grande assim. Chega mais perto, Thadius Thundercock.
+b3bb85cf-50b7-4ffe-a17e-8fc498aac7b8|Droga, minha perna está tremendo e tudo! Eu deveria escrever um livro...
+89eb0172-15a9-491c-b8d1-369f0e92953f|Espere, aqui está a foto de um gato. Isso é real mesmo?
+3e276ef9-12ce-4b2e-a838-9f532366c035|Então você conseguiu desligar a música antes de sair... mas não apagou o fogo? Eu provavelmente deveria falar com a Madison sobre isso.
+9a64e165-4263-4cde-a4d8-cf9a906e0bc9|A Vickie está seguindo meu entusiasmo e se rebaixando. E disseram que eu nunca inspiraria ninguém!
+c6ef8ee4-7c8d-4c30-9f08-a2dddf6078e7|Merda! Merda, não consigo parar...
+a476fdd9-972a-4593-9940-890fcbcb2fb3|Merda... ponto sem retorno!
+
+[Background Chatter]

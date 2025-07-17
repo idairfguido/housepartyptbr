@@ -1,0 +1,33 @@
+﻿[General]
+WhichStoryText|Que história você gostaria de jogar?
+UnderDropDownText|(Você pode adicionar mais histórias baixando-as ou criar as suas próprias!)
+StartNewGame|Iniciar um novo jogo
+LoadGame|Carregar um jogo salvo
+VisitWebsite|Visite nosso site para as últimas notícias
+DownloadStories|Baixe ou compartilhe histórias em nosso fórum
+StoryCreatorHelp|Aprenda a criar sua própria história
+Quit|Sair
+ChooseLanguage|Escolha o idioma
+LockedDoor|Trancado.
+CantDoThat|Você não pode fazer isso.
+
+[Item Names]
+Sticky Briefcase|Pasta adesiva
+You|Você
+
+[Item Actions]
+Inspect|Examinar
+Talk|Falar
+Poke Boob|Toque no peito
+Help|Ajuda
+Untrained|Não treinado
+Defensive|Defensivo
+Offensive|Ofensivo
+Outrage Mode|Modo de indignação
+
+[Item Group Actions]
+
+[Events]
+c0f91c07-914f-49d6-a83d-42b067ad46f3|Não só é pegajoso... como tem cheiro de vergonha. E algodão-doce. E... ostras? Você está claramente no inferno
+
+[Achievements]

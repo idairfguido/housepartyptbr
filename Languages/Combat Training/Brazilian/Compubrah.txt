@@ -1,0 +1,27 @@
+﻿[General]
+Name|Compubrah
+
+[Dialogues]
+0|*Murmurando*... atse.cx como nos velhos tempos... oh. Olá. Olá. Você é real? Você parece... familiar. *Pausa* Vejo aquele brilho de esperança nos seus olhos... se você me conhece, significa que você deve ter feito alguma merda para chegar aqui, cara.
+0.1|*Murmurando*... com um fetiche por barbear e a-oh. Olá. Olá. Você é... você é real? Você parece... familiar. *Hesita* Não, não é familiar. Mais como uma lembrança que está... ali. Uma que me dá arrepios e eu não quero olhar ninguém nos olhos.
+0.2|*Murmurando*... eu não conseguiria fazer isso com um bebê, por que você diria "oh"? Oi. Oi. Você é real? Você parece familiar. E real. *Considera você brevemente* Não, não é real. Pelo menos eu acho que não. Se você está aqui, talvez você seja uma merda de verdade... mas não "real" -real.
+1|*Zomba* Você está falando com uma caixa sobre sua crise existencial. Essa é sua primeira investida investigativa, campeão?
+1.1|*Zomba* A maleta usada em cima da cama pornográfica realmente parece a solução ideal para sua situação?
+2|Bom, em sua defesa, eu sou o único... e nem sei se posso ajudar ou não. Tente pressionar essa coisa... macia e carnuda embaixo do meu rosto.
+3|*Um coro de gritos horríveis ataca seus ouvidos*
+4|*A maleta grita com você* ESCOLHA SEU DESAFIO, FERA DE CARNE, E PREPARE-SE PARA ENFRENTAR JULGAMENTOS PRECISOS E INFALÍVEIS! VOCÊ ESCOLHE: "PERIGO PROVÁVEL" OU... "CHUVA MATINAL COM CERTEZA ABSOLUTA DE PERIGO?"
+
+[Responses]
+d4cdefdc-d46d-498a-914c-e79d494a5738|Como cheguei aqui... e como diabos saio daqui?
+cb486e19-63c1-4235-bafa-14dca0912077|Eu ... sim?
+268aa4c5-1c88-4ed6-97d0-c41d73c55f33|Bom ...
+a80ef47b-b93b-4684-b5a2-497dbe355c4f|Heyhey whoa QUE PORRA É ABSOLUTO?
+ea034d0b-8ae7-459a-ba5b-ba23bca54cd0|Hum... aquele que é simplesmente provável? Não consigo imaginar que seja tão ruim...
+839f4551-aeab-460e-9df0-a3fc6bda4604|Estou pronto para o pior. Me dá o segundo e foda-se
+
+[Quests]
+
+[Events]
+33c98bc8-6987-4987-83ed-f05e14ffd0ef|Ele não mentiu para mim da última vez? Seu sacana traiçoeiro ...
+
+[Background Chatter]

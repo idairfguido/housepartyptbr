@@ -1,0 +1,217 @@
+﻿[General]
+Name|Doja Cat
+
+[Dialogues]
+0|E aí?
+0.1|Nossa, sua aura está negativa. Bem, o que você quer?
+0.2|Olá. O que você tem a dizer, jovem Padawan?
+1|Pronto, é assim que se faz! Mantenha os olhos no alvo, ok?
+2|Eu não preciso disso. Sério.
+3|Chega disso. Eu vou te matar!
+4|Meu Deus, seremos eu e o Dinolicious. É o meu momento. Isso está acontecendo mesmo. A colaboração do século... da década!
+5|Cale a boca! Estou tão animada, vamos fazer isso direito. Eu tenho um plano... um grande plano de 4 partes. Vou chamá-lo de "Dançapalooza Dinolicious Louca da Doja".
+6|Você vai ser quem vai completar este plano de 4 partes, e pode fazê-lo em qualquer ordem, mas precisa completar todas as partes antes que eu possa começar.
+7|De qualquer forma, preciso de um palco. É a primeira parte do plano. Vou precisar de segurança, uma transmissão ao vivo e uma equipe de filmagem. Talvez eu devesse começar pelo palco, mas você parece ser o tipo de cara que diz "dane-se, não vou fazer o que você manda". Eu entendo, então deixo isso com você.
+7.1|E aí?
+8|Olha, eu não sou nenhuma prima donna, mas a Doja precisa de um palco. Quero pessoas dançando comigo no centro e o Dino na frente, como as superestrelas que somos!
+9|Você deve ter me ouvido dizer ao Derek que o mundo inteiro verá nossa colaboração. Para isso, teremos que hackear aquele outdoor digital. Sabe, aquele que mostra aquele anúncio daquele energético que faz seu pau encolher. Eu sei que estou pedindo coisas do Mr. Robot, mas você precisa encontrar alguém com habilidade para isso.
+10|Certo. Vamos falar dos fãs da Doja. Eles são barulhentos, tarados e completamente loucos. Assim que nossa apresentação for ao ar, eles vão tentar arrombar a porta da frente da Madison dançando, transando, brigando... ou as três coisas. Não me entenda mal, essas são minhas três atividades favoritas, mas essa colaboração com o Dinolicious tem que ser PERFEITA. Preciso que você encontre pessoas fortes para ficar na porta e bloqueá-la para que os fãs não estraguem nosso plano.
+11|Preciso de um cinegrafista para registrar minha colaboração com o Dinolicious... e quero dizer um profissional! Alguém que dedicou a vida a filmar peitos e bundas. Como um diretor de filme pornográfico. Além disso, certifique-se de que essa pessoa não se importe em ir para a cadeia. Eu roubei essas coisas da turnê da Lizzo. É caro!
+12|O que eu vou fazer? Meditar. Tenho uma rotina pré-show que envolve contemplação Jedi. Às vezes começo a flutuar e coisas assim... Ok, podem ser os cogumelos, mas é um PROCESSO. Ei, não pense que não notei seu esforço. Obrigado pela ajuda.
+13|Ah, merda. Espera aí. Você conseguiu? Vou ser sincero. Eu não esperava por isso. Cara, ainda bem que conheci alguém como você. Você é tipo o MacGyver! Isso vai ser um terremoto que a escala Richter não consegue medir.
+14|Você não estava prestando atenção, né? É um traço de personalidade muito legal de se ter.
+15|Eu adoro essa energia positiva. Continue assim. Só faça o que eu mandei. Por favor.
+16|Então, você quebrou minha concentração... à toa? Se importa de me deixar me preparar mentalmente?
+17|Olha, eu não conheço essas pessoas, então você vai ficar de olho na Patty. Tem alguma coisa nele que não me cai bem. Sabe, me dá uma vibe de "não confie em mim para nada importante em hipótese alguma, por favor, pelo amor de tudo que é bom"...
+18|Tá, tá... é, como eu disse, "Eu não sou uma prima donna." Eu danço em cima da porra de uma capa de banheira de hidromassagem. Sem problemas. Enfim, não conte a ninguém que eu perguntei, mas... ela aguenta o meu peso, né? Quer dizer... uma capa de banheira de hidromassagem é basicamente um travesseiro gigante e duro, né? Sabe de uma coisa, vamos ficar bem. Só por segurança, vamos colocar o Dinolicious na minha frente. Uma bunda dessas vai fazer nós dois afundar.
+18.1|Uau! Isso sim é pensamento criativo. O jeito como as luzes da banheira de hidromassagem refletem no vidro. Que efeito legal! Talvez na sua vida passada você tenha sido cenógrafo. Ou uma tartaruga, ou um ninja. Você poderia ter sido muitas coisas, mas como cenógrafo, você é um mestre!
+19|Caramba, você convenceu o Frank a fazer isso? Esse sim é um gorila e tanto.
+20|Quero te avisar, no entanto. Quando estão nervosos, os fãs da Doja podem ser bem barulhentos. Não me entenda mal, eu os adoro, mas eles atacam os olhos. Espere uma experiência tipo apocalipse zumbi... só que um pouco mais violenta.
+21|Você realmente completou o plano? A dança maluca de Dinolicious Danceapalooza da Doja vai se tornar realidade?
+21.1|Bem, eu tenho minhas dúvidas, mas graças a você, a dança maluca de Dinolicious Danceapalooza da Doja vai se tornar realidade. Acho que só nos resta assistir ao show!
+22|Relaxar? De jeito nenhum você vai relaxar. Eu preciso de você. Você é meu salva-vidas!
+23|É dessa atitude que preciso! Uma atitude positiva. Mas também preciso, bem, de algumas coisas para garantir que esta apresentação ocorra sem problemas.
+24|Sinto muito que não esteja tão animado com esta colaboração monumental, mas VOCÊ ESTÁ DENTRO, e para que tudo corra bem, precisamos da sua ajuda.
+25|Primeiro de tudo, quero que todos dancem. Precisamos fazer parecer que todos os babacas deste lugar estão chapados de sais de banho ou algo assim. Façam o que tiverem que fazer, mas as pessoas têm que dançar!
+26|Segundo, verifiquem de vez em quando para garantir que Katherine não precise de ajuda, para garantir que a conexão com aquela placa permaneça intacta. Ela não quer cair durante o show.
+27|Terceiro, estou com dúvidas sobre o loiro a quem confiamos a câmera. Ele parece bem-intencionado, mas, bem, não sei como dizer isso de forma gentil, ele é um pouco... bem... parece estúpido. Parece que precisa de alguma direção, só isso.
+28|Ok, vou ocupar meu lugar no palco. Precisam de mais tempo ou podemos começar o show?
+29|E aí, pessoal? Estou tão animado! Temos uma apresentação única hoje à noite.
+30|Ao vivo do quintal da Madison, sua querida Doja, direto do Cretáceo... o maior réptil... o tiranossauro rex... DINOLICIOUS!
+31|Obrigado! Amo todos vocês! Boa noite!
+32|Caramba, eu adoro fazer shows! Ok. Este é o momento da verdade. Eu fiz a minha parte, espero que vocês tenham feito a de vocês. Ok, vamos começar o vídeo do começo e ver como vai.
+32| 33|Então, para ser bem sincero... isso foi horrível. Eu nem sei se a gente consegue consertar essa merda. Quer dizer, apresentações ao vivo nem sempre são perfeitas, mas isso foi uma catástrofe de proporções colossais.
+34|FOI HORRÍVEL! Mas sabe, a vida é assim. Você fez o que pôde.
+35|Este show foi um sucesso e tanto! Olha só a quantidade de visualizações! E as pessoas continuam compartilhando em todos os lugares! EU SABIA que a colaboração Doja/Dinolicious seria incrível!
+36|E você. Nossa, você fez um ótimo trabalho hoje à noite. Te devo uma. Eu não teria conseguido sem a sua ajuda.
+37|Eu sinto que você e eu nos demos bem hoje à noite, sabe? Preciso ir, mas antes disso, acho que você e eu deveríamos resolver uns assuntos inacabados juntos. Não tinha... algo que precisávamos discutir em particular?
+38| 38|Ei, Madison, agora que somos tão boas amigas, você não se importa se eu discutir algo particular com essa pessoa no seu quarto, se importa? É... hum... assunto estritamente profissional.
+39|Me encontre no quarto do Mad para, hum... nossa reunião de trabalho sobre assuntos do trabalho. Traga suas meias de trabalho!
+40|Cara, todos os homens com mais de 30 anos com alopecia são assim. Do que você está falando? Escuta, eu tenho outras coisas para pensar, caso você não tenha notado. Não tenho tempo para suas mágoas porque eu inventei meu próprio planeta e você não foi convidada. Faça o que quiser. Vá inventar o seu próprio planeta e me deixe em paz. Ok?
+41|-- SEM USO --
+42|Merda, estamos prestes a ser invadidos. Perdi muitos homens para uma multidão enlouquecida. Você tem que me ajudar a escapar, pelo bem de todos. Não posso sair por onde vim. Tem que haver outro jeito.
+43|Você tem um túnel... que sai do jardim? Legal. Parece coisa de gangue, mas eu respeito. Me tire daqui, loirinho.
+44|Derek, seus movimentos foram os melhores, e por movimentos, quero dizer sua bunda. Eles vão ter que enviar outro asteroide se quiserem acabar com o reinado do Dinolicious. Mas lembre-se, nunca tenha vergonha dessa bunda, cara. As pessoas te amam. Eu te amo.
+45|E aí, equipe de filmagem. Loirinho e... loirinho. Você fez um ótimo trabalho. Avise meu braço direito se quiser algum produto de marca.
+45.1|E aí, equipe de filmagem. Loirinho e... loirinho. Escute, eu não estou bravo, mas, por favor, nunca se candidate a um emprego na minha equipe. Sem ofensa, ok?
+45.2|Patrick, cara... que porra é essa? Se controla, você foi tão útil quanto um banheiro na cozinha.
+46|E você. Caramba, você realmente fez um ótimo trabalho hoje à noite! Você estava correndo por aí como o Speedy Gonzales. Eu te devo uma. Eu não teria conseguido sem a sua ajuda.
+47|Ah, e... me liga se você conseguir escapar dessa festa. Quem sabe a gente se diverte de novo algum dia.
+48|Olha, muita gente na minha vida tentou me dizer para parar de ser eu... e eu sempre odiei essa merda. Dito isso, você deveria... fazer alguma coisa, porque hoje à noite, você e eu, poderíamos ter feito umas loucuras.
+49|Talvez eu não devesse ser tão duro. Você provavelmente fez o seu melhor. E eu realmente aprecio isso. Mas não sei, se você tivesse se esforçado um pouco mais, acho que poderia ter rolado alguma coisa entre nós... Droga, pareço um orientador educacional. Deixa pra lá, estou indo embora. Paz.
+50|NÃO É SUSTENTÁVEL, SEU IDIOTA. VOCÊ PRECISA PENSAR EM EXPORTAR MATERIAIS PARA GARANTIR QUE O PLANETA POSSA SE SUSTENTAR NA ECONOMIA GALÁCTICA.
+51|ESTOU FALANDO DE METAIS PRECIOSOS, SEU IDIOTA. MAS ADIVINHA, SEU PLANETA CARECA NÃO TEM NADA A OFERECER PORQUE VOCÊ É UM CABEÇA-VAZIA, SEU IDIOTA. VOCÊ É UM CABEÇA-VAZIA!
+52|Em nome do planeta "ela" e embaixador da comunidade intergaláctica, nego a entrada do planeta careca na federação.
+53|É... é um túnel. E eu chutei a cerca por 20 minutos... de salto... de salto!
+54|Ah, e também preciso de alguém para pilotar este drone e tirar umas fotos incríveis para imortalizar esta colaboração. Isto também é da turnê da Lizzo. O quê? Não me olhem assim. Eles têm seguro para estas coisas. Enfim, vai ser preciso um especialista. Sabem... alguém que entenda de eletrônica e coisas do género.
+55|Hum, pessoal, parece que preciso de sair daqui. Não há tempo para despedidas. Desculpem se não correu bem, mas estamos literalmente prestes a ser invadidos por fãs. Dêem-me um tempo para fugir e depois digam a esses malucos que já fui, ou eles vão destruir esta casa.
+56| 56|Droga, estou encharcado. Não consigo dançar assim. Isso é um fracasso total. Eu sabia que essa capa de jacuzzi não ia aguentar.
+57|Como assim, "sumiu"?
+58|Isso é um desastre de proporções colossais. Mas, sabe, a vida é assim. Você fez o que pôde.
+59|Olha, vou ser sincero com você, mal posso esperar para chegar em casa. Eu amo a minha casa.
+60|Você provavelmente fez o seu melhor. E eu realmente te agradeço por isso. Mas não sei, se você tivesse se esforçado um pouco mais, acho que poderia ter rolado alguma coisa entre nós... Droga, pareço um orientador educacional. Tanto faz, estou indo embora. Paz.
+
+[Responses]
+017afd90-911f-4be5-adff-34d08293d91a|Desculpe, o show não foi tão bem quanto esperávamos.
+02ea2a98-270b-4e44-8938-f5ddab5198ac|Chame-a de Galileu porque essa garota está criando planetas.
+056d2f96-357d-43d8-9fb9-b7d483f51e1d|Digite o texto da resposta aqui.
+0736e8f3-05f7-4f1f-af12-f7129c55bfaa|Acho que tenho tudo o que preciso. Desculpe incomodá-lo!
+0c3ad7d4-bff4-437a-a4b2-f450a31f38a0|Me lembra daquela coisa do palco.
+0e329b91-b20f-47ba-ba38-0da467de5c08|Então precisamos de um guarda ou algo assim?
+16014680-4253-4906-a2e0-1b5f7ade77f0|Sim, senhora!
+16b6b051-4c4e-4c13-aceb-750c250bc3a6|Acabamos de ficar amigos?
+183f3a1a-3ee2-448b-b006-e4e6eaae264a|*Ouvir*
+1d114923-41e7-4826-beb6-c09c5ddda7f2|*Ouvir*
+2102b776-6b2a-45f9-a3bd-529eeacff000|Não acredito que estou dizendo isso, mas sinto falta do Frank.
+25853120-e7cd-4666-8059-c7fefc8d4594|Parece muito trabalho, mas vou fazer.
+26fef8db-e7eb-42f6-a63e-b8f9f50cd66f|...Puta merda!
+2a590fc2-b8b9-465f-9b65-c14d62a5228c|Então... qual é o plano agora?
+2abec6c9-bbba-4ed6-b86f-0afe8ecc9e0b|É, ele é um idiota, mas deve conseguir lidar com isso.
+2f430c80-a470-4733-b0fc-2bd5e63f03ff|Bem, acho que posso relaxar e assistir ao show agora!
+305b00b2-5f6f-4c59-b7be-4676077669e6|Coloquei a capa da banheira de hidromassagem sobre a jacuzzi. Vai ser o seu palco!
+31cfceea-a613-49b8-827b-e1fcb246d7c5|Com certeza tem alguém que se encaixa na descrição, não se preocupe.
+3d29b8a6-6f30-4631-ae9e-8f6ba766ef61|Ah sim, aquela coisa... em particular... com a Doja Cat...
+3e6871dd-2a46-4605-a9fd-d1103cb663ff|Estamos prontos para "A Dança Dinoliciosa e Louca da Doja"
+42369631-a3fe-45d9-b89c-9a7e50037ab0|*Ouça*
+43a0a5e3-c41a-4114-885a-fb77df24a9cf|Oi, Felicia!
+4e323edc-5f9d-4a69-a588-e1c16419bb79|Você destruiu.
+52dbd39f-77f6-4515-b41a-309f173e3d86|Obrigada, Doja Cat. Foi incrível!
+530c240b-64bc-424d-aeba-6a59a7be24fa|Frank está desaparecido e não temos ninguém para nos ajudar.
+5508517e-a908-45f0-8a4c-5c4855f46dff|Sim, peço desculpas.
+5667ad5c-91f4-48f8-8205-b9e022a2c480|*Ouça*
+598c6fca-4756-41c8-bac6-e51f1c0acc9f|Eu tentei o meu melhor, mas meu desempenho sempre foi abaixo da média.
+59e35b58-052b-4c47-96e0-68c8811f2cde|Dedos cruzados...
+658dc730-1c1c-45f6-b0c7-1a2f326f5d1a|Foi um prazer ajudar você.
+674ebd7c-9cd0-4b07-9be3-8ebe680929a3|Espero que haja um tutorial online para isso.
+67b58b94-e156-4130-9fd9-a0cab68bb11b|Lembre-me daquela coisa da segurança.
+6c60599d-aaed-4594-9576-d1188c09ec9b|Falo com você depois.
+6ec7caee-3588-463a-882c-da47244afe35|Por onde começamos?
+6f212ad2-7f11-4c12-b422-2b3d123696d6|Fale-me sobre a equipe de filmagem novamente.
+72659958-aca7-48fb-9754-30133c0b4486|Hum... um século é mais longo que uma década...
+734d0df9-90f1-4dbe-938f-db96096225dc|Trem da moda partindo!
+7634b6ca-1cb8-482a-b38e-060212d46222|Katherine conseguiu hackear o outdoor. Estamos prontos!
+774ffaef-151e-43d8-806b-29ef6d6d6bb7|Me conte sobre a transmissão ao vivo de novo
+7e4e3572-4cc5-4d51-bada-e9558476925a|Ninguém me supera em trabalhos braçais!
+7eb68cd8-fc4d-48be-9e67-f57943955c94|Eu tentei!
+81635a83-50ae-4118-bd53-f7b254bafe1c|Uauuuuuuuu!
+820a115f-d38e-4e52-9fd4-2ca07844c289|*Ouça*
+8306daf0-9893-49ac-b74c-6da43bd0f960|Te vejo de novo no YouTube, Doja Cat.
+8495e80d-11fc-4407-b70a-48a0fd094050|Ok, ok. O que você precisa?
+8674a1a2-7299-4cc3-9fe4-3a9eeec08be6|Ainda nada. Ainda estou trabalhando nisso.
+8847e976-a40f-4c03-9abc-0da3ff9eb8c9|Me lembra o que mais eu precisava fazer?
+8969cd65-a1aa-4fa8-843a-888fe873c458|Você arrasou mesmo, Doja Cat!
+8e9e9664-906f-4753-8e6c-0108a62b56fb|É, talvez a capa da banheira de hidromassagem não tenha sido a melhor ideia.
+91e086d9-b834-4ef9-9025-9f0c9376eddf|É, estritamente profissional.
+94d2a016-2485-452d-9a6d-ae818f00acbe|Conte-me sobre esta transmissão ao vivo.
+9a34ffec-b871-48c3-8506-ab507b0c058b|Não acredito no que vi com meus próprios olhos.
+9b17b528-0c3c-43aa-afd9-e36ff04fcd35|Vamos começar!
+9ca9dde8-ad71-4339-9fad-70b242d9ab83|Só queria dizer que foi um prazer trabalhar com você!
+a487b9a6-be6f-42b4-b63c-b12ac6431408|Frank é o chefe de segurança. Ele ficará responsável por bloquear a porta e a janela!
+adbf0f6a-bb08-413d-aba3-b8ad6d81853b|Uhuu!
+aecff0f1-9756-4d58-934a-b01bd9d62b27|Ok, por onde começamos?
+af1a1d5b-e4e7-4633-9fdc-de5de6963c94|Nós te amamos, Dinolicious!
+af1b4085-ea4d-449f-a6b4-7f66b5f331cd|Coloquei um pouco de acrílico sobre a jacuzzi. Vai ser o seu palco!
+b2c0140d-126d-4abe-90d6-e24603c983a2|O que fazemos com essas câmeras?
+b36c9cf1-c587-4870-889e-e3bcae85abc7|Claro, princesa. O que você precisa?
+b43e4b6d-99e9-4f2a-9fa6-c7764279f958|Katherine cuidará do drone. Patrick cuidará da câmera.
+b870ed16-33b6-4b99-affe-0788424fec37|Merda.
+c078fdc0-f8fb-4c40-a7a2-423acd2c0139|*Ouvir*
+c4882b65-1b2f-4147-8524-9e21a29be89f|*Ouvir*
+c5157394-d460-4930-bb0e-5d3b3f8b5add|Ok!
+c6efebe5-0974-4f80-8e2f-5f342366e88d|O que você vai fazer enquanto eu cuido de tudo isso?
+c862a609-78be-4feb-aaf7-f2923f0048f9|Vamos lá!
+cc9469e2-eb19-407e-9168-71941488d354|Más notícias... nosso possível segurança está desaparecido.
+d11173c5-f954-4c38-bc9b-4699e171f340|Adeus, Doja Cat.
+d2d3b661-52fd-4d9f-9bb1-031703ae593e|Hum... me dá um momento.
+d2e43768-b3ea-4e8d-a3e1-3e7cfe3ccdac|*Ouça*
+d3094450-ff83-457c-a1b3-b65b6cdfe1f2|Fale-me sobre o palco.
+d393fc1a-4085-41af-b0eb-9ea22cb91521|Louco?
+d7c4c01a-6b22-4b1a-9af8-38102ff6f07c|*Ouça*
+d99f3ae5-b108-46d8-92b0-0f91ebe46cde|Pelo menos foi um bom exercício.
+e001459a-8634-49b1-abd6-7cd6952e26c7|Preciso ir!
+e2a6ba1b-9e63-4d09-a450-0cd600a58898|De nada! Avisarei quando terminar.
+e3501865-d4e5-4cdc-9259-d7180d06ca97|Eu adoraria, mas não temos tempo. Precisamos tirar você daqui!
+f1360dbb-d72e-4930-878d-6f06ad1b457f|Te vejo lá!
+fd0cd5bd-a7e5-44fc-be07-57ff3095dd86|Primeiro você não conseguia entrar, agora você não sabe como sair...
+
+[Quests]
+df336220-92cf-4cb8-8cf5-e95b84399954FailedDetails|Você decepcionou a Doja Cat, o Derek, todos os fãs dela e todos que trabalharam neste jogo. Não haverá reembolso se você falhar no DLC, mano!
+df336220-92cf-4cb8-8cf5-e95b84399954Description|Sem pressão, mas esta é a coisa mais importante que já aconteceu na sua vida. Fique de olho!
+df336220-92cf-4cb8-8cf5-e95b84399954CompletedDetails|Foi... foi lindo. A Doja Cat é uma deusa?
+df336220-92cf-4cb8-8cf5-e95b84399954|Dançapalooza Dinolicious Louca da Doja
+60bbcf35-2528-4316-a0b7-b4a7b20908eaFailedDetails|Sem palco, sem show. Sem show... sem show.
+60bbcf35-2528-4316-a0b7-b4a7b20908eaDescription1|A piscina foi coberta e o palco está pronto para Doja Cat. Conte a ela as boas novas!
+60bbcf35-2528-4316-a0b7-b4a7b20908eaDescription|A Doja Cat precisa de um palco. É melhor você encontrar um lugar alto e bom para que todos possam ver os passos dela.
+60bbcf35-2528-4316-a0b7-b4a7b20908eaCompletedDetails|Você transformou o quintal da Madison em um palco para shows. Excelente!
+60bbcf35-2528-4316-a0b7-b4a7b20908ea|Palco de Doja Cat
+5acad847-f210-48ef-b21c-d2639c5d7eabFailedDetails|Compreensível. Às vezes, a Katherine pode ser uma chata.
+5acad847-f210-48ef-b21c-d2639c5d7eabDescription1|Katherine concordou em hackear o outdoor. Doja Cat vai ficar feliz!
+5acad847-f210-48ef-b21c-d2639c5d7eabDescription|É melhor você encontrar alguém que saiba hackear, porque essa ideia de outdoor é genial.
+5acad847-f210-48ef-b21c-d2639c5d7eabCompletedDetails|Katherine: Convencida. Outdoor: Hackeado. Você: Pouco útil.
+5acad847-f210-48ef-b21c-d2639c5d7eab|Travessuras de computador
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0FailedDetails|Deveriam chamá-la de fronteira mexicana, porque a casa ficou desprotegida.
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0Description2|Essas janelas vão ser fechadas com tábuas rapidinho. Agora vá compartilhar a boa notícia com a Doja Cat, que vai trabalhar com o Frank!
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0Description1|Você vai ter que encontrar alguma coisa pela casa para fazer uma barricada nas janelas. Você consegue fazer isso, né, cleptomaníaco?
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0Description|Alguém precisa ser escolhido como chefe de segurança da Doja Cat. Alguém forte, confiante e com coragem de dar um soco na cara de um completo estranho.
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0CompletedDetails|O perímetro foi protegido. Quão perigosa essa multidão pode se tornar?
+478cb26a-0c7d-43b9-9ff1-940ddecca3b0|Proteja o perímetro
+090bda65-7ddb-424b-ba0a-4c947f28ace2FailedDetails|A única gravação que você fará será transmitida em um site de webcam, com apenas 3 usuários ativos.
+090bda65-7ddb-424b-ba0a-4c947f28ace2Description2|Patrick concordou em ser o cinegrafista.
+090bda65-7ddb-424b-ba0a-4c947f28ace2Description1|Ótimo! Vocês têm a pessoa mais inteligente e a mais burra trabalhando juntas. Vai dizer isso para a Doja Cat!
+090bda65-7ddb-424b-ba0a-4c947f28ace2Description|Você precisa encontrar um piloto de drone e alguém disposto a prender uma câmera pesada em si. Numa festa. Boa sorte.
+090bda65-7ddb-424b-ba0a-4c947f28ace2CompletedDetails|A equipe de filmagem está posicionada e pronta para filmar esta excelente performance.
+090bda65-7ddb-424b-ba0a-4c947f28ace2|A equipe de filmagem
+
+[Events]
+1dcf1ea5-472e-406e-883c-2d65f753717b|Preciso garantir que o MP3 da Doja Cat esteja conectado para o show.
+370066d9-39e3-4551-9955-f8220cbc084e|O show começou... É melhor eu ficar de olho na minha equipe para garantir que tudo corra bem.
+497486dc-e662-40a3-8366-965b2494c1b5|Preciso garantir que o Frank esteja pronto para defender o perímetro.
+512d4ab1-7868-4ab1-ae4e-04cc2e041755|Adeus, Doja Cat. Cara, não acredito que ela passou por essa festa. Quem mais pode vir no futuro?
+6398d5a4-7731-4bfe-8c1b-0128803d7ca5|Adeus, Doja Cat. Um lembrete para mim mesma: garantir que o Frank esteja por perto da próxima vez para que eu tenha segurança!
+64b36c8c-d40f-4253-a4af-08ab91e7c4d3|Vai ser difícil manter esse show se alguém da equipe estiver inconsciente!
+8777ee28-7c3f-4a10-b26a-90b6c2ad2d2e|Não podemos ter um show sem segurança. Fraaaaaank!
+880c1f10-6a41-47ce-95c7-316eb2d12327|Hmm... o que eu fiz de errado? Poderia ter havido mais entre mim e a Doja, jogando melhor as minhas cartas? Fica para o próximo jogo!
+a60bdeb0-26e4-4398-b59f-e4ed9f2a130d|Parece que o Frank precisa de ajuda agora.
+a7f8ba8a-1b90-4ae6-80a7-37bf347b18b9|Preciso garantir que o Patrick esteja pronto para a responsabilidade dele.
+b00e2fc9-7a67-49e7-9025-6d42de614a01|É melhor eu garantir que o Derek esteja pronto para o show primeiro.
+b4f02326-8bd1-4fc1-a094-beffe0450ce1|Estou errado ou é... uma multidão enfurecida? Ah, não, Frank!
+ca6e9aef-c040-4c1b-b481-08965ec62d42|Hmm... Preciso garantir que o palco esteja pronto.
+e11a97b7-ddf5-4f75-ac4b-9748c6aaf40e|Preciso garantir que o alto-falante esteja configurado corretamente para o show.
+e61dce46-4c92-4edc-9c1e-91a469aa67ac|Preciso garantir que Katherine esteja pronta primeiro.
+
+[Background Chatter]
+BGC1|("Kiss Me More" de Doja Cat toca ao fundo)
+BGC2|Não tem colher, não tem colher, não tem colher... seus desgraçados.
+BGC3|(Sons indistintos de meditação)
+BGC4|Wahhhhhhhhhhhhhhhhhhhhhhh... bang.
+BGC5|Dinolicious, pré-histórico, você tem uma bunda grande. Dinolicious, pré-histórico, eu tenho uma bunda grande. Dinolicious, pré-histórico, vamos rebolar juntos.
+BGC6|Oooooooooooooooohhhh.
+BGC7|Encontre seu centro. Perca seu ego. Esqueça quem você é. Esqueça o que você sabe. Faça como Jim Carrey. Encontre seu centro. Perca seu ego. Esqueça quem você é. Esqueça o que você sabe. Faça como Jim Carrey.
+BGC8|Suprima seu ego, suprima seu ego, suprima seu ego, suprima seu ego, suprima seu ego. Merda, preciso de ayahuasca. Suprima seu ego, suprima seu ego.
+BGC9|Imagine uma chama percorrendo seu corpo. Descendo pelo seu peito, pelos seus mamilos. Saindo pela sua bunda. Concentre-se.
+BGC10|Respire fundo. Inspire. Expire. Inspire. Expire. Inspire. *BARRUDO DE PEIDO* ...ops.
+BGC11|Venha aqui, chegue mais perto.
+BGC12|E aí, pessoal? Estou tão animada! Hoje à noite temos uma apresentação única. Ao vivo do quintal da Madison, sua amada Doja, e direto do Cretáceo... o maior réptil... o tiranossauro das bundas... DINOLICIOUS!
+BGC13|Obrigada! Amo todos vocês! Boa noite!
+BGC14|Eu não estava esperando nada mais do que ficar sozinho com você por alguns momentos...
+

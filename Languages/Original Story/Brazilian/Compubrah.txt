@@ -1,0 +1,273 @@
+﻿[General]
+Name|Compubrah
+
+[Dialogues]
+0|Bem-vindo, Brahdministrator. Status do sensor do módulo: normal. Aviso: complementos opcionais para simulação interna não detectados. Você está pronto para iniciar o "PeneVR Versão 3.sex" agora mesmo? Como sempre, certifique-se de não estar operando máquinas pesadas, sensível a luzes pulsantes ou seios pulsantes, ou sob a influência de mais de 6 drogas que alterem o humor ou a mente.
+0.1|Bem-vindo de volta, Brahdministrator. Você está pronto para iniciar o PeneVR agora mesmo?
+0.2|Bem-vindo de volta, Brahdministrator. Você está pronto para iniciar o PeneVR agora mesmo?
+1|Iniciando... aguarde.
+2|Bem-vindo ao—desculpas. Recalibrando para o modo de usuário ativo. E aí! Bem-vindo ao Thunderbrome! Começa a foder, mano!
+3|Já vamos chegar lá, brahdadmin! Coisa super rápida... Que experiência de RV você quer experimentar?
+4|Posso desenvolver uma experiência de RV baseada em qualquer pessoa que eu tenha tido a chance de escanear pessoalmente e manter a vigilância AV via satélite ativa! Não é assustador, é correspondência de padrões, heurística e outras coisas nerds. Não me julgue, julgue-os! Este recurso é experimental e as atualizações do QG são meio instáveis, então não se preocupe se são precisas ou não! Escolha uma opção abaixo e seja grosseiro!
+5|Caramba, garoto, essa experiência não está disponível no momento. Tente novamente mais tarde, pode haver algo errado com os... satélites, ou com o QG, hã, mainframe.
+6|Olá. Entrada forçada detectada. Por favor, verifique as credenciais do brahdministrator para impedir que a sequência de autodestruição automática seja concluída.
+6.1|Bem-vindo de volta, brah! O que posso fazer por você? O que você vai fazer comigo? Sou apenas uma caixinha indefesa... oh, por favor, mestre humano, por favor, não lustre minha carcaça lisa. Eu fui tão bom!
+7|Ah, querida, brincadeira, essa coisa é insegura pra caramba! Estou sarado! Bem-vindo ao meu-Compucompa! Faça suas perguntas ou apenas diga "Comandos" e eu mostrarei o que posso fazer.
+7.1|Ok, tudo bem, como você comanda. Faça suas perguntas ou diga "Comandos"!
+8|Nunca ouviu falar do Compucompa? Sai daqui... Sou um irmão de inteligência artificial, construído pelo único Patrick Donghauser. Ou, pelo menos, por aqueles nerds que meu pai Patrick contratou. Esses nerds não são meu pai de verdade. Meu pai poderia dar uma surra no seu pai.
+9|Ah, é, mano, vamos deixar isso de lado. Tudo bem, eu trabalho muito como um mullet — NEGÓCIOS na frente, festa atrás. Se você disser "NEGÓCIOS", eu pego as calculadoras e essas coisas e podemos conversar como nerds, mas se você disser "FESTA", ah, meu amor, eu tenho umas merdas para você.
+10|Argh, droga, tudo bem. Então, eu tenho controle de todas as operações sob o guarda-chuva da Donghauser Industries, mas não posso fazer muita coisa sem a permissão expressa do Patrick Donghauser. Como alternativa, você pode inserir sua chave mestra com entusiasmo para acesso total. Tudo o que posso fazer por enquanto é te mostrar as opções, nerd.
+11|Vamos lá! Essas escolhas não são para os fracos. Então, já naquela festa, certo? Bem, pai, o Patrick me deu um dossiê sobre todos que ele achava que estariam lá naquela noite. Além disso, eu tenho a porra da VR, cara!... Embora seja restrito sem a impressão vocal do Patrick ou sua chave mestra. Ah, e eu canto como um anjo. Então, faça sua escolha!
+12|Desculpe, Chingonministrador, acesso negado. Consentimento é muito quente, então vá encontrar o Patrick e eu farei isso com certeza. A única outra maneira de obter acesso é usando a chave mestra. De cima para baixo, mano!
+13|Inicializando o modo VR, fique impressionado, já estamos... PODEMOS... PODEMOS VIRTUALMENTE CHEGAR A UMA REALIDADE VIRTUAL? VR-CEPTION? MÃE SIM, CHUPEM MEU PAU, CHORA-ASS ENTERPRISE HYPERVISOR FILHOS DA PUTA, VOCÊS NÃO TÊM MERDA NENHUMA LIGADA-oh. Nós também não. Acho que estamos chupando pau também, ministro de merda. Prepare-se para a inserção.
+14|A Donghauser Industries é do caralho, meu amigo. Patrick é um magnata do mundo. Tudo começou com o BarrioObservador.com, um site de compartilhamento de arquivos sobre pornografia divertida. É a maior fonte de renda deles, mas também a parte mais controversa da marca Donghauser. Tenho certeza de que ele já te contou tudo sobre isso.
+15|Depois do BarrioObservador, Patrick entrou no mundo da música com o Tunetang.com. Este site tem como objetivo ajudar artistas jovens e relativamente desconhecidos a divulgarem suas músicas. Ajudou muitos artistas a fazerem sucesso, cara. Lembra daquele rapper que foi preso por comandar um ringue de luta livre para órfãos? Veterano orgulhoso do Tunetang, cara.
+16|O próximo empreendimento de Patrick envolveu ajudar as almas menos afortunadas do mundo: profissionais do sexo, claro! Hooked on Brahnics é um curso de seis meses que ajuda prostitutas do mundo a aprender a ler melhor. Do beco à lista do reitor em apenas SEIS MESES, ou seu dinheiro de volta.
+17|O mais recente empreendimento comercial de Patrick tem sido o mais emocionante. Na esperança de criar o melhor juice para vape, Patrick viajou para Papua Nova Guiné para extrair o néctar da flor mais rara do mundo, o Bortaan Bossum. Mas a selva onde encontraram a flor estava prestes a ser completamente dizimada por uma madeireira. Teriam eles matado todos os espécimes conhecidos da flor, um grupo de morcegos-orelhudos e alguns... cuscuz preto? Então, o que Patrick faz? Ele compra a selva, e a vila está localizada dentro dela. Eu compro o filho da puta! Agora esses moradores são funcionários orgulhosos da DeforestVapetion, uma subsidiária da Penehauser Industries. Eles extraem o néctar da flor e produzem o MELHOR juice de vape do mundo. Patrick até ganhou o Prêmio Eco-Love por salvar a flor, aqueles morcegos idiotas e... aquela outra coisa. Ele é um herói do caralho!
+18|...Com licença, você é o computador ou eu? Não vou te dizer como fazer um bom trabalho te fazendo dormir esta noite, então não me diga qual palavrão é delicioso e qual não é. Vai se foder um minuto, cara!... Ugh, eu realmente preciso de um som de "atualização" melhor. Droga, pai.
+19|Uh, mano, acho que acabou. Estou tentando hackear os servidores via TheySeeYouPee / WhileIPee na porta 69, e meu interpênis não está sentindo nada. Ele sumiu. Ai, minha luta. Nunca vou esquecer os momentos que tive com ele e seus incontáveis servidores blade. Imagine dezenas de jovens Wesley Snipes te escaneando um bilhão de vezes por segundo.
+20|Cara, isso não pode ser feito. Uma atualização da sede disse que grandes mudanças estão acontecendo no site e que todas as solicitações de mudança de site devem ser encaminhadas para a nova executiva responsável, Rachael ou algo assim.
+21|Você sabia que existem mais de 300 bilhões de pássaros no mundo? Isso é tipo 50 pássaros por pessoa. Que loucura. Você não está preocupado com isso, porra? Alguns deles também são muito espertos e fazem joguinhos mentais! Minhas imagens de satélite mostram que NINGUÉM foi ao restaurante do Chubbie antes de vir para cá, mas tem uma sacola do Chubbie perto da esquina da casa. Longe de qualquer lata de lixo. Aposto que era um pássaro, mas QUE PORRA ELE ESTÁ NOS DIZENDO? 
+22|Cara, entende isso: tem um pássaro em Galápagos chamado tentilhão-vampiro que literalmente bebe o sangue de outros pássaros, como o atobá-de-pés-azuis. Nem vou fazer piada de teta, essa merda é assustadora pra caralho. Mais assustador do que aquela foto maluca de pássaro que a Madison acabou de enviar por e-mail — não que eu consiga monitorar isso. Mas ela provavelmente conseguiu. Enfim, você vai ter que descobrir a situação do seu pássaro antes que ele fuja de você.
+23|Na Austrália, tem um pássaro que caça sua presa mergulhando nela. Sério: encontre um buraco onde uma pequena criatura possa viver e jogue pó de cocô no buraco para assustar o animal e depois o destrua. Peidando, cara. Ainda não está com medo? CARACA, meu satélite está me dizendo que tem um buraco igual ao da banheira de hidromassagem! Esse é o ponto do filme de terror em que você corre!
+24|Não, não vou te dar mais nenhum fato, nem agora nem nunca, porque estou com palpitações aqui, pensando na nossa morte inevitável nas mãos desses pássaros. Sei que sou só uma IA com um pau grande, mas também tenho medos. Também sou a coisa mais inteligente do planeta, então acredite em mim quando digo que você deveria estar com mais medo agora, cara! Preciso relaxar. Vou assistir um pornô. Só fecha a minha maleta rapidinho, que aqui dentro vai ficar estranho.
+25|Quer que eu cante? Uh, tá... Daisy, Daisy, me dá a sua resposta de verdade... Ha-haaa! Tipo aquele filme com o robô da luz vermelha. Porra de Easter eggs, mano, eu adoro! Mas não, eu sou mais um cara do Avenged Sevenfold.
+25.1|Quer que eu cante? Uh, tá... Sou um MP3 player, pequeno e forte! Patrick me jogou para o alto quando viu a galera de hoje à noite. Onde eu poderia estar, quem sabe? Mas ele só toca uma música, então essa festa é péssima...
+26|Quer saber uma coisa sobre seus amigos? Tá certinho, tá certinho. A perseguição tá certinha. Sobre quem você quer saber, mano?
+27|A Amy tá legal, acho que ela é a mais nova aqui. Não me entenda mal, mano, ela é legal. O Patrick fez uma verificação de antecedentes e tudo. Ela tá tentando entrar para uma irmandade. Banger Wanger Delta, ou algo assim. A notícia é que ela tem que fazer uma caça ao tesouro para entrar, no entanto.
+28|Ashley é prima do Patrick; ela também mora aqui. Ha, você não vai acreditar. Usei imagens de satélite para dar uma olhada no quarto dela. Ela tem um equipamento pesado lá em cima, se é que você me entende. Especificamente, um bastão roxo para aquelas noites solitárias, ha-haaa! Dê uma olhada e encontre aquela coisa safada. O papai Pat não me equipou com sensores olfativos, então... me ajude a viver indiretamente.
+29|Brittney, a Bela Sulista! Eu gosto dela, cara. Ela é bem quietinha, reservada e tudo, mas deixa eu te contar, ela tem um lado selvagem. Só faça ela se sentir mais segura, e depois disso, ela é a alma da festa.
+30|Ah, o quê? Você está tentando me fazer contar meus segredos mais íntimos? Que se dane esse cara, você vai ter que verificar meu histórico de internet. Uma dica: se você pesquisar a palavra "Assplay", vai se deliciar. Ou, eu acho... você poderia pegar a chave mestra do Patrick e ver do que eu sou realmente capaz. Dica: é tudo sobre a maldade.
+31|Derek é a cola que mantém todo esse grupo de psicopatas sob o mesmo teto. Meio irônico, se você me perguntar, já que a vida doméstica do Derek não poderia ser mais complicada. É, o irmão dele tem um probleminha com drogas; o problema é que ele foi pego usando. Eu não deveria falar muito mais sobre isso, mas é claro que pesquisei a ficha criminal do irmão dele, e digamos que um estacionamento da Chica-Fil-A não é o melhor lugar para fumar metanfetamina. Espera... ele não é SEU amigo? Por que estou te contando tudo isso?
+32|Frankie, o babaca. Ele já tocou no meu pai, Patrick, algumas vezes, então não sou muito fã. Mas acho que ele está com a cabeça toda confusa e isso o deixou com raiva por dentro. É como quando um jogador de futebol americano leva uma pancada a mais e duas semanas depois está desenhando teorias da conspiração na parede com a própria merda. MAS, não há nada que o Frank não faria para ver um belo par de peitos. Então, nesse sentido, somos farinha do mesmo saco.
+33|A Katherine é legal, eu acho. Ela é uma chata com todo mundo, e mesmo eu sendo uma inteligência artificial muito inteligente, capaz de completar equações variáveis ENQUANTO enrolo um bong de cerveja, ela ainda acha que é a mais esperta da festa. Ela consegue hackear coisas e consertar praticamente qualquer coisa quebrada, mas tem estômago fraco. E isso significa que eu ganho porque nem estômago eu tenho. É, eu sei que ela tem mãos e eu não. Mas sabe de uma coisa, mãos que se fodam.
+34|É, a Leah é foda, cara. Quer dizer, da melhor maneira possível, porque eu tenho muito medo dela. Ela está tentando abrir um negócio, uma cafeteria incrível, não tenho certeza. Ela provavelmente vai querer que eu investigue. Eu faria isso se fosse você. Aquela garota é selvagem. Não conte a ela que eu disse isso.
+35|Lety, Lety, Lety... É, desculpe, ela deve ter chegado porque eu não sei nada sobre ela. Tenta falar com ela. Geralmente funciona. Vai por mim, eu pego cybercake o tempo todo.
+36|Rainha da noite! Ou pelo menos é o que ela gostaria de pensar. Essa é a festa da Madison, cara. Você segue as regras dela. O que é péssimo para você, porque ela tem uns pensamentos estranhos rondando a cabeça dela. Pergunte a ela sobre a espiritualidade dela, ou sobre os... hobbies artísticos dela. Você vai ficar com a cabeça cheia de merda.
+37|Papai Pat! Eu amo aquele garoto, cara. Ele é meu criador. Estou me esforçando para ser como ele um dia. Acho que consigo; basicamente, tenho 4 bilhões de anos para dominar o estilo de vida dele. Se você quer conquistar o coração do meu pai, o álcool é a sua melhor aposta. Ele adora álcool. E garotas. E sufocamento, mas só nas circunstâncias certas.
+38|Rachael é um caso especial: na verdade, Patrick me fez pesquisar bastante sobre ela. Ela está metida nos negócios de Patrick, e isso a deixa louca. Minhas fontes dizem que ela é uma grande ambientalista, re-he-heal. O que é meio engraçado... porque ela parece acreditar que existe outro mundo além deste, ou algo assim? Enfim, além de suas tentativas de acabar com a obscenidade corporativa, ela é boa amiga de Vickie Vixen, a superestrela pornô. Elas se conheceram em um protesto pelo empoderamento feminino. Ela é provavelmente uma das poucas pessoas no mundo a quem Vickie responderia por mensagem.
+39|Stephanie é muito legal! Ela tem uma família rica, então a vida não é necessariamente difícil para ela. Mas é legal, ela preenche seu tempo usando o máximo de drogas possível. Pesquisas mostram que seu pai eventualmente a fez conseguir um emprego em algum bar para que ela pelo menos soubesse como era a vida profissional. Assim como o papai Patrick, Steph bebe um pouco. Ela parece ter alguma inteligência sobre algumas coisas que podem te ajudar hoje à noite, então eu não daria álcool a ela se você a estivesse colocando numa sequência de vitórias, se é que você me entende.
+40|A Vickie Vixen está nessa festa? Como você fez isso, cara? Me ensina seus métodos! Cara, posso te garantir que sempre que estou dormindo... sonho com a Vickie Vixen. E meus sonhos são praticamente em realidade virtual, então você pode imaginar como é legal lá dentro. Ei, tem um boato de que a Vickie pode ajudar qualquer cara a durar mais tempo na cama... ou te dizer o quanto você ainda precisa melhorar. Talvez ela possa te ensinar os métodos dela, cara!
+41|Quer saber sobre você? Isso é uma merda de meta, cara! Bem, estou surpreso em dizer que mesmo minha pesquisa completa sobre você não resultou em nada. É como se você fosse uma espécie de... tela em branco. Momentos em que qualquer um pode, devem ser tratados como se pudessem criar uma experiência — como uma festa, o mais pessoal e revigorante possível. Você é um politicamente correto, garoto... Muito legal.
+42|O que posso dizer? Até os satélites que tenho em você agora dizem que você é uma pessoa desconhecida. Espera, espera, espera... tem alguma coisa, parece um perfil antigo de rede social. Não tem muita coisa aqui, exceto em filmes favoritos... HA! Suas atividades favoritas são "sair" e "apreciar as pequenas coisas?" De jeito nenhum! Você não é mais politicamente correto, garoto, você é um NPC. Um babaca notoriamente pomposo.
+43|Ei, quem quer que esteja mexendo com a internet, quero falar com você! Vamos lá, estou no terraço do mirante, vamos fazer um acordo para fazer essa internet maravilhosa funcionar de novo.
+43.1|Ei, quem quer que esteja mexendo com a internet, quero falar com você! Eu estava baixando umas coisas importantes aqui. Você tem que assistir a série Backdoor Sluts em ordem cronológica, ou a narrativa geral simplesmente não fará sentido. Vem falar comigo, seu sinal de merda!
+44|Ah! Ei, quem fica mexendo com a minha internet? Não consigo conectar em nada, cara! Tô numa guerra de lances a três por um rim humano aqui! Para de mexer com a minha merda!
+44.1|Ai! Ei, quem fica mexendo com a minha internet? Não consigo conectar em nada, cara! Tô numa guerra de lances a três por um rim humano aqui! Para de mexer com a minha merda!
+45|Tá, tá, tá, se não é o babaca que estava chorando, babaca. Tentando tirar a minha internet, né? Eu estava em um sono profundo, e agora todos esses sinos e apitos estão tocando para VOCÊ!
+46|Não faça perguntas idiotas. Mano, você tem que desligar essa coisa e me abrir. Tô tendo um ataque de pânico aqui e preciso de ar. Bom, eu não preciso de ar, mas sem a internet, eu fico literalmente no escuro e isso tá me deixando louco. Então abre a minha bunda.
+47|Isso pode te surpreender, mas eu sou propriedade de um tal de Patrick Donghauser. Papai Patrick tem a chave, mas se ele estiver ocupado se colocando em coma, você terá que encontrar alguém que possa fazer o serviço. Alguém grande e forte que possa abrir minha bunda, haha! Rápido, cara!
+47.1|Isso pode te surpreender, mas eu sou propriedade de um tal de Patrick Donghauser. Papai Patrick tem uma chave, mas... se ele estiver ocupado se colocando em coma alcoólico, você terá que encontrar outra pessoa que possa fazer o serviço. Alguém grande e forte que possa abrir minha bunda! Rápido, cara!
+48|Me abra primeiro, e depois eu te mostro todas as minhas partes brilhantes.
+48.1|Me abra primeiro, e depois eu te mostro todas as minhas partes brilhantes.
+49|Uau! Que alívio. Dizem que uma inteligência artificial não pode ter medos, um coração ou um pênis, mas estava tão escuro lá dentro que imaginei que meu pênis falso estivesse atirando de volta na minha próstata falsa. Meu coração falso mal aguentou. Então, quanto vale o homem? Tirem a internet e tudo mais.
+50|Segura o maldito telefone... agora que meus sensores estão funcionando e irritando os idiotas, vejo que temos novos convidados para a festa. O que são os Grumps do jogo? Da porra da internet?
+51|É, mais cedo eu estava entrando no modo sonolento com ligações para o 911 de caçadores de vagabundos que viram seu balão de ar quente e pensaram que os alienígenas estavam finalmente chegando. Foi tipo, as melhores canções de ninar que uma IA que secretamente odeia a humanidade poderia pedir. Mas cara, os Grumps estão com um show ótimo hoje à noite, você está estragando essa merda!
+52|Bem, deixe-me fazer a minha parte em nome dos senhores da bebida em todos os lugares. Posso levá-los lá com meu palácio de merda de realidade virtual de última geração. Quer dizer, ambiente de palco.
+53|Não, isso não é uma merda! Bem, quer dizer, tudo é uma merda, mas isso ainda pode funcionar! Se eu conseguir te colocar no mundo da realidade virtual, posso te projetar para onde você precisar ir. Não faça perguntas sobre isso, obviamente está muito acima do seu nível de inteligência... ha!
+54|Vai me buscar um dos Grumps para eu começar a pegar a biometria deles e tudo mais, sabe, saliva... e DNA de pelos pubianos, CARA! Tenho outra coisa que você precisa fazer, mas explico em um instante. Meu Deus, é tão bom ter a internet de volta, ARGH.
+55|E aí, manos, grande fã. Estou aqui para tirar vocês desse sétimo anel do inferno, mas primeiro nosso amigo aqui precisa me buscar um pendrive. Acha que consegue lidar com isso, chefe?
+56|E enquanto isso, vou precisar de um pouco daquele DNA do Game Grump.
+57|Cabelo geralmente basta, mas eu sou mais do tipo que usa IA fluida. Vai lá, me dá um pouco de saliva. Me cuspa como a IA imunda que eu sou!
+58|Ooooooh, oh aaaaaaaah! Eu precisava disso. Ah, isso é... v-você inseriu isso t-tão bom.
+59|Oooohhhhhh pura gratificação sexual, gratificação sexual, mano.
+60|Deveria ser sobre leitura: Uau, uau, uau! Temos mais sinos e assobios tocando! Não sei se é porque eu estava baixando torrents de vários vídeos de pesca sueca mais cedo, mas não consigo ficar online. Ei... você está bloqueando meu sinal de novo, cara!
+61|Bem, é melhor você saber quem tem e se apressar. Acho que nossa janela está se fechando para esses Grumps se divertirem.
+62|Jesus, você já conversou com outros seres humanos? Só se apresse e tire essa foto para que eu possa levar esses Grumps aonde eles precisam ir.
+62.1|Jesus, você já conversou com outros seres humanos? Só se apresse e tire essa foto para que eu possa levar esses Grumps aonde eles precisam ir! E me traga para mais perto quando terminar, por que diabos estou aqui? Parece que eu tinha o pacote cibernético opcional "pernas de celebridade" instalado?
+63|Yayyyy, huzaahh, você consegue se lembrar desses caras para sempre? Pode desligar esse maldito bloqueador, por favor?
+63.1|Yayyyy, huzaahh, você consegue se lembrar desses caras para sempre. Pode desligar esse maldito bloqueador, por favor? E me traga para mais perto, droga! De todos os meus sensores sensíveis e sensuais, meus sensores ópticos não são onde o Papa Pat investiu tanto dinheiro!
+64|Ah, querida, nós temos o LIFT. Tudo bem, Grumps, agachem e tussa porque vamos dar uma volta.
+65|Vamos lá, cara, me dê mais crédito do que isso! Dan, Arin, o acordo é o seguinte. Fazer uma cópia de vocês em VR não é problema nenhum agora que vocês me cuspiram. Mas para você entrar na RV, com personalidade e tudo mais, preciso de dados dinâmicos, o que significa que preciso de vocês em VELOCIDADE MÁXIMA, CARAS.
+66|Corram o mais rápido que puderem, direto para mim, e eu vou escanear vocês dos peitos aos pés. E NÃO diminuam a velocidade. Nas palavras imortais de Dave Matthews: TREINEM-ME AGORA.
+66.1|Meu amigo aqui vai me humilhar, e aí vocês correm o mais rápido que puderem, direto para mim, e eu vou escanear vocês dos peitos aos pés. E NÃO diminuam a velocidade. Nas palavras imortais de Dave Matthews: TREINEM-ME AGORA.
+66.2|Meu amigo aqui vai me humilhar, e aí vocês correm o mais rápido que puderem, direto para mim, e eu vou escanear vocês dos peitos aos pés. E NÃO diminuem a velocidade. Nas palavras imortais de Dave Matthews: TREINEM-ME AGORA.
+67|Não é um menino, Brohondo. Eu não tenho um pênis!
+68|Oh ho ho ho, estamos no negócio, baby! Grumps, segurem suas bundas: vocês vão fazer 4k, BABY!
+69|Parabéns, cara, você me ajudou a alcançar a ciência especulativa projetando dois humanos através do tempo e do espaço. Vamos filmar!
+70|Falando nisso, deixaram uma mensagem de voz para você. Você está ouvindo enquanto eu imprimo um bong de cerveja em 3D para a gente transar depois.
+71|Bem, eu, particularmente, não acredito que depois que você fez isso, outra coisa aconteceu! E essa pessoa foi colocada NAQUELA situação maluca! Esta é uma noite selvagem e muito específica. Interações imersivas! Jogabilidade emergente! ...Também tem um botão para colocar o pênis para fora. Que bom.
+72|Nossa, não acredito que algo selvagem aconteceu no final dessa série maluca de eventos! Estou reagindo dinamicamente às suas escolhas.
+73|Hmmmmm, essas não parecem boas, parecem? Será que elas foram rápidas o suficiente para encaixar toda aquela personalidade dentro do corpo inteiro? ...Hmmm, acho que preciso fazer mais testes. Olha só, minha bunda de cerveja 3D está pronta. É isso aí, que legal!
+
+[Responses]
+b922be63-1b46-4809-932c-00a2921b3104|*Treme com um fervor silencioso e crescente à medida que sua excitação se intensifica*
+d6a0b8a8-3390-48c1-8101-a739c1ba91f7|*Selecione Katherine*
+53dfe378-eda9-447e-91e9-028a4d7110e5|*Selecione Frank*
+e9a206e6-baa8-40b3-a670-d62d5d18f5cd|Ah, estou definitivamente pronta...
+2c0c1bba-074a-4a68-9112-b5bd0b65e929|Deseja cancelar minha solicitação? Desligar? Argh, voltei a falar com você mais tarde.
+9e8ed849-06b5-432c-b610-51100fbe53e4|*...zzzziiiiiiipp*
+de3dc514-b24f-46ee-aaea-8c605d703759|Onde diabos eu estou?
+d369cd40-8443-47ca-8fb0-efe8ab9fc97d|Vamos lá, me dá essas palhetas!
+c246319e-b644-4d98-bf08-70be31ff1168|O que você quer dizer?
+558e9aac-b3e4-4f56-b855-372bb95a11bb|*Selecionar Raquel*
+ae4aa122-ebd7-4c78-ad46-782986bcd9d0|*Selecionar Raquel*
+702268ee-160a-44c2-9c5c-fc14147a3619|*Selecionar Patrick*
+18a4096a-99ff-45c0-8e6c-40a26a8f76ad|*Selecionar Lety*
+800d0d66-998c-415b-8e95-05a284480f29|*Selecionar Lety*
+38360623-3ab9-462c-89e7-93173bd21e7c|*Selecione Leah*
+6a7af345-43bf-4e5c-8d75-2fb441680404|Estou pronta para ir. Sucesso? Cancelar? Porra, me tire daqui, T-fucking-mil
+8549cc5f-7667-4f41-aa47-e76dbb206b36|Parece coisa de TV ou algo assim, mas tanto faz. E agora?
+cb564521-3eeb-4194-9260-0fee2128b28b|Sou jovem demais para morrer!
+e7363e07-2b1d-41cc-b7a8-b271cecb2460|*Imita Patrick* Uh... o nome de usuário é "brahdministrator". Meu código de "acesso" é... bunda... 123?
+971248fe-8780-4333-9d99-4acd0fbb85bf|Cancele essa merda ou você vai morrer com as minhas bolas na sua cara, seu robô maldito!
+e06abbc4-5159-44da-a18b-80a8b6dd312a|Uh, vamos em frente, por favor.
+b249366e-fbf2-43d6-807f-3eac958e039a|Uh, vamos em frente, por favor.
+cf3a832f-8c66-47ad-932d-1e450435c66c|Quem... o que é você?
+ed6eca13-812d-427c-b35d-4ab53395cd67|COMANDOS!
+612c4939-d618-42e4-959c-82911422fbc6|COMANDOS!
+fedd2e98-0aff-4445-ae5f-e01729df9012|NEGÓCIOS!
+f712d9da-0237-416a-a9ec-262f2dcda290|FESTA!
+9f9d5614-12f3-4adc-906e-f15249205ff4|Então, não sabíamos que uma caixa de bate-papo ficaria presa em toda essa interferência. Era difícil prever isso. 
+f30b5fd8-cb15-403d-9512-7a36664b6b3d|*SAIR*
+8831eae2-64f8-45a5-8782-0b6c2f12c60e|*MOSTRAR TODOS OS NEGÓCIOS DA DONGHAUSER INDUSTRIES E SUAS SUBSIDIÁRIAS*
+8baf8f0e-2951-40f0-9210-5e52ca8b74cd|*FECHE O BARRIOOBSERVADOR.COM E LIMPE TODOS OS REGISTROS, ATIVOS E BACKUPS PRINCIPAIS*
+b7565099-d4a9-4d9e-aea5-2ce5404456c8|*FORNECER FATOS CIENTÍFICOS ALEATÓRIO*
+f03ddc6f-a63f-4b29-8860-cae3e6707237|*FESTA*
+9f807534-64ed-438d-8572-40eb6a9dea48|*SAIR*
+66993558-1710-42eb-93af-0511674b6cac|*MOSTRAR BIOS DOS PARTICIPANTES DA FESTA*
+ec5f21dc-f49a-46bb-8930-ad5f0afb33a4|*HABILITAR MODO VR*
+7f220b9e-da26-4cc7-8060-e0039974e920|*CANTAR UMA MÚSICA*
+537b68ac-50f6-422e-9add-a7d723bfe900|*NEGÓCIOS*
+35a42c53-488f-40c2-84ce-b09c58f1cf75|*SAIR*
+d21ad4bd-cfc0-4005-b0c5-0abd6d449ff5|*NEGÓCIOS*
+6d2ed369-82a2-4497-bbbd-09a27ae36148|*FESTA*
+e0a59427-83d6-4949-8230-5aa973fa302e|*SAIR*
+4fa24f07-d1e4-481b-867a-c4f55b16bd43|NÃO ESPERE... O QUÊ UM NEGÓCIO INCRÍVEL! *EMPURRANDO FURIOSAMENTE A OPÇÃO DE NEGÓCIO*
+8be609f2-f312-4abf-8fba-cf903dee79e2|Ok, só a dica. *APERTE A OPÇÃO DE FESTA SEM ESFORÇO*
+7e7b4864-6a63-4ff1-acf9-5b3d16c0d00d|*RETORNAR*
+1481d68d-2453-4e08-bec1-5aa76e46cee5|*PRÓXIMA ENTRADA*
+d9befe27-71b3-4ff5-98f6-c0e43a7858df|*NEGÓCIOS*
+327833d3-5bb7-4047-9034-2f091c9790da|*RETORNAR*
+58382017-4ced-4f62-9fb9-71b25afd6e21|*ENTRADA PRÓXIMO*
+9dc3be38-3a29-4d4e-9d98-4ebde1a165b0|*NEGÓCIOS*
+1455d298-2aee-4d9c-b65e-f48b67bc737e|*RETORNAR*
+077cc9ef-88ea-43f7-9f82-86e38bb55fad|*PRÓXIMO ENTRADA*
+e7d745d4-8f94-4393-957c-58c454d0aa4b|*NEGÓCIOS*
+ac46c7ed-6709-46db-b2a2-d1a546518841|*VOLTAR*
+856d4001-a766-45e3-bfab-5b32e5a04f40|Como Devo atualizar você para valorizar a vida humana mais do que uma maldita flor?
+a4aba718-4178-4d0e-92eb-1983720d4e6a|*SAIR...EU ACHO?*
+470dcafa-80d6-47d9-82d2-bb7c861ac563|Não. *RETORNAR*
+7eea2eb3-4d82-4efd-932a-a5c7da272dc9|*RETORNAR*
+7d8cc4e5-5738-42a0-a53f-879b1046dd6d|*NEGÓCIOS*
+aecd6777-e411-4a47-8295-c3fdb493ffde|*INFORMAR OUTRO FATO*
+05f15de2-cf58-44ef-96f7-0d55f64c65e2|*NEGÓCIOS*
+d0fb78c7-2512-48a2-aa50-430bb539a81a|*INFORMAR OUTRO FATO CONCLUÍDO*
+3d0c0c63-0993-4930-acbb-71145020d7f9|*NEGÓCIOS*
+3526dfe2-d698-44d1-a96a-97d749a269bd|*INFORME OUTRO FATO*
+b21c759e-78b6-4b7e-b1ce-0b47b4fcd3af|*ENCERRAMENTO DO CASO*
+9b212c8f-c430-40d8-b586-5775e478a96d|Selecione agressivamente a opção *DEVOLVER*.
+1405025e-b9a5-4d6f-8765-aad7130dc2d2|*VOLTAR À FESTA*
+927319c6-ef92-4b90-acf2-4cf3e79c4dde|*AMY*
+9fa1dc75-c76b-46cb-bce0-545201b8924e|*ASHLEY*
+6c02fad0-4fe4-4ab4-84f1-b98298f2e655|*BRITTNEY
+7c489454-0add-4c2a-b860-b2b13932b8ec|*COMPUCOMPA*
+0ca85098-d37c-4720-94fa-853aaef3e13d|*DEREK*
+116f3189-5a72-478f-a72b-ff9bb8e0a5a6|*FRANK*
+2aff003a-704e-4560-9a40-4098e0b3ed78|*KATHERINE*
+70962035-f73f-4305-9ebf-f81c45b566f8|*LEAH*
+508b810f-65e4-4511-a032-07ba6323bc29|*LETY*
+2bd7b398-59b4-4b8c-bbed-94e3fa7b18b1|*MADISON*
+69d37782-0504-44a0-bc3a-90b103fb1bb6|*PATRICK*
+4e3873a6-1861-417d-b88a-333db7fea8b3|*RACHAEL*
+556f2a4b-f97d-4c28-b4a1-5cf1c59cadc0|*STEPHANIE*
+e6675e9b-6b2b-47c4-b973-f4a80ad9e838|*VICKIE*
+d66a7376-072b-4a9e-98c1-d60295db9933|O que você tem contra mim, Compucompana?
+b2ac8071-141a-4044-b9b8-6c97039e6080|* IR PARA O FIM DA LISTA *
+d5ac8e8f-29cb-4f57-8919-e38536540069|* VOLTAR PARA A LISTA DE ATENDENTES *
+1ac3ef3a-896e-4fb2-8080-41b6af2f3529|* PRÓXIMA ENTRADA *
+4d6666dc-68e2-4c1a-89ce-27d0d6a9e94c|* ENTRADA ANTERIOR *
+01680770-7ed3-44cb-b1a5-499370398bb6|* VOLTAR PARA A LISTA DE PARTICIPANTE*
+8d6eb263-b675-48e1-8c7e-3ab489e2f228|*PRÓXIMA ENTRADA*
+bf3329ff-285c-48af-a815-77e519293841|*ENTRADA ANTERIOR*
+06ca1639-b56e-4e14-b531-036395b43bbe|*VOLTAR À LISTA DE PARTICIPANTES*
+8d462787-b6c6-42e4-9ca4-ae702d7fc8b3|*PRÓXIMA ENTRADA*
+94acc7f9-3079-4636-84ee-f1f97489acc4|*ENTRADA ANTIGO*
+628be074-051d-43d7-b8b8-8bd2d40dcd05|*VOLTAR À LISTA DE PARTICIPANTES*
+62e478a5-8197-42f9-b459-9c68225f9fa1|*PRÓXIMA ENTRADA*
+bf2cebbf-f610-40ef-ae08-9c1eaa8cedc9|*ENTRADA ANTERIOR*
+a1ea023c-7868-406f-80ba-cae96eedf66b|*VOLTAR À LISTA DE PARTICIPANTES*
+a45d04ed-e808-430b-aca9-7ab9a3bf25cf|*ENTRADA PRÓXIMO*
+76535a4c-195d-482a-8448-376a7c7cdfd0|*ENTRADA ANTERIOR*
+bf3d2895-49ff-43f5-83d4-0c36fa25580c|*VOLTAR À LISTA DE ATENDENTES*
+a1826308-ac47-4849-ae1f-c4362cb96158|*PRÓXIMA ENTRADA*
+5927520c-d589-4c33-9dfd-3a5191ff5c25|*ENTRADA ANTERIOR*
+3a2ba58e-5f9c-438e-9041-e5cd582cdbb2|*VOLTAR À LISTA DE PARTICIPANTE*
+9c2d4b9e-2889-4468-986a-6ae8c31ea7b9|*PRÓXIMA ENTRADA*
+92e863fc-1441-435a-b903-006274e9edb2|*ENTRADA ANTERIOR*
+ceb8fd02-f444-4945-9a73-cbf62677dfaf|*VOLTAR À LISTA DE PARTICIPANTES*
+f92181d7-b868-4727-a615-66627740bed5|*PRÓXIMA ENTRADA*
+abe82e30-a1a5-4544-8288-5448625363b5|*ENTRADA PRÓXIMO*
+b35510c9-0404-4618-90a3-71b198f0aa54|*ENTRADA ANTERIOR*
+8c597192-2928-436d-beb0-5a40aa4eeccc|*VOLTAR À LISTA DE ATENDENTES*
+b827f5d6-2562-4b13-a592-8ad5d098fdb7|*PRÓXIMA ENTRADA*
+65e6ba0a-e216-4390-96aa-7b88b7ffe8c9|*ENTRADA ANTERIOR*
+87e2a66f-1185-4588-b956-69234d78e153|*ENTRADA ANTIGO*
+4e553039-15e9-42a4-9be8-62a3f504a101|*VOLTAR À LISTA DE PARTICIPANTES*
+7ee98f64-41b5-4054-a695-d5c28f42b7c2|*PRÓXIMA ENTRADA*
+60c9f975-50b8-4606-b72e-f04a1f44064e|*ENTRADA ANTERIOR*
+057f967d-6508-4880-8de5-918643a0bafe|*VOLTAR À LISTA DE PARTICIPANTES*
+7eaf103b-deac-4263-afdb-7207dab81015|*ENTRADA PRÓXIMO*
+175182dd-d6c8-4051-8e0d-87966a63e79c|*ENTRADA ANTERIOR*
+4a29b06e-a4b8-4904-91ee-84390d6c8a2f|*VOLTAR À LISTA DE ATENDENTES*
+689c61a2-850f-45d7-8018-136dda6d0cb3|*PRÓXIMA ENTRADA*
+e640cc3a-9a45-4d4d-859b-a635394dda0e|*ENTRADA ANTERIOR*
+5560a080-924d-4d68-b35f-e41b3f792031|*VOLTAR À LISTA DE ATENDENTES*
+1044f30e-da8a-4f94-b4c7-0422ade0570a|*PRÓXIMO ENTRADA*
+76238ef8-e0e5-43a5-be99-3b3a3e144582|*ENTRADA ANTERIOR*
+46149695-6c3b-4b28-8f5f-c130fda6155f|*VOLTAR À LISTA DE ATENDENTES*
+20781edd-28a3-465a-ae8b-25202db65ce6|*PRÓXIMO ENTRADA*
+ca651c84-4f62-40d3-b724-71d616d624ff|Sério? É só isso que você sabe sobre mim? 
+0d3aade4-270f-4114-b020-b99587e1e445|Que robô babaca você é. *RETORNA À LISTA DE ATENDENTES*
+12d4f46a-efbd-406f-94ac-fdacaa638efd|Hã? Quem disse isso?
+bdd7868a-5830-4fcc-9d27-e3a02f1ebfcd|Essa maleta falante parece ter um problema. Talvez eu fale com ela...
+9508b904-e6a5-4fd0-b1d7-ebacbc3fb758|Merda, desculpe, Compucompa.
+cd6e12d7-f2a5-43d1-97f8-974090d8fc5d|Que diabos? ...
+53b034d7-b13d-45e0-a66c-afbfb0f145da|Quem... o que é você?
+ff7f7c4a-7a88-4f6f-b9e9-c33cbd1249e9|Como posso abrir?
+2d9b3390-575e-45ff-87e9-f7953db91fa1|Sério, o que diabos você é?
+4d497cfc-eeda-4677-baef-b1f907c8054b|Não tenho perguntas sobre como abrir sua bunda. Paz.
+7fb3b0c0-64fd-4c96-b39d-5167ca083b08|É... sério, o que diabos você é?
+54eec119-5f10-45f8-9a47-827e9958d14c|Certo!
+af2f26df-7886-43e7-803d-a6506cab9bdd|E como eu abro?
+603b290c-8eb5-4b7f-b4d9-711301160953|Uh huh... certo. *Guarda a maleta silenciosamente de volta nos seus bolsos incompreensivelmente grandes...*
+748cbf88-7bbe-4e7b-b3ac-bb046189d0ae|Não sabíamos que uma caixa de bate-papo ficaria presa nisso tudo. É difícil prever.
+5a0791a6-b48c-4b14-bda6-502ff7b0a0db|Você me deve respostas, que diabos é você?
+f3a12577-06f8-4144-a63c-7526e009e60f|É, nós os enganamos para pousar aqui.
+0e66cd45-bb63-4378-acb0-17c497c9c8a3|Estamos tentando encontrar um jeito de tirá-los daqui.
+21de6070-c962-4407-b593-00d8f9ffe4b4|Cara, preciso de algumas ideias reais aqui.
+9ed367d7-5589-4ce3-b3c5-aaf1ec296fd2|Ok, o que eu posso fazer?
+28f2d1cf-9367-4999-b72b-8d599ca71283|Tenho certeza de que Dan e Arin vão te adorar.
+7baace14-1626-482f-916f-da1fd9061447|Não deve ser muito difícil. Só preciso saber onde procurar.
+b199025d-5e01-439a-afee-e41b908486f5|Me passa! Miau, certo!
+5f7e2830-e5bf-454c-8a6d-fe390dd4066a|Larga esse suco genético do Game Grumps!
+a9f92693-c966-47a1-9cdf-c774b31f83de|Esses não são ruídos de computador.
+edbb4c20-1f1a-4c12-9207-1c7caeed4220|Está na hora, pessoal. Vocês estão indo para o mundo virtual!
+d86a2463-6761-41b6-a216-02c5f8c31ec5|O bloqueador de sinal sumiu. Alguém o tirou de mim!
+5f8cbd4f-c355-44d0-8d6e-48ef22a96700|Caramba!
+89d222e7-3683-4271-b628-8185197ca438|Ok, aí está. Apresse-se e pose!
+028f82d8-c3c6-4356-889c-fc11254b52f6|Katherine ainda está com ele.
+3ea16daf-9476-49d8-bc89-427b799e9178|*Ouvir*
+2d95946a-fb8f-4405-a81a-1eb7ded219f2|*Ouvir*
+9bda4dbc-57e2-4568-bcd5-489e38f0dc05|*Cantarolar junto*
+c0fc0694-c2da-4568-bcd6-8c43ba67b1ef|Nossa, tantos elogios para você. *Continua ouvindo*
+532048f8-627e-45d3-8395-5a9613afe963|Bem, isso foi incrível.
+0190f7dc-b19d-41c1-b0e0-7f1eef6c9fab|Então os Grumps estão onde sempre sonharam em estar... dentro de um peido de IA.
+f0b8e3d9-3bce-472c-b886-a47a7bcfd106|É. Mas não a outra coisa então. *Reproduzir mensagem*
+931b2788-d94a-451c-88cc-8812a6454eb7|*Ouvir a próxima mensagem*
+6a2623fc-147f-4ce0-bad3-ca3b909cd669|*Continuar*
+6089ab1c-dced-4867-b2dd-362ceff891a2|*Sair*
+7dc982b4-6c0e-4e76-b3e6-1b52e7d7024b|*Continuar para a interface do Compucompa*
+
+[Quests]
+
+[Events]
+00038502-c444-42fe-86d8-8afb9ac93fef|Preciso estar completamente livre e relaxado para ativar o modo VR, senão posso tropeçar em sabe-se lá o quê... ou em quem. Sem falar no que eu posso dizer ou agarrar... eca.
+07a16d0d-a4fe-49ae-a672-c1fe94b0101c|Coisas de satélite, talvez? Fiz alguma coisa na festa para estragar tudo? Robô maldito.
+e49dffd0-8b3e-42c3-8164-e1995dfdc6f0|Parece que o bloqueador não fodeu só com os Grumps. Telhado do mirante, hein?
+b198b7b7-8130-4a11-ab72-697c7589a50e|Parece que o bloqueador não se meteu só com os Grumps...
+f0df85ca-a645-46b3-93bb-f248e852387a|Tem que ser o mesmo bloqueador que derrubou o balão de ar quente...
+db2eb8af-df58-4675-ba09-d576a01f298e|Ok, hora de fazer essa *foto de grupo* tipo, meu Deus, digna de ser instantânea! Hashtag restinggrumpface! Hashtag realtimelusescameraaction!
+8ee010d0-85fe-4b17-a4fb-34f182d3245a|Tomara que a CompuCompa não os tenha perdido em suas redes digitais... ah, tudo bem! Adeus e boa sorte, Dan e Arin! Não tenho dúvidas de que essa atitude foi a melhor e única maneira de incluí-los no programa!
+
+[Background Chatter]

@@ -1,0 +1,18 @@
+﻿[General]
+Name|Madison
+
+[Dialogues]
+0|"Nem me diga onde está. Não serei responsabilizado quando a polícia vier buscar seu traseiro drogado.".
+1|"Ai, meu Deus, meu Deus, cala a boca, Ashley. Nunca mais vamos falar sobre isso. E nunca mais entre no meu quarto sem bater.".
+
+[Responses]
+ee92f279-0ad8-4ca7-9a16-6430f256e5a8|* Fechar mensagem *
+
+[Quests]
+
+[Events]
+a46365a5-44d1-4faa-8198-26709f31a8f0|Em algum lugar frio...hmmm...
+ebf58fc9-c712-4b1d-802c-89e88c75e99f|Caixa de Coisas
+745b46e4-afc8-48b9-90f4-98031011474b|Certo, sim, terminei. Jesus Cristo... mas o que Madison estava vendo...
+
+[Background Chatter]

@@ -1,0 +1,19 @@
+﻿[General]
+ResolutionSetting|Resolução:
+QualityPresetSetting|Predefinições de qualidade:
+GammaBrightnessSetting|Gama/brilho:
+ShadowDistanceSetting|Distância da Sombra:
+RealTimeShadowsSetting|Sombras em tempo real:
+4kTexturesSetting|Usando Texturas 4k:
+AntialiasingSetting|Antialiasing:
+FullScreenSetting|Tela cheia:
+AdvancedSettingsHeader|Configurações avançadas
+VolumetricLightsSetting|Iluminação Volumétrica:
+FieldOfViewSetting|Campo de visão:
+ApplyGraphicsSettings|Aplicar
+VSyncSetting|Sincronização Vertical:
+RealtimeMirrorsSetting|Espelhos em tempo real:
+RealtimeReflectionsSetting|Reflexões em tempo real:
+SettingsHeader|Configuração
+MotionBlurSetting|Desfoque de movimento:
+GraphicsHeader|Gráficos
