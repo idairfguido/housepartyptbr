@@ -1,11 +1,29 @@
 ﻿[General]
 _done|Feito
-_controllerColumnLabel|Controlador
+_restoreDefaultsButtonLabel|Restaurar
+CombatModeText|ModoCombate
+ControllerXSensitivityText|Sensibilidade eixo X do controle:
+ControllerYSensitivityText|Sensibilidade eixo Y do controle:
+Crouch|Agachar
+FlashBreastsText|MostrarSeios
 InputHeader|Entrada
-_removeControllerButtonLabel|Remover
-_mouseColumnLabel|Mouse
-_restoreDefaultsButtonLabel|Restaurar valores padrão
-_keyboardColumnLabel|Teclado
-_calibrateControllerButtonLabel|Calibrar
-_assignControllerButtonLabel|Atribuir controlador
-_actionColumnLabel|Comportamento
+InputText|Entrada
+InventoryText|Inventário
+InvertMouseYText|Inverter eixo Y do mouse:
+LoadGameText|CarregarJogo
+LookText|Olhar
+MasturbateText|Masturbação
+MemoriesText|Memórias
+MouseSensitivityText|Sensibilidade do mouse:
+MoveText|Movimento
+OpportunitiesText|Oportunidades
+PeeText|Urinar
+PenisText|Pênis
+PlayerActionsText|Ações do jogador
+QuickSaveText|Salvamento rápido
+RightHandMode|Modo mão direita:
+RighthandText|MãoDireita
+RunText|Correr
+SaveGameText|Opções
+UIRadialText|MenuRadial
+

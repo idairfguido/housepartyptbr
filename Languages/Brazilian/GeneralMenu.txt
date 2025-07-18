@@ -1,55 +1,93 @@
 ﻿[General]
-Yes|Sim
-No|Não
-Ok|OK
-CloseButton|Fechar
+AcquaintancesStatus|Conhecidos
+Balanced|Balanceado
+BFFsStatus|Melhores amigos
+BombedStatus|Bêbado/a
+BuzzedStatus|Alcoolizado/a
 Cancel|Cancelar
-EnterTextPlaceholder|Inserir texto...
-EnterSaveNamePlaceholder|Digite o nome ou pressione Salvar para usar o registro de data e hora como nome...
-DuplicateNamedSaveDisclaimer|Já existe um arquivo com este nome. Deseja sobrescrevê-lo?
-SaveButton|Salvar
-SaveGameHeader|SALVAR JOGO
+ChooseUseWithItemLabel|Escolha qual item usar com...
+CloseButton|Fechar
+ColdShowerStatus|Banho frio
+CombatEnergy|Energia
+CombatStunned|ATORDOADO!
+CombatYourHealth|Saúde
+ContentUnderDevelopmentNotice|Este conteúdo ainda está em desenvolvimento. Estamos trabalhando nisso e o finalizaremos o mais rápido possível!
 DebugConsoleHeader|Console de depuração
-DebugConsoleSaveToLogButton|SALVAR NO REGISTRO
-CombatStunned|Atordoado!
-CombatEnergy|Energía
-CombatYourHealth|Sua saúde
+DebugConsoleSaveToLogButton|SALVAR NO LOG
+DemoEndingWarning|A sessão de jogo será encerrada porque se trata de uma versão demo. Para a experiência completa, compre o jogo.
+Dialogue-DrunkStanding|Neutro
+Dialogue-FriendshipStanding|Neutro
+Dialogue-LoveStanding|Neutro
+DismissNarrationLabel|Clique em qualquer lugar para continuar...
+DoesNotWantThat|não quer este item no momento.
+DownloadingServerStories|Baixando as últimas histórias do servidor. Aguarde...
+DownloadingServerStoriesError404|ERRO: última atualização de histórias não encontrada!
+DownloadingServerStoriesGenericError|ERRO: Não foi possível baixar a última atualização de histórias do servidor! Certifique-se de que House Party tem acesso à internet e permissões no firewall e/ou antivírus, ou você pode não receber atualizações!
+DownloadingServerStoriesUnknownError|ERRO: Erro desconhecido ao baixar os arquivos de histórias.
+DrunkStatus|Embriagado/a
+DuplicateNamedSaveDisclaimer|Um arquivo com esse nome já existe. Deseja sobrescrevê-lo?
+EnterSaveNamePlaceholder|Digite um nome ou pressione Salvar para usar data e hora como nome...
+ExtractingServerStoriesError|ERRO: ocorreu um erro ao escrever as histórias da Eek! Games na pasta de dados. Certifique-se de que o aplicativo tem permissões e que o antivírus não está bloqueando o acesso aos arquivos/pastas.
+Feelin'GoodStatus|Animado/a
+FriendsStatus|Amigos
+FriendZoneStatus|Apenas amigos
+GameOverDisclaimer|Pressione Esc para abrir o menu principal
+GameOverLabel|Fim de jogo
+GoodFriendsStatus|Bons amigos
+GraphicsQualityHigh|Alta
+GraphicsQualityLow|Baixa
+GraphicsQualityMedium|Média
+GraphicsQualityUltra|Ultra
+GreatFriendsStatus|Grandes amigos
+High|alta
+InstallingServerStories|Últimos arquivos do servidor da Eek! Games baixados! Tentando extrair e instalar. Por favor, aguarde...
+InterestedStatus|Interessado/a
+InventoryElement|Inventário
 InventoryHeader|INVENTÁRIO
-YourOrgasmLabel|Você
-TheirOrgasmLabel|Eles
-ChooseUseWithItemLabel|Escolha o item que você gostaria de usar com...
+LightlyBuzzedStatus|Levemente alcoolizado/a
 LoadGame-HeaderText|CARREGAR JOGO
-LoadGame-LastUpdatedOpportunities|Última atualização de oportunidades
-LoadGame-LatestMemories|Última memórias
+LoadGame-LastUpdatedOpportunities|Últimas oportunidades atualizadas
+LoadGame-LatestMemories|Últimas memórias
 LoadGame-ListOfSaves|Lista de salvamentos
-QuestWindow-HideMissedOpportunitiesCheckbox|Ocultar erro/perdido
-QuestWindow-HideCompletedOpportunitesCheckbox|Ocultar completado
-QuestWindow-OpportunitiesTab|Oportunidades
+LoveStatus|Amor
+Low|baixa
+LustStatus|Desejo
+Medium|média
+MemoriesElement|Memórias
+No|Não
+NotInterestedStatus|Não interessado/a
+Off|Desligado
+OpportunitiesElement|Oportunidades
+OpportunityCompletedPopupDetails|Oportunidade concluída!
+OpportunityDiscoveredPopupDetails|Oportunidade descoberta!
+OpportunityFailedPopupDetails|Oportunidade falhou!
+OpportunityMissedPopupDetails|Uma ou mais oportunidades perdidas!
+OpportunityMissedPopupTitle|Oportunidades perdidas
+OpportunityMissedWindowDetails|Uma ou mais oportunidades foram perdidas devido às suas escolhas.
+OpportunityMissedWindowTitle|Oportunidades perdidas
+OpportunityUpdatedPopupDetails|Oportunidade atualizada!
+OrgasmReadyLabel|Orgasmo
+OrgasmRestingLabel|Recuperando...
+Performance|Desempenho
+PluralAddedToInventory|adicionados/as ao inventário
+Potato|baixa
+Quality|Qualidade
+QuestWindow-HideCompletedOpportunitesCheckbox|Ocultar concluídas
+QuestWindow-HideMissedOpportunitiesCheckbox|Ocultar falhadas/perdidas
 QuestWindow-MemoriesTab|Memórias
 QuestWindow-OpportunitiesHeader|OPORTUNIDADES
-GameOverDisclaimer|Pressione ESC para abrir o menu principal
-GameOverLabel|Fim de jogo
-DismissNarrationLabel|Clique em qualquer lugar para continuar...
-LowFrameRateWarning|Baixa taxa de quadros detectada! Pressione ESC e tente ajustar suas configurações gráficas! Você pode ter lentidão no jogo com as configurações atuais. Você pode desativar este pop-up no menu de pausa.
-OrgasmRestingLabel|Descansando...
-OrgasmReadyLabel|Orgasmo
-DemoEndingWarning|Esta sessão de jogo terminará em breve, pois esta é uma versão demo. Para sessões de jogo mais longas, você pode comprar o jogo.
-DownloadingServerStories|Baixando as últimas histórias do servidor. Aguarde...
-DownloadingServerStoriesError404|ERRO: Último arquivo de história não encontrado!
-DownloadingServerStoriesGenericError|ERRO: A história mais recente não pôde ser baixada do servidor! Certifique-se de que o House Party tenha acesso à internet e as permissões apropriadas do seu firewall e/ou antivírus, ou você poderá não receber atualizações!
-DownloadingServerStoriesUnknownError|ERRO: Erro desconhecido ao baixar arquivos de história.
-InstallingServerStories|Últimos arquivos Eek! Servidor baixado! Tentando extração e instalação. Aguarde...
-OpportunityMissedPopupTitle|Oportunidades perdidas
-OpportunityMissedPopupDetails|Uma ou mais oportunidades perdidas!
-OpportunityMissedWindowTitle|Oportunidades perdidas
-OpportunityMissedWindowDetails|Uma ou mais oportunidades foram perdidas devido às escolhas que você fez.
-GraphicsQualityUltra|Ultra
-GraphicsQualityHigh|Alto
-GraphicsQualityMedium|Médio
-GraphicsQualityLow|Baixo
-ExtractingServerStoriesError|ERRO: Ocorreu um erro ao gravar o Eek! Game Stories baixado na pasta de dados interna. Certifique-se de que o aplicativo tenha as permissões apropriadas e que seu antivírus não esteja bloqueando o acesso a arquivos/pastas.
-AchievementsNotFoundReminder|Lembrete: O arquivo de conquistas não foi encontrado. As conquistas foram desativadas.
-AchievementsNotFoundWarning|Arquivo de conquistas não encontrado! As conquistas foram desativadas.
-OldSaveLoadedWarning|Um jogo salvo de uma versão diferente do jogo foi carregado. O conteúdo pode não funcionar como esperado.
-StoryIntegrityCheckError|ERRO: A história não pode ser reproduzida devido a uma falha na verificação de integridade. Os arquivos estão ausentes ou corrompidos, ou a versão da história é inválida.
-ContentUnderDevelopmentNotice|Este conteúdo ainda está em desenvolvimento. Estamos trabalhando nele e o finalizaremos o mais breve possível!
+QuestWindow-OpportunitiesTab|Oportunidades
+SaveButton|Salvar
+SaveGameHeader|SALVAR JOGO
+SaveNameGenderFemale|Feminino
+SaveNameGenderMale|Masculino
+ShcwastedStatus|Muito bêbado/a
+ShitListStatus|Lista negra
+SingularAddedToInventory|Adicionado/a ao inventário
+SoberStatus|Sóbrio/a
+StoryIntegrityCheckError|ERRO: História não jogável devido à falha na verificação de integridade. Arquivos ausentes ou corrompidos, ou versão inválida da história.
+TheirOrgasmLabel|Parceiro/a
+Ultra|ultra
+VeryLow|muito baixa
+Yes|Sim
+YourOrgasmLabel|Você

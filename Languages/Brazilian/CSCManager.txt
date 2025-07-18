@@ -1,110 +1,193 @@
 ﻿[General]
-MostRecentTab|Mais recente
-TopRatedTab|Melhores avaliadas
-MostPopularTab|Mais populares
-MustLogInDisclaimer|Você precisa fazer login na sua conta do jogo Eek! para baixar histórias personalizadas do servidor.
-SubmitButton|Enviar
-InstallButton|Instalar
-ForgotPasswordLink|Esqueceu sua senha?
-SubmitRatingButton|Enviar
-RegisterNewAccountCheckboxLabel|Registre-se com uma nova conta
-ReportStoryButton|Reporte
-SubscribeToEmailsCheckboxLabel|Sim! Por favor, enviem-me notícias interessantes.
-RateStoryButton|Avalie a história
-ConfirmAgeCheckboxLabel|Tenho 18 anos ou mais
-GenericErrorHeader|UPS...
-ReportStoryHeader|Reporte
-RateStoryPopupHeader|Avalie esta história
-AddCommentWithRatingLabel|Adicionar comentário ao autor (opcional)
-ReportStoryDisclaimer|Esta história contém conteúdo inapropriado ou ilegal?
-RatingLabel|Classificação:
-LogInHeader|INICIAR SESSÃO
-EmailFieldLabel|E-mail:
-ConfirmPasswordFieldLabel|Confirme sua senha:
-UsernameFieldLabel|Nome de usuário:
-PasswordFieldLabel|Senha:
+2FAHeader|2FA
+2FALabel|Código 2FA:
+AddCommentWithRatingLabel|Deixe um comentário para o autor (opcional)
+AddTagPlaceHolderText|Adicionar tag...
+AddTagText|ADICIONAR
+AllText|Todos
+ConfirmAgeCheckboxLabel|Tenho pelo menos 18 anos
+ConfirmPasswordFieldLabel|Confirmar senha:
+ContentWarningText|Interações online e conteúdo gerado por usuários não classificados pelo PEGI
+CreateDesignPresetHeader|Preset de design
+CreateGroupPresetHeader|Preset de grupo
+CreateText|CRIAR
 CustomStoriesHeader|HISTÓRIAS PERSONALIZADAS
-LastUpdatedLabel|Última atualização:
-ReportSuccessfulDisclaimer|Recebemos sua denúncia. Analisaremos a história.
-ReleasedOnLabel|Publicado em:
-ReportSuccessfulHeader|Relatório de sucesso
-ReportCommentLengthErrorHeader|Relatar erro no comprimento do comentário
-ReportCommentLengthErrorDisclaimer|O comentário do sua análise não pode estar vazio e não pode ter mais de 150 caracteres.
-ReportAlreadySubmittedHeader|Análise já enviado
-ReportAlreadySubmittedDisclaimer|Você já enviou uma análise para esta história.
-StoryByLabel|História de:
-DuplicateRatingsDisclaimer|(Avaliar mais de uma vez substituirá sua avaliação anterior)
-ForumLinkForStory|Visite o tópico do fórum para esta história
-LogoutButton|Sair
-LoggedInAsHeader|Conectado como:
-YourRatingForStoryLabel|Sua Classificação:
-PasswordResetTooSoonHeader|Solicitação de redefinição de senha já enviada
-PasswordResetTooSoonContent|Enviamos um e-mail que pode levar até dez minutos para chegar e pode acabar na sua caixa de spam. Caso não chegue, aguarde alguns minutos antes de tentar novamente.
-PasswordResetEmailInvalidHeader|A senha não pôde ser redefinida.
-PasswordResetEmailInvalidContent|Não conseguimos encontrar uma conta usando esse endereço de e-mail.
-PasswordResetEmailSentHeader|E-mail enviado
-PasswordResetEmailSentContent|Acabamos de enviar um e-mail com um link para redefinir sua senha. Aguarde, pois pode levar até dez minutos para recebê-lo. E não se esqueça de verificar sua caixa de spam.
-PasswordResetGenericErrorHeader|A senha não pôde ser redefinida.
-PasswordResetGenericErrorContent|Não conseguimos encontrar uma conta usando esse endereço de e-mail.
-PasswordResetUnknownIssueHeader|A senha não pôde ser redefinida.
-PasswordResetUnknownIssueContent|Não conseguimos conectar você online no momento. Nossos servidores podem estar fora do ar. Verifique sua conexão de internet, tente novamente em alguns minutos e entre em contato com o Discord se ainda não estiver funcionando.
-StoryDownloadSuccessHeader|História baixada com sucesso!
-StoryDownloadSuccessContent|Você baixou a história e agora pode reproduzi-la.
-StoryDownloadFailedHeader|Não foi possível baixar a história
-StoryDownloadFailedContent|Não é possível baixar esta história no momento. Você pode tentar novamente em alguns minutos.
-UpdateStorySuccessHeader|História atualizada com sucesso!
-UpdateStorySuccessContent|É isso, mano. Esta história foi atualizada com sucesso!
-UpdateStoryFailedHeader|Não é possível atualizar a história
-UpdateStoryFailedContent|Algo deu completamente errado e não conseguimos atualizar esta história corretamente. Talvez você não esteja nos deixando acessar suas pastas? Talvez você tenha algum antivírus em execução? Precisamos desse acesso, mano!
-UninstallStorySuccessHeader|História desinstalada com sucesso!
-UninstallStorySuccessContent|É isso aí, missão cumprida! O que você vai fazer agora com todos esses megabytes sobrando? ...Espere, não responda isso. Vamos seguir em frente juntos e ilesos a partir deste momento de triunfo.
-UninstallStoryFailedHeader|Não foi possível desinstalar essa história
-UninstallStoryFailedContent|Algo deu completamente errado e não conseguimos desinstalar esta história corretamente. Você está destinado a ficar preso a ela de agora até a inevitável morte térmica do universo. Ou até excluí-la manualmente.
-UpdateStoryButtonText|Atualizar
+DeleteDesignPopupHeader|Tem certeza de que deseja excluir este design?
+DeleteDesignSuccessfulDisclaimer|O design foi excluído com sucesso!
+DeleteDesignSuccessfulHeader|Design excluído com sucesso
+DeleteDesignText|Excluir
+DeleteDesignUnSuccessfulDisclaimer|Seu design não foi excluído devido a um erro desconhecido. Tente novamente.
+DeleteDesignUnSuccessfulHeader|Falha ao excluir design
+DeleteDisclaimer|Uma vez excluído, o design não pode ser recuperado!
+DeleteText|EXCLUIR
+DesignByLabel|Design por:
+DesignDownloadErrorContent|Ocorreu um erro ao baixar o design. Tente novamente. ID do design:
+DesignDownloadErrorHeader|Erro ao baixar design
+DesignMissingTitleDisclaimer|Escolha um título para seu design.
+DesignMissingTitleHeader|Título vazio
+DesignTitleTakenDisclaimer|Você já compartilhou um design com esse título. Escolha outro e tente novamente.
+DesignTitleTakenHeader|Título de design já usado.
+DesignUploadSuccessfulDisclaimer|Seu design foi carregado com sucesso! Você pode visualizar e gerenciar seus designs compartilhados na seção "compartilhados" do navegador de designs. Seus amigos poderão encontrá-lo pelo seu nome de usuário Eek e/ou ID do design.
+DesignUploadSuccessfulHeader|Upload bem-sucedido
+DesignUploadUnSuccessfulDisclaimer|Seu design não foi carregado devido a um erro desconhecido. Tente novamente.
+DesignUploadUnSuccessfulHeader|Falha no upload
+DownloadedDesignsTab|Baixado
+DownloadedText|BAIXADO
+DownloadsLabel|Downloads:
+DownloadText|DOWNLOAD
+DuplicateRatingsDisclaimer|(Votar mais de uma vez apagará o voto anterior)
+EmailFieldLabel|Email:
+Enter2FAPromptText|Digite seu código de autenticação de dois fatores:
+EnterDescriptionPlaceholderText|Digite descrição...
+ESRBUserGeneratedDisclaimer|Interações online e conteúdo gerado por usuários não classificados pelo PEGI
+ForgotPasswordLink|Esqueceu a senha?
+ForumLinkForStory|Visite a página do fórum relacionada a esta história
+GenericErrorHeader|OPS...
+GetDesignSuccessfulHeader|Download bem-sucedido
+GetDesignUnSuccessfulDisclaimer|O design não foi baixado corretamente devido a um erro desconhecido. Tente novamente.
+GetDesignUnSuccessfulHeader|Falha no download
+HideDesignsICantUseLabel|Ocultar designs não utilizáveis
+HideText|OCULTAR
+IncludeNSFWDesignsLabel|Incluir designs marcados como NSFW
+InstallButton|Instalar
 InstallStoryButtonText|Instalar
+LastUpdatedLabel|Última atualização:
+LoggedInAsHeader|Conectado como:
+LogInHeader|ENTRAR
+LoginStatusBadRequestContent|O servidor não reconheceu sua solicitação de login. Verifique se o nome de usuário e a senha estão corretos e se você clicou no link do e-mail para verificar sua conta após o registro.
+LoginStatusBadRequestHeader|Erro 400 Solicitação Inválida
+LoginStatusExpiredOrUnauthorizedContent|Autorização de login revogada. Login não autorizado ou autorização expirada. Tente fazer login novamente.
+LoginStatusExpiredOrUnauthorizedHeader|Faça login novamente
+LoginStatusServerNotFoundContent|Os servidores da Eek! Games podem estar temporariamente indisponíveis. Tente novamente em alguns minutos ou atualize o jogo para a versão mais recente.
+LoginStatusServerNotFoundHeader|Falha na conexão com o servidor
+LoginStatusTimeOutContent|A conexão com o servidor demorou muito para reconhecer sua solicitação. Verifique sua conexão com a internet e tente novamente em alguns minutos.
+LoginStatusTimeOutHeader|Tempo de conexão esgotado
+LoginStatusUnknownErrorContent|Houve um problema na comunicação com o servidor ou no reconhecimento da solicitação. Tente novamente mais tarde.
+LoginStatusUnknownErrorHeader|Erro desconhecido
+LogoutButton|Sair
+MostPopularTab|Mais populares
+MostRecentTab|Mais recentes
+MustLogInDisclaimer|Você precisa estar logado na sua conta Eek! Games para baixar histórias personalizadas do servidor.
+MustLogInSharedDesignDisclaimer|Você precisa estar logado na sua conta Eek! Games para baixar designs personalizados do servidor.
+NoneText|Nenhum
+NoResultsFoundText|Nenhum resultado encontrado
+NotRatedText|Ainda não avaliado.
+PasswordFieldLabel|Senha:
+PasswordResetEmailInvalidContent|Não encontramos nenhuma conta associada ao e-mail informado.
+PasswordResetEmailInvalidHeader|Falha ao redefinir a senha
+PasswordResetEmailSentContent|Enviamos um e-mail para redefinir sua senha. Pode levar até dez minutos para recebê-lo. Não se esqueça de verificar a pasta de spam.
+PasswordResetEmailSentHeader|E-mail enviado
+PasswordResetGenericErrorContent|Não encontramos nenhuma conta associada ao e-mail informado.
+PasswordResetGenericErrorHeader|Falha ao redefinir a senha
+PasswordResetTooSoonContent|Já enviamos um e-mail. Pode levar até 10 minutos para chegar e pode estar na pasta de spam. Se não chegou, aguarde alguns minutos antes de tentar novamente.
+PasswordResetTooSoonHeader|Solicitação de redefinição enviada
+PasswordResetUnknownIssueContent|Não conseguimos conectar com você. Nossos servidores podem estar fora do ar. Verifique sua conexão com a internet, tente novamente em alguns minutos e entre em contato pelo nosso Discord se o problema persistir.
+PasswordResetUnknownIssueHeader|Falha ao redefinir a senha
+PopulateDesignsUnSuccessfulDisclaimer|Não foi possível carregar os designs devido a um erro desconhecido. Tente novamente.
+PopulateDesignsUnSuccessfulHeader|Falha ao carregar designs
+RateDesignPopupHeader|Avalie este design
+RateDesignSuccessfulDisclaimer|Obrigado. O design foi avaliado com sucesso!
+RateDesignSuccessfulHeader|Avaliação de design bem-sucedida
+RateDesignText|AVALIAR DESIGN
+RateDesignUnSuccessfulDisclaimer|A avaliação do design falhou devido a um erro de autenticação desconhecido. Tente novamente.
+RateDesignUnSuccessfulHeader|Falha na avaliação do design
+RatedStoryContent|Obrigado por avaliar esta história
+RatedStoryHeader|História avaliada
+RateStoryButton|Avaliar história
+RateStoryPopupHeader|Avalie esta história
+RatingLabel|Avaliação:
+RegisterNewAccountCheckboxLabel|Registrar nova conta
+RegistrationStatusAlreadyRegisteredContent|Esta conta já existe. Tente redefinir a senha antes de tentar se reconectar.
+RegistrationStatusAlreadyRegisteredHeader|Você já tem uma conta
+RegistrationStatusDuplicateUserNameContent|Nome de usuário indisponível.
+RegistrationStatusDuplicateUserNameHeader|Nome de usuário duplicado
+RegistrationStatusSuccessContent|Você ainda precisa verificar sua conta. Um link de verificação será enviado por e-mail. Após clicar no link, reabra o Gerenciador de Histórias Personalizadas e faça login.
+RegistrationStatusSuccessHeader|Solicitação de registro recebida
+RegistrationStatusUnknownErrorContent|Não foi possível concluir o registro. Verifique as informações inseridas e tente novamente. Se o problema persistir, entre em contato em nossos fóruns.
+RegistrationStatusUnknownErrorHeader|Erro desconhecido
+RegistrationStatusUnknownExceptionContent|Não foi possível concluir o registro. Verifique as informações inseridas e tente novamente. Se o problema persistir, entre em contato em nossos fóruns.
+RegistrationStatusUnknownExceptionHeader|Erro desconhecido
+RegistrationStatusWeakPasswordContent|Sua senha deve conter pelo menos 10 caracteres, um número, uma letra minúscula, uma letra maiúscula e um caractere especial (como "!" ou "@").
+RegistrationStatusWeakPasswordHeader|Senha fraca
+ReleasedOnLabel|Data de lançamento:
+RemoveTagHint|Dica: Clique no X de uma tag para removê-la.
+ReportAlreadySubmittedDisclaimer|Você já denunciou esta história.
+ReportAlreadySubmittedHeader|Denúncia já enviada.
+ReportCommentLengthErrorDisclaimer|Seu comentário não pode estar vazio e não pode exceder 150 caracteres.
+ReportCommentLengthErrorHeader|Erro no tamanho do comentário.
+ReportDesignDisclaimer|Este design contém conteúdo ilegal ou impróprio? Forneça um motivo (150 caracteres ou menos) na sua denúncia. Você só pode denunciar um design uma vez.
+ReportDesignSuccessfulDisclaimer|Obrigado. O design foi denunciado com sucesso!
+ReportDesignSuccessfulHeader|Denúncia enviada com sucesso
+ReportDesignUnSuccessfulDisclaimer|O design não foi denunciado com sucesso devido a um erro. Tente novamente.
+ReportDesignUnSuccessfulHeader|Falha na denúncia.
+ReportStoryButton|Denunciar
+ReportStoryDisclaimer|Esta história contém conteúdo impróprio ou ilegal? Se sim, você pode denunciá-la. Escreva uma justificativa curta (150 caracteres) para sua denúncia. Você só pode denunciar uma vez.
+ReportStoryHeader|Denunciar
+ReportSuccessfulDisclaimer|Sua denúncia foi recebida. Vamos revisar esta história. Agora você pode fechar a janela.
+ReportSuccessfulHeader|Denúncia realizada com sucesso
+SearchPlaceholderText|Tag, ID, Criador
+SearchText|BUSCAR
+SelectCharacterText|Personagem:
+SharedDesignsHeader|Designs compartilhados
+SharedDesignsTab|Compartilhado
+ShowText|MOSTRAR
+SpaceCharacter|<espaço>
+StoryByLabel|História de:
+StoryDownloadFailedContent|Esta história não pode ser baixada no momento. Tente novamente em alguns minutos.
+StoryDownloadFailedHeader|Falha ao baixar história
+StoryDownloadSuccessContent|História baixada. Agora você pode jogá-la.
+StoryDownloadSuccessHeader|História baixada com sucesso!
+SubmitButton|Enviar
+SubmitRatingButton|Enviar
+SubscribeToEmailsCheckboxLabel|Sim! Envie-me notícias e informações promocionais da Eek! Games
+TagAndTitleErrorMessagePart1|Os caracteres
+TagErrorMessagePart2|não são permitidos nas tags. Use apenas letras ou números.
+TagErrorMessagePart3|As tags devem ter entre 3 e 12 caracteres.
+TitleErrorMessagePart2|não são permitidos no título. Use apenas letras, números ou espaços.
+TitleErrorMessagePart3|O título deve ter pelo menos 6 caracteres, excluindo espaços.
+TitlePlaceholderText|Digite o título...
+TopRatedTab|Mais votados
 UninstallStoryButtonText|Desinstalar
 UninstallStoryDisclaimer|Tem certeza de que deseja desinstalar esta história?
+UninstallStoryFailedContent|Algo deu errado e não conseguimos desinstalar esta história. Você está destinado a tê-la até a inevitável morte térmica do universo. Ou até que a exclua manualmente.
+UninstallStoryFailedHeader|Falha na desinstalação
 UninstallStoryHeader|Desinstalar?
-RatedStoryHeader|Classificação da história
-RatedStoryContent|Obrigado por avaliar esta história.
-ContentWarningText|Interações on-line e conteúdo gerado pelo usuário não classificados pelo ESRB
-UploadInstructionsText|Se você é um criador de histórias e deseja adicionar sua própria história personalizada a esta lista, visite-nos em .
+UninstallStorySuccessContent|Uhul, missão cumprida! O que você vai fazer com todos esses megabytes livres? ...Espera, não me diga. Vamos manter esse momento de glória intacto.
+UninstallStorySuccessHeader|História desinstalada com sucesso!
+UpdateStoryButtonText|Atualizar
+UpdateStoryFailedContent|Algo deu errado e não conseguimos atualizar esta história corretamente. Talvez você não esteja nos dando acesso às suas pastas? Talvez tenha algum antivírus ativo? Precisamos de acesso, irmão!
+UpdateStoryFailedHeader|Falha na atualização
+UpdateStorySuccessContent|Top demais, irmão! Esta história foi atualizada com sucesso!
+UpdateStorySuccessHeader|História atualizada com sucesso!
+UploadDesignDescriptionLabel|Descrição: (máximo 50 caracteres)
+UploadDesignHeader|Compartilhar design
+UploadDesignInstructions|Você está quase pronto para compartilhar seu design com o mundo! Preencha os detalhes abaixo para concluir o envio do seu design.
+UploadDesignNSFWDecalsDisclaimer|Marque se este design é sexualmente sugestivo ou contém nudez.
+UploadDesignNSFWDecalsLabel|Contém decalques NSFW.
+UploadDesignSharingDisclaimer|É estritamente proibido compartilhar designs com decalques, títulos ou descrições que contenham racismo, discriminação, homofobia, transfobia, crueldade com animais ou outros tipos de conteúdo impróprio ou de ódio. Ao compartilhar seu design, você aceita esses termos e reconhece que sua conta pode ser encerrada em caso de violação. Todos os designs vinculados à sua conta serão excluídos.
+UploadDesignTagLabel|Adicionar tag (3–12 caracteres):
+UploadDesignTitleLabel|Título: (máx. 32 caracteres)
+UploadInstructionsText|Se você é um criador de histórias e deseja adicionar sua história personalizada a esta lista, visite-nos em .
+UploadSuccesfulHeader|Envio concluído
+UploadText|ENVIAR
+UsedAchievementText|Conquistas necessárias:
+UsedDLCText|DLC necessário:
+UsernameFieldLabel|Nome de usuário:
+ValidationResultAgeConfirmationMissingContent|Você deve ter pelo menos 18 anos para criar uma conta.
+ValidationResultAgeConfirmationMissingHeader|Proibido para menores
+ValidationResultAgeConfirmationMissingWarning|Marque a caixa para confirmar que tem pelo menos 18 anos.
+ValidationResultBadEmailContent|O endereço de e-mail é inválido.
 ValidationResultBadEmailHeader|E-mail inválido
-ValidationResultBadEmailContent|O endereço de e-mail não é válido.
-ValidationResultUnknownErrorHeader|Erro desconhecido
-ValidationResultUnknownErrorContent|Ocorreu um erro na comunicação com o servidor ou ocorreu um erro ao tentar processar sua solicitação.
-ValidationResultMismatchedPasswordsHeader|A senha não corresponde
-ValidationResultMismatchedPasswordsContent|Verifique se sua senha foi inserida corretamente. As senhas não coincidem.
-ValidationResultBadUsernameHeader|Nome de usuário inválido
-ValidationResultBadUsernameContent|Seu nome de usuário pode ser muito curto, muito longo ou conter caracteres não permitidos.
+ValidationResultBadEmailWarning|Digite um endereço de e-mail válido.
+ValidationResultBadPasswordContent|Sua senha deve conter pelo menos 10 caracteres, um número, uma letra minúscula, uma letra maiúscula e um caractere especial (como "!" ou "@").
 ValidationResultBadPasswordHeader|Senha fraca
-ValidationResultBadPasswordContent|"Sua senha deve ter pelo menos 10 caracteres, conter pelo menos um número, pelo menos uma letra maiúscula, pelo menos uma letra minúscula e pelo menos um caractere especial (como \""!\"" o \""@\ "")."
-ValidationResultAgeConfirmationMissingHeader|Restrição de idade
-ValidationResultAgeConfirmationMissingContent|Você deve ter 18 anos ou mais para registrar uma conta.
-RegistrationStatusSuccessHeader|Solicitação de registro recebida
-RegistrationStatusSuccessContent|Você ainda precisa validar sua conta. Você deverá receber um link de validação em seu e-mail. Após clicar no link, reabra a janela do Gerenciador de Histórias Personalizadas e faça login.
-RegistrationStatusDuplicateUserNameHeader|Nome de usuário duplicado
-RegistrationStatusDuplicateUserNameContent|O nome de usuário solicitado já está em uso.
-RegistrationStatusWeakPasswordHeader|Senha fraca
-RegistrationStatusWeakPasswordContent|"Sua senha deve ter pelo menos 10 caracteres, conter pelo menos um número, pelo menos uma letra maiúscula, pelo menos uma letra minúscula e pelo menos um caractere especial (como \""!\"" o \""@\ "")."
-RegistrationStatusAlreadyRegisteredHeader|Você já se registrou
-RegistrationStatusAlreadyRegisteredContent|Esta conta já existe. Você pode tentar redefinir sua senha e fazer login como um usuário existente.
-RegistrationStatusUnknownErrorHeader|Erro desconhecido
-RegistrationStatusUnknownErrorContent|Não foi possível concluir seu cadastro. Verifique as informações inseridas e tente novamente. Se o problema persistir, tente entrar em contato conosco em nossos fóruns.
-RegistrationStatusUnknownExceptionHeader|Erro desconhecido
-RegistrationStatusUnknownExceptionContent|Não foi possível concluir seu cadastro. Verifique as informações inseridas e tente novamente. Se o problema persistir, tente entrar em contato conosco em nossos fóruns.
-LoginStatusServerNotFoundHeader|Erro ao conectar ao servidor
-LoginStatusServerNotFoundContent|O servidor do jogo Eek! pode estar temporariamente fora do ar. Você pode tentar novamente em alguns minutos ou pode precisar atualizar seu jogo para uma versão mais recente.
-LoginStatusExpiredOrUnauthorizedHeader|Faça login novamente
-LoginStatusExpiredOrUnauthorizedContent|Autorização de login revogada. Login não autorizado ou autorização de login expirada. Tente fazer login novamente.
-LoginStatusBadRequestHeader|Requisição incorreta
-LoginStatusBadRequestContent|O servidor não reconheceu sua solicitação de login. Certifique-se de que seu nome de usuário e senha sejam válidos e que você tenha clicado no link de validação enviado por e-mail após o cadastro.
-LoginStatusTimeOutHeader|Tempo de conexão esgotado
-LoginStatusTimeOutContent|A conexão com o servidor demorou muito para reconhecer sua solicitação de login. Verifique sua conexão com a internet e tente novamente em alguns minutos.
-LoginStatusUnknownErrorHeader|Erro desconhecido
-LoginStatusUnknownErrorContent|Ocorreu um problema de comunicação com o servidor ou de reconhecimento da sua solicitação. Tente novamente em alguns minutos.
-ValidationResultBadEmailWarning|Insira um endereço de e-mail válido.
-ValidationResultMismatchedPasswordsWarning|Verifique se sua senha foi digitada corretamente em ambos os lugares.
-ValidationResultBadUsernameWarning|Digite um nome de usuário que tenha pelo menos 4 caracteres e não use nenhum símbolo especial que não seja permitido.
-ValidationResultBadPasswordWarning|"A senha deve ter pelo menos 10 caracteres e conter pelo menos um número, uma letra maiúscula, uma letra minúscula e um caractere especial (como \""!\"")."
-ValidationResultAgeConfirmationMissingWarning|Marque a caixa para verificar se você tem pelo menos 18 anos de idade.
+ValidationResultBadPasswordWarning|Sua senha deve conter pelo menos 10 caracteres, um número, uma letra minúscula, uma letra maiúscula e um caractere especial (como "!").
+ValidationResultBadUsernameContent|Seu nome de usuário pode estar muito curto, muito longo ou conter caracteres não permitidos.
+ValidationResultBadUsernameHeader|Nome de usuário inválido
+ValidationResultBadUsernameWarning|Digite um nome de usuário com pelo menos 4 caracteres e sem símbolos especiais não permitidos.
+ValidationResultMismatchedPasswordsContent|Verifique se você digitou a senha corretamente. A senha inserida não corresponde.
+ValidationResultMismatchedPasswordsHeader|Senha incorreta
+ValidationResultMismatchedPasswordsWarning|Verifique se a senha foi digitada corretamente nos dois campos.
+ValidationResultUnknownErrorContent|Ocorreu um erro na comunicação com o servidor ou no processamento da solicitação.
+ValidationResultUnknownErrorHeader|Erro desconhecido
+YourRatingForStoryLabel|Sua avaliação:

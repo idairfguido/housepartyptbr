@@ -1,29 +1,113 @@
 ﻿[General]
-DemoDescriptionText|Nesta demonstração, as sessões de jogo são limitadas a 10 minutos.
-Salvar/carregar, DLC e histórias personalizadas estão desabilitados
-ContinueGameText|CONTINUAR JOGO
-UseLegacyIntimacyDisclaimerTextMainMenu|(Não recomendado)
-UseLegacyIntimacyText|Intimidade herdada:
-CensorNudityText|Censura da nudez:
-StreamerModeText|Modo de transmissão
-ShowTutorialsText|Mostrar tutoriais:
-PreSessionOptionsHeader2|Você pode alterá-los mais tarde pressionando 'ESC' para abrir o menu do jogo.
-PreSessionOptionsHeader|É a primeira vez que você joga a história original?
-SettingsText|CONFIGURAÇÔES
-PlayerCharacterUnavailableText|Não disponível na história
-LoadGameText|CARREGAR JOGO
-GraphicsText|GRÁFICOS
+BackText|VOLTAR
+BlushText|RUBOR:
+BodyProportionsText|Proporções do corpo:
+BodyText|C
+BrowseDesignsText|EXPLORAR DESIGNS
+Cancel|Cancelar
 CancelText|CANCELAR
-NewsText|ÚLTIMAS NOTICIAS
-StoryInstructionsText|(Você pode adicionar mais histórias baixando-as ou criando as suas próprias!)
-CSCManagerText|HISTORIAS PERSONALIZADAS
-ForumText|BAIXAR / COMPARTILHAR HISTÓRIAS
-EM NOSSO FÓRUM
-WhichStoryText|Quais histórias você quer jogar:
+CatEyeIrisText|Íris de gato
+CensorNudityText|Censurar nudez:
+ChangeDefaultText|OPÇÕES DE MODIFICAÇÃO:
+ChooseAColorText|Escolha uma cor
+ChooseCharacterText|Escolha personagem
+CloneDesignReminder|Clone o design baixado à esquerda para editar.
+CloneText|Clonar grupo atual
+ClothingCustomizeItemText|MODIFICAR ROUPA:
+ClothingStoryInfoText|Todas as peças de roupa disponíveis para o personagem podem ser personalizadas e permanecerão modificadas no jogo, <i>inclusive as roupas que o personagem não estiver usando.</i>
+ConfirmText|CONFIRMAR
+ContinueGameText|CONTINUAR
+CreateDesignInstructions|Dê um título ao design e clique em "criar"
+CreateDesignReminder|Crie/selecione design de personagem à esquerda para começar.
+CreateGroupPresetInstructions|Dê um título ao grupo e clique em "criar"
+CreatePresetReminder|Crie/selecione preset de personagem à esquerda para começar.
+CreditsText|CRÉDITOS
+CSCManagerText|Histórias personalizadas
+CustomDecalPreviewText|PRÉVIA DO ADESIVO PERSONALIZADO:
+CustomDecalText|Adesivo Personalizado
+CustomizationAchievementDisclaimer|Algumas roupas podem ser desbloqueadas ao completar conquistas.
+CustomizationInstructionsText|INSTRUÇÕES: Os presets de personagem salvam suas modificações. Comece criando um novo preset no menu suspenso SELECIONAR PRESET DE PERSONAGEM. Os grupos de presets podem ser usados para agrupar presets e aplicá-los com um clique. Crie um grupo de presets no menu suspenso SELECIONAR GRUPO DE PRESETS, depois clique em MODIFICAR para escolher os presets de personagem para esse grupo. Para começar a modificar um personagem, clique nos botões MODIFICAR PERSONAGEM ou MODIFICAR ROUPAS. Você pode alternar os personagens com as setas. Quando terminar, clique em CONCLUÍDO. Ao iniciar o jogo, os personagens usarão o preset deste menu.
+CustomizeGroupHeader|PERSONALIZAR GRUPO
+CustomizeGroupSelectPresetText|SELECIONAR PRESET DE PERSONAGEM PARA GRUPO
+DeleteText|EXCLUIR
+DLCDisclaimerText|Inicie uma nova partida para acessar os DLCs ativados (exceto decorações sazonais).
+DLCSettingsInstructionText|Ative/desative com a caixa de seleção. Para mais informações, clique nos nomes dos DLCs.
+DLCSettingsText|CONFIGURAÇÕES DE DLC
+EditText|MODIFICAR
+EmbossText|RELEVO
+EnabledText|Ativar
+EnterCustomizerText|MODIFICAR
+EnterTextPlaceholder|Digite texto...
+EnterTitlePlaceholder|Digite título...
+EyelinerText|UNHAS:
+EyeOptionsText|Opções de olhos:
+EyeShadowText|SOMBRA:
+FinishedCustomizerText|CONCLUÍDO
+ForumText|VISITE NOSSOS FÓRUNS OFICIAIS
+FunStuffButtText|TRASEIRO:
+FunStuffChestText|PEITO:
+GlossinessText|Brilho:
+GlowText|BRILHO
+HairRootColorText|COR DA RAIZ:
+HairstyleText|Penteado:
+HairTipColorText|COR DAS PONTAS:
+HolidayDecorationsText|Escolha decorações sazonais:
+ImportCustomDecalText|IMPORTAR
+InnerEyeColorText|COR INTERNA DOS OLHOS:
+IntensityText|Intensidade:
+IrisText|Personalizar íris:
+KeepHairColorText|Manter cores ao mudar estilo
+LanguageDisclaimer|As opções de idioma alternativas são feitas pela comunidade. As vozes alternativas são geradas digitalmente.
+LanguageHeader|Idioma
+LipstickText|BATOM:
+LoadGameText|CARREGAR PARTIDA
+MascaraText|MÁSCARA DE CÍLIOS
+MetallicText|METÁLICO
+ModifyCharacterText|MODIFICAR PERSONAGEM
+ModifyClothingText|MODIFICAR ROUPAS
+MustLogInSharedDesignDisclaimer|Você precisa estar logado na sua conta Eek! Games para baixar designs personalizados do servidor.
+NeonPupilCircleText|Círculo
+NeonPupilCrossText|Cruz
+NeonPupilHeartText|Coração
+NeonPupilSquareText|Quadrado
+NewGameText|NOVA PARTIDA
+NewsText|ÚLTIMAS NOTÍCIAS
+NewText|NOVO
+NextText|Próximo >
+Ok|OK
+OriginalDecalText|Adesivo original
+OuterEyeColorText|COR EXTERNA DOS OLHOS:
+OverrideBaseSkinText|Ignorar pele base
+PatternAngleText|Rotação:
+PatternColorText|COR DO PADRÃO
+PatternSizeText|Tamanho:
+PatternText|ROUPA
+PlayerCharacterUnavailableText|Indisponível na história
+PreSessionOptionsHeader|Está jogando a história original pela primeira vez? Há escolhas a fazer!
+PreSessionOptionsHeader2|Você pode alterá-las depois pressionando "ESC" para abrir o menu do jogo.
+PreviousText|< ANTERIOR
+PrimaryColorText|COR PRIMÁRIA:
 QuitText|SAIR
-TranslationText|CRÉDITOS
-NewGameText|NOVO JOGO
-ChooseCharacterText|Escolha seu avatar
-ComingSoonText|CHEGANDO
-PRONTO
-StartGameText|COMEÇAR HISTÓRIA
+RevertText|DESFAZER ALTERAÇÕES
+SaveText|SALVAR GRUPO
+ScratchesText|ARRANHÕES
+SecondaryColorText|COR SECUNDÁRIA:
+SelectCharacterDesignText|SELECIONAR DESIGN DE PERSONAGEM:
+SelectGroupPresetText|SELECIONAR PRESET DE GRUPO:
+SelectText|SELECIONAR:
+SettingsText|CONFIGURAÇÕES
+ShareDesignText|COMPARTILHAR DESIGN
+ShowTutorialsText|Mostrar tutoriais
+SkinColorText|Cor da pele:
+SortingText|Ordenação:
+StartGameText|INICIAR PARTIDA
+StoryInstructionsText|(Você pode adicionar mais histórias baixando ou criando as suas!)
+TextLanguageSetting|Idioma dos textos:
+TipBalanceText|Equilíbrio de cores:
+TitleText|Título:
+UseLegacyIntimacyDisclaimerTextMainMenu|(Não recomendado)
+UseLegacyIntimacyText|Sexo interativo:
+VoiceLanguageSetting|Idioma das vozes:
+WhichStoryText|Selecionar história:
+Yes|Sim
+ZoomOutText|ATIVAR/DESATIVAR ZOOM

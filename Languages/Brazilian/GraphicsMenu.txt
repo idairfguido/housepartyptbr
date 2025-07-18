@@ -1,19 +1,37 @@
 ﻿[General]
-ResolutionSetting|Resolução:
-QualityPresetSetting|Predefinições de qualidade:
-GammaBrightnessSetting|Gama/brilho:
-ShadowDistanceSetting|Distância da Sombra:
-RealTimeShadowsSetting|Sombras em tempo real:
-4kTexturesSetting|Usando Texturas 4k:
-AntialiasingSetting|Antialiasing:
-FullScreenSetting|Tela cheia:
+4kTexturesSetting|Usar texturas 4K:
+AAMessage|O NVIDIA DLSS substitui o antialiasing
 AdvancedSettingsHeader|Configurações avançadas
-VolumetricLightsSetting|Iluminação Volumétrica:
-FieldOfViewSetting|Campo de visão:
+AmbientOcclusionQualitySetting|Oclusão ambiental:
+AntialiasingSetting|Antialiasing:
 ApplyGraphicsSettings|Aplicar
-VSyncSetting|Sincronização Vertical:
-RealtimeMirrorsSetting|Espelhos em tempo real:
-RealtimeReflectionsSetting|Reflexões em tempo real:
-SettingsHeader|Configuração
-MotionBlurSetting|Desfoque de movimento:
+BloomSetting|Bloom:
+BrightnessSetting|Brilho:
+DLSSDisclaimer|(Disponível apenas para NVIDIA RTX 2060 ou superior)
+DLSSQualitySetting|NVIDIA DLSS:
+DSLabelText|Sombras ativadas:
+FieldOfViewSetting|Campo de visão:
+FullScreenSetting|Tela cheia:
+GammaBrightnessSetting|Gama/brilho:
+GraphicsDisclaimerText|Estamos trabalhando para adicionar configurações e otimizações.
 GraphicsHeader|Gráficos
+MaxBGFPS|FPS MÁXIMOS EM SEGUNDO PLANO:
+MaxFGFPS|FPS MÁXIMOS EM PRIMEIRO PLANO:
+MotionBlurSetting|Desfoque de movimento:
+QualityPresetSetting|Qualidade predefinida:
+RealtimeMirrorsSetting|Espelhos em tempo real:
+RealtimeReflectionsSetting|Reflexos em tempo real:
+RealTimeShadowsSetting|Sombras em tempo real:
+ResolutionScaling|Escalonamento de resolução FSR:
+ResolutionSetting|Resolução:
+ScreenSpaceReflectionSetting|Reflexos em espaço de tela:
+SettingsHeader|Configurações
+ShadowDistanceSetting|Distância das sombras:
+ShadowQualitySetting|Qualidade das sombras:
+TextureQualitySetting|Qualidade das texturas:
+VolumetricFogQualitySetting|Névoa volumétrica:
+VolumetricLightsSetting|Luzes volumétricas:
+VolumetricQualitySetting|Resolução máxima das sombras:
+VsyncDisclaimer|Configuração ignorada com V-Sync.
+VSyncDisclaimer|Sincroniza os fps com a taxa de atualização quando possível.
+VSyncSetting|V-Sync:
