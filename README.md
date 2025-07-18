@@ -1,7 +1,7 @@
 # House Party PTBR
 Tradução das linhas de diálogo, menus, itens e eventos para Português do Brasil.
   - Inclui tradução para as DLCs.
-  - Utilizado como base os textos das traduções para Espanhol e Italiano.
+  - Foi utilizado como base, os textos e arquivos referentes as traduções para Espanhol e Italiano.
   - Versão do House Party compatível e recomendada: 1.4.2.13192
 
 ## Como instalar
@@ -10,5 +10,5 @@ Tradução das linhas de diálogo, menus, itens e eventos para Português do Bra
   - Execute o jogo e na tela inicial, no menu de Idioma, selecione "BRAZILIAN".
   - Agora é disfrutar do jogo em PT-BR.
 
-## STATUS
-  - A tradução não está 100% e pode apresentar dialogos sem contexto, textos não traduzidos ou faltantes.
+## Status
+  - A tradução não está 100% e pode apresentar dialogos sem contexto, traduzidos ao péda letra, textos não traduzidos ou faltantes.
