@@ -79,6 +79,7 @@ Lock|Trancar
 Lay Down|Deitar
 Check Underneath|Verifique abaixo
 Inspect|Inspecionar
+Consume|Mangia
 Read Cover|Leia a capa
 Take|Pegar
 Climb|Subir
@@ -113,8 +114,7 @@ Fuck|Foder
 [Events]
 cd8316ee-a6e1-4ec0-aa33-251ee688c7c3|Tem um vibrador e um DVD aqui embaixo. Vou pegar o DVD. Tem o rosto da Vickie e diz "Gangbang Gótico 16" na frente. Gangbang gótico, hein?
 2db75f33-0552-43ce-b681-0462676f064c|Tem um vibrador e um DVD aqui embaixo. Vou pegar o DVD. Tem o rosto da Vickie e diz "Gangbang Gótico 16" na frente. Gangbang gótico, hein?
-1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|"Chocolate com Cannabis da Srta. Munchie"
-"A única solução totalmente natural para doces quando você não quer sair do sofá por três dias!"
+1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|"Chocolate com Cannabis da Srta. Munchie" "A única solução totalmente natural para doces quando você não quer sair do sofá por três dias!"
 a69d5ca5-8493-4713-b5d5-ad208098e992|Hmm... parece que o chão aqui é macio, como se tivesse sido escavado recentemente.
 1e3884f5-7aeb-4f11-bb28-fec0015d2614|Nossa, eu nem sabia que esse filme tinha sido publicado! Tem uma nota aqui... Escrito por Vickie.
 b75af56b-127e-40d3-b200-bba120395d21|Ei, tem outro bilhete da Vickie...
@@ -135,6 +135,7 @@ b3c4d34c-0250-4e85-810d-7cecd6b9661b|Aqui, gatinho, gatinho!
 a971afa0-abf2-4364-b561-d0d3e24900b2|Estou ficando farto disso.
 bb803b85-ed27-42d4-b068-d18f9427ce0c|Chega, vou confrontar a Vickie e chegar ao fundo disso.
 5d696c32-4307-49c7-b2f4-04ed67df7872|De jeito nenhum. Cansei dessa bobagem. É hora de confrontar a Vickie.
+1e951fc7-5d72-4e78-b2c7-b049be90b307|É melhor descer e deixar Vickie entrar. Não consigo imaginar o que Madison faria comigo se eu entrasse no quarto dela sem sua permissão.
 dc752296-41d8-4ef2-893b-7e45b8dfdd52|É melhor eu descer e deixar a Vickie entrar. Não sei o que a Madison faria se eu entrasse no quarto dela sem a permissão dela.
 4a4ed1ee-9e20-4dc6-9784-f6bf2c8b9758|*Há um recipiente laranja trancado com uma fechadura simples*
 af2dc0ef-222b-415c-b3a5-120deb2213ff|Caramba, isso tem que ser o esconderijo! Vou esperar para contar para a Vickie, até encontrar a chave.

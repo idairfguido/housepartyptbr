@@ -392,422 +392,562 @@ Name|Frank
 271|Amy? Ah, sim, ela curte toda aquela merda de filme de terror sangrento. Uma vez eu a ouvi falando sobre como ela estava tão animada para ver aquele filme em que a boneca daquele garoto ganha vida e come a avó. Espera, era a Amy na festa ou a Amy na minha academia? Ah, enfim. Esses filmes não são para mim. Eu tenho um estômago muito sensível.
 272|Porra, Frankie, está acontecendo. Suas bolas estão fazendo mágica. Claro, querida, eu tenho uma camisinha aqui. Quer dar uma volta até o palácio do Frankie? ... Chugga-chugga-chugga-chugga... DOOD DOOD!
 273|Ahhh, entendi o que está acontecendo. Dada a magnitude da minha masculinidade, você está se sentindo um pouco sobrecarregado. Eu entendo. Acontece o tempo todo. Não tenha pressa, e quando estiver pronto, estarei aqui esperando por você.
-274|Brittney? Detonar? Cara, o único sentido que consigo entender com essas duas palavras seria esmagar minha cara nessas bazonkas grandes, sabe do que estou falando?
+274|Brittney? Uma paixonite? Cara, o único sentido que consigo entender com essas duas palavras seria esmagar minha cara entre os seus melões gigantescos, sabe o que quero dizer?
+275|Quando eu estava dirigindo para cá, eu ouvia Doja Cat isso e Doja Cat aquilo no rádio da polícia da minha van, e toda a polícia estava em alerta máximo porque aparentemente ela estava por perto. Eu também tenho um aplicativo no meu celular para rastrear o jato particular dela, sabia? Troquei com um garoto no X pelo meu exemplar de Gang Bang Gotica autografado pela Vickie Vixen. Sua última localização conhecida foi um campo de pouso a 10 minutos de distância. E agora Madison tem uma nova vizinha misteriosa? Isso não pode ser coincidência.
+276|Precisamos conversar. Tem uma coisa que eu venho tentando descobrir há um tempo, mas não consigo. Se existe um planeta "ela", também deve existir um PLANETA ELE. É igualdade de gênero. Não é disso que vocês, garotas, sempre falam?
+277|Olha, tudo o que eu estou tentando dizer, Srta. Cat, é que eu acho que ter apenas um Planeta "Ela" não é justo para nós, homens. É misoginia descarada. Então, dê outra olhada na minha cabeça. Acho que você vai descobrir que ela é perfeitamente simétrica e que a minha falta de cabelo é uma escolha. Poucos homens conseguem ter esse visual. Quer dizer, tem aquele cara do Homem-Aranha. Aquele cara na TV com o trailer no deserto. John McClane depois que Bruce Willis desistiu. E, claro, o Deadpool, mas a pele dele parece queijo suíço derretido deixado no sol.
+278|SENHORITA GATO! ESPERE ANTES DE SAIR POR AQUELA PORTA SECRETA! Espera, que porra é essa? De onde veio isso? QUER DIZER... TUDO! O QUE EU IA DIZER ERA ISSO: SE MINHA CABEÇA FOSSE UM PLANETA, SERIA O MELHOR PLANETA DE TODOS OS TEMPOS! COM GAROTAS PELADAS SERVINDO A MIM, E AOS MEUS AMIGOS, E UM BUFFET INTERMINÁVEL DE NACHOS E WAFFLES! PLANETA ELE! ENTÃO TOMA ISSO! O QUE VOCÊ TEM PARA RESPONDER AGORA?
+279|O QUE... QUE PORRA VOCÊ ESTÁ FALANDO?!
+280|OH, VOCÊ NÃO VAI ME ENGANAR DESSA VEZ COM SUAS RESPOSTAS DE BRUXA! O PLANETA ELE VAI SER INCRÍVEL! VAMOS TER NACHOS E WAFFLES SEM FIM E... E... E PEITOS, SEU IDIOTA! VAI SE FODER!
+281|Que p... Onde diabos eu estou? Oh. Merda. É... Eu... Eu lembro que estava brigando com a Srta. Cat e... oh merda, fui nocauteado por outra mulher, né? Merda. Não consigo imaginar a reação da minha gangue. Vou ter que fazer umas jaquetas novas ou algo assim para eles esquecerem. Eu pelo menos ganhei a luta no planeta Ele?
+282|Merda!
+283|Você quer que eu cuide da segurança da Doja Cat? Claro que sim! Já estava na hora de alguém aqui reconhecer meus talentos. Esta vai ser a festa mais segura de todas. Ninguém entra nem sai enquanto a Srta. Cat se apresenta!
+284|Ora, ora, o que temos aqui? Ouvi no rádio da polícia o dia todo que a Doja Cat está por perto, e agora você está aqui, bem na minha frente. Você vem evitando minhas centenas de e-mails e mensagens nas redes sociais há muito tempo, mas agora não consegue evitar nada, e a Frankie precisa de respostas!
+285|SRTA. CAT! SRTA. CAT! NÃO PODEMOS DEIXÁ-LOS UM NA PONTA DO OUTRO. A LEAH FOI CONTAMINADA PELA SUA MÚSICA E ENLOUQUECEU, E MINHA MÃO ESTÁ DOENDO COM TODAS ESSAS QUEDAS. PRECISAMOS TIRAR VOCÊ DAQUI!
+286|FIQUE CALMA E GUARDE AS MÃOS! NÃO VOU HESITAR EM USAR VIOLÊNCIA EXCESSIVA COM VOCÊ!
+286.1|ESSES MALUCOS ESTÃO FORA DE CONTROLE! PRECISO DA SUA AJUDA! RÁPIDO, USE OS PREGOS QUE VOCÊ TEM DE ANTES E REFORCE AS JANELAS ANTES QUE ELES ENTREM!
+287|Eu ajudo, mas temos que fazer isso direito. Preciso reforçar as portas e janelas. Veja se você consegue encontrar algo que eu possa usar para garantir que esses idiotas não entrem pelas janelas quando perceberem que o velho Frankie aqui não deixa ninguém entrar.
+288|É, são perfeitos! Sabe, se você quisesse se juntar à minha gangue, seria minha carta na manga. E você vai adorar meus casacos novos. Vou pedir para a Leah me ajudar a barricar essas janelas antes que a Doja Cat comece o show. Quem tentar arrombar a casa vai ter que lidar comigo.
+289|Ah, e tenho umas contas a acertar com a Srta. Gata. Preciso de RESPOSTAS! Claro, ela pode ignorar minhas centenas de e-mails e mensagens nas redes sociais, mas não pode me ignorar pessoalmente, não com o charme do velho Frankie. Se ela for mesmo vizinha da Mad, posso finalmente conseguir as respostas que preciso!
+290|Não é da sua conta. Isso é entre mim e a Srta. Gata, e eu vou chamar a atenção dela de um jeito ou de outro!
+291|Um martelo? Obrigada, é perfeito para quebrar crânios! ...O quê? Por que você está me olhando assim? Não é para quebrar crânios? Acho que eu poderia usá-lo para reforçar portas e janelas... mas só para você saber, gostei mais da minha ideia.
+292|Bem, tenho certeza de que a Madison não se importaria com alguns desses pregados nas paredes. Vou levar o que preciso, você pode ficar com o resto. Muitos pregos no bolso não combinam com bolas tão grandes quanto as minhas.
+293|Boa ideia. Precisamos deste lugar barricado como Bagdá. Aqueles fãs da Doja Cat estão completamente loucos. Quer dizer, eu pensei que fosse eu, mas esses filhos da puta vão arrancar nossos membros um por um só para dar uma olhada na Srta. Cat! Não podemos correr riscos!
+294|OK, ESCUTEM BEM, SEUS IDIOTAS! A DOJA CAT SAIU DO PRÉDIO. VOCÊS NÃO PRECISAM IR PARA CASA, MAS SE FICAREM AQUI, VÃO LEVAR TAPADAS E SER RIDICULADAS. REPETIDAMENTE.
+295|Estou ficando tão animado aqui. Estou pronto para socar algumas caras e estou trabalhando em um novo movimento, um chute giratório, se as coisas saírem do controle. Façam o que for preciso para continuar. Estou começando a ficar impaciente.
+296|Não vê que estou no meio de algo agora? Não me entenda mal, Frankie nunca perderia uma oportunidade de quebrar alguns crânios, mas eu tenho que terminar o que comecei antes. No mínimo, sou um homem de palavra. Ah, e eu tenho bolas enormes. Não sei se já mencionei isso.
+297|-- SEM USO --
+298|Olha, eu a vi tentando pendurar isso. É mais pesado que o saco do Papai Noel. Pode ser bom para pesos, talvez, ou um soco inglês para quebrar os dentes de alguém, mas não é exatamente uma decoração para pendurar na cabeça de alguém tentando deixar a temporada mais alegre e alegre, se é que você me entende.
+299|Sério, não tem nada aqui que aguente o peso dessa coisa... exceto meu escroto, é claro.
+300|O que estou dizendo é que minhas bolas de Natal aguentariam o peso daqueles sinos de ferro sem problemas.
+301|Eu sei. Espera, o quê?
+302|Uau, uau, uau. Só porque o Frank diz uma besteira, não é porque ele vai falar sério. Como eu pareço para você, assistente do Papai Noel?
+303|Droga! Não. Este é um chapéu de "bruxo natalino". É "acordado".
+304|Que porra as crianças têm a ver com as minhas castanhas assadas? Você é doente.
+305|Eu não vim aqui para escrever romances!
+306|Espera aí, você está dizendo que o Natal não existe sem o Frank? Está dizendo que meus biscoitos grandes e redondos vão espalhar alegria e felicidade para todo mundo?
+307|Tá, que se dane. Eu vou ser o rei do Natal. Que se dane aquele velho gordo e fora de forma com seus "ho ho ho"s e suas renas de merda. Eu vou ser o novo bruxo natalino agora.
+308|Certo, me dê aquele enfeite e algo para eu ficar de pé, e faremos deste o Natal mais feliz e alegre desde que aqueles gremlins fizeram uma orgia de bolas de neve!
+309|É, aquela escada serve. Mas eu preciso do enfeite.
+310|Meus globos de neve já estão pendurados. Quer que eu pendure aquele enfeite lá no alto? Encontre algo para eu ficar de pé.
+311|Oooh ho ho ho. Lá vamos nós!
+312|Anda logo antes que minha sacola de presentes fique ainda maior.
+313|Finalmente! Aí vem a Frankie em toda a sua glória!
+314|Ho ho, como vai, querida? Eu não sou a imagem mais majestosa da alegria do Natal?! O novo Papai Noel chegou. Tire uma foto!
+314.1|Ho ho, como vai, querida? Eu não sou a imagem mais majestosa da alegria do Natal?! O novo Papai Noel chegou. Tire uma foto!
+315|Aquele bruxo gordo e alegre pode ter o Natal, mas pelo menos eu ainda sei quem foi travesso e quem foi bonzinho neste feriado.
+316|Veja bem, os feriados são um momento para todos nós nos reunirmos. Compartilhamos nossas histórias, nos conectamos e aprendemos algo novo sobre nós mesmos. Esse é o verdadeiro espírito dos feriados, certo? E o que eu aprendi? Aprendi meu verdadeiro propósito, e ele está aqui.
+317|Fiquem de olho em vocês, seus idiotas. Boas festas. Fiquem longe da bebida, seus animais.
+318|-- NÃO USADO --
+319|Chefe escoteiro, o que você quer que eu faça agora? ... Nossa, espera. Que porra é essa? Tire essa luz do meu rosto e encontre um jeito de acender a luz de volta.
+319.1|Ok, ok. Fique calmo, Frankie. Ninguém pode saber que você tem medo do escuro.
+320|Que porra você está olhando? Eu não fiquei com medo quando as luzes se apagaram.
+321|Que porra é essa de toda essa confusão? Alguém está vendendo álcool? ...Ah, tá. Agora eu entendi. Não, sério, que porra está acontecendo?
+322|É, deixa eu entrar aí. Vou mostrar meus punhos para ele.
+323|Não, não, ele vai ficar preso lá dentro comigo!
+324|Você não me contou nada sobre pegar uma DST por entrar nos dutos de ventilação. Eu não vou mandar o Pequeno Frankie Jr. e seus irmãos mais velhos, Testiculeez e T-rexicles, e passar uma DST neles só para lutar por você. Aquele John McTaint vai ter que entrar aqui e lutar comigo com as luzes acesas! E aí aquele cara malvado do filme virou o Professor Snape. E ele sempre dizia: "Bom dia, eu odeio todas as crianças e não fiz nada." Quer dizer, esse cara pode chupar meus T-rexicles!
+325|Finalmente recobrando o juízo. O velho Frankie estava esperando alguém pedir.
+326|Olha só: o babaca quer me pedir favores. Esqueça! Me dê um motivo para eu me importar.
+327|Cara, o Patrick é um fracote, mas ninguém tinha o direito de decapitá-lo. Mas agora que aconteceu, eu tenho o dever de pegar o pau de quem quer que seja e enfiá-lo a 6 metros de profundidade assim que o pegarmos.
+327.1|Cara, o Patrick é um fracote, mas ninguém tinha o direito de decapitá-lo. Mas agora que aconteceu, eu tenho o dever de pegar o pau de quem quer que seja e enfiá-lo a 6 metros de profundidade assim que o pegarmos.
+328|Isso não muda nada. De um jeito ou de outro, eu vou pegar o pau de alguém e enfiá-lo no chão.
+329|É, tudo bem. Você tem o direito de ficar em silêncio.
+330|Exatamente. A regra era sem policiais, certo? Ninguém que pudesse nos impedir de obter informações à força.
+331|Espere, espere, espere, espere, espere, espere. Pessoal, tempo limite. Fingiu a morte?
+332|Que p...?
+333|Tem certeza dessa confissão? Porque eu posso te ajudar a expiar sua culpa agora mesmo.
+334|Não, legal. Mas se eu soubesse alguma coisa sobre isso, desbloquearia essa simulação em que estamos vivendo para descobrir quem está por trás de tudo isso e arrancaria os dentes um por um!
+335|Deixe-me ver. Esfíncter, esfíncter, bolinhas antiestresse, boneco de ventríloquo, torcer toalhas, rolar pedras, inalar... Santo escroto. Espere um minuto! Isso é algum tipo de prescrição de medicamento?
+336|Nossa... esse gesto... eu realmente aprecio.
+337|Olha, eu entendo. Eu sou claramente a pessoa mais forte. Você quer que isso fique bem guardado. Você provavelmente está pensando: "Nossa, esses bíceps poderiam esmagar esse cano até a submissão". E você estaria certo! Mas meu dever é garantir que esta festa seja sem álcool, como todas as festas deveriam ser. Desculpe, não posso te ajudar com isso.
 
 [Responses]
-1ca601a5-af94-47ec-a65c-e538461846f8|Certo, claro. Eu vou, uh... lá.
-73d4a35c-813c-47eb-9525-4b8e3d93cf3c|Eu poderia facilmente ficar sem pipoca hoje à noite.
-3844f32f-2a96-46d4-bd1e-255f31188e52|Uhh, claro, sem problemas.
-89c6bac1-d762-49f4-bee7-abc419d051a3|Só estou dando um tempo, Frank. Espere um segundo...
-58d8d97c-c391-4bfa-8601-0c9721b9d95a|Obrigado pela sua honestidade, Frank.
-a140f350-599f-400d-91d1-4cbc41d605e5|Uhhh, certo.
-f1b71ca6-2966-4ba5-9ebe-489bcaf54c5a|...Hum, o quê?
-624a3ff6-bf9b-4a8c-a73d-1cab4f3c7429|Eu não bebi nada!
-cf1c1fb4-e4b7-420c-ab58-f83da50396aa|Acho que o cheiro está vindo do Patrick...
-7c6253c8-0e64-4479-aa6c-6797ff4f1be9|Bem, talvez eu tenha bebido um pouco...
-1cac409b-c063-45f7-91a0-5f7995114ed4|Não tem como suas bolas sentirem se alguém está bêbado ou não.
-5bc6edd8-ea34-44a9-9cdd-cf4dc934fde4|Mas...
-5281118e-4f26-451d-ba13-1f17d44b0c95|Eu não bebi nada!
-0f1096c2-b466-487e-9edf-faa888d90d0e|Acho que o cheiro está vindo do Patrick...
-a0fb5974-1f04-4fbb-8e5f-d78ead79e966|Bem, talvez eu tenha bebido um pouco...
-77d7105b-a1e2-4458-9299-68aafaf068e8|Então tá.
-a7e2ec3e-cbbb-4fe2-a56e-6589625d59b5|Tenho certeza de que consigo te sentir.
-8462213d-2fd0-47d5-a0d9-3a8d9fe9d9b7|Que tal me deixar assumir o controle por um tempo? Alongue as pernas.
-60c6066e-b9aa-4ecf-9942-036337ea90e8|Ah, mas eu sei! Eu poderia me defender se algo desse errado.
-53f421f7-74d0-4f1c-947d-900d59eedbad|Aha... Vou ver o que posso fazer, Frank.
-98ac1f30-7529-4d64-9911-46dc68b88aad|Uau? Que observação astuta, Frank.
-0cd416ab-5de3-42b5-b0b8-ad2db505f7da|Uhhh, eu sei, e eles são estatisticamente medianos, se é que posso dizer.
-0e7d1787-4afd-48e7-a0e5-b63682015b02|"Eu realmente não acho que esse "sentido de aranha" gigante exista."
-76b25859-9979-4f3d-b5bf-10cc56983111|Como isso é relevante?
-3e5aa979-2722-445e-a47e-6212f343e3f5|Vou lá e faço isso, Frank.
-b0257000-ffb2-4bfd-b988-ee4ed494b7f3|Nossa. Droga. Ops, acho que estou fora!
-28d61cf5-3d96-455d-b4af-61ee286c9c78|Por que não falamos de outra coisa além das suas bolas?
-71392a50-3720-47e3-8b75-6c618bde1647|Você realmente ama o que sua mãe te deu, não é?
-7073211a-dc4e-4a0b-88ab-e4528ab843a4|Então, vamos continuar falando sobre o seu se-
-5060b2f8-0e91-4452-aee2-298a54cb1fc2|É. E aí, como está o tempo?
-c5b2e30a-a7ea-463d-8635-da1dc3f3e47c|Vou ter que te interromper, acho que o Derek está me ligando.
-19ff97e8-320a-4aac-83b6-301e1391efde|Vou ter que te interromper, acho que a Brittney está me ligando.
-99692321-db04-4b92-b6c8-02d0ec96fc2c|...e como você chegou a essas conclusões?
-6ca3349a-6844-423e-8d6e-3af3f9af4693|Detesto te dar essa notícia, mas eles estão falando do tamanho do pênis, não do tamanho das bolas.
-385ab317-77d3-469d-86b0-e9da72ef1e52|Sabe de uma coisa, Frank? Quando você está certo, você está certo.
-3e2505a4-bd59-42c6-b69e-e79e5f01ad14|É melhor eu dar um grande impulso no meu relacionamento me colocando nessa situação.
-5f274503-baa1-4f76-96f2-5a5297175df1|Aposto que posso provar que é verdade perguntando na festa.
-484fcab9-86fc-495e-a87c-d55b23a0c861|Quem tem bola tem olho. Valeu pela ideia horrível, Frank. Deixa pra lá, vai rolar!
-54e09a03-60d5-4ae1-a1df-3e43fe1cbf90|Mmm...
-133c4b0b-ffee-4165-840a-f5fefdefdb44|Nossa... forçando muito a barra, hein, Frank?
-3f937991-0019-478d-bea7-8ccff172749e|*Ouvir*
-d0e917b6-1848-49f9-98ae-72356ac3fb07|*Ouvir*
-94661b49-5f79-45a3-90d1-d63d674fd622|*Ouvir*
-68bffada-ebf7-48e8-8f04-08f5cebdd801|Não, ponto para mim.
-231d493a-8925-4dbd-9235-ddc9a311b863|*Ouvir*
-36893eca-49eb-466a-b241-118bc99100e5|*Ouvir*
-496de6fc-4c3b-4c06-8757-a2fb62efdebc|Por que não estou surpreso...
-4afd0318-5218-4697-a9d2-c8b948921bd9|Parabéns, Frank. Dizer isso em voz alta, e tudo mais.
-0ca742d9-d028-46d6-8170-4bf7b4bc1f43|*Escute*
-4749801f-e404-4001-8672-2f9a523d820f|Estou falando besteira... e ponto para mim!
-087aa1d7-6f11-4738-b967-83a7f4d59484|Aqui vamos nós...
-e0ec1c7f-1753-443f-9686-b4d58cda7157|Que nojo, Frank.
-52c38ee3-6784-4016-96ed-7dabd675f3f3|Ele não conseguiu se decidir. Isso não conta.
-3ac689c3-6e65-46f8-9f8a-a097003868fa|Porra, tá. Bom, isso é um passo para trás!
-b94ebf2e-76f3-41f2-a4e3-51555d3e5b98|Concordo com você, eu acho. Ganhar esse ponto é... nojento?
-a2021ba4-637a-4400-8c36-66992c5a36c2|Droga...
-a689c8f1-68a2-4154-8a19-b1c3f90e085a|Espera! Pipoca! Preciso de pipoca!
-40fe2f23-d763-4094-9ceb-512c890d0a13|Eu? ...SIM! Tenho pipoca! Certo, estamos bem, comecem com a violência.
-62061522-d9ec-4f88-a5f2-afafee5c5a7b|*Escute*
-d546e78e-1c4b-4980-b7da-11fb208bc038|É, qual é, só diga a ele que pênis são melhores.
-fdaea8af-af3b-41d2-8d70-6086fdb93323|Só diga a ele o quanto as bolas mandam. Só vai levar um segundo.
-844ded5b-a3c1-49db-8315-d071ba9a6730|Esqueça o ponto que eu acabei de entender, porque o quê. Droga?!
-1b9385b0-4a7b-447a-98ea-0f2b98e70a34|*Ouvir*
-931fe1d4-34f0-4225-9261-15c65dca6e77|Acho que estamos prontos, Frank...
-8ffd843d-0a61-4427-8fe1-4870b8e6c86b|Aham. Volto quando você se recompor. E conseguir entender frases.
-0450202c-520f-41f3-81ff-51416d923550|Ok, Frank, ótimo. Merda.
-e738a892-5f4c-4238-a037-069e842ba1c4|Que bom que você finalmente está enxergando a razão.
-b223d6b4-e157-4abb-87a5-e2e355c32adf|Veremos!
-a53372e8-46f2-4375-ac2a-cad51ec63799|Uhhhh, certo. Volto em alguns minutos, Frank.
-14011db9-b043-43d5-ae89-a2104d0d4488|Definitivamente não é isso. Não, estou bem. Derek está nu na banheira de hidromassagem e equipado com o maior pau que o homem conhece.
-c534dd5c-d9fc-461c-988c-a324ff70e19e|Você está com sorte, Frank.
-0d769394-779e-4ab9-ad2c-f3ff684230c6|Por que tudo se resume a bolas?!
-487d6cc2-d7f0-4479-a9c1-74c0ed158b20|Bom saber, obrigado Frank.
-b05039d3-a342-44a8-8fe1-034093cc4970|Muito bom, mas não muito útil.
-e09cd2c4-c12a-4c83-b35c-5dd4af1a2c20|É bom ver o quão orgulhoso sensei você se tornou.
-446cc1ef-9ee5-402d-821c-2a45728265c9|Ela está... BEM ATRÁS DE VOCÊ! Brincadeira. Brincadeira! ...Ou sou só eu?
-9ca16741-5dd5-4168-a268-e4ebf9fd3e2f|Você vai superar isso, mas é melhor saber a verdade agora.
-4fd0f3c2-2c21-42fb-8bfe-5b479db0e61b|Ninguém te respeita, Frank. Acham que você é um perdedor.
-549eeffc-9b36-4433-906d-f4e9bc9382be|Você é só uma aberração da natureza, triste, estranha e parecida com uma bola de elefante.
-28adfb5b-7b62-4325-b531-e5c637603572|Cometer erros faz parte da vida. Você pode aprender com eles.
-7ae23190-8f04-4e6d-9029-0a1ddcaed983|Você não é nenhuma aberração. Eu só estava brincando com você. Você poderia... guardar isso?
-f217d7dc-ca66-4c99-a231-d471eec27f97|Hahaha-que merda! Essas bolas são enormes e assustadoras! E esse pau... tão pequeno!
-7ca12c4e-da1b-4c8b-bbb8-748fc4b30a95|Não, isso não ajudaria. Nada ajudaria, mas claro, pense positivo. Ouvi dizer que isso é saudável.
-ac4aa783-638c-457e-bb98-6ec91736b8cc|Isso é um pouco extremo. Talvez você devesse aprender a se amar.
-8187a364-5195-4cd9-b089-e8cbc9b32920|Não foi bem isso que eu quis dizer. ...A propósito, suas bolas ainda estão visíveis.
-3b51f579-6982-4e1f-a95c-1d49612f7bf9|*Continuar*
-a2b54cf2-8668-4652-a3c7-ef85786c313b|Por causa do ponto que você acabou de perder ou das bolas azuis?
-9438894c-a517-4a39-a4b0-64a71b4125f7|Me aponte!
-58c89589-8f62-4384-82cd-9d576edd2360|Nem um pingo de gratidão. Tsk tsk.
-05285d61-9ec2-40fa-a62b-006f6e69bfe5|Sem problemas, Frank.
-52ed158a-7ebf-4a53-b4c5-2f4c883136d7|Bom apetite, Frank.
-1250ef1d-780e-4f22-be09-7060ac046f78|Vou ver o que posso fazer para me conformar com... suas bolas.
-95850c3a-fb06-41f0-8e67-e9bcd41c0c66|Que bom ouvir isso, Frank! E sim... eu também.
-a6d437d2-48a9-4813-af42-f3e92ef91c10|Vou coçar essa coceira. Me dá um pouco, e eu prometo... você vai ver como eu falo sério.
-ca334a52-bcfa-4d8c-a2ed-e4ad2139398c|Frank, hoje à noite foi só para provar seu valor platonicamente. Vamos manter assim?
-d5e87746-1b25-4040-867d-a83836d559c4|Frank, eu quero tudo. Você e seus monstros gigantes.
-6422b0e2-2869-4979-90c8-96d8112687e9|Cara, você me deu muito o que pensar. Volto já.
-c5be0c5c-bba5-4c3a-a6e0-7d407f022b69|Tudo bem, até breve.
-963ee607-942b-45e7-92a8-36fe6afdcf97|Vou continuar tentando te mostrar que sei onde meu coração pertence, Frank. Nas suas bolas.
-47c89187-1d3a-41a8-9bcd-dda3a717559c|Já pensei nisso, Frank, e hoje à noite foi tudo sobre amizade platônica. Vamos manter assim?
-85166094-bf67-49e7-befa-3be3cbd39e86|Frank, eu quero tudo. Você e seus monstros gigantes.
-94d04815-f7df-4119-9047-8c8e80ee8091|Não vou. Obrigada, Frank!
-18a3705e-5734-4064-8a7d-9c6984afdee4|Claro. Então, quando exatamente eles...?
-7a628a80-a2c2-46ec-bee5-75306363ad0d|Você está voltando atrás na sua palavra, Frank? Se não pagar, eu posso ir procurar aquela criatura...
-8efc6a3d-d1c4-44f6-a099-b80dca56449c|Certo... bem, está tudo bem, Frank. Devo admitir que estou feliz que você esteja bem.
-7e7cfd52-3102-4587-8e0a-cd551f12f377|Agora que penso nisso... preciso pensar. Até mais. 
-a71adae9-47d8-4e8a-aaed-a09f590720a5|Você mencionou álcool antes. Se algo relacionado a álcool acontecer na sua frente ou na da Leah hoje à noite, eu não tenho problema.
-54955cc1-739f-4049-98ca-c436712448ee|Você mencionou maconha antes. Me dá agora.
-729d781b-2cb1-4d76-a819-f6bcfbccfcc5|Não presuma que você tem uma camisinha? Se tiver, me entregue.
-a37138ae-4df5-4c75-ad19-282c7be7038f|Na verdade, agora que estou falando com você de novo... fico feliz que esteja bem, Frank. 
-7d830a76-999b-4f6d-a0f0-9ed5b31c76e9|Sobre antes... Eu nunca tive certeza se conseguiria te machucar, para começo de conversa. Como você é tão... completamente dominado?
-004234a3-4cd7-4de2-b823-09b0fcd67bab|Acho que estou feliz por poder ajudar. Até mais.
-ca9955fe-b1f1-4814-8528-dc19e8c4c108|Claro, claro. Alto e claro, Frank...
-e38256d8-ab74-4faf-b093-195205d79be8|Você está falando merda.
-1fca1654-a1a0-42ad-bd25-20a2d0e87227|...como eu poderia esquecer? Tchau.
-14607dea-d225-42f4-a1d5-49f6b5adfde5|Ah, eu vou, Frank. Eu vou.
-f213a593-a13d-4db0-b246-a4773263b495|Ótimo resumo, Frank. Você arrasou mesmo.
-e7ce43b2-56ef-4ee3-aa1e-14dc061103f7|É, que confusão. Ha ha, Frank.
-7bce22c6-6f3c-4b0d-9d9c-c16e7f86ab27|Droga, Frank, tanto a mais? Psicopata de merda...
-693463a7-f4b1-406c-b233-63154c1e6bc5|*Continua alegremente*
-d70973c0-5448-42f7-9029-0ea182f5f313|Sim, Sr. Fister... Eu entendo.
-3570b5f6-f53a-432c-8917-2ae62ceb044a|Estou indo, estou... não bêbado, dando soa melhor... Ok, desculpe, estou indo!
-2c33d2bb-934c-4939-9745-ef8bb08320f0|Certo, Frank, você me pegou. Nunca mais. Prometo de mindinho.
-4dfea56a-0344-45e3-8555-00d193896fc6|Nunca mais. Juro por Deus. Beijos e abraços. Etc.
-248bb487-ba61-41a0-ba6d-69573d50262f|Ótimo. Preciso resolver uma coisa, mas não se preocupe, não vou te deixar esperando muito tempo.
-8ed4ac79-10da-4e3c-9f89-322c71aa7d80|"Vamos transformar 'em breve' em 'agora mesmo'. Tem certeza de que não tem nenhum lugar específico em mente para nós...?"
-d46e671f-1ad6-41e1-bc5b-890abece697c|Tudo bem... estamos indo.
-5ecd007e-b7eb-45aa-88af-153cb5d140da|Droga. Bem, tudo bem, vou tentar reacender a chama nas suas bolas, Frank.
-843479f6-a2ad-4818-bada-ebf0b6e90c61|Hum, você tem razão, eu não tenho... isso. Tudo bem, volto em breve.
-27350665-d712-45cb-b2fd-8317c1a8d4e7|Me dá, grandão.
-87a3fe54-ff3a-47fb-89e0-8cbb5949e7e4|Me dá, grandão. (POV)
-b7f3fab2-0f25-4303-8720-ffe9a028447f|Frank, me beija. Não, aqui em cima não. Lá em baixo.
-e00be75a-7ea1-4d7d-9eca-4223cc631a24|Frank, me beija. Não, lá em baixo não. Aqui em cima!
-c9d580fc-e183-4e43-ad80-86f02018a34b|Vou te beijar, Frank... lá em baixo.
-abdc8fab-7cf3-4ebc-b31f-9d53a4c8e713|Isso é perfeito pra caralho, continua.
-7000eab4-d481-4e7a-9579-29b4305e0dc7|Merda, merda, eu vou...
-33fcf407-d896-4c64-af95-e5562811e569|Me dá, grandão.
-37721bb1-30ba-4455-81b1-87c66c316290|Me dá, grandão. (POV)
-53b927a6-1551-437b-bc6d-828a74d343ce|Segure esse pensamento, Frank.
-f58b1f63-c057-4624-98b4-21aaf6e6ad18|Fique tranquilo, foi incrível para mim também, Frank.
-7a060fe5-1403-4b5f-858b-0b6016d0e451|Ok, ok! Hora de encher a cara, docinho.
-3834e7cf-75b9-454c-af9c-68edf90a1bd4|Eu também me borrei. Eu... hum... ok, tchau.
-3907d42e-e676-40ae-8578-93cbcd88f5b0|Ótimo, Frank. Positivamente ótimo.
-45398bdf-5a0f-4ee8-a36f-961a4a8e31a0|Hã. Muito profundo. Muito misterioso. Então... voltando ao meu...
-e94eae9a-d063-4148-9ad5-00545790f685|Ótimo, ótimo. Eu sei exatamente como voltar às suas boas graças...
-1b819302-1e3f-40c2-8800-fbc886e3daa9|... Alguém viu onde foi parar o fundo? Ah, certo, lá atrás. Porque santo. Droga-
-a758abff-8541-4a60-a8de-c5d811a8fccf|Segure esse pensamento. Antes que você comece a esfregar, acalmar ou outras bobagens, eu só quero mais desses doces aprimoramentos cerebrais robóticos.
-62f996c1-37a9-4e4e-bd30-0f58d9f027fd|É, é, não precisa. Encha meus sucos e cure meu... sangue, ou sei lá o quê.
-9f97e08c-56c9-455b-bd0a-6fe539bad3f3|...Certo. Então, posso ter tudo isso, exceto as últimas partes? Não preciso de... restauração. Ou de calmante.
-aedb2944-11ee-48b1-858a-02ad3128f9bb|Ei. Ei! Eu disse sem calmante! O mesmo vale para tranquilizar, aconchegar, fazer carinho, aconchegar e, definitivamente, esfregar!
-47635d22-901a-4312-b404-1e671b69d447|...Eu deveria saber.
-e4092ccf-a7ab-4077-8697-ecf5911b2b79|... Que porra você acabou de dizer?
-2d598705-0f3e-42b6-ad2d-6b0386f7ad33|Melhor do que nada, eu acho. Vamos lá.
-fa5b2c01-4550-4e78-99cd-c2feea16c87a|Ufa! Quer dizer... que bom!
-7bf2909c-3aff-4a75-9356-a006713a1732|É como se você não estivesse ouvindo, Frank.
-fd2ce04d-56dd-461b-b0ea-7fdb9cc92806|Adoro essa positividade, Frank.
-4ac1cefc-ee45-46b9-9d21-99895f9825ef|Merda, merda, merda... pipoca! Cadê minha pipoca?!
-d5b20117-b4f4-4d16-a95b-c9c60f39ebff|Eu poderia facilmente ficar sem pipoca hoje à noite.
-988ca16e-b2ef-4afd-8cd4-78bdd81c003f|Ótimo, cara.
-cb6da71d-57bf-402a-bdbc-c3cb1c7b08c4|*Pegadinha bem-sucedida!*
-e8a8ec44-427b-458e-9423-b94c4e5b5c81|*Continuar*
-a0ccc69b-b7ff-463b-a24d-54ffd0b03d16|Vai valer a pena, acredite.
-eaf3e748-53a7-4205-a392-5b1a2ddf93f9|Obrigado, Frank
-83f409fa-8e55-441b-b840-11fd7ff8cd64|Na verdade, eu só precisava da camisinha. Obrigado, Frank!
-1da2e8d3-c6ff-4182-a1ea-70e6dd931629|Ah, obrigado pela camisinha, Frank.
-4c343f86-f156-4727-bbdd-fe907e92f0ba|Você parece um cara interessante.
-638cb946-f7d9-4727-ab2d-4c348756f64f|Você estava falando sobre sufocar sua mãe?
-a7dad01e-aa96-4823-ae04-a15ec39a5e7e|Então, como está o serviço de guarda?
-5faf3eff-3708-44a4-b33a-3b2c7da845d6|Frank, estou pronto... para a glória. Aceita minha ajuda agora?
-3c510865-8c4f-4c19-abfc-a631c26aa46b|Essa cadeira é desconfortável? Parece desconfortável.
-c944639e-8722-4c01-9f52-f0d448517ae6|Tá, Frank, falando sério! Acho que ter bolas grandes não importa tanto quanto você pensa...
-b793ef4e-e00d-4759-bd07-63f428e79b5e|Já acredita? O tamanho do pênis é MUITO mais importante do que o tamanho das bolas!
-09e629ec-0409-4056-a386-84dd64103bdf|Frank, estou ouvindo relatos de uma serpente marinha monstruosa emergindo das profundezas da banheira de hidromassagem!
-b8d4af69-f95a-4daf-957e-7d90a150181d|Então, Frank, quero saber sobre você e a Leah. Me conte tudo, ok?
-923223d7-47d9-4382-b072-5233bc3bc829|É difícil não ser o cara do campus, né?
-139528f2-397f-49d7-86b8-74f6ae1d463e|Então, Frank, essa camisinha. Ele ainda tem?
-4304b4ae-2d77-442a-b430-ffd9a2d184a8|Minha praia! ...Cara? Tanto faz. Já passamos dessa coisa de gay-não-gay, né? Porque... camisinha. Preciso disso
-31355bf9-2b2c-49c9-ad17-5eb7cc5cf083|Você sabe alguma coisa sobre o Derek ter perdido um gato?
-555a5b9a-1a6b-4d46-b406-2d3a45871f6b|Madison disse que precisava de você quando você tivesse um tempinho. Ela está lá em cima, no quarto dela.
-d0b75489-7420-4077-b9f9-20449c13e553|Madison está organizando outra exposição de arte lá em cima. Você tem interesse?
-9312edb5-73fc-45b8-baa1-2778bc175f03|Você sabe onde está a Brittney?
-d64962e0-e293-41ae-a47f-aa0200c9fc92|Você teve notícias da Amy?
-526fbe08-40cc-4cc0-b150-d0fe92a1e981|E aí, Frank, você tem uma camisinha para me dar?
-36189fc7-07bf-4a80-8d09-25a7f03020a9|Você teve notícias da Brittney e de uma paixonite?
-142b1217-7dd9-4d9c-ae72-55548d04fb26|Aquilo foi uma merda séria que passamos mais cedo... você ainda está se sentindo bem?
-406106bf-a689-4e29-a5bf-922371de2b33|Estive pensando na nossa conversa. E você?
-e4f235ac-8d46-4e93-b459-55ee13ee157f|Então, Frank... você ainda me entende?
-3b449dca-9a11-4b36-9d70-557ce88cabfc|Então, durante aquele drama com a Leah, você disse que me recompensaria se eu não quebrasse sua cara...
-23e040fd-75df-4f95-971f-eea4285d36bf|Ok, Frank, eu sei como você pode me retribuir. Escute!
-e78dd9a2-5aa7-4645-97b1-fec1ec0c6224|Frank, meu corpo precisa de... proteção. Você quer se juntar a mim?
-5ef2771b-d9a8-4069-b9da-e06d16e084a6|Frank... você está pronto para mim?
-3d86f93a-02ad-49f4-ab33-06fa1c3c7018|Espere, o quê?
-3ddb7fa2-b00e-4226-bfbe-e09b782e6baf|Vou pegar a pipoca.
-70e596e4-21c8-48d5-b6d3-4261ce0d1817|Eu poderia facilmente ficar sem pipoca hoje à noite.
-78c7d8c0-c81e-4401-a08f-76ea35632db8|Que ótimo, Frank! Posso pedir para ela me mostrar os peitos e nem parecer uma pervertida!
-9597fc9b-2f43-4876-b08a-45042903710f|Nunca pensei que diria isso, mas Frank, você é meu herói.
-75bc6829-6de6-4713-ba4c-8a3b0ce693ff|Ah sim, você me ferrou mesmo, Frank. Haha.
-eecebe42-f7de-431a-acc2-e2567827e905|O quê? Que nojento! Vai se foder, Frank! Você é um idiota!
-8435d3e2-e4e4-4811-8a4b-43f77a08185d|Só lembra, Frank. Só lembra.
-f960478b-519e-4213-8128-ad717fac2017|Droga!
-4d783677-a097-4501-bfb4-d2447c2a5107|Droga!
-37107e8f-3810-4e92-acdc-21d8887bd560|*Aquele homem está gravemente ferido...*
-86726039-241e-4ba6-85d6-ec58bfbbad54|T-tarde demais, F-Frank... ei, venha aqui, tenho uma coisa para você.
-49b160d8-bcc6-4b05-8321-8e75d7a83a5f|Vou pegar a pipoca!
-3b7063f4-48c8-475f-b1cb-47272d235ab7|Acho que não esperava que fosse diferente...
-c29e731a-86d6-4aed-92aa-27eacce7b15a|Parece um plano! Vamos lá!
-ca86640e-9409-48a3-b9a2-724f7edc3399|Não, eu não poderia fazer isso com a Katherine. Desculpe, Frank!
-11123dff-1892-4d3d-9a1e-744c2c51caaf|É justo.
-28a4d67a-5333-4eee-af87-c87fc1193cdf|Ah, mãe, está tudo bem.
-4213fb01-773d-4983-9200-01d3c18e74ba|Só estou fazendo a minha parte, Frank.
-39a27f59-a511-4cbe-8740-27c85f3c99da|Anotado, Frank.
-9d3ee08e-5589-4479-b76c-23a14b423523|Eu poderia dar uma olhada.
-df197117-608c-45b9-a639-478053078998|Não consigo argumentar contra uma lógica tão perfeita.
-5a602e78-7a57-4ec9-baed-36f1ac3086da|Farei o meu melhor, Frank!
-ba29f39a-8f70-497b-a972-800ad905bd7f|Parece um bom plano.
-2ff490c2-6649-4311-995c-452785df22ca|Cara, isso fede a álcool. Ela estava tentando beber, e você fez a coisa certa.
-ae31fae9-99ba-446d-9acd-d1c28b7a0ee3|Está limpo. Está cheio de água. Ela tem uma condição médica muito rara chamada "Sede".
-085c6b15-4899-42cd-acd9-1f408514aa87|Obrigado, Frank.
-6732f202-1c81-483c-b788-5680ddea8d2f|::Suspiro:: Obrigado, Frank!
-bcf84144-9c35-4ee2-944c-e19f6f05a993|Espera aí, então você não deixa ninguém beber, mas não tem problema nenhum com drogas?
-b81f40a7-4393-4875-9766-2286796fd9bf|Você nunca para de me surpreender, Frank. Então, quanto você quer?
-ab2935c7-58c2-4119-b111-77ed7bc6836a|Entendido. Obrigado, Frank.
-62783069-a2e8-4c04-8759-bf691b042a65|Olá. Obrigado, Frank! Ótimo negócio!
-5f55bcd3-3858-4018-ab9b-be47e73c631a|*Continuar*
-755f844f-2e1f-4ecd-bca2-b8242e57f569|Puta merda...
-7a5d5b49-e851-4bf0-9f01-3644f50c9f51|Não finja que não gosta, pelo menos um pouco, Frank.
-fc4e065a-a523-403a-9b7f-c25f6eedffa0|Desculpe, Frank!
-0b916d57-6b64-4be3-9146-103811261292|O quê? Não! Não estou brincando com você! Preciso de uma camisinha para outra pessoa.
-dab56fba-9942-4aff-b63a-ab567a190d38|Ei. Certo, Frank...
-dc370b1e-e6c9-42e3-8a13-2b3becddf294|Bom plano, Frank! Vamos lá!
-147316e2-3250-4ed8-b61a-b801d01a58a7|Sabe de uma coisa? Não importa. Acho que foi alarme falso.
-45152ffa-554b-4717-900e-4435438aa82a|Obrigado, Frank!
-e8746744-3996-45a6-ae48-0f725af42f53|Uhh... você não acha que isso está indo rápido demais?
-98e310df-49cf-419d-8e4d-37779a45be26|Eu... o quê... espera, você disse que "já passou por isso"?
-0e83b39a-853e-4943-aaa6-aea5c864f690|Na verdade, vou para casa chorar agora mesmo. Até mais, Frank.
-718f34f2-0a9e-4c3f-be54-2f88a3bdac8b|Você está louco, Frank, mas estou curioso para ver onde isso vai dar...
-676383af-2f7b-4168-8fc5-e2ec20b52aa7|Não sei se fico com medo ou animado...
-ea331f6b-beb6-4a55-871f-5029dbe70d96|Desculpe, Frank!
-9c06257a-dcd2-49c1-a45f-db3907ade9db|Anotado.
-b9ce6352-3f3e-4955-8c7a-ed0159f72db5|Obrigado, Frank!
-3fc8e4b2-c12f-4b66-bad7-9d6363099188|É para restabelecer o banimento.
-a904e3f9-2f4c-428e-b94b-5423110b9bbb|É para o Derek tirar a camisa.
-e8bb735c-b3a7-4b8a-ba16-5b68a2aafd99|Fácil...
-b6685a7c-d216-4342-a246-d5429a21ae74|Tá bom, tá bom. Droga.
-18772e0c-205b-4854-b50c-cd51252e4660|Vai lá, cara, vai lá!
-42ebb17d-3e1b-486b-aafd-285985ecb6ff|*Continuar*
-65bf6c5d-1b08-430c-b73d-617679049d05|Desculpe!
-c1f960e1-a081-49d6-a8f4-900a99948de0|Bom trabalho, amigo.
-d035dc99-351e-497d-9c7a-10562efc091d|Você está bem, Frank?
-61c6543e-13da-4fdb-9891-521fde137ea1|Frank, acho que aquela porta te atrapalhou.
-9694c4cc-5056-471e-9d9c-103620e44f91|Pinguim?
-cdcff36d-7575-4054-8a9f-676cbc2d5cd6|Obrigado, amigo!
-19d4e16e-960f-493d-ab02-acc048fdbbc3|Ok, obrigado, amigo.
-62aa7b64-331e-4414-8765-0b749cd52eaf|Sem problemas, você é uma pessoa muito quebrada.
-fdf174d8-f7b5-477a-869f-d17e076fe1e7|Amigo pinguim?
-2097d77e-deba-4784-935d-f6b73b940084|Você concorda com isso?
-d5208afd-fbb2-4d76-80b5-ec9b0968a01f|Nossa... excelente resposta. Obrigado, Frank!
-4f9c18ba-2b7b-4a28-8e2b-407554aafec8|Ele tomou um Hyperall e não deixa a Madison sair do banheiro.
-9f120add-2a0d-46c9-9ff4-5f4eb958f545|Qual é, cara.
-18ac7b79-6bdb-4b10-8c44-ec6cd4a5e408|Achei que você gostasse de ursos. Sabe, o cara legal...
-198c26cf-3d94-4b5a-a4a2-e25ff84fa165|Qual gato?
-cc4bf87b-54f2-4e42-801d-672fd72fbebc|Puta merda!
-83a93bbd-0769-4638-ad38-652b3ab63e2e|Bela aparência, obrigado, Frank. Vou falar com a Steph.
-fa5fb0f7-311a-4818-9827-d244c7eda140|Frank! O que você está fazendo aqui?!
-24147b12-9b22-4be6-8f7b-7b6b1c6217cf|De jeito nenhum! Eles vão me pintar!
-61b5da17-2e1d-4dce-a20c-6e3d84e9e378|Ahhh merda! Tchau, Frank!
-f9e989d8-7c1e-4df4-b997-371d526e6d7d|Nossa, valeu, Frank... eu acho.
-0c39fea1-d12d-49fb-b132-e3597e9dbe9d|Desculpa, sou frugívoro!
-9d88b8ae-90d8-42b4-b74f-9d03e4d4b314|Faça o que tem que fazer, garoto. Trate como se fosse sua infância e-
-00645a43-5462-4660-9503-6aaba31fe770|Essa é... a sua cara. Esquece. Isso, uh, me enganou, se é que você pode...
-153f66ed-7762-452a-b29c-c90c0f05162d|...É. Certo, tchau...
-c5600e53-cbef-4f46-9d7a-92529735cfd0|É, e agora eu também me arrependo. Tchau, Frank.
-ea9f47c7-ccf4-4e85-8d23-5739bc3f26b1|Espera! Ei, não, essa é a scoo-
-773bc9d7-fb44-4dda-902c-1745435ded25|Eu... eu amo minha mãe.
-6b541253-84b6-4e51-b170-1770a5da3204|Corra para o alto! Essas carnes estão encharcadas!
-a061f002-a82f-4f6c-8295-5192c7305b8b|Isso vem com mostarda ou... esquece.
-5bcb3e50-8a36-4986-bd44-b11b4350d34c|O que eu fiz?
-408ed59c-496a-40e6-a1e6-e5a17a377ef2|Ei, o que aconteceu com seu-
-179e7f5d-90db-4acc-beba-d4bb6aa52056|Droga, eu queria ouvir a história do Frankie Molhado!
-737efeec-2e2a-4eff-8c77-400afa4d8825|Não parecia ser o que você estava falando...
-a3ef7b59-f6a0-4154-91c5-a6159b23731e|*Continuar*
-f7afed3a-5de8-4a6b-bb23-6c1391d9bd56|*Continuar*
-69b63831-71da-4ca4-bab7-59954de05fbb|Vou deixar a Leah explicar.
-b9efa3c8-9767-4fef-a7e7-cf2c03adbfc7|*Contínuo*
-f0691e53-dae8-49b1-bf8c-f167a5f97b0f|*Contínuo*
-83668448-79c2-48a7-8491-235a3e96d0d2|Leah, ele parece assustado...
-09376743-10d5-41fb-b0e4-1df21a9a9eb2|*Contínuo*
-e620e09d-51b6-4c6e-9b7d-0f82ccdfd66c|Ele cuidaria do Problema...
-989adb94-d70c-4adc-9b44-1df08a602036|*Fim*
-fec94f73-cc9d-40ef-9ade-15a7dbdd9c68|*Ouvir*
-f66c3603-1b46-4991-b986-184eb8b1005e|*Ouvir*
-c946fd00-7a54-4391-a1a6-200f2b91f731|*Fim*
-836a1f87-fe2e-40f7-b299-5c4b86c0496a|Me conta o que está acontecendo com aquele espaço alugado que você está roubando da Leah. 
-9feafbd9-870a-450f-a33c-0646a77dda90|Então, vamos ser amigos.
-752d081e-f37e-4d34-b315-23da439e8a29|Não estou interessado naquele clube de foda esquisito que você está tentando abrir. Você precisa falar com a Leah.
-6c74839d-a0fe-4778-a4e5-d35a3645ed39|Que diabos é o Clube de Foda do Frankie?
-51e42e6a-52d6-4e82-b890-36078043085e|Vamos ver.
-ffc110be-ab85-4f30-aef1-3fc0f3c0a7b4|Não estou interessado naquele clube chique e esquisito que você está tentando abrir, você precisa falar com a Leah.
-22474ae6-45fc-494e-8f26-cac9feddf439|Nossa! Me conta mais!
-05309d43-ec64-42c4-97aa-f030d6f5065b|É verdade que este parece o melhor lugar do mundo, mas você precisa se desculpar com a Leah.
-3abcef25-18ea-4302-874e-2d5628b586a2|Mesmo assim, você precisa falar com a Leah.
-5ab86fb4-4c80-4858-b12f-dcfae4526f5b|Então vamos lá, Frankie Fuckaround.
-795f9a5b-0233-4529-80e9-8ffc65a3958a|Eu vou encontrá-la. Pode acreditar.
-9096256d-73cb-4337-9d30-9e32f5a8bcc5|*Ouvir*
-a6171ce3-4cd4-4503-b8eb-0e7dc2fe3216|*Ouvir*
-f01ee1ee-425f-43d3-89d6-cee38beb5665|*Ouvir*
-c248f661-bbc3-48bb-b72a-e2ea33678f75|Uhhh...
-d15abff6-54a6-4db3-9a25-43b5d68f3ae6|Essa é a ideia!
-22229143-a849-46cb-a55a-2a76fceb2fe7|Não deve demorar muito mais...
-5fd970cd-13a8-427d-917a-ea736890d36a|*Escute*
-b506ff66-eb26-477f-a12c-d84797e9032f|"Pequena dívida", você diz...
-47df27e2-c6a4-4d09-a0ee-a22d0d2414b0|Saia daqui!
-2422f008-98f5-4fdb-b105-3d71566157d9|Nossa, nossa, Frank não é o que eu pensei que fosse a minha surpresa!
-fa06513b-498e-446b-a363-af64d7dd9832|Meu Deus, por quê?
-844122cb-d61e-4755-a106-6281801aa9fe|Bem, eu-uhhh... Na verdade, eu me pergunto o que diabos você está fazendo.
-e25d28c4-63e5-458c-bf52-1942767df4e4|Essa cobra não é sua amiga. Ela acha que você é comida, garoto!
-3c133b56-b06c-4b99-beca-4ab5fa229119|Nossa, onde você aprendeu a dançar tão... sexy?
-132c7b8f-69af-4d35-81dd-baf8721af6fb|Frank, você percebe que essa festa vai por água abaixo sem você?
-b01f9284-cce9-443c-93cc-283a4e153b6e|Espera aí, espera aí!
-c9212654-2bce-4ee8-b58a-7d3b765fb199|Caramba, Frank!
-11fb73d5-8363-485f-876a-ba7cbb1ddb35|E que estilo!
-f71aed95-9f89-4c85-b88f-773e80a6e935|Contanto que você se concentre em mim, cara.
-999d9914-5677-48dd-9313-f40b6f55f75d|O que seu pai pensaria de trair a Leah daquele jeito?
-9482f7cc-dd48-4ed3-b411-28af2f0b962d|Talvez eu possa enviar um vídeo dos seus passos de dança para seus amigos. Aí veremos o que eles acham.
-9ac1b61b-dc42-4700-b936-094cb14c514c|Buááá... meu pai era mau comigo. Supera isso, cara.
-d1be4352-ef55-45d2-a3fc-1d41e8e1cbbe|Frank, me conte sobre sua infância. Não deve ter sido... normal.
-c493834e-6f50-4dcf-8737-8eabc652d410|Pelo menos esse sotaque era bem legal.
-fbedffb6-fff2-4f31-877c-4c886b2d6dd0|Merda, não seja homem!
-e5e2e69b-8968-4477-bedd-0a2e17c236dc|Nossa, você precisa mesmo de terapia.
-b73f2918-24e0-497f-ada2-4553961760ee|Mulher de seios pequenos, não mais!
-7fed0b57-c21f-4b61-8d9f-e0b800c75e94|Estou preocupado com você, Frank. Você está começando a ficar um pouco rouco.
-31beabe2-6066-47c4-a278-f64aa9f9d399|Você terá seu clube, mas quanto custou? A QUE CUSTO?!?!
-4704c140-8321-4b81-bd1f-f94c6f22d443|Agora está claro para mim que seu clube é mais importante que o dojo da Leah. Eu acredito no Frankie Fuckaround.
-9c26965f-467a-4188-b4d5-a06acd7e223e|Essa cobra é uma criatura perigosa! Pense em todas as autorizações que você vai precisar!
-f43760c6-f2b3-4091-ab4a-c1fbafdaa042|Caramba!
-e461d64a-5b6b-4174-8c6e-a128d5e10458|Vamos lá, não desvie o olhar!
-53d91161-c1fc-492f-825f-e9c7d6e743c5|Porra, não olhe para lá, olhe para cá!
-c7d130fc-031c-4da0-9765-9cf47401412a|Que VIP... Leah, onde você está?
-e00ad74f-9577-4ad0-9a36-fd714962cdb9|Aaahhh, porra!
-c92b9573-18db-4119-ac1a-474a545ead5a|Leah, ele é todo seu!
-34b4713b-9f24-48c0-9ca8-45804e900867|*Ouvir*
-e87d05d3-dc72-4356-969b-55fff185bf5a|*Ouvir*
-4600de64-140a-49eb-9c18-36420a46a9bd|Frank, talvez este não seja o melhor momento...
-fbbe167f-2a2d-4be5-91cf-4e16b218ec69|Frank, deixe que eu cuido disso.
+0009d76a-4f4c-4048-bd34-7ab0cf7d014f|Se alguém perguntar, a ideia foi sua.
+004234a3-4cd7-4de2-b823-09b0fcd67bab|Fico feliz em ajudar, eu acho. Até mais.
+00645a43-5462-4660-9503-6aaba31fe770|É um reflexo da sua fa... esquece. Na verdade, hum... esta mala me traiu e eu preciso...
+0450202c-520f-41f3-81ff-51416d923550|Ok, Frank. Tudo bem. Droga...
 050dd457-c19c-4c8f-8041-3627c6f1a11e|Ah, Frank...
-57b4c587-8387-4fd9-ab65-574d9ee0f419|Isso... vai ser ruim.
-6bae0762-e554-4382-9de9-15f660bff667|Não é problema meu.
-326566cb-98a2-42c5-b3a0-e57cd2d2e374|Não com essa atitude t-
-9b60122f-d4d0-46d1-911e-cf87c23ee923|Ou cheira mal... ei, espera!
-2e1bb9f1-bad7-4d21-9497-c958d3ee1cc1|Sirvo apenas ao único e verdadeiro mestre...
-ff5a6bec-cf2e-4314-831b-d3f367b2a2f7|*Ouça*
-ccadc406-226a-43a6-8988-d70346e9293f|*Remove Julius Squeezer*
-34967fa6-f8a9-4dad-95ec-36bf71f544b2|*Ouça, recuperando o respiração*
-164e6cb4-f031-4d9a-91f6-64018afba38c|*Continuar*
-4b18489f-8987-4100-95f3-caa58ba4ee42|... uau.
-138c79d9-3ff1-4f03-8da4-7f3f6a2da68c|É, uh... você tem razão. Isso não ia acontecer.
-33711f54-39d0-4b1f-8795-b8cf4de1ae37|Parece razoável. Obrigado, Frank.
-c2546914-dfe9-4713-9d10-ff1280ea5a23|Eca, Frank. Foi mal.
-36f0baf2-9c89-41b0-9e73-99f3f862cb92|Oi, eu cuido disso!
-c0da5b36-863a-4e20-9cea-311a515656db|*Ouça*
-b839a066-e096-47af-a8bf-bc58c3427084|Vou comer pipoca.
-2b4f29f4-bbf6-4db2-aa9a-6fcd0139341f|*Ouça*
-126bb8b9-30c3-4d8e-ab2b-536c7d72f05f|*Continue ouvindo essas coisas*
-439c5de5-2e9f-4f5d-8252-bb067ba7c17e|*Ouça*
-8761378d-3424-42f6-9a70-ca3639f323c8|*Reflita silenciosamente sobre o significado do 'D'... e continue ouvindo*
-0be5fb8b-0598-4cad-9be8-2657564c84a9|*Ouça*
-9b48b80d-0c77-4d29-b6e3-1c851a1d13ba|Ok, então nada de amigo do clube. *Bufa e para de ouvir*
-73212cc1-cd78-466d-a233-b17d1e880915|Isso é um absurdo.
-eabf86d0-1a34-4ce0-818d-5e83665364b4|*Ouvir*
-630ff142-2b83-458b-b0c8-10d365aca004|*Ouvir*
-3cf24b88-7fa5-4ec3-9f7b-26133c5942a5|*Ouvir*
-6ad37aab-8755-443c-a90b-bde9a32a72dd|Não toque, a menos que seja instruído. Entendido.
+05285d61-9ec2-40fa-a62b-006f6e69bfe5|Sem problemas, Frank.
+05309d43-ec64-42c4-97aa-f030d6f5065b|Para ser sincero, parece o lugar mais legal do mundo, mas você tem que se desculpar com a Leah.
+05c84557-ceae-4495-bfb0-bef248919c3e|Precisamos da sua ajuda para pegar o assassino do Patrick.
+063fde59-56e8-4c30-aead-495b8ef60b25|Hum, é, até mais, Frank.
+07395cbc-2694-4194-bb45-d8ab2731085d|Droga, Frank, você tem razão!
+07623680-5d70-45b1-9211-ec10b906adfd|Ei, você sabe onde está o celular do Patrick?
+085c6b15-4899-42cd-acd9-1f408514aa87|Obrigado, Frank.
+087aa1d7-6f11-4738-b967-83a7f4d59484|Revelação chocante em 3... 2... 1...
 09162d6b-713c-49dc-8ac4-12bdf3794d1d|Qual cara?
-56009be3-7506-405e-8d00-eb141b2076e6|Ah, sim, fui eu!
-b443b14a-ef72-45c3-aedd-789e4aa7a3a3|Continue vivendo a sua melhor vida, Frank.
-ed4d26ea-e324-45aa-894c-099731d7279c|É, uh... você conseguiu, amigo.
-466bdba4-98f6-4240-9984-5a2d602c45d1|Aaahhh ffffffuckk...
-370b69af-e2ac-4d48-9e7b-f12a25821391|Eca!
-b96ae5d2-53f5-411f-a50f-69a6f70be2b0|Vou ser cortado, ou talvez... ah, merda, espera!
-3cf91f8a-77cf-4663-bfc4-65ed27e7fe20|Me perdoe se eu não ficar!
-ec9947ba-5e11-4b3c-bccd-b887491d28a6|Já fui confrontado de maneiras mais estranhas...
-90fa09ba-6fcb-4b6e-bdd6-ac0007f9809f|O que você acha da Katherine?
-a7a4f8ad-d484-44ba-91bd-4c36cdbfb1f3|Patrick tem uma garrafa de vinho! Ele enfiou na calça para esconder de você!
-a7542179-11c3-4245-8ae3-b4ae1fac052c|Estou bêbado, cara! Acabei de tomar 12 drinques!
-e0f40b1a-31bf-4dc8-97cf-297889373f9f|Então você vai ficar sentado aqui e proteger todo o álcool, é?
-6afe76c2-f03f-4e1f-b631-8a0e3523593b|O Patrick te chamou de macaco sem graça!
-15ddcff3-1a33-4df8-b017-e59ac31bdbad|Ei, eu estava conversando com a Katherine. Quer que ela diga coisas boas sobre você?
-99a357f0-e495-4b15-b94f-61a9aaadc59f|Ei, essa garrafa de vodca está completamente vazia. Você se importa se eu ficar com ela?
-16c34eb6-5b3d-4bb6-8237-a4d7f6d2f124|Estou completamente sóbrio!
-9397718e-4b3f-4d64-9e1f-ad8c5f0c6dbf|Sério, Frank? Roubar as garotas? Isso já foi longe demais!
-7c65dbef-97e8-459c-b626-667e3192d1e2|Que tal me deixar cheirar essa garrafa térmica para você agora? Prometo que serei um juiz justo.
-ca227aec-3513-4423-9927-46fffd7f1b52|Ei, dei uma boa cheirada naquela garrafa térmica.
-07623680-5d70-45b1-9211-ec10b906adfd|Ei, você não saberia onde está o telefone do Patrick, saberia?
-189560c6-3a29-4b8b-9b1d-7acd453479b1|Ei. Ei, Frank. Você... uh... ::gulp:: tem maconha?
-13e836d8-66eb-4898-8334-c5eae65f2c30|Ei, Frank, preciso muito de álcool! É uma emergência!
-87968c82-83eb-4573-9548-a6aa3614dfac|Você não sabe nada sobre a situação do irmãozinho do Derek?
+09376743-10d5-41fb-b0e4-1df21a9a9eb2|*Continuar*
+09e629ec-0409-4056-a386-84dd64103bdf|Frank, recebi relatos de uma serpente marinha monstruosa emergindo das profundezas da banheira de hidromassagem!
+0b1eced7-75d0-4911-8f32-a8fa81956e84|O assassino está nos dutos de ventilação. Alguma ideia de como tirá-lo de lá?
+0b916d57-6b64-4be3-9146-103811261292|O quê? Não estou dando em cima de você! Preciso de uma camisinha para outra pessoa.
+0be5fb8b-0598-4cad-9be8-2657564c84a9|*Ouça*
+0c39fea1-d12d-49fb-b132-e3597e9dbe9d|Desculpe, amigo!
+0ca742d9-d028-46d6-8170-4bf7b4bc1f43|*Ouça*
+0cd416ab-5de3-42b5-b0b8-ad2db505f7da|Hum... Eu tenho, e estatisticamente sou mediano, se assim posso dizer.
+0d769394-779e-4ab9-ad2c-f3ff684230c6|Por que tudo sempre leva a bolas?!
+0d80c69f-4947-42c8-b806-1f10c373728f|*Escute*
+0ded7506-385d-4dec-a420-c378e111c74e|Podemos pendurar visco nas suas bolas!
+0e7d1787-4afd-48e7-a0e5-b63682015b02|Acho que esse "sexto sentido" não existe de verdade.
+0e83b39a-853e-4943-aaa6-aea5c864f690|Acho que vou para casa chorar agora. Até mais, Frank.
+0f1096c2-b466-487e-9edf-faa888d90d0e|Acho que esse cheiro vem do Patrick...
+0f456579-03be-4b3a-adde-0c1003c1eefb|É, é isso mesmo que eu estou dizendo. ...Acho que sim.
+11123dff-1892-4d3d-9a1e-744c2c51caaf|Certo.
+11fb73d5-8363-485f-876a-ba7cbb1ddb35|E que estilo!
+1250ef1d-780e-4f22-be09-7060ac046f78|Vou ver o que posso fazer para me conformar com... suas bolas.
+126bb8b9-30c3-4d8e-ab2b-536c7d72f05f|*Continue ouvindo*
+13248695-0a23-448f-83f2-c8172710a7a7|Não sei bem o que isso significa, mas tudo bem. Mas e se o Patrick estivesse por trás de tudo isso?
+132c7b8f-69af-4d35-81dd-baf8721af6fb|Frank, você percebe que essa festa vai sair do controle sem você?
+133c4b0b-ffee-4165-840a-f5fefdefdb44|Nossa... você nunca sabe quando desistir, né, Frank?
+138c79d9-3ff1-4f03-8da4-7f3f6a2da68c|Então... isso é um não? Entendi.
+139528f2-397f-49d7-86b8-74f6ae1d463e|Aaaaaso, Frank, essa camisinha... Você ainda tem?
+13e809ff-426f-4b31-9a3a-ebf3c1c15c83|Digite a resposta aqui.
+13e836d8-66eb-4898-8334-c5eae65f2c30|Ei, Frank, preciso de álcool! É uma emergência!
+14011db9-b043-43d5-ae89-a2104d0d4488|Hum... definitivamente não. Não, estou bem. O Derek está pelado na jacuzzi e tem o maior pau que o homem conhece.
+142b1217-7dd9-4d9c-ae72-55548d04fb26|Tivemos uma treta séria mais cedo... você está bem?
+14607dea-d225-42f4-a1d5-49f6b5adfde5|Ah, tá, Frank.
+147316e2-3250-4ed8-b61a-b801d01a58a7|Quer saber? Hum... esquece. Acho que é só um alarme falso.
+153f66ed-7762-452a-b29c-c90c0f05162d|...É. Certo, até mais...
+15ddcff3-1a33-4df8-b017-e59ac31bdbad|Ei, conversei um pouco com a Katherine. Quer que eu fale bem de você?
+164e6cb4-f031-4d9a-91f6-64018afba38c|*Continuar*
+16704ba6-3689-4ae1-8f8b-b6969ed6f762|Não duvido, mas como você lida com isso nos dutos de ventilação? É claustrofóbico lá dentro.
+16c34eb6-5b3d-4bb6-8237-a4d7f6d2f124|Não se preocupe, eu não bebi nada.
+16e03a20-b029-4e40-8e6c-856d7fe910c9|Aposto que você estaria interessado em ser o chefe de segurança da Doja Cat.
+1740ed09-ea8d-48e1-9e23-2bb56acfbf70|Tenho uma escada que você pode usar.
+179e7f5d-90db-4acc-beba-d4bb6aa52056|Merda, eu queria ouvir a história de como ele se urinou!
+18772e0c-205b-4854-b50c-cd51252e4660|Vai, meu amigo, vai!
+189560c6-3a29-4b8b-9b1d-7acd453479b1|Hum... Ei, Frank. Você... hum... *engole em seco* não tem maconha?
+18a3705e-5734-4064-8a7d-9c6984afdee4|Claro. Então, quando...?
+18ac7b79-6bdb-4b10-8c44-ec6cd4a5e408|Achei que você gostasse de ursos. Sabe... os humanos...
+198c26cf-3d94-4b5a-a4a2-e25ff84fa165|Que gato?
+198eb095-5e75-45a8-8db1-cf451bb5ea5f|Frank, você acha que pode lutar com o Derek por mim?
+19d4e16e-960f-493d-ab02-acc048fdbbc3|Ok. Valeu, cara.
+19ff97e8-320a-4aac-83b6-301e1391efde|Tenho que interromper, acho que Brittney está ligando.
+1b819302-1e3f-40c2-8800-fbc886e3daa9|...Ainda dá tempo de sair? Essas chamas não me convencem. E os olhos também não brilham...
+1b9385b0-4a7b-447a-98ea-0f2b98e70a34|*Escute*
+1ca601a5-af94-47ec-a65c-e538461846f8|Ok, claro. Vou, hum... para lá.
+1cac409b-c063-45f7-91a0-5f7995114ed4|Não tem como suas bolas perceberem se alguém está bêbado ou não.
+1d0b30af-9a34-4e6f-99cf-c3f251623ea9|*Pular*
+1da2e8d3-c6ff-4182-a1ea-70e6dd931629|Hum, obrigada pela camisinha, Frank.
+1ef05d32-b80d-4472-b528-c30cbe1a89e2|Ok, acho que estamos na mesma página. Obrigada, Frank.
+1f7d1c29-da82-40f9-b00a-e5448c9a52fd|É hora do milagre de Natal!
+1fca1654-a1a0-42ad-bd25-20a2d0e87227|...como eu poderia esquecer?
+1fcca487-9558-4252-a4bc-55dce496541d|Sério, Frank?
+2097d77e-deba-4784-935d-f6b73b940084|Então não é um problema para você?
+217331ce-98ad-4bfc-9b75-c6dc765cf936|Você não está totalmente errado. Mas Frank, você vai fazer história!
+22229143-a849-46cb-a55a-2a76fceb2fe7|Não deve demorar muito...
+22474ae6-45fc-494e-8f26-cac9feddf439|Nossa! Me conta mais!
+229d921f-148f-41be-85ab-4750350f88bd|*Pular*
+231d493a-8925-4dbd-9235-ddc9a311b863|*Ouvir*
+23e040fd-75df-4f95-971f-eea4285d36bf|Ok, Frank, eu sei como você pode me retribuir. Ouça com atenção!
+24147b12-9b22-4be6-8f7b-7b6b1c6217cf|De jeito nenhum! Sou eu quem precisa me pintar!
+2422f008-98f5-4fdb-b105-3d71566157d9|Uau, uau... Frank não é a surpresa que eu esperava!
+248bb487-ba61-41a0-ba6d-69573d50262f|Exatamente. Preciso resolver uma coisa, mas não se preocupe, não vai demorar muito.
+2709b617-4bb9-4253-b468-2eddf3914d57|*Pular*
+27350665-d712-45cb-b2fd-8317c1a8d4e7|Mostra o que você sabe fazer, cara.
+28a4d67a-5333-4eee-af87-c87fc1193cdf|Ok, tudo bem...
+28adfb5b-7b62-4325-b531-e5c637603572|Estar errado faz parte da vida. Você sempre pode aprender com seus erros.
+28d61cf5-3d96-455d-b4af-61ee286c9c78|Por que não falamos sobre outra coisa além das suas bolas?
+2b4f29f4-bbf6-4db2-aa9a-6fcd0139341f|*Escute*
+2c33d2bb-934c-4939-9745-ef8bb08320f0|Ok, Frank, vou parar. Esta é a última vez. Eu prometo.
+2d49ad35-f023-489c-ab5e-96d277a8e10d|Boas festas, Frank!
+2d598705-0f3e-42b6-ad2d-6b0386f7ad33|Melhor do que nada, eu acho. Vamos lá.
+2e1bb9f1-bad7-4d21-9497-c958d3ee1cc1|Eu só sirvo ao único e verdadeiro mestre...
+2f67e613-15d4-466f-a794-5d7b35467648|Desculpa por mais cedo, cara! Estou pronto para fazer algo do nosso... relacionamento.
+2ff490c2-6649-4311-995c-452785df22ca|Cara, isso cheira a álcool. Ele estava tentando roubar uma bebida. Você fez a coisa certa.
 3021d9ab-f80a-43f6-be02-587b01fde7c1|Ei, Frank, preciso de uma camisinha. Você não tem uma sobrando, tem?
-59ceb32c-65e5-42fb-9c5e-3685a18d95e8|Frank, ouvi alguém dizer que bebeu um pouco! O que fazemos?
-48626a50-46c5-4d16-9f99-ba47eeaa672e|Você ainda acha que eu sou gay, Frank?
-bc28d299-8424-4839-9046-aa8aec4adb81|Certo, Frank. Você tem razão. Estou atraído por você.
-984e04ae-a4db-441e-90c0-dcd745ba0516|Não consigo tirar você da cabeça, Frank...
+3022a21b-4b4a-482a-b5f6-a65c22a535ea|*Escute*
+31355bf9-2b2c-49c9-ad17-5eb7cc5cf083|Você sabe alguma coisa sobre o gato que o Derek perdeu?
+31beabe2-6066-47c4-a278-f64aa9f9d399|Você terá seu clube, mas a que custo? A QUE PREÇO?!?!
+326566cb-98a2-42c5-b3a0-e57cd2d2e374|Não com essa atitude...
+33711f54-39d0-4b1f-8795-b8cf4de1ae37|Parece razoável para mim. Obrigado, Frank.
+33c372d6-0a8a-4217-9fbe-51aac5efdf2c|E aí, Frank, parece que você está livre... agora que somos melhores amigos, você pode abrir esta mala para mim?
+33fcf407-d896-4c64-af95-e5562811e569|Vamos lá, amigo! Vamos começar!
+34967fa6-f8a9-4dad-95ec-36bf71f544b2|*Escuta, recuperando o fôlego*
+34b4713b-9f24-48c0-9ca8-45804e900867|*Escuta*
+352446c6-96e6-40e1-bddf-9cb125a34cd1|Não sei se fico com medo ou animado...
+3570b5f6-f53a-432c-8917-2ae62ceb044a|Ok, ok... Vou indo.
+36189fc7-07bf-4a80-8d09-25a7f03020a9|Você sabe alguma coisa sobre a paixão da Brittney?
+36893eca-49eb-466a-b241-118bc99100e5|*Escute*
+36f0baf2-9c89-41b0-9e73-99f3f862cb92|Não se preocupe, eu cuido disso!
+370b69af-e2ac-4d48-9e7b-f12a25821391|IIIIIIH!
+37107e8f-3810-4e92-acdc-21d8887bd560|*Aquele cara está em maus lençóis...*
+37721bb1-30ba-4455-81b1-87c66c316290|Vamos lá, amigo! Vamos começar! (Sexo Interativo)
+3834e7cf-75b9-454c-af9c-68edf90a1bd4|Eu também cago de verdade. Eu... hum... tá, te vejo mais tarde.
+3844f32f-2a96-46d4-bd1e-255f31188e52|Hum... claro, sem problemas.
+385ab317-77d3-469d-86b0-e9da72ef1e52|Sabe de uma coisa, Frank? Quando você está certo, você está certo.
+3907d42e-e676-40ae-8578-93cbcd88f5b0|Você está incrível, Frank. Absolutamente lindo.
+39a27f59-a511-4cbe-8740-27c85f3c99da|Vou anotar, Frank.
+3abcef25-18ea-4302-874e-2d5628b586a2|Você ainda precisa ser honesto com a Leah.
+3ac689c3-6e65-46f8-9f8a-a097003868fa|Droga, tá. Bem, isso é definitivamente um retrocesso!
+3b449dca-9a11-4b36-9d70-557ce88cabfc|Durante toda aquela coisa com a Leah, você disse que faria o que eu quisesse se eu não quebrasse sua cara...
+3b51f579-6982-4e1f-a95c-1d49612f7bf9|*Continua*
+3b7063f4-48c8-475f-b1cb-47272d235ab7|Acho que é a coisa lógica a acontecer...
+3c133b56-b06c-4b99-beca-4ab5fa229119|Nossa, onde você aprendeu a dançar tão... sexy?
+3c510865-8c4f-4c19-abfc-a631c26aa46b|Essa cadeira não é desconfortável? Parece desconfortável.
+3cf24b88-7fa5-4ec3-9f7b-26133c5942a5|*Ouça*
+3cf91f8a-77cf-4663-bfc4-65ed27e7fe20|Desculpe se não fiquei para lhe fazer companhia!
+3d86f93a-02ad-49f4-ab33-06fa1c3c7018|Espera, o quê?
+3ddb7fa2-b00e-4226-bfbe-e09b782e6baf|Vou pegar pipoca.
+3e2505a4-bd59-42c6-b69e-e79e5f01ad14|Se vou me submeter a algo assim, quero que minha barra de amizade esteja, no mínimo, no máximo.
+3e5aa979-2722-445e-a47e-6212f343e3f5|Farei exatamente isso, Frank.
+3eacf1c3-017c-4a6b-9eb7-37b31ef181e4|Ei, hum... legal. Você acha que pode me devolver essa câmera? Prometo que te devolvo hoje à noite!
+3f937991-0019-478d-bea7-8ccff172749e|*Escute*
+3fc8e4b2-c12f-4b66-bad7-9d6363099188|É para o restabelecimento da Lei Seca.
+406106bf-a689-4e29-a5bf-922371de2b33|Eu estava pensando na nossa conversa anterior. E você?
+408ed59c-496a-40e6-a1e6-e5a17a377ef2|Ei, o que aconteceu com o seu...
+40fe2f23-d763-4094-9ceb-512c890d0a13|Entendi? ...SIM! Peguei pipoca! Ok, estou pronto, pode começar a violência.
+4178ea54-e923-4272-9c2f-32ea2c89d499|Quer me contar sobre esse lugar que você está roubando da Leah agora?
+4213fb01-773d-4983-9200-01d3c18e74ba|Só estou fazendo a minha parte, Frank.
+42939199-35da-4d18-ae18-4383ff65343a|Não, você será conhecido como o herói que salvou o Natal!
+42ca082f-5d70-4ff5-99ec-d40254a300d4|Eu vou procurá-la.
+42ebb17d-3e1b-486b-aafd-285985ecb6ff|*Continuar*
+4304b4ae-2d77-442a-b430-ffd9a2d184a8|Meu amigo! ...Amigo? Esquece. Já superamos essa coisa de ser gay ou não, certo? Porque bem... camisinhas. Eu preciso delas.
+439c5de5-2e9f-4f5d-8252-bb067ba7c17e|*Escute*
+4445b237-05e0-4970-9d3c-41e85cc9da57|*Escute*
+446cc1ef-9ee5-402d-821c-2a45728265c9|ESTÁ... BEM ATRÁS DE VOCÊ! Brincadeira! ...ou talvez não?
+45152ffa-554b-4717-900e-4435438aa82a|Obrigado, Frank!
+45398bdf-5a0f-4ee8-a36f-961a4a8e31a0|Claro... Realmente profundo. Que mistério. Certo, então... voltando a...
+4578d361-9621-42d9-8b27-780e8fe7c876|A Madison quer que eu coloque um visco como decoração, mas preciso encontrar algo resistente o suficiente para pendurá-lo.
+4600de64-140a-49eb-9c18-36420a46a9bd|Frank, talvez não seja a melhor hora...
+466bdba4-98f6-4240-9984-5a2d602c45d1|Aaaahhh meeeeeerda...
+4704c140-8321-4b81-bd1f-f94c6f22d443|Agora está claro para mim que seu clube é mais importante que o dojo da Leah. O Frankie's Fuckaround Club tem todo o meu apoio.
+4749801f-e404-4001-8672-2f9a523d820f|O importante é acreditar, Frank... e, enfim, ponto para mim!
+47635d22-901a-4312-b404-1e671b69d447|...Eu deveria ter previsto.
+478d4800-a446-45d7-ad5b-c109f9d949a3|Frank, tem certeza de que não está exagerando um pouco?
+47c89187-1d3a-41a8-9bcd-dda3a717559c|Já pensei nisso sobre o Frank, e até agora a nossa tem sido uma amizade quase fraternal. Por que não continuamos assim?
+47df27e2-c6a4-4d09-a0ee-a22d0d2414b0|Você está brincando comigo!
+484fcab9-86fc-495e-a87c-d55b23a0c861|"As bolas têm olhos." Obrigado pela ideia assustadora, Frank. Deixa pra lá. Eu aceito a aposta!
+48626a50-46c5-4d16-9f99-ba47eeaa672e|Então você ainda acha que eu sou gay, Frank?
+487d6cc2-d7f0-4479-a9c1-74c0ed158b20|Bom saber, obrigado, Frank.
+491f5154-0dbd-4594-9894-04e5b9b0e5dc|E aí, Frank, que tipo de cueca você está usando?
+4931bb19-ac07-4628-bdea-7e2b75d32c8f|Você sabe alguma coisa sobre hacking?
+496de6fc-4c3b-4c06-8757-a2fb62efdebc|Por que isso não me surpreende...?
+49aad668-1349-4c82-a774-e82d1b52a88a|*Pular*
+49b160d8-bcc6-4b05-8321-8e75d7a83a5f|Vou pegar pipoca!
+4ac1cefc-ee45-46b9-9d21-99895f9825ef|Merda, merda, merda... pipoca! Cadê minha pipoca?!
+4afd0318-5218-4697-a9d2-c8b948921bd9|Parabéns, Frank. Falando em voz alta... que coragem.
+4b18489f-8987-4100-95f3-caa58ba4ee42|...Nossa.
+4c343f86-f156-4727-bbdd-fe907e92f0ba|Você parece um cara interessante.
+4d783677-a097-4501-bfb4-d2447c2a5107|Puta merda!
+4dfea56a-0344-45e3-8555-00d193896fc6|Certo, nunca mais. Eu juro. Você tem minha palavra.
+4f9c18ba-2b7b-4a28-8e2b-407554aafec8|Ele tomou Hyperall e não deixa a Madison sair do banheiro.
+4fd0f3c2-2c21-42fb-8bfe-5b479db0e61b|Ninguém te respeita, Frank. Acham que você é um perdedor.
+5060b2f8-0e91-4452-aee2-298a54cb1fc2|É. Ei, o que você acha do tempo atual?
+51e42e6a-52d6-4e82-b890-36078043085e|Veremos.
+526fbe08-40cc-4cc0-b150-d0fe92a1e981|Ei, Frank, você tem uma camisinha para mim?
+5281118e-4f26-451d-ba13-1f17d44b0c95|Eu não bebi nada!
+52c38ee3-6784-4016-96ed-7dabd675f3f3|Ela não conseguia se decidir. Não conta.
+52d16c4c-9166-4727-aa55-46481415bc19|Obrigado, Frank. Vamos nos encontrar na garagem quando chegar a hora.
+52ed158a-7ebf-4a53-b4c5-2f4c883136d7|Divirta-se, Frank.
+53b927a6-1551-437b-bc6d-828a74d343ce|Espere um minuto, Frank.
+53d91161-c1fc-492f-825f-e9c7d6e743c5|Droga, não olhe para lá, olhe para isso!
+53f421f7-74d0-4f1c-947d-900d59eedbad|Hum... Vou ver o que posso fazer, Frank.
+54955cc1-739f-4049-98ca-c436712448ee|Você disse algo sobre maconha antes. Me dá. Agora.
+549eeffc-9b36-4433-906d-f4e9bc9382be|Você é apenas uma aberração patética da natureza, estranho e com testículos de elefante.
+54e09a03-60d5-4ae1-a1df-3e43fe1cbf90|Mhh...
+555a5b9a-1a6b-4d46-b406-2d3a45871f6b|Madison disse que precisa de você assim que tiver um minuto. Ela está lá em cima, no quarto dela.
+56009be3-7506-405e-8d00-eb141b2076e6|Ah, sim, sou eu!
+57b4c587-8387-4fd9-ab65-574d9ee0f419|Isso... está ficando ruim.
+58c89589-8f62-4384-82cd-9d576edd2360|Nem um pingo de gratidão. Tsk tsk.
+58d8d97c-c391-4bfa-8601-0c9721b9d95a|Obrigado pela honestidade, Frank.
+59ceb32c-65e5-42fb-9c5e-3685a18d95e8|Frank, ouvi alguém dizer que tem álcool! O que fazemos?
+5a602e78-7a57-4ec9-baed-36f1ac3086da|Farei o meu melhor, Frank!
+5ab86fb4-4c80-4858-b12f-dcfae4526f5b|Então vamos, Frank.
+5b7160e1-460b-4706-b60b-b76c7e1ef3ec|Você sabe alguma coisa sobre a nova vizinha misteriosa do Mad, a Amala?
+5bc6edd8-ea34-44a9-9cdd-cf4dc934fde4|Mas...
+5bcb3e50-8a36-4986-bd44-b11b4350d34c|O que eu fiz?
+5ecd007e-b7eb-45aa-88af-153cb5d140da|Ah, merda. Tudo bem, vou tentar reacender a chama nas suas bolas, Frank.
+5ef2771b-d9a8-4069-b9da-e06d16e084a6|Frank... você está pronto para enlouquecer comigo?
+5f274503-baa1-4f76-96f2-5a5297175df1|Aposto que posso provar perguntando por aí.
+5f55bcd3-3858-4018-ab9b-be47e73c631a|*Continuar*
+5faf3eff-3708-44a4-b33a-3b2c7da845d6|Frank, eu entendo o verdadeiro significado deste trabalho... Você aceita minha ajuda agora?
+5fd970cd-13a8-427d-917a-ea736890d36a|*Escute*
+60c6066e-b9aa-4ecf-9942-036337ea90e8|Claro que sim! Sou perfeitamente capaz de me virar sozinho se algo acontecer.
+61b5da17-2e1d-4dce-a20c-6e3d84e9e378|Ahhh merda! Preciso ir, adeus, Frank!
+61c6543e-13da-4fdb-9891-521fde137ea1|Frank, acho que essa porta te desequilibrou.
+62061522-d9ec-4f88-a5f2-afafee5c5a7b|*Escute*
+6235a83a-3246-47fa-9a30-344b92b42060|Ok. Certo. Obrigado, Frank.
+624a3ff6-bf9b-4a8c-a73d-1cab4f3c7429|Eu não bebi nada!
+62783069-a2e8-4c04-8759-bf691b042a65|Hum, obrigado, Frank! É um prazer fazer negócios com você!
+62aa7b64-331e-4414-8765-0b749cd52eaf|Palavras mais sábias nunca ditas.
+62f996c1-37a9-4e4e-bd30-0f58d9f027fd|Sim, sim. Não precisa. Encha-me e reabasteça meu... sangue ou seja lá o que você disse.
+630ff142-2b83-458b-b0c8-10d365aca004|*Escute*
+638cb946-f7d9-4727-ab2d-4c348756f64f|Você estava falando sobre estrangular sua mãe?
+6422b0e2-2869-4979-90c8-96d8112687e9|Meu amigo, você me deu muito o que pensar. Volto já.
+65bf6c5d-1b08-430c-b73d-617679049d05|Desculpe!
+6732f202-1c81-483c-b788-5680ddea8d2f|*Suspiros* Obrigado, Frank!
+676383af-2f7b-4168-8fc5-e2ec20b52aa7|Não sei se fico com medo ou animado... (Cinemática)
+68bffada-ebf7-48e8-8f04-08f5cebdd801|Não. Mais um ponto para mim.
+693463a7-f4b1-406c-b233-63154c1e6bc5|*Continue, alegremente*
+69b63831-71da-4ca4-bab7-59954de05fbb|Vou deixar a Leah explicar tudo.
+69e6db99-05a9-4d6b-8c84-c19a517043e6|Vou ver o que consigo encontrar.
+6ad37aab-8755-443c-a90b-bde9a32a72dd|Não toque, a menos que você diga o contrário. Entendi.
+6afe76c2-f03f-4e1f-b631-8a0e3523593b|Patrick te chamou de macaco peidorreiro e puxa-saco!
+6b541253-84b6-4e51-b170-1770a5da3204|Protejam-se! Aqueles funcionários do parque de diversões estão completamente encharcados!
+6bae0762-e554-4382-9de9-15f660bff667|Não é problema meu.
+6bd39a56-8970-4837-9a48-b1791f301578|Estou indo, Frank. Não durma.
+6c74839d-a0fe-4778-a4e5-d35a3645ed39|Que diabos é o Clube de Foda do Frankie?
+6ca3349a-6844-423e-8d6e-3af3f9af4693|Detesto ter que te dizer isso, mas eles estão falando do tamanho do pênis, não do saco.
+6d958a58-e68e-426e-a9e3-c2bbff1217b5|Isso soou estranhamente sincero.
+6e453e58-0118-46fb-ba6e-ef51a159f8de|Me dá um segundo, vou achar alguma coisa.
+6f8793cf-74aa-4164-81fe-2482ae5bf70d|Já estou começando a me arrepender dessa escolha...
+7000eab4-d481-4e7a-9579-29b4305e0dc7|Merda, merda, estou prestes a...
+7073211a-dc4e-4a0b-88ab-e4528ab843a4|Então... precisamos continuar falando sobre o seu...
+70e596e4-21c8-48d5-b6d3-4261ce0d1817|Vou ficar sem pipoca hoje à noite.
+71392a50-3720-47e3-8b75-6c618bde1647|Você realmente ama o que sua mamãe te deu, não é?
+718f34f2-0a9e-4c3f-be54-2f88a3bdac8b|Você é louco, Frank, mas estou curioso para ver como isso continua...
+729d781b-2cb1-4d76-a819-f6bcfbccfcc5|Por acaso você tem uma camisinha com você? Se tiver, me dê.
+73212cc1-cd78-466d-a233-b17d1e880915|Isso é inaceitável!
+737efeec-2e2a-4eff-8c77-400afa4d8825|Não era disso que você estava falando...
+73d4a35c-813c-47eb-9525-4b8e3d93cf3c|Vou ficar sem pipoca hoje à noite.
+7409457c-6f9c-4a84-8b28-c9ba38da2a23|Mas você vai ficar preso lá dentro com um assassino.
+752d081e-f37e-4d34-b315-23da439e8a29|Não me importo com o seu clube de peitos ou o que quer que você esteja tentando começar, você precisa ser honesto com a Leah.
+755f844f-2e1f-4ecd-bca2-b8242e57f569|Ah, merda...
+75e285f6-2331-45ed-8a1f-2338e8f97415|Claro. Vou contar para ela.
+76b25859-9979-4f3d-b5bf-10cc56983111|E o que tudo isso tem a ver?
+773bc9d7-fb44-4dda-902c-1745435ded25|Eu... quero minha mamãe.
+775f9759-26ea-4b62-9d8f-2d50e0e5e59a|Seu escroto?
+77d7105b-a1e2-4458-9299-68aafaf068e8|Bem, tudo bem.
+78c7d8c0-c81e-4401-a08f-76ea35632db8|Boa ideia, Frank! Posso pedir para ela me mostrar os peitos sem parecer uma pervertida!
+795f9a5b-0233-4529-80e9-8ffc65a3958a|Eu vou encontrá-la. Eu prometo.
+797fb9c2-2a4d-4cf2-a125-129af099c68e|Sim, sim, estou trabalhando nisso.
+7a060fe5-1403-4b5f-858b-0b6016d0e451|Ok, ok! Vamos lá, me mostre do que você é capaz, cara.
+7a5d5b49-e851-4bf0-9f01-3644f50c9f51|Não finja que não gosta nem um pouco, Frank.
+7a628a80-a2c2-46ec-bee5-75306363ad0d|Você está voltando atrás na sua palavra, Frank? Se você não cumprir sua promessa, eu posso ir procurar a cobra...
+7ae23190-8f04-4e6d-9029-0a1ddcaed983|Você não é nenhuma aberração. Eu só estava brincando. Você poderia, hum... guardar isso?
+7bce22c6-6f3c-4b0d-9d9c-c16e7f86ab27|Puta merda, Frank, você não acha que está exagerando? Seu psicopata de merda...
+7bf2909c-3aff-4a75-9356-a006713a1732|É como se você não estivesse ouvindo direito, Frank.
+7c6253c8-0e64-4479-aa6c-6797ff4f1be9|Bem, talvez eu tenha bebido um pouco...
+7c65dbef-97e8-459c-b626-667e3192d1e2|Então, que tal me deixar cheirar essa garrafa térmica agora? Prometo que serei um juiz imparcial.
+7ca12c4e-da1b-4c8b-bbb8-748fc4b30a95|Não, não adiantaria nada. Não há nada que você possa fazer, mas, sim, mantenha-se positivo. Ouvi dizer que faz bem.
+7d830a76-999b-4f6d-a0f0-9ed5b31c76e9|Sobre antes... Acho que você nem teria sentido meus socos. Como você pode ser tão... monstruosamente poderoso?
+7e7cfd52-3102-4587-8e0a-cd551f12f377|Agora que penso nisso... preciso pensar. Conversamos sobre isso depois.
+7ebb44e5-f11d-4807-8194-9b5e0b3cee1c|Obrigado, Frank.
+7fed0b57-c21f-4b61-8d9f-e0b800c75e94|Você está me preocupando, Frank. Sua voz está começando a ficar rouca.
+8187a364-5195-4cd9-b089-e8cbc9b32920|Não foi bem isso que eu quis dizer. ...de qualquer forma, ainda consigo ver suas bolas.
+8202ff99-11ce-45fa-b488-7d69e1e61099|*Escute*
+8277d69b-76e2-4a51-af14-5989773f1f11|Feliz Dia dos Namorados!
+828d6df2-33bf-4693-86e3-0992eac77be4|Pense em todos os crânios que você poderia quebrar se tentassem invadir sua casa.
+83668448-79c2-48a7-8491-235a3e96d0d2|Leah, ela parece assustada...
+836a1f87-fe2e-40f7-b299-5c4b86c0496a|Conte-me sobre o lugar que você está roubando da Leah.
+83a93bbd-0769-4638-ad38-652b3ab63e2e|Ótima resposta. Obrigado, Frank. Vou falar com a Steph.
+83f409fa-8e55-441b-b840-11fd7ff8cd64|Na verdade, eu só precisava da camisinha. Obrigado, Frank!
+843479f6-a2ad-4818-bada-ebf0b6e90c61|Hum... você tem razão, eu não tenho... nada parecido. Ok, volto mais tarde.
+8435d3e2-e4e4-4811-8a4b-43f77a08185d|Nada, Frank. Deixa pra lá.
+844122cb-d61e-4755-a106-6281801aa9fe|Bem, eu, hum... na verdade, eu estava me perguntando que porra você estava fazendo.
+844ded5b-a3c1-49db-8315-d071ba9a6730|Você não entendeu. Que porra é essa?!
+8462213d-2fd0-47d5-a0d9-3a8d9fe9d9b7|Que tal eu ficar no seu lugar um pouco? Para você esticar as pernas.
+8498ba91-5773-49fd-8cfb-e81d85019ff6|Está quase na hora do show.
+85166094-bf67-49e7-befa-3be3cbd39e86|Frank, eu quero você. Você e seus testículos gigantescos.
+85c40def-5977-497d-bf62-d71326c44e07|*Pular*
+86726039-241e-4ba6-85d6-ec58bfbbad54|T-tarde demais, F-Frank... ei, venha aqui. Tenho algo para você.
+8761378d-3424-42f6-9a70-ca3639f323c8|*Pense em silêncio sobre o significado do "P"... e continue ouvindo.
+87968c82-83eb-4573-9548-a6aa3614dfac|Você sabe alguma coisa sobre o que aconteceu com o irmãozinho do Derek?
+87a3fe54-ff3a-47fb-89e0-8cbb5949e7e4|Vamos lá, cara! Vamos começar! (Sexo Interativo)
+89c6bac1-d762-49f4-bee7-abc419d051a3|Só um segundo, Frank. Só um segundo...
+89d14e3d-5320-4d65-adad-202cb93b0e45|Meu amigo Derek disse para eu tomar cuidado com você.
+8ed4ac79-10da-4e3c-9f89-322c71aa7d80|Vamos transformar esse "em breve" em "agora". Tem certeza de que não tem nenhum lugar específico para...?
+8efc6a3d-d1c4-44f6-a099-b80dca56449c|Certo... bem, está tudo bem, Frank. Tenho que admitir, estou feliz que você esteja bem.
+8ffd843d-0a61-4427-8fe1-4870b8e6c86b|Oook... Volto quando você se recuperar. E conseguir entender frases.
+9047324f-adba-44c5-9411-df6777beb158|*Pular*
+9096256d-73cb-4337-9d30-9e32f5a8bcc5|*Ouvir*
+90e6bff8-b4cf-42b8-abde-57dde946fe0c|Vou pegar um suco de laranja. Até mais, Frank.
+90fa09ba-6fcb-4b6e-bdd6-ac0007f9809f|O que você acha da Katherine?
+923223d7-47d9-4382-b072-5233bc3bc829|É difícil não ser o garanhão do campus, né?
+9312edb5-73fc-45b8-baa1-2778bc175f03|Você sabe onde está a Brittney?
+931fe1d4-34f0-4225-9261-15c65dca6e77|Acho que estamos prontos, Frank...
+9397718e-4b3f-4d64-9e1f-ad8c5f0c6dbf|Vamos lá, Frank. Roubar garotas? Você realmente passou dos limites!
+93f7910e-b84f-4410-a2c2-da752e2710b6|Reforce as janelas. Entendi!
+9438894c-a517-4a39-a4b0-64a71b4125f7|E ponto para mim!
+94661b49-5f79-45a3-90d1-d63d674fd622|*Ouvir*
+9482f7cc-dd48-4ed3-b411-28af2f0b962d|Talvez eu possa enviar um vídeo seu dançando para o seu pai. Aí veremos o que ele acha.
+94d04815-f7df-4119-9047-8c8e80ee8091|Ok. Obrigada, Frank!
+95850c3a-fb06-41f0-8e67-e9bcd41c0c66|Fico feliz em ouvir isso, Frank. E sim... eu também.
+9597fc9b-2f43-4876-b08a-45042903710f|Nunca pensei que diria isso, mas Frank, você é meu herói.
+963ee607-942b-45e7-92a8-36fe6afdcf97|Vou continuar tentando te mostrar que sei onde meu coração pertence, Frank. Suas bolas.
+9694c4cc-5056-471e-9d9c-103620e44f91|Pinguim?
+984e04ae-a4db-441e-90c0-dcd745ba0516|Não consigo parar de pensar em você, Frank...
+988ca16e-b2ef-4afd-8cd4-78bdd81c003f|Incrível.
+989adb94-d70c-4adc-9b44-1df08a602036|*Fim*
+98ac1f30-7529-4d64-9911-46dc68b88aad|Ah? Que observação perspicaz, Frank.
+98b15e0e-e21d-4d96-8060-faeee5249312|Bem, com o chapéu...
+98e310df-49cf-419d-8e4d-37779a45be26|Eu... o quê... espera, você disse "você já esteve lá antes"?
+99692321-db04-4b92-b6c8-02d0ec96fc2c|...e como você chegou a essa conclusão?
+999d4580-8400-4ad8-9c36-007bbde7f397|Boa sorte, Frank.
+999d9914-5677-48dd-9313-f40b6f55f75d|O que seu pai pensaria de você traindo a Leah?
+99a357f0-e495-4b15-b94f-61a9aaadc59f|Ei, essa garrafa de vodca está completamente vazia. Se importa se eu ficar com ela?
+9a7d21d0-daf8-4ad6-8cbe-75d6b904b727|Então, Frank, você acha que eu posso pegar uma garrafa?
+9ac1b61b-dc42-4700-b936-094cb14c514c|Uhh... meu pai era mau comigo. Deixa pra lá, amigo.
+9b48b80d-0c77-4d29-b6e3-1c851a1d13ba|Por que me sinto como se esta fosse uma boate gay?
+9b60122f-d4d0-46d1-911e-cf87c23ee923|Ou um cheiro bom... ei, espera!
+9c06257a-dcd2-49c1-a45f-db3907ade9db|Entendido.
+9c26965f-467a-4188-b4d5-a06acd7e223e|Essa cobra é uma criatura perigosa! Pense em todas as permissões que você vai precisar!
+9ca16741-5dd5-4168-a268-e4ebf9fd3e2f|Você vai superar. Mas pelo menos agora você sabe a verdade.
+9d3ee08e-5589-4479-b76c-23a14b423523|Eu poderia controlar isso para você.
+9d88b8ae-90d8-42b4-b74f-9d03e4d4b314|Faça o que tiver que fazer, cara. Trate como se fosse seu...
+9ee1319e-6a4a-4fc0-a7c9-5c445f2852a9|Parece que o Frank tem tudo sob controle.
+9f120add-2a0d-46c9-9ff4-5f4eb958f545|Vamos lá, amigo.
+9f97e08c-56c9-455b-bd0a-6fe539bad3f3|...Certo. Posso ter tudo o que você disse, exceto os três últimos? Não preciso de... "animais". Nem mesmo abraços.
+9feafbd9-870a-450f-a33c-0646a77dda90|Vamos ser amigos, então.
+a061f002-a82f-4f6c-8295-5192c7305b8b|Por "molhar o biscoito", você quer dizer tomar café da manhã com ela ou...? Na verdade, esqueça tudo.
+a0ccc69b-b7ff-463b-a24d-54ffd0b03d16|Vai valer a pena, acredite.
+a0fb5974-1f04-4fbb-8e5f-d78ead79e966|Bem, talvez eu tenha bebido um pouco...
+a140f350-599f-400d-91d1-4cbc41d605e5|Eeeeh... tá.
+a2021ba4-637a-4400-8c36-66992c5a36c2|Merda...
+a2b54cf2-8668-4652-a3c7-ef85786c313b|Pelo ponto que você perdeu ou pelas bolas?
+a37138ae-4df5-4c75-ad19-282c7be7038f|Na verdade, agora que estou falando com você de novo... fico feliz que esteja bem, Frank.
+a3ef7b59-f6a0-4154-91c5-a6159b23731e|*Continuar*
+a53372e8-46f2-4375-ac2a-cad51ec63799|Ah, claro. Volto já, Frank.
+a5e8b003-45dc-457c-87b0-441d455eeb73|Respostas para o quê?
+a6171ce3-4cd4-4503-b8eb-0e7dc2fe3216|*Escute*
+a689c8f1-68a2-4154-8a19-b1c3f90e085a|Espere! Pipoca! Preciso de pipoca!
+a6d437d2-48a9-4813-af42-f3e92ef91c10|Estou pronto para o "arranhões". Me dê alguns segundos e eu prometo... Vou mostrar que levo isso a sério.
+a71adae9-47d8-4e8a-aaed-a09f590720a5|Você disse algo sobre álcool antes. Se algo relacionado a álcool acontecer na sua frente ou na da Leah, você me dá um passe.
+a7542179-11c3-4245-8ae3-b4ae1fac052c|Já levei pelo menos 12 doses, cara!
+a758abff-8541-4a60-a8de-c5d811a8fccf|Espera aí. Antes de começarmos com essas carícias, abraços e outras besteiras assim, quero mais alguns power-ups.
+a7a4f8ad-d484-44ba-91bd-4c36cdbfb1f3|O Patrick tem uma garrafa de vinho! Ele vai esconder na calça assim que te vir!
+a7dad01e-aa96-4823-ae04-a15ec39a5e7e|E aí, como anda essa coisa da segurança?
+a7e2ec3e-cbbb-4fe2-a56e-6589625d59b5|Ah, claro. Entendo.
+a904e3f9-2f4c-428e-b94b-5423110b9bbb|É para fazer o Derek tirar a camisa.
+aa226b33-35b5-4349-9b8f-01b21cfbe0e4|Acho que não, mas obrigada, Frank.
+aa65547e-9a66-4993-8c36-bcb75f0ae88c|O que você acha deste martelo, destas tábuas de madeira e destes pregos?
+ab2935c7-58c2-4119-b111-77ed7bc6836a|Entendi. Obrigada, Frank.
+abdc8fab-7cf3-4ebc-b31f-9d53a4c8e713|Está perfeito. Continue.
+ac4aa783-638c-457e-bb98-6ec91736b8cc|É um pouco extremo. Talvez você devesse aprender a se amar.
+ae31fae9-99ba-446d-9acd-d1c28b7a0ee3|Nada a relatar. Ela está cheia de água. Ela tem uma condição médica muito rara chamada "sede".
+aedb2944-11ee-48b1-858a-02ad3128f9bb|Ei. Ei! Eu disse sem abraços! O mesmo vale para tranquilizar, aconchegar, acariciar e, definitivamente, esfregar e massagear!
+b01f9284-cce9-443c-93cc-283a4e153b6e|Espere, espere!
+b0257000-ffb2-4bfd-b988-ee4ed494b7f3|Ah. Merda. Brotos! Bem, então vou ter que ir embora!
+b05039d3-a342-44a8-8fe1-034093cc4970|Muito fofo, mas não muito prestativo.
+b223d6b4-e157-4abb-87a5-e2e355c32adf|Veremos!
+b443b14a-ef72-45c3-aedd-789e4aa7a3a3|Continue aproveitando a vida, Frank.
+b506ff66-eb26-477f-a12c-d84797e9032f|Dívida, você disse, hein?
+b6685a7c-d216-4342-a246-d5429a21ae74|Tá bom, tá bom. Droga...
+b73f2918-24e0-497f-ada2-4553961760ee|Nunca mais uma mulher sem seios!
+b793ef4e-e00d-4759-bd07-63f428e79b5e|Agora você acredita em mim? O tamanho do pênis é MUITO mais importante do que o tamanho das bolas!
+b7f3fab2-0f25-4303-8720-ffe9a028447f|Frank, me beija. Não, não aqui em cima. Lá em baixo.
+b81f40a7-4393-4875-9766-2286796fd9bf|Você nunca para de me surpreender, Frank. Certo, quanto custa?
+b839a066-e096-47af-a8bf-bc58c3427084|Vou pegar pipoca.
+b8d4af69-f95a-4daf-957e-7d90a150181d|Então, Frank. Quero saber mais sobre você e Leah. Pode falar, me conta tudo.
+b94ebf2e-76f3-41f2-a4e3-51555d3e5b98|Concordo com você. Ganhar esse ponto me deixou um pouco... desconfortável?
+b96ae5d2-53f5-411f-a50f-69a6f70be2b0|E como isso funciona? Eu também tenho direito a um desconto? Ah, merda, espera!
+b9ce6352-3f3e-4955-8c7a-ed0159f72db5|Obrigado, Frank!
+b9efa3c8-9767-4fef-a7e7-cf2c03adbfc7|*Continuar*
+ba29f39a-8f70-497b-a972-800ad905bd7f|Parece uma boa ideia.
+bbf91862-cea1-4ea1-8e23-b508cda39d6d|*Escute*
+bc28d299-8424-4839-9046-aa8aec4adb81|Certo, Frank, você tem razão. Estou atraído por você.
+bcf84144-9c35-4ee2-944c-e19f6f05a993|Espere, então você não deixa ninguém beber, mas não tem problema em vender drogas?
+c07a8b11-6bac-4272-811c-c8bb9207fbb3|Frank, por acaso você está "treinando" a Madison?
+c0aba8a0-5874-4be1-9b6e-f46bcfe62487|Desculpe, Frankie.
+c0da5b36-863a-4e20-9cea-311a515656db|*Escute*
+c1f960e1-a081-49d6-a8f4-900a99948de0|Bom trabalho, amigo.
+c248f661-bbc3-48bb-b72a-e2ea33678f75|Hum...
+c2546914-dfe9-4713-9d10-ff1280ea5a23|Ok, Frank. Peço desculpas.
+c29e731a-86d6-4aed-92aa-27eacce7b15a|Parece um bom negócio! Estou dentro!
+c3d8d309-799c-456a-92b8-de866340edf2|Seus talentos são certamente únicos.
+c493834e-6f50-4dcf-8737-8eabc652d410|Pelo menos o sotaque era bom.
+c534dd5c-d9fc-461c-988c-a324ff70e19e|Espere para ver, Frank.
+c5600e53-cbef-4f46-9d7a-92529735cfd0|Sim, e agora me arrependo. Até mais, Frank.
+c5b2e30a-a7ea-463d-8635-da1dc3f3e47c|Preciso interromper. Acho que o Derek está ligando.
+c5be0c5c-bba5-4c3a-a6e0-7d407f022b69|Ok, te vejo em breve.
+c7d130fc-031c-4da0-9765-9cf47401412a|Falando em VIPs... Leah, onde você está?
+c9212654-2bce-4ee8-b58a-7d3b765fb199|Que se dane, Frank!
+c92b9573-18db-4119-ac1a-474a545ead5a|Leah, é todo seu!
+c944639e-8722-4c01-9f52-f0d448517ae6|Tá, Frank, falando sério! Não acho que ter bolas tão grandes seja tão importante quanto você pensa...
+c946fd00-7a54-4391-a1a6-200f2b91f731|*Fim*
+c9d580fc-e183-4e43-ad80-86f02018a34b|Frank, estou prestes a te beijar... aí embaixo.
+ca227aec-3513-4423-9927-46fffd7f1b52|Ei, cheirei aquela garrafa térmica.
+ca334a52-bcfa-4d8c-a2ed-e4ad2139398c|Frank, estou tentando provar que sou confiável. Talvez devêssemos continuar como estamos.
+ca86640e-9409-48a3-b9a2-724f7edc3399|Não, não posso fazer isso com a Katherine. Me desculpe, Frank!
+ca9955fe-b1f1-4814-8528-dc19e8c4c108|Claro, claro. Alto e claro, Frank...
+cb6da71d-57bf-402a-bdbc-c3cb1c7b08c4|*Pegadinha concluída com sucesso!*
+cc4bf87b-54f2-4e42-801d-672fd72fbebc|Puta merda!
+ccadc406-226a-43a6-8988-d70346e9293f|*Remover a gaiola de Stritolas*
+cdcff36d-7575-4054-8a9f-676cbc2d5cd6|Obrigado, amigo!
+ce3d54a5-34ea-44b0-8dbe-e239c55a7393|Quer ajudar a consertar a pia?
+cf1c1fb4-e4b7-420c-ab58-f83da50396aa|Acho que esse cheiro vem do Patrick...
+d035dc99-351e-497d-9c7a-10562efc091d|Tudo bem, Frank?
+d0b75489-7420-4077-b9f9-20449c13e553|Madison está fazendo outra exposição de arte lá em cima. Interessado?
+d0e917b6-1848-49f9-98ae-72356ac3fb07|*Escute*
+d15abff6-54a6-4db3-9a25-43b5d68f3ae6|Essa é a ideia!
+d1be4352-ef55-45d2-a3fc-1d41e8e1cbbe|Frank, me conte sobre sua infância... com certeza não deve ter sido... normal.
+d20a3e5b-cf32-4b36-8c16-1680fc0bf2a5|Preciso te perguntar uma coisa. Por que você está monitorando o jato particular da Doja Cat?
+d3bd2e8a-b146-47bf-8120-404b2413680b|*Escute*
+d46e671f-1ad6-41e1-bc5b-890abece697c|Ok... vamos lá.
+d5208afd-fbb2-4d76-80b5-ec9b0968a01f|Nossa... obrigada pela sua opinião, Frank!
+d546e78e-1c4b-4980-b7da-11fb208bc038|Vai lá, diz a ele que pênis é melhor.
+d5b20117-b4f4-4d16-a95b-c9c60f39ebff|Ele vai ficar sem pipoca hoje à noite.
+d5e87746-1b25-4040-867d-a83836d559c4|Frank, eu quero você. Você e seus testículos gigantescos.
+d64962e0-e293-41ae-a47f-aa0200c9fc92|Você sabe alguma coisa sobre a Amy?
+d70973c0-5448-42f7-9029-0ea182f5f313|Sim, Sr. Punho de Ferro... Entendo.
+d7d70a34-a4d6-426d-92c8-9edbf3657ffc|Você sabe o que isso significa no caderno do Patrick?
+d9883017-591a-4f70-901a-e98e4aee6a40|*Fechar*
+dab56fba-9942-4aff-b63a-ab567a190d38|Hum. Certo, Frank...
+dc1d76cc-7e96-4c22-a52e-6653ffd39d7c|Você tem minha aprovação para começar a dar tapas nas pessoas se as coisas piorarem.
+dc370b1e-e6c9-42e3-8a13-2b3becddf294|Esse é um plano brilhante, Frank! Vamos lá!
+dca21c28-1da6-4d30-926c-f4c21af2a116|Não, Frank, você perdeu.
+dced26a2-994d-4086-a0db-44200141072d|Por enquanto, vou apenas admirar a vista.
+dd535d97-0d71-474d-a37c-e145c2df0aea|Eu tenho aqui.
+df197117-608c-45b9-a639-478053078998|Lógica à prova de impacto, Frank.
+e00ad74f-9577-4ad0-9a36-fd714962cdb9|Aaaah, droga!
+e00be75a-7ea1-4d7d-9eca-4223cc631a24|Frank, me beija. Não, aqui embaixo não. Aqui em cima!
+e09cd2c4-c12a-4c83-b35c-5dd4af1a2c20|É bom ver que você se tornou um orgulhoso sensei do aprendiz dele.
+e0ec1c7f-1753-443f-9686-b4d58cda7157|Frank... não. Simplesmente não.
+e0f40b1a-31bf-4dc8-97cf-297889373f9f|Você vai ficar aqui só vigiando o álcool, hein?
 e1fd8b72-bc7c-47ae-976c-e201e6e7c2ec|Ei, Frank, você assina minha petição?
-491f5154-0dbd-4594-9894-04e5b9b0e5dc|Ei, Frank, que tipo de calcinha você tem?
-9a7d21d0-daf8-4ad6-8cbe-75d6b904b727|Então, legal, Frank, você acha que eu poderia pegar uma bebida?
-198eb095-5e75-45a8-8db1-cf451bb5ea5f|Frank, você acha que poderia lutar com o Derek por mim?
-33c372d6-0a8a-4217-9fbe-51aac5efdf2c|Ei, Frank, parece que você não está ocupado... agora que somos melhores amigos, pode abrir isso para mim?
-c07a8b11-6bac-4272-811c-c8bb9207fbb3|Frank, você não estaria transando com a Madison, estaria?
-4178ea54-e923-4272-9c2f-32ea2c89d499|Então, quer me contar o que está acontecendo com aquele espaço alugado que você está roubando da Leah?
-2f67e613-15d4-466f-a794-5d7b35467648|Desculpe por mais cedo, amigo. Estou pronto para fazer algo com a nossa... conexão.
-3eacf1c3-017c-4a6b-9eb7-37b31ef181e4|E aí, amigo. Acha que consigo recuperar aquela câmera? Prometo trazê-la mais tarde hoje à noite!
-89d14e3d-5320-4d65-adad-202cb93b0e45|Meu amigo Derek disse para tomar cuidado com você.
-90e6bff8-b4cf-42b8-abde-57dde946fe0c|Vou tomar um suco de laranja. Até mais, Frank.
-6bd39a56-8970-4837-9a48-b1791f301578|Estou indo, Frank. Por favor, não durma.
+e25d28c4-63e5-458c-bf52-1942767df4e4|Essa cobra não é sua amiga. Ela pensa que você é comida, cara!
+e38256d8-ab74-4faf-b093-195205d79be8|Você... você está me dizendo um monte de besteira.
+e4092ccf-a7ab-4077-8697-ecf5911b2b79|Que porra você disse?
+e461d64a-5b6b-4174-8c6e-a128d5e10458|Ah, vamos lá, pare de se virar!
+e4f235ac-8d46-4e93-b459-55ee13ee157f|Então, Frank... suas bolas ainda gostam de mim?
+e5e2e69b-8968-4477-bedd-0a2e17c236dc|Nossa, você precisa mesmo de um terapeuta.
+e620e09d-51b6-4c6e-9b7d-0f82ccdfd66c|Isso resolveria o problema...
+e738a892-5f4c-4238-a037-069e842ba1c4|Que bom que você finalmente está pensando.
+e78dd9a2-5aa7-4645-97b1-fec1ec0c6224|Frank, meu corpo precisa de... proteção. Você pode me acompanhar?
+e792fcb7-67ef-41f7-a76e-a3a4de176e85|Você está pronto, Frank?
+e7ce43b2-56ef-4ee3-aa1e-14dc061103f7|É, isso é hilário. Muito hilário, Frank.
+e8746744-3996-45a6-ae48-0f725af42f53|Hum... você não acha que está se precipitando?
+e87d05d3-dc72-4356-969b-55fff185bf5a|*Ouça*
+e8a8ec44-427b-458e-9423-b94c4e5b5c81|*Continue*
+e8bb735c-b3a7-4b8a-ba16-5b68a2aafd99|Fácil demais...
+e94eae9a-d063-4148-9ad5-00545790f685|Ok, ok. Tenho uma ideia que vai me fazer cair nas suas graças novamente...
+ea331f6b-beb6-4a55-871f-5029dbe70d96|Desculpe, Frank!
+ea9f47c7-ccf4-4e85-8d23-5739bc3f26b1|Espera! Ei, não, que porra é essa...
+eabf86d0-1a34-4ce0-818d-5e83665364b4|*Escute*
+eaf3e748-53a7-4205-a392-5b1a2ddf93f9|Obrigado, Frank.
+ec9947ba-5e11-4b3c-bccd-b887491d28a6|É. Já ouvi reações mais estranhas.
+ed4d26ea-e324-45aa-894c-099731d7279c|É, hum... pode contar comigo.
+f01ee1ee-425f-43d3-89d6-cee38beb5665|*Ouça*
+f0691e53-dae8-49b1-bf8c-f167a5f97b0f|*Continue*
+f13091e4-5014-4b42-8c52-c7de275f919a|Esse é o espírito!
+f1b71ca6-2966-4ba5-9ebe-489bcaf54c5a|...hum, o quê?
+f213a593-a13d-4db0-b246-a4773263b495|Excelente explicação, Frank. Foi simplesmente perfeita.
+f217d7dc-ca66-4c99-a231-d471eec27f97|Hahaha, caramba! Essas bolas são gigantescas! E esse pênis... é tão pequeno!
+f3bdb9ff-aa11-467e-bc11-fb8538d450ca|Obrigada pela conversa, Frank.
+f43760c6-f2b3-4091-ab4a-c1fbafdaa042|Merda!
+f58b1f63-c057-4624-98b4-21aaf6e6ad18|Pode ter certeza, Frank, foi incrível para mim também.
+f60c5714-6aae-4b8e-a4dc-775461eb1feb|Acho que entendi o que você quis dizer.
+f66c3603-1b46-4991-b986-184eb8b1005e|*Escute*
+f71aed95-9f89-4c85-b88f-773e80a6e935|Só se concentra em mim, amigo.
+f7ad5e22-37b6-4181-ac79-1ad89a33b345|De qualquer forma, obrigado, Frank.
+f7afed3a-5de8-4a6b-bb23-6c1391d9bd56|*Continuar*
+f960478b-519e-4213-8128-ad717fac2017|Puta merda!
+f9a41bc7-49c6-480e-b8de-9a8e1dd11220|Vamos lá, Frank. Pense nas crianças. Cadê o seu espírito natalino?
+f9e989d8-7c1e-4df4-b997-371d526e6d7d|Ufa, obrigado, Frank.
+fa06513b-498e-446b-a363-af64d7dd9832|Meu Deus, por quê?
+fa5b2c01-4550-4e78-99cd-c2feea16c87a|Ufa! Eu quis dizer... bom!
+fa5fb0f7-311a-4818-9827-d244c7eda140|Frank! O que você está fazendo aqui?!
+fbbe167f-2a2d-4be5-91cf-4e16b218ec69|Frank, deixa comigo.
+fbedffb6-fff2-4f31-877c-4c886b2d6dd0|Porra, não se vire, cara!
+fc4e065a-a523-403a-9b7f-c25f6eedffa0|Desculpa, Frank!
+fc8a9b9b-a22b-4a97-bc35-6519b3da7d00|Pronto para o show da Doja Cat?
+fd2ce04d-56dd-461b-b0ea-7fdb9cc92806|Adoro sua positividade, Frank.
+fdaea8af-af3b-41d2-8d70-6086fdb93323|Diga a ele como as bolas dele estão melhores. Só vai levar um segundo.
+fdf174d8-f7b5-477a-869f-d17e076fe1e7|Amigo pinguim?
+fe6bd7f0-6573-447c-8a81-d674be849472|Mmm, tudo bem.
+fec94f73-cc9d-40ef-9ade-15a7dbdd9c68|*Ouvir*
+ff5a6bec-cf2e-4314-831b-d3f367b2a2f7|*Ouvir*
+ffc110be-ab85-4f30-aef1-3fc0f3c0a7b4|Não me importo com seu clube de peitos ou seja lá o que for que você esteja tentando começar, você precisa ser honesta com Leah.
 
 [Quests]
 2a13cd89-1498-4469-8bc4-6ef979b55a9c|"Uma "bola" de mistério"
@@ -847,133 +987,138 @@ dfc23260-d625-463a-9ad3-df473051662bFailedDetails|Bem... você não vai provar m
 274482de-2e8a-4afd-a55d-c0fdbecc5734Description5|O Frank está realmente se aproximando de você! Só precisa de um pouco mais de convencimento para cair nas graças dele...
 
 [Events]
-29314f80-7dcb-49fc-bef2-59d45d94acb2|Preciso falar com o idiota real dele sobre a merda que ele fez com a Leah, mas ele parece um pouco distraído com alguma coisa...
-bec6f540-6302-48cd-a175-e0ba057d2323|"Eu provavelmente deveria fazer a minha parte para manter o grandalhão calmo. *Sniff sniff*... Já volto para te buscar, amigo da bebida gostosa para adultos!"
-2ffe96e2-d061-4f0b-a618-50faf436c11a|Ah, não... Acho que não devo beber na frente desse pássaro de merda. E agora?!
-774fa142-e583-4f9b-91c4-d3fcf74b9f51|Acho que isso deve mudar a opinião do Frank sobre mim!
-5f88d0ca-0bd8-4e6e-a86a-efb229334bba|Puta merda! Preciso recarregar primeiro... Espero que o Frank fique por aqui por um tempo.
-e8997710-be9e-4c33-b3e7-641c507e8345|Droga, ele não vai se lembrar nem entender o que está acontecendo até se recuperar. É melhor você não tentar provar que ele está errado sobre toda essa... coisa do pinto até ele se recuperar.
-ec4ac220-dc38-43c2-8e91-24b6bd987e51|Ele parece desconfortável nu na frente dos outros. Talvez uma corrida rápida para fora do quarto me salve se isso ficar complicado...
-fac7edf6-f35b-42a9-b9c8-28d7a7602a7a|Ugh, tem que ter um jeito de ganhar a confiança dele. Favores... sacrifício... atos constrangedores de contrição... um bom e velho boquete? Pense, droga, pense!
-10461ddd-bdcf-4feb-993f-48fab14ed897|Acho que vou ter que esperar melhorar...
-88372bb2-3297-48e9-ba5a-2c68a07db8bb|Ok, lembrete: posso virar estatística se tocar em qualquer coisa com teor alcoólico maior que água hoje à noite. Que festa incrível...
-f687a289-bb51-4f0d-a9b2-fbe3d421f7bf|"Nossa. Meu. Deus. Qual foi o propósito de tudo isso? De que tipo de "outros benefícios" ele está falando? Tão estranho..."
-e57221b6-fdb5-4a8c-bcf8-94358a34d0c8|"É, provavelmente vou desistir agora. Não depois de passar por toda essa merda. De que tipo de "benefícios" ele está falando? Tão estranho..."
-231ac796-c8a6-42c9-9649-328a12e08cde|Meu Deus, esse cara é obcecado pelas bolas. Acho que se eu realmente quisesse discutir com ele, poderia denunciá-lo por essa merda...
-ce1a1adf-c8d8-445b-b471-ddfbfb887312|Fácil. Só preciso colocar outras pessoas na frente do Frank e ver se elas comprovam o poder do pau. É... É melhor eu melhorar meu discurso primeiro.
-47dd3240-5dcf-421d-b274-499af0a96bba|A opinião da Kat realmente o deixou irritado. O Frank deve estar interessado nela. Isso deve facilitar um pouco a sua convicção...
-b8a27650-dc12-4825-b304-1761b0814701|Um lanchinho pode ser uma boa ideia. Eu faço todo tipo de coisa melhor de barriga cheia...
-9cf99d82-9574-49d4-a9c8-8262be2b2f36|Acho que o Frank tem sentimentos pela Vickie. Comparado com a opinião de todos, isso deveria doer um pouco mais.
-ca6fd514-f187-4824-891c-d645194b5d9d|Então, eu tenho que começar algum tipo de... competição de pênis? Uma linha de lombo? Tanto faz, ugh. Eu só preciso aproximar o rosto do Frank de um pau, de algum jeito...
-5dd81aad-25de-43aa-9a76-7a117d0b529a|Parece que o Frank não se sente mais tão arrogante. Ou ele é baixo e balançando?
-af5539b4-f002-4bc5-b9ea-db26da8ed3bf|Droga, o Frank parece devastado. Devo tentar fazer uma oferta de paz ou pregar o último prego no caixão dele?
-24a4f127-6ece-4eee-afb0-103818d07e86|Humilhar ele ou não... ahhhh as escolhas. Escolhas, escolhas, escolhas... Preciso do Frank para mais alguma coisa esta noite?
-fb71507d-f30b-40f6-893a-921ff3f7d02c|Parece que o Frank vai me dar uma garrafa... é melhor tomar uma decisão rápido e depois correr para bem longe.
-7b6c15fa-0160-423d-8460-9c865392e011|Havia uma quantidade surpreendente de conselhos NÃO ruins enterrados em tudo isso... Sinto que talvez, só talvez, eu pudesse ser um pouco safada esta noite!
-803dcfed-cf92-4d5a-8db6-4876f5ac6bd5|Hm, essa é realmente uma ideia. Leah vai assumir o lugar de Frank como chefe da patrulha da festa? Só uma... duas... aham, tem jeito de descobrir!
-e76f8100-2909-4458-a048-fa4c3d813fe1|Ufa, ainda estou sem fôlego da minha última escapada sexual... Talvez eu precise de um minuto para recarregar as energias antes que Frank e eu transemos.
-78028a44-ed1c-4f11-9019-cd5862636b4f|O pau mágico do Frank provavelmente ainda precisa de um descanso... ele pode precisar de um minuto antes que possamos fazer isso.
-01ddef30-8509-4bc2-9573-a9d5a6174216|Talvez um de nós ainda não esteja pronto para transar. Hm... Estou sempre DTF. Geralmente. *Aham* Enfim, se esse não é o problema, o que é essa merda que o Frank está esperando?
-8df9bddc-a454-473f-a323-ddee360c67f7|Talvez um de nós ainda não esteja pronto para transar. Hm... Estou sempre DTF. Geralmente. *Aham* Enfim, se esse não é o problema, o que é essa merda que o Frank está esperando?
+006dfc79-ed07-4b81-872e-376bbe9bafb6|Estou aqui para você, meu amigo! Com você até a morte! ...Odeio essa expressão. Agora mais do que nunca.
+013cb75b-6ea4-44a8-ba69-e24251767dad|Ele pode mesmo me dar tudo o que eu quero? Ele pode ser um bom aliado para se ter...
+0185433c-78ed-49b8-afa0-11f0d1ab5357|Isso deve mudar a opinião do Frank sobre mim!
+01ddef30-8509-4bc2-9573-a9d5a6174216|Talvez um de nós ainda não esteja pronto para transar. Hmm... Eu sempre estou. Quase sempre. Hum... enfim, isso não vem ao caso. Que porra o Frank está esperando?
+03bb6e1c-df6d-42f5-8a6f-f89bd829ecf4|Isso não é possível. Só pode ser brincadeira!
+06a5fbc0-3130-491e-97e7-77c7e61ee11d|Será que ouvi um chihuahua bater em algo a Mach 3, ou a boca do Frank consegue mesmo fazer um som assim?
+0961ebe8-e8a8-4bc1-965c-2eb41ebb81b8|Mistério resolvido! A vizinha misteriosa do Mad é a Doja Cat! Talvez eu devesse ir falar com a Amala.
+096b7b4e-052f-4ae9-b51e-e9ddc48f1be7|Ah... Acho que o Frank está ocupado demais para notar a anaconda enorme do Derek...
+10461ddd-bdcf-4feb-993f-48fab14ed897|Acho que vou ter que esperar até ele cair em si...
+17f62d28-d3b4-4817-942f-63b913c33f0e|Nossa. Certo. Não achei que estávamos brincando de "Esconde-Esconde para Deficientes Mentais"...
+1a29f6bc-0848-4a33-9117-484b6a79e0b7|Certo, ótimo... ele ainda está focado em mim.
+1ab938cc-2064-45c2-b95f-13056e4528b1|Ok, tenho um minuto antes do Frank chegar...
+1b0bc3ef-8150-4706-b24d-73a9b4a8b8ff|Bem, isso foi estranho... mas ele não disse que não tinha camisinha. Hmm, onde diabos está o Derek? Preciso falar com ele sobre isso...
+22bd5c77-7618-4241-87c7-9152bc093bc0|Nossa... aparentemente o Frank não gosta quando as pessoas bebem!
+231ac796-c8a6-42c9-9649-328a12e08cde|Nossa, esse cara é obcecado pelas bolas. Acho que se eu realmente quiser abordar o assunto com ele, é melhor perguntar diretamente...
+24a4f127-6ece-4eee-afb0-103818d07e86|Humilhar ou não humilhá-lo... essa é a verdadeira questão. O que fazer, o que fazer... Ainda preciso do Frank esta noite?
+253835b2-fdf5-4a99-95fc-295dedc6d1da|Ele usou supercola para fechar os bolsos ou algo assim? Acho que fez de propósito...
+28e08f3f-2f4f-4b50-9bce-109c1aec7da2|O Derek vai me salvar! ...Puta merda. É verdade, ele se envolveu em um dos meus planos diabólicos. Acho que é hora de lutar... ou fugir!
+29314f80-7dcb-49fc-bef2-59d45d94acb2|Preciso falar com esse babaca sobre o que ele fez com a Leah, mas ele parece distraído com alguma coisa...
+2ffe96e2-d061-4f0b-a618-50faf436c11a|Ah, não... Acho que eu não devia ter bebido na frente desse merda. E agora?!
+3064893d-e749-4b3d-9463-9cd2230cbbdf|O Frank está completamente ferrado. Mas mesmo que eu esteja errado, acho que isso não será suficiente para convencê-lo de que o tamanho do pau importa mais do que o tamanho das bolas...
+310511e2-ce33-4edc-9d15-0baaecc1ba19|Que porra é essa?
+36d3a67d-5e49-4ccd-93c4-779116a95fc8|Ah... Acho que o Frank está ocupado demais para notar a anaconda enorme do Derek...
+39c38445-6813-4859-954e-60148ff34f30|Perfeito! Era exatamente o que a Amy queria.
+3afb4f7f-4b98-4dd6-b034-78590a44a803|O Frank não quer agora.
+3dc61150-9b2d-4225-8a04-77122b6b1598|Desculpe, Frank, prefiro quando os remédios custam o modesto $0.
+3e28230b-62eb-4d4c-83f2-24c43465b0a4|O Frank não me deu exatamente permissão para tomar mais de uma. É melhor eu tomar cuidado... a menos que eu esteja em muito, muito boas relações com ele e os outros.
+3f12d348-a4a5-4eed-9237-5f06054e6d66|O Frank sentou-se de novo na cadeira. Pelo menos, espero que tenha sido isso que causou o grunhido que ouvi. Ele não me viu pegar aquela garrafa, mas se ele começar a perguntar por aí... merda. Isso pode acabar com a nossa amizade...
+3f55ea61-dfcc-4b91-96a6-b0fe1f5f587d|Só tive a sensação de que a Leah queria ficar sozinha... Argh, não vai ser fácil encontrá-la...
+41dd1510-3232-49d0-b7df-4f057a0dae19|O Compubro está emitindo bipes suspeitos...
+433385c1-3e42-4d92-a971-dec3e52637c0|Puta merda. Puta. Eu ia dizer algo para a Leah sobre a "ladeira escorregadia", mas acho que a Leah cuspiu nela e a usou como toboágua.
+44eec898-0c93-4d75-b224-2a2eaecee3ce|Ok, lembrete: posso virar estatística se tocar em algo com teor alcoólico maior que água. Que festa incrível...
+4643d274-11f5-4be4-8532-567a87cc4c97|Acho que o Frank não está com vontade de falar sobre isso agora... Vou ter que esperar até que ele esteja menos ocupado.
+470454cd-bf15-4b2e-ae86-629d07477d24|*Dê a mala ao Frank*
+478aebd4-d007-4605-bf56-4b924ec00e5c|Preciso mesmo que o Frank termine com a Leah... é melhor esperar.
+47dd3240-5dcf-421d-b274-499af0a96bba|A opinião da Kat realmente o abalou. O Frank deve estar a fim dela. Isso deve facilitar um pouco a tarefa de convencê-lo...
+4ee4bd80-b89f-4b8a-8715-54eb1a3ccd03|Legal, peguei a câmera de volta!
+4f5cf7d0-b3b9-4927-a974-c5c18033a4a9|Parece que não gosto de ficar nua na frente dos outros. Talvez uma corrida rápida para fora deste quarto me salve se as coisas saírem do controle...
+4f7e38c0-c285-496d-a08d-6b55c646d5c5|Algo me diz que perdi a confiança do Frank. É melhor eu encontrar um jeito de voltar a cair nas graças dele... se ainda for possível.
+53b3df74-7c2f-4a94-930a-e81f39b36b97|Espero que o Frank não tenha se livrado da garrafa de vinho que eu dei a ele...
+559933ef-7cb4-4ea0-a49d-02e0b4b26e0f|Que gemido foi esse? Merda, o Frank deve ter voltado ao normal!
+573ff3e5-2a35-4a19-9514-ca2583b698c9|Ele está quase gozando... é melhor continuar!
+5813ce34-5770-4b77-b58b-5c1a53332824|Droga...
+5845687c-4c84-47f8-95a8-310f15a88e73|Seu traidor!
+5b90bbe8-904a-4519-bff8-2402cdd5525d|Preciso mesmo que o Frank termine com a Leah... melhor esperar.
+5bf30b8b-cdee-4249-a35e-cd1d38862bd5|Isso deve mudar a opinião do Frank sobre mim!
+5dd81aad-25de-43aa-9a76-7a117d0b529a|Parece que o Frank não se sente mais tão grande e forte. Na verdade, ele está pequeno e fraco agora. Como o pau dele.
+5f0fcbb6-1d74-405e-9413-e5cf11fe8b2e|Ele parece gostar, mas me pergunto se há outras maneiras de cair nas graças dele...
+61b52c82-2c29-4f27-b8f7-b8783ac01920|O toque gentil do Robo-Frank... foi refrescante, pelo menos. Sinto que meu desempenho sexual melhorou, me sinto mais saudável, sinto vontade de fazer xixi. Não, essa mistura de sensações não me incomoda nem um pouco.
+63209a04-d8c4-4d8b-bdf1-8a868d2522f8|Droga...
+6934aebb-ffe6-4dae-98e4-0a90b2863aa4|A Leah provavelmente está chegando perto. Não posso falhar.
+6bdc3001-2980-4426-8644-cfcbd03a79b2|Preciso mesmo que o Frank termine com a Leah... melhor esperar.
+6bee8629-c889-4ea4-b50b-ef8d990c5dd5|E isso faz três convidados surpresa. Melhor avisar o Derek que estamos prontos para o grande show.
+6ceee70f-5fb5-4b52-94b6-d4319ef5bd4b|Bom trabalho, Frankie... olhe para mim e continue seu monólogo!
+6d0a4866-38a3-4ea6-945a-bf6db7150c36|A qualquer momento, Derek e Pat chegarão aqui e o caos vai se instalar!
+70007561-6f13-4094-979c-33e89fb95377|Droga, ele se virou! Com certeza vai ver a Leah entrar pela janela. Preciso chamar a atenção dele de novo.
+70610bec-6885-4caa-beb9-5cada9e19cf2|Espero que o Frank não tenha se livrado da cerveja que dei a ele...
+71e315b9-0360-4698-9a7d-ac582ec8c2e7|Nossa, tenho menos coisas para usar hoje à noite... Ah, bom. Eu adoro jogar facções de qualquer maneira.
+73116dbb-0983-4986-8602-6278867baa9f|Acho que fiz algum progresso com o Frank. Consigo sentir que ele está exalando confiança. Na verdade, quase brilhando de confiança. ...Ou é o cheiro dele? Talvez os dois?
+741dae30-eaaf-4d76-b622-28f4bba3871c|Parece que Leah e Frank estão fazendo as pazes... melhor não interferir.
 75a7050b-03d8-46af-b975-95ec02df2958|...eu acho?
-22bd5c77-7618-4241-87c7-9152bc093bc0|Nossa... Acho que o Frank não gosta que as pessoas fiquem bêbadas!
-6bee8629-c889-4ea4-b50b-ef8d990c5dd5|E isso faz três convidados surpresa. É melhor eu avisar o Derek que estamos prontos para o grande show.
-4643d274-11f5-4be4-8532-567a87cc4c97|Acho que o Frank não se importa em falar sobre isso agora... Vou ter que esperar até que ele esteja menos ocupado.
-9a0de2f0-b1b9-47a8-ab23-92e04f5e19b0|Preciso mesmo que o Frank termine as coisas com a Leah... É melhor eu esperar por isso.
-e8000a63-00ba-4a1d-82f6-4110774fba74|... Ele acabou de me ignorar? Talvez esteja preocupado em voltar a servir como guarda. Ou retornar ao seu trono. Seja lá como ele esteja chamando agora.
-5b90bbe8-904a-4519-bff8-2402cdd5525d|Preciso muito que o Frank termine com a Leah... É melhor esperar por isso.
-478aebd4-d007-4605-bf56-4b924ec00e5c|Preciso muito que o Frank termine com a Leah... É melhor esperar por isso.
-6bdc3001-2980-4426-8644-cfcbd03a79b2|Preciso muito que o Frank termine com a Leah... É melhor esperar por isso.
-d1db1302-fbd9-4c55-822e-abaaafa0c8ad|Preciso escapar desta situação violenta em que me encontro. Defender meu corpo vem primeiro. Entregá-lo ao Frank vem depois.
-ae05003f-6342-425b-8ac2-533e6a2507c1|É melhor não mandá-lo atrás do Pat. Posso precisar dele em um momento, e... porra, eu precisava daquele palhaço bêbado também?
-d54eb3dd-00df-4fc9-8f34-cc06fc83cc03|É melhor não mandá-lo atrás do Pat. Posso precisar dele em um momento, e... porra, eu precisava daquele palhaço bêbado também?
-006dfc79-ed07-4b81-872e-376bbe9bafb6|Estou aqui por você, amigo! CAVALGUE OU MORRA! ... Odeio essa frase. Agora mais do que nunca.
-28e08f3f-2f4f-4b50-9bce-109c1aec7da2|O Derek vai me salvar! ...Ah, merda. É isso mesmo, eu o peguei preso em um dos meus planos. Acho que é hora de lutar ou fugir!
-fab12cec-4c14-4b5e-b546-830f2052ae82|Ah... Acho que o Frank está ocupado demais para notar o poderoso monstro do Derek...
-36d3a67d-5e49-4ccd-93c4-779116a95fc8|Ah... Acho que o Frank está ocupado demais para notar o poderoso monstro do Derek...
-096b7b4e-052f-4ae9-b51e-e9ddc48f1be7|Ah... Acho que o Frank está ocupado demais para notar o poderoso monstro do Derek...
-5bf30b8b-cdee-4249-a35e-cd1d38862bd5|Acho que isso deve mudar a opinião do Frank sobre mim! 
-a6bfa225-35a5-4f11-9073-4f55e9b2e9b7|Estou muito perto! Como... alguém pode resistir... à força bruta dessas bolas poderosas!?
-573ff3e5-2a35-4a19-9514-ca2583b698c9|Ele está quase lá... é melhor continuar!
-8d0c27ed-467f-4d99-9a90-c24912a85f75|Frank se recostou na cadeira. Pelo menos espero que tenha sido esse o grunhido. Ele não me viu tomar aquela bebida, mas se começar a fazer perguntas... merda. Espero estar em boas relações com ele e com qualquer pessoa a quem ele perguntar que não seja seu principal suspeito.
-3f12d348-a4a5-4eed-9237-5f06054e6d66|Frank afundou o traseiro na cadeira. Pelo menos espero que tenha sido esse o grunhido. Ele não me viu tomar aquela bebida, mas se começar a perguntar... merda. Isso pode acabar com o nosso bromance...
-5f0fcbb6-1d74-405e-9413-e5cf11fe8b2e|Ele parece grato, mas me pergunto se há outras maneiras de conquistá-lo...
-71e315b9-0360-4698-9a7d-ac582ec8c2e7|Isso está realmente acabando com o que eu ainda posso usar hoje à noite... ah, bom. Sou louca por rotinas faciais. 
-e42e2122-495c-4891-a30f-f15e48b2718b|Acho que o Derek vai me ajudar aqui... mas é melhor eu deixar isso para lá. Não há motivo para arriscar dobrar o número de baixas.
-d337e4b2-c7d8-41fe-a098-598d05534ef3|Tudo bem, já que o Frank voltou ao normal, posso convencê-lo de novo de que ninguém se importa com o tamanho da bola.
-253835b2-fdf5-4a99-95fc-295dedc6d1da|Ele colou supercola nos bolsos ou algo assim? Parece que ele percebeu...
-3dc61150-9b2d-4225-8a04-77122b6b1598|Desculpe, Frank, prefiro meus remédios ao baixo custo do "grátis".
-8bef6615-5d6b-454c-b7aa-864723452587|Que diabos? Esse cara é um psicopata! ... Dito isso, talvez seja bom tê-lo do meu lado.
-73116dbb-0983-4986-8602-6278867baa9f|Acho que fiz grandes progressos com o Frank. Consigo sentir a confiança que emana dele. Irradiando, até. ... Ou será que é o cheiro dele? Os dois?
-4f7e38c0-c285-496d-a08d-6b55c646d5c5|Algo me diz que posso ter perdido a confiança do Frank recentemente. É melhor eu encontrar maneiras de voltar a ficar do lado dele... se é que isso é uma opção.
-d2c3cf5e-7353-4ee1-8bda-da78238eaa6e|Algo diz que brigar com o Frank não é a maneira de provar meu valor para ele... Vou precisar de um milagre para voltar aos trilhos agora.
-aeb4cb5e-62ac-4c97-bf41-97ea52874db8|Então, quanto mais coisas de amigo eu faço para o Frank, mais os sentimentos dele por mim formigam? ...Hã. Duvido que essa cócega extra faça o Frank se apaixonar por mim, mas... espera, eu quero isso?
-41dd1510-3232-49d0-b7df-4f057a0dae19|A CompuCompa está emitindo um bipe suspeito...
-c7c39ef0-b149-4131-91f4-78a92c7de27d|Minha virilha parece sobrecarregada... como se pudesse se recuperar mais rápido depois, como ele chamou? Uma cagada? Legal.
-bc80bdd1-cd7f-452c-b340-01e67f13b9d4|Me sinto como o Wolverine. Só que... sem a barba doentia. Mas com a capacidade de cura aumentada. Assassino.
-9ad1854f-9a78-47cb-b720-8edfdbc739cc|Meus músculos parecem... inspirados! É isso aí, seu FORTE pra caralho.
-61b52c82-2c29-4f27-b8f7-b8783ac01920|O toque suave do Robo-Frank *UGH* foi revigorante, pelo menos. Me sinto mais saudável, pronta para transar e... preciso fazer xixi. Estou bem com esses sentimentos.
-3064893d-e749-4b3d-9463-9cd2230cbbdf|O Frank está completamente louco. Mas mesmo que não estivesse, não acho que isso o convenceria de que o tamanho do pênis importa mais do que o tamanho das bolas...
-9bf68c90-dc6b-4da3-af4c-40664626659c|Isso não vai convencer o Frank. Vou ter que ser mais criativo do que só tirar as calças, por mais útil que isso geralmente seja em outras situações...
-d1b64bf6-969a-48c2-9ad5-d4976fbb5aed|Acho que o meu não é o ideal. Vou ter que encontrar um exemplar mais impressionante para colocar o Frank de joelhos. ...Hum, é.
-0185433c-78ed-49b8-afa0-11f0d1ab5357|Acho que isso deve mudar a opinião do Frank sobre mim!
-741dae30-eaaf-4d76-b622-28f4bba3871c|Parece que a Leah e o Frank estão se reconciliando... melhor não interferir.
-6d0a4866-38a3-4ea6-945a-bf6db7150c36|A qualquer momento, Derek e Pat chegarão, e o caos vai se instalar!
-b8f9f35a-b460-4f29-a149-705e0db04f4f|A Leah precisava do Frank de novo hoje à noite? Meh, não tanto quanto eu!... Acho que sim.
-8018e5a8-4de1-4b96-a5b6-0d6886ee6e39|O Frank não parece muito cooperativo... talvez a Leah tenha mandado ele se foder?
-44eec898-0c93-4d75-b224-2a2eaecee3ce|Ok, só um aviso: eu posso virar estatística se tocar em qualquer coisa com teor alcoólico maior que água hoje à noite. Que festa incrível...
-d7cd5711-51bb-4af1-823c-10cf21d66601|Nossa... Acho que o Frank não gosta que as pessoas fiquem bêbadas!
-b9393497-6214-4fcc-883e-cd1d4ea417e1|Acho que o Frank não percebeu que faltou rum... Mas como vou tirar uma foto da Katherine nua agora?! Hmm...
-d9064061-1883-4245-8b63-8358d2e913a4|Parece que o Frank vai me dar uma garrafa... é melhor tomar uma decisão rápida e depois correr para bem longe.
-d7e53a80-dc71-42cf-93b1-b511cc5f4872|Ééé. Ganhei a confiança do Frank, mas não recuperei a garrafa térmica da Rachael. Talvez eu devesse ter mentido para o Frank...
-d9489f6e-bb4a-415f-8b8d-9524a6793d84|Droga, não tenho dinheiro comigo. Vou ter que dar um jeito de conseguir 50 dólares.
-1b0bc3ef-8150-4706-b24d-73a9b4a8b8ff|Bem, isso foi constrangedor... mas ele não disse que não tinha camisinha. Hum... Onde diabos está o Derek? Preciso falar com ele sobre isso...
-1ab938cc-2064-45c2-b95f-13056e4528b1|Tenho um minuto antes que o Frank venha me encontrar...
-8e9300f8-78aa-41e0-9edb-ab9df9194997|Parece que o armário de bebidas está aberto!
-8254b69f-e9ec-4011-973a-335d013ab147|Caramba, a Madison acordou por causa... disso? Isso não está certo...
-03bb6e1c-df6d-42f5-8a6f-f89bd829ecf4|Isso não pode ser um truque!... Certo?
-4f5cf7d0-b3b9-4927-a974-c5c18033a4a9|Ele não parece confortável nu na frente dos outros. Talvez uma corrida rápida me tire daqui se isso ficar perigoso...
-470454cd-bf15-4b2e-ae86-629d07477d24|*Entrega a maleta para o Frank*
-af9b696f-157d-452f-8af2-415ce6760653|O quê... Acho que acabei de virar estatística!
-5845687c-4c84-47f8-95a8-310f15a88e73|Isso não é bom, dois oportunistas!
-a2babe89-e29d-42d4-be23-69b8e8e14eb1|Leah.exe não está respondendo. Ou está quebrado por dentro, ou está só se mantendo calmo até Frank sumir de vista...
-3f55ea61-dfcc-4b91-96a6-b0fe1f5f587d|Leah parecia que queria ficar sozinha antes... ugh, isso não vai facilitar encontrá-la...
-70007561-6f13-4094-979c-33e89fb95377|Droga, ela me rejeitou! Ela com certeza vai ver Leah entrando pela janela. Preciso fazer ela se virar.
-e32d664b-7af3-4dcc-bfc2-12f75fc22426|Droga, ela me rejeitou! Ele com certeza vai ver a Leah entrando pela janela. Preciso fazer com que ela se vire.
-1a29f6bc-0848-4a33-9117-484b6a79e0b7|Ok, legal... ela ainda está focada em mim.
-8d7b15bf-df78-4236-a5cc-1a2f50d0bbeb|Ok, ótimo... ela está me dando toda a atenção.
-6934aebb-ffe6-4dae-98e4-0a90b2863aa4|A Leah provavelmente está se aproximando. Não posso estragar tudo.
-85fc7c9a-f51d-414c-a6ee-952133c14fb1|Merda, ele não gostou disso...
-eae9dd26-9b8d-4e8e-a670-b7b706f3dc2a|Merda, ele não gostou disso...
-f162e7b1-b8f5-4a4e-84af-4f7e41197622|Merda, ele não gostou disso...
-6ceee70f-5fb5-4b52-94b6-d4319ef5bd4b|É, é o Frankie... olha aqui e monologa!
+774fa142-e583-4f9b-91c4-d3fcf74b9f51|Isso deve mudar a opinião do Frank sobre mim!
+78028a44-ed1c-4f11-9019-cd5862636b4f|A espiga de milho mágica do Frank provavelmente precisa de um descanso... ele pode precisar de um minuto antes de podermos recomeçar.
+7b6c15fa-0160-423d-8460-9c865392e011|Por incrível que pareça, há muitos conselhos bons em meio a toda essa baboseira... Sinto que talvez, por uma vez, eu também possa ser um cara durão!
+7c0810fa-083f-4c0a-abbe-bfc8681fcaa8|Brigar com alguém durante um show? Não parece uma boa ideia! Agora aquela multidão hostil está ainda mais agitada...
+8018e5a8-4de1-4b96-a5b6-0d6886ee6e39|Frank não parece muito cooperativo... talvez Leah tenha dado uma boa bronca nele?
+803dcfed-cf92-4d5a-8db6-4876f5ac6bd5|Hmm... falando nisso, será que a Leah vai tomar o lugar do Frank como líder da patrulha antidrogas? Só tem uma... duas... er, mais de uma maneira de descobrir!
+80853ee6-019b-4df7-8eb3-276cda157662|...tarde demais, aparentemente. O Frank é um cara durão, tenho certeza de que ele vai ficar bem rapidinho!
+8199c028-cfa2-4fb7-a137-b836fb958743|Merda, o Frank jogou fora a bebida forte que eu dei pra ele. Por que você tem que ser tão zeloso?!
+8254b69f-e9ec-4011-973a-335d013ab147|Merda, a Madison foi mesmo buscar o Frank? Isso vai ser feio...
+83f067a9-db2d-4df1-aee7-3fbc85e3cd52|Alguém pediu um "Ensopado Frank"? Já estou sentindo o cheiro. Tem gosto de... frango.
+85fc7c9a-f51d-414c-a6ee-952133c14fb1|Merda, ele não gostou...
+88372bb2-3297-48e9-ba5a-2c68a07db8bb|Ok, lembrete: posso virar estatístico se tocar em algo com teor alcoólico maior que água. Que festa...
+8bef6615-5d6b-454c-b7aa-864723452587|Que porra é essa? Esse cara é um psicopata! ...Dito isso, talvez seja uma boa ideia tê-lo do meu lado.
+8d0c27ed-467f-4d99-9a90-c24912a85f75|O Frank sentou-se na cadeira. Pelo menos, espero que seja por isso que ouvi aquele grunhido. Ele não me viu pegar aquela garrafa, mas se começar a perguntar por aí... merda. Espero estar em boas relações com ele e com qualquer pessoa a quem ele faça perguntas, ou corro o risco de ser a principal suspeita.
+8d7b15bf-df78-4236-a5cc-1a2f50d0bbeb|Ok, ótimo... ele está completamente focado em mim.
+8df9bddc-a454-473f-a323-ddee360c67f7|Talvez um de nós ainda não esteja pronto para transar. Hmm... Eu sempre estou. Quase sempre. Hum... enfim, isso não vem ao caso. Que porra o Frank está esperando?
+8e9300f8-78aa-41e0-9edb-ab9df9194997|Parece que o armário de bebidas está aberto ao público!
+9a0de2f0-b1b9-47a8-ab23-92e04f5e19b0|Preciso mesmo que o Frank termine com a Leah... melhor esperar.
+9ad1854f-9a78-47cb-b720-8edfdbc739cc|Sinto meus músculos... inspirados! Ótimo!
+9bf68c90-dc6b-4da3-af4c-40664626659c|Isso não vai convencer o Frank. Só tirar as calças não basta; Preciso de uma solução mais criativa, por mais útil que seja em outras situações...
+9cf99d82-9574-49d4-a9c8-8262be2b2f36|Acho que o Frank tem uma queda pela Vickie. Comparada aos outros, a opinião dele deveria doer um pouco mais.
+a2babe89-e29d-42d4-be23-69b8e8e14eb1|Leah.exe parou de responder. Ou o coração dela está partido, ou ela está tentando não implodir até que o Frank esteja fora de vista...
+a6bfa225-35a5-4f11-9073-4f55e9b2e9b7|Estou quase lá! Como... alguém consegue... resistir ao poder dessas bolas imensas!?
+a9855cae-13b3-4598-b8a6-8f0fd2e2bccd|Sério, Frank? Nada mesmo? Nem umas moedas fariam mal...
+ab0c41b7-94dc-411b-b85a-07db48001415|Ah, merda! Preciso recarregar as energias lá embaixo primeiro... Espero que o Frank fique aqui mais um pouco.
+abe3f065-df1e-4681-a4dc-55f9ce1abb4b|Ah... Acho que não funciona com vítimas de queimaduras. Literalmente inutilizável. Hmm... qual era a política de reembolso da Amazon?
+ae05003f-6342-425b-8ac2-533e6a2507c1|Melhor esperar antes de mandá-lo espancar o Pat até a morte. Posso precisar dele em breve, e... droga, eu precisava daquele palhaço alcoólatra também?
+aeb4cb5e-62ac-4c97-bf41-97ea52874db8|Então... quanto mais coisas boas eu faço para o Frank, mais forte fica o formigamento e os sentimentos dele por mim? ...Tá. Duvido que esse formigamento nas minhas bolas o faça se apaixonar por mim, mas... espera, eu realmente me importo com os sentimentos dele?
+aed066cd-edb7-489f-b021-466d94ef6bf8|Entre os peitos, hein? Nossa, eu devo ter sido um verdadeiro campeão de beer pong!
+af5539b4-f002-4bc5-b9ea-db26da8ed3bf|Cara, o Frank parece arrasado. Devo fazer uma oferta de paz ou dar o golpe final?
+af9b696f-157d-452f-8af2-415ce6760653|Que droga... Acho que acabei de virar estatística!
+b3808b1a-7036-4eb1-920b-130405b25059|O Frank está... não, a última coisa que eu preciso é que o Frank volte da sua guerra de território fictícia com uns funcionários imaginários de um parque de diversões e perceba que eu roubei todo o álcool. Melhor deixar pra lá.
+b8a27650-dc12-4825-b304-1761b0814701|Eu não me importaria com um lanchinho. Faço tudo melhor de estômago cheio...
+b8f9f35a-b460-4f29-a149-705e0db04f4f|A Leah não precisava do Frank hoje à noite? Bem, não tanto quanto eu! ...Eu acho.
+b9393497-6214-4fcc-883e-cd1d4ea417e1|Acho que o Frank não percebeu a garrafa de rum faltando... mas como vou tirar uma foto da Katherine nua agora? Hmm...
+bc80bdd1-cd7f-452c-b340-01e67f13b9d4|Me sinto como o Wolverine. Só que... sem a barba maneira. Mas com sua habilidade de cura. Forte.
+bec6f540-6302-48cd-a175-e0ba057d2323|Eu provavelmente deveria fazer a minha parte e acalmar esse cara. *Sniff sniff* ...Te falo mais tarde, meu caro companheiro de bebida!
 c1450f2b-52ee-4c89-8dec-173d7aa00161|Merda...
-63209a04-d8c4-4d8b-bdf1-8a868d2522f8|Porra...
-5813ce34-5770-4b77-b58b-5c1a53332824|Esfregando...
-e252b996-1d1a-4668-8f2d-4dee4869eea5|Puta merda, ele vai me matar agora mesmo!
-310511e2-ce33-4edc-9d15-0baaecc1ba19|Caramba!
-013cb75b-6ea4-44a8-ba69-e24251767dad|Ele consegue mesmo me dar coisas? Seria um bom aliado...
-aed066cd-edb7-489f-b021-466d94ef6bf8|Entre os peitos, hein? Ei, acho que ele era mesmo um deus do beer pong!
-55638a93-aff0-4a67-96d6-c0eca2d708aa|Acho que o Derek está por perto. Normalmente eu estaria disposto a começar um grande drama, mas preciso disso para que a Madison possa dizer a ela o quanto minha arte está melhor.
-f5bf94a6-2125-49d5-be38-8c930df2cc30|É melhor eu sair daqui com um pouco de álcool enquanto ainda posso...
-7be345ab-4280-4019-a5ac-9acb3088dc6c|Você tomou o Natty Lite. Acho que poderia bater um pouco mais forte... UAU!
-c1f81231-af35-4f4d-a571-abb4bdb023b7|O Frank estava olhando para este armário como um cabide psicótico, tipo falcão. Ele pode perceber se eu tomar muito...
-3e28230b-62eb-4d4c-83f2-24c43465b0a4|O Frank não me deu permissão para tomar mais de um. Você pode tomar cuidado...
-cbe4938b-fb31-4650-b239-68c4e18ab69a|Hmm, o Frank parece estar se sentindo melhor. Acho que é bom que ele não esteja morto... né?
-559933ef-7cb4-4ea0-a49d-02e0b4b26e0f|Você ouve um gemido e uma voz grave ao longe... parece que o Frank voltou ao normal.
-c2bdad0d-e7e1-41b9-9093-6070abbf2dee|Te peguei! Putz, tá ficando difícil...
-a9855cae-13b3-4598-b8a6-8f0fd2e2bccd|Sério, Frank, não tem nenhum item inútil, né? Até um pouquinho de prata teria sido legal...
-4ee4bd80-b89f-4b8a-8715-54eb1a3ccd03|Ok, peguei a câmera de volta!
-70610bec-6885-4caa-beb9-5cada9e19cf2|Espero que o Frank não tenha derramado a cerveja que dei a ele...
-53b3df74-7c2f-4a94-930a-e81f39b36b97|Espero que o Frank tenha guardado o vinho que dei a ele...
-06a5fbc0-3130-491e-97e7-77c7e61ee11d|Aquilo foi um cachorrinho batendo em algo a Mach 3, ou a boca do Frank consegue mesmo fazer esse tipo de som?
-39c38445-6813-4859-954e-60148ff34f30|Nossa. Deve ser exatamente o que a Amy queria.
-b3808b1a-7036-4eb1-920b-130405b25059|É o Frank... não, a última coisa que preciso é que o Frank volte dessa falsa guerra de território com carícias imaginárias e perceba que eu fiquei bêbada. Melhor deixá-lo em paz.
-92b5b84e-8d11-4ea8-98d3-3b77b38133a4|O Cadáver do Frank
-433385c1-3e42-4d92-a971-dec3e52637c0|Puta merda. Eu mencionaria algo sobre uma "ladeira escorregadia" para a Lety, mas acho que ela simplesmente cuspiu e usou aquele filho da puta como um escorregador.
-d11b8355-32b1-4569-9b81-e739d9ff1ca2|Droga, não consigo assistir!
-17f62d28-d3b4-4817-942f-63b913c33f0e|Nossa. Tá. Eu não sabia que estávamos brincando de "Esconde-esconde para Abandonados do Ensino Fundamental"...
-9644d802-acf9-48e8-a39b-05c3952d73a4|O Frank não parece estar interessado nisso agora.
+c1f81231-af35-4f4d-a571-abb4bdb023b7|O Frank está de olho neste armário como uma águia psicótica e chapada. Ele pode perceber se eu tomar demais. Talvez ele não suspeite de mim se ele e todos os outros acharem que sou o melhor...
+c2bdad0d-e7e1-41b9-9093-6070abbf2dee|Te peguei, babaca! Puta merda, ele está se levantando...
+c7c39ef0-b149-4131-91f4-78a92c7de27d|O tratamento Robo-Frank superenergizou minhas partes íntimas. É como se eu pudesse recarregar mais rápido do que antes depois de uma transa. Legal.
+ca6fd514-f187-4824-891c-d645194b5d9d|Então eu tenho que fazer algum tipo de... concurso de pênis? Um desfile da região inferior? Deixa pra lá. Só preciso dar um jeito de colocar o rosto do Frank perto de um pinto, de um jeito ou de outro...
+cbe4938b-fb31-4650-b239-68c4e18ab69a|Hmm, parece que o Frank está se sentindo melhor. Acho que é bom que ele não esteja morto... né?
+ce1a1adf-c8d8-445b-b471-ddfbfb887312|Isso deve ser fácil. Só preciso colocar algumas pessoas na frente do Frank e ver se elas conseguem testemunhar o poder do pinto. Hum... É melhor eu preparar meu discurso primeiro.
+d11b8355-32b1-4569-9b81-e739d9ff1ca2|Merda, não consigo assistir!
+d1b64bf6-969a-48c2-9ad5-d4976fbb5aed|Acho que o meu não é o escolhido. Vou ter que encontrar um espécime mais imponente para colocar o Frank de joelhos. Hum... Sim.
+d1db1302-fbd9-4c55-822e-abaaafa0c8ad|Preciso escapar dessa situação violenta em que me encontro. Preciso defender meu corpo primeiro. Se eu puder dar a ele o que ele merece...
+d2c3cf5e-7353-4ee1-8bda-da78238eaa6e|Algo me diz que lutar com o Frank não é a melhor maneira de provar meu valor a ele... Vou precisar de um milagre para voltar às suas boas graças agora.
+d337e4b2-c7d8-41fe-a098-598d05534ef3|Ok, já que o Frank voltou ao normal, posso voltar a convencê-lo de que ninguém se importa se você tem coragem ou não.
+d54eb3dd-00df-4fc9-8f34-cc06fc83cc03|É melhor esperar antes de mandá-lo dar uma surra no Pat. Posso precisar dele em breve, e... droga, eu precisava daquele palhaço alcoólatra também?
+d6b260df-c555-4cba-b7b0-a9119e037d01|Puta merda! Preciso recarregar as energias lá embaixo primeiro... Espero que o Frank fique aqui mais um pouco.
+d7cd5711-51bb-4af1-823c-10cf21d66601|Nossa... pelo visto o Frank não gosta que as pessoas fiquem bêbadas!
+d7e53a80-dc71-42cf-93b1-b511cc5f4872|Bem, eu não peguei a garrafa térmica da Rachael de volta. Eu poderia ter mentido para o Frank, mas talvez ainda haja um jeito de conseguir...
+d9064061-1883-4245-8b63-8358d2e913a4|Parece que o Frank vai me deixar pegar uma garrafa... É melhor eu decidir rápido e ir para bem longe daqui.
+d9489f6e-bb4a-415f-8b8d-9524a6793d84|Droga, não tenho dinheiro comigo. Preciso dar um jeito de conseguir 50,00.
+e252b996-1d1a-4668-8f2d-4dee4869eea5|Puta merda! Ele quase me matou!
+e32d664b-7af3-4dcc-bfc2-12f75fc22426|Droga, ele se virou! Ele com certeza vai ver a Leah entrar pela janela. Preciso chamar a atenção dele de novo.
+e42e2122-495c-4891-a30f-f15e48b2718b|Acho que o Derek vai me dar cobertura... mas é melhor eu parar. Não tenho motivo para dobrar a contagem de corpos.
+e57221b6-fdb5-4a8c-bcf8-94358a34d0c8|É... de jeito nenhum. Não vou desistir agora. Não depois de ter que aguentar toda essa besteira. Além disso, de que tipo de "vantagens" ele está falando? Isso é tão estranho...
+e76f8100-2909-4458-a048-fa4c3d813fe1|Ufa. Ainda estou sem fôlego da minha última aventura sexual... Talvez eu precise de um minuto para recarregar as energias antes que eu e o Frank façamos de novo.
+e8000a63-00ba-4a1d-82f6-4110774fba74|...Ele fingiu não ouvir ou algo assim? Talvez esteja ocupado voltando para o seu posto de guarda. Ou para o seu trono. Não importa.
+e8997710-be9e-4c33-b3e7-641c507e8345|Merda. Ele não vai se lembrar nem entender nada do que está acontecendo até se recuperar. Por enquanto, é melhor não tentar provar nada a ele sobre... essa coisa toda de pau e bolas.
+eae9dd26-9b8d-4e8e-a670-b7b706f3dc2a|Merda, ele não gostou...
+ec4ac220-dc38-43c2-8e91-24b6bd987e51|Parece que ele não gosta de ficar nu na frente dos outros. Talvez uma corrida rápida para fora deste quarto me salve se as coisas saírem do controle...
+f0476201-d0f9-4da7-8ce1-e0a5239d009d|O Frank está bem puto. Um passe de garrafa grátis provavelmente não é mais uma opção para mim. Merda.
+f162e7b1-b8f5-4a4e-84af-4f7e41197622|Merda, ele não gostou...
+f5bf94a6-2125-49d5-be38-8c930df2cc30|É melhor eu ir embora com umas garrafas de bebida enquanto posso...
+f687a289-bb51-4f0d-a9b2-fbe3d421f7bf|Meu. Deus. Qual foi o sentido de tudo isso? De que outros benefícios ele está falando? Droga, isso é estranho...
+fab12cec-4c14-4b5e-b546-830f2052ae82|Ah... Acho que o Frank está ocupado demais para notar a anaconda enorme do Derek...
+fac7edf6-f35b-42a9-b9c8-28d7a7602a7a|Argh, deve haver algum jeito de ganhar a confiança dele. Um favor...? Um sacrifício...? Um ato desajeitado de arrependimento? Um bom boquete à moda antiga? Pense, droga, pense!
+fb71507d-f30b-40f6-893a-921ff3f7d02c|Parece que o Frank vai me dar uma mamadeira... Melhor me decidir logo e ir para bem longe daqui.
 
 [Background Chatter]
 BGC1|Quer entrar na nossa turma? Não bebemos e não comemos glúten. Qual é, cara, temos jaquetas e tudo.
@@ -1056,3 +1201,52 @@ BGC81|Nossa, cara! Minha nova criptomoeda está bombando! O Dudecoin subiu 27 ce
 BGC82|"Por que decidi começar minha própria criptomoeda? Que bom que você perguntou, cara. Aparentemente, um amigo meu acha que eu falo muito a palavra 'cara'. Não sei, não o ouço, mas tudo bem. Enfim, ele disse: "Se eu ganhasse um níquel para cada vez que você dissesse 'cara', eu seria rico", e eu pensei: "Espere um minuto. E se *eu* pudesse ganhar um níquel para cada vez que eu dissesse 'cara'?" Quer dizer, é assim que a criptomoeda funciona, certo? O Dudecoin nasceu naquele mesmo dia. O resto é história. Mas o futuro também, porque ele ainda não decolou."
 BGC83|É melhor você ficar só olhando para a linda chinesa. Todo o resto aí... tire as mãos.
 BGC84|Olha, é POR ISSO que eu adoro patrulhar festas em casa. Nunca se sabe que tipo de loucura vai acontecer. Mas, ei... se cair xixi nesses tênis novos, cara, vamos ter um problema.
+BGC85|Que porra de resposta foi essa? Quem a Srta. Doja pensa que é para falar comigo desse jeito? Ninguém tira sarro da cúpula perfeitamente esculpida do Frankie, o Punho de Ferro. Precisei remover alguns centímetros da minha cabeça do lado direito para ficar com essa aparência perfeitamente simétrica. Certo, calma, Frankie. Provavelmente é só um mal-entendido. Vocês precisam conversar sobre isso de novo mais tarde e esclarecer as coisas.
+BGC86|Maldita Srta. Cat e suas respostas perfeitas. Que porra é alopecia, afinal? Eu não tenho nenhuma DST! Droga, por que não consigo pensar em respostas perfeitas assim? Talvez ela entenda meu ponto. Preciso pensar em uma boa. Vou mostrar a ela. Eu só... preciso pensar um pouco. Talvez eu ligue para minha mãe.
+BGC87|Certo, todos os fãs da Doja Cat! Ela acabou de sair daqui! Repito, ela acabou de sair daqui!
+BGC88|Preciso de ajuda aqui! Essas aberrações estão fora de controle! Depressa! Meus chuveiros não vão segurá-los por muito tempo!
+BGC89|SENHORITA GATO! SENHORITA GATO! ...Nossa. Espera aí. O que você estava fazendo? ...AH QUE SE IMPORTA! NÃO TEM TEMPO PARA ISSO! NÃO CONSEGUIMOS MAIS SEGURÁ-LOS. A LEAH FOI INFECTADA PELA SUA MÚSICA E ENLOUQUECEU, E MINHA MÃO ESTÁ DOENDO DE TODOS ESSES CHUVEIROS. PRECISAMOS TIRAR VOCÊ DAQUI!
+BGC90|Droga, agora vou ter que fazer uma lista de quem foi travesso e quem foi bonzinho! Tanto poder...
+BGC91|Queimou um fusível ou algo assim? Este quebra-nozes é mais pesado do que eu pensava, e meus sinos de prata estão ficando maiores. Ligue a energia de novo antes que minha sacola de presentes fique ainda maior.
+BGC91|Queimou um fusível ou algo assim? Este quebra-nozes é mais pesado do que eu pensava, e meus sinos de prata estão ficando maiores. Liguem a energia de novo antes que minha sacola de presentes fique ainda maior. BGC92|Feliz Natal a todos. E um feliz... FODA!
+BGC93|Sério, cara? Você se acha durão? Você tem sorte de eu estar de plantão, senão eu te mostraria.
+BGC94|Ei, cuidado! Essas coisas são perigosas. Meu primo Tony morreu em um acidente com uma bola de neve alguns anos atrás. Isso ainda... me assombra.
+BGC95|Por favor, Srta. Robinson! Eu não quero comer neve amarela de novo!
+BGC96|Finalmente! Aqui está Frankie em toda a sua glória!
+BGC97|Que porra é essa?
+BGC98|Que porra é essa?
+BGC99|Não, acho que não quero dormir na barraca dele.
+BGC100|Eles desligaram a energia? Como puderam desligar a energia?! Animais do caralho! ...Tudo bem, Frankie. Respire fundo, cara.
+BGC101|Ei, seus babacas, só porque a luz está apagada não significa que eu não esteja verificando o álcool. As bolas do Frankie vão avisá-lo se algum de vocês chegar perto da janela!
+BGC102|Ei! Parem com isso.
+BGC103|Líder de escoteiros, o que você quer que eu faça agora? ...Ei, espera. Que porra é essa? Tira essa luz da minha cara e dá um jeito de acender a luz de novo.
+BGC104|Que porra é essa! Essa porra da porta está trancada? Seu filho da puta!
+BGC105|Ei, você está aí? Diga alguma coisa!
+BGC106|Não sei, minhas bolas estão formigando, mas tem alguma coisa errada. Eu tenho certeza.
+BGC107|Ah, merda. Quase sinto pena desse babaca inútil. Sabe por quê? Porque quando o velho Frankie descobrir quem é o maricas enrugado que fez isso, ele vai arrancar as costelas dele uma por uma!
+BGC108|Okay, John McTaint, vem cá. Você está preso agora. Não tem como escapar, babaca!
+BGC109|Só estou dizendo: como aquele babaca mascarado saiu da garagem depois da surra? Quero saber para poder esperar por ele na próxima vez que tentar.
+BGC110|Não pode ser coincidência que aquela Liz tenha aparecido logo antes do Patrick morrer. Quem diabos a convidou? Com aquela bundinha apertada, e aquele b... aquela lupa enorme.
+BGC111|Bem-vindos às notícias do Frankie! Sabem o que o Frankie pensa? Aquele cara que convidou o Derek me parece muito suspeito.
+BGC112|Bem-vindos às notícias do Frankie! Sabem o que o Frankie pensa? Aquela garota nova que convidou a Brittney, aquela vagabunda, ela me parece muito suspeita.
+BGC113|Eu sei quem fez isso. Foi o Patrick... espera, então como ele cortou a cabeça e colocou no congelador... Merda! Droga! Achei que tinha descoberto.
+BGC114|Ah! Frankie resolve o mistério! Entendi! Foi a Katherine, na garagem, com um martelo!
+BGC115|Vou descobrir quem fez isso. Mas estou de olho em você. Ela é sempre a gostosa quando você menos espera!
+BGC116|Eu sei, eu sei, eu sei! Foi a Leah. Ela está por trás de tudo isso!
+BGC117|Você viu sua chance de derrotar o mestre e ganhar o título.
+BGC118|Você tem que ver as coisas da minha perspectiva.
+BGC119|Acho que entendi. Só pode ser um de nós. Alguém que odeia o Patrick e aproveita qualquer oportunidade para bater nele. Alguém tão bom que convenceu todo mundo, inclusive a si mesmo. Deve ter sido eu. Devo ter sido eu quem matou aquele pobre coitado alcoólatra. Mas por quê? Por que eu fiz isso? Espera, como eu fiz isso? Eu estava no meio de um apagão. Sou meu próprio álibi! Não fui eu! Não sei quem fez isso, mas não fui eu!
+BGC120|Que porra você está fazendo? Tentando impressionar todo mundo tirando a camisa? Cara, eu ainda estou aqui, você não pode competir comigo.
+BGC121|Belo parapeito da janela! Mas nem pense que você vai me distrair do meu dever de cuidar da bebida!
+BGC122|Minhas bolas estão formigando de novo... ou é só o suor? Está tão quente aqui.
+BGC123|Ah, coitado. Descanse em paz. Acho que sinto falta daquele cara. Porque agora, eu não consigo nem escutar as conversas dele sobre tecnologia enquanto ele descobre como jogar a bellocoin.
+BGC124|MADISON! Cadê o controle remoto? Eu tenho que assistir BADASS NINJA WARRIOR. Vou tentar entrar na próxima temporada e preciso saber em quais joelhos terei que esmagar com um martelo para garantir que eu passe no processo seletivo.
+BGC125|O quê? Não, eu não moro em uma van. A van é meu quartel-general móvel, e às vezes eu tenho que passar a noite nela para, tipo, ficar de guarda. PARE DE DIZER QUE EU MORO EM UMA VAN!
+BGC126|Não, você não pode passar a mão na minha cabeça para dar sorte. Mas pode beijar minha bunda.
+BGC127|Eu consigo sentir cheiro de álcool a quilômetros de distância. Sou como um cão farejador na natureza, mas em vez de farejar cocô de veado, eu farejo álcool. E sempre encontro meu alvo.
+BGC128|Me pague 50 pratas e eu te sigo a noite toda dizendo a todos como você é legal. Hum... Eu preciso mesmo do dinheiro.
+BGC129|BLEGH! Quem peidou? Apareça, covarde!
+BGC130|Todo mundo pergunta "como vai, cara?", mas ninguém pergunta como eu cago.
+BGC131|Quer me seguir nas redes sociais? Nada de fotos de pinto, eu prometo. A menos que você goste. Não? Sem dúvida?
+BGC132|Meu Deus, meu banco idiota continua ligando para minha conta. Eu já disse a eles: "É O QUE É, E É ISSO."
+BGC133|Estou me divertindo. As pessoas dizem que só sou engraçado em pequenas doses, mas claramente estou provando que essa teoria está completamente errada... EI! DEVAGAR!

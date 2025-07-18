@@ -1,5 +1,5 @@
 ﻿[General]
-Name|Phone Call
+Name|Chamada telefônica
 
 [Dialogues]
 0|Olá, Sra. Madison... Aqui é o Hugo HoyoGrande. Represento sua amiga Vickie Vixen sob a bandeira da Poppycock Productions. Senhora, preciso lhe dizer que você tem uma ótima pegada e estou ligando para dizer que posso transformá-la em uma estrela, querida. Isso mesmo, então me ligue assim que receber esta mensagem e podemos falar sobre dinheiro. Agora, preparei um sofá aqui no meu escritório mal iluminado. Precisamos marcar um horário para você vir. Com isso, Hugo, desligando. Tchau, querida!

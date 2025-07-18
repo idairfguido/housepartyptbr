@@ -10,6 +10,7 @@ Name|Brittney
 0.5|Aprenda a ler o ambiente, babaca. Não estou interessada. Agora cai fora!
 0.6|Oi, gata. Como está indo essa minha blusa? Você deixou no carro ou algo assim?
 0.7|Oi, gata, como vai? Senti sua falta.
+0.8|Que bom te ver, querida. Mal posso esperar para passar um tempo com você esta noite, mas primeiro, por que não conhece meus amigos? É um grupo interessante, você vai ver. Você vai se encaixar facilmente.
 1|Ah, é, eu sei. Só... bem, é meio constrangedor. Acabei de comprar uma blusa nova, e bem, eu sempre tive... bem, você sabe. Estou insegura e acho que nunca vou conseguir sair.
 2|Ah. Obrigada. Isso me faz sentir um pouco melhor.
 3|Não precisa ser sarcástica.
@@ -79,8 +80,8 @@ Name|Brittney
 56|Sleazy Sancho, o Peixe-Sugado. Eu o conheço bem. Minha principal rival na Liga Feminina de Luta Livre na Lama é a Coochadora. Ela é muito boa, mas uma verdadeira vadia.
 57|Ah, eu tenho uma boa, aquela que a Coochadora entregou na minha porta, embrulhada em jornal, como nos filmes antigos de máfia. Significa que estou dormindo com o peixe!
 58|Ela te mandou? Aquela vagabunda da La Coochadora te pagou para me entregar isso? Você é parceiro dela ou algo assim?
-59 | Morra, peixe-diabo!
-60 | Mezz-cal? Isso é álcool? Ah! Tem um escorpião nesta garrafa. Que esperto... colocar uma criatura realmente perigosa numa bebida. Valeu, eu acho...
+59|Morra, peixe-diabo!
+60|Mezz-cal? Isso é álcool? Ah! Tem um escorpião nesta garrafa. Que esperto... colocar uma criatura realmente perigosa numa bebida. Valeu, eu acho...
 61|Bem, veja bem, o abrigo antiaéreo onde eu e as outras crianças moramos quando éramos crianças tinha um problema de infestação bem sério. Morcegos, cobras, aranhas, principalmente escorpiões.
 62|É, não foi a criação mais tradicional, mas o culto do Juízo Final — quer dizer, a organização religiosa sem fins lucrativos do Juízo Final — realmente me ensinou muito. Eu sei lutar muito bem, por causa das caçadas anuais do Padre Jedidiah. Eu também fiquei bem rápido, até descalço.
 63|Ele tentou mesmo! Só os fortes sobrevivem, afinal! Quando o FBI chegou, disseram que eu provavelmente teria muito TEPT por causa disso, mas me sinto bem normal! Claro, visto que o escorpião abriu um poço emocional que eu pensei ter fechado anos atrás, MAS PARECE QUE NÃO!
@@ -226,291 +227,348 @@ Name|Brittney
 167|Continue com as boas ações e a doçura, e talvez você me conquiste antes do fim da noite. Estou de olho em você. Me impressione, então talvez possamos conversar sobre essa oportunidade...
 167.1|Sem ofensa, mas acho que seu comportamento não combina com o tipo de mulher que estou procurando.
 167.2|Tenho que admitir... Adoro ver esse seu lado carinhoso e atencioso. Continue com as boas ações e a doçura, e talvez você me conquiste antes do fim da noite.
+168|Ai, querida! Eu não sou de fofocar, mas mesmo se fosse, não ouvi nada. Só sei que essa vizinha está assustando ela. Ela só fala nisso desde que cheguei!
+169|Isso é entretenimento de verdade! Se você tivesse me dito hoje de manhã que eu veria a Doja Cat ao vivo, eu teria dito que era mais provável que eu encontrasse um pato usando um suéter de Natal. Ouvi dizer que você ajudou a organizar o show.
+169.1|Droga! O que está acontecendo aqui? Isso parece um fracasso total.
+170|Meu Deus! Você sabe mesmo como agradar uma garota, né?
+171|Ei, querida, você não deveria me surpreender assim.
+171.1|Não, não é legal surpreender uma garota assim!
+172|Ai, que fofo. Que legal da sua parte ajudar a Madison com a decoração. Desculpe por não poder ajudar mais, mas minha mãe sempre dizia "nunca diga nunca" durante os feriados. Boa sorte, querida.
+173|Pelos tomates de Michael Bowen. Que visão linda.
+174|Quando as luzes se apagaram, fiquei com medo. Tive flashbacks dos meus tempos de luta livre.
+175|Querida, me sinto como se estivesse sendo bicada por cem galinhas com o que está acontecendo.
+176|Ah, a propósito, ouvi você e aquela garota atrevida conversando, e estou hesitante em te dizer que ela não é confiável.
+177|Não pergunte à abelha como ela sabe cera de abelha, mas se eu quisesse enterrar alguém, invadir uma festa e fingir ser a apresentadora de um mistério de assassinato com um porta-malas onde se pode enfiar um corpo e depois conduzir uma investigação para manipular as evidências e a sequência de eventos, isso não seria um plano ruim.
+178|Ah, querida, essa história é tão crível quanto um político no tribunal. Vou te dar um conselho: se eu fosse você, daria uma olhada na história dele.
+179|Nossa! Esta é uma situação muito ruim, querida. Mas vamos fazer um balanço. Eles estão nos observando e talvez nos caçando. Então você tem razão, precisamos tirar o lobo do galinheiro. Se não me engano, se você tem um texugo debaixo da terra, precisa usar fumaça para tirá-lo de lá.
+180|Bem, queimar algo que vira cinzas em segundos não vai funcionar. Você precisa de algo grande o suficiente para queimar por um tempo. E então você precisa colocar algo para manter a fumaça, para estar pronta quando o texugo escapar do buraco, se é que você me entende.
+181|Ah, querida, eu não sei de nada. Mas Madison e Ashley moram aqui, talvez elas possam te ajudar.
+182|Tenho alguns contatos. Desculpe, quer dizer, tenho amigos de amigos de quem ouvi falar, mas não posso contatá-los esta noite.
+183|Isso, querida, parece um código secreto. Uma ferramenta importante no arsenal de um assassino e para organizações clandestinas que operam nas sombras.
+184|Estamos falando do Patrick, querida. Provavelmente é um código simples para acessar seus gadgets tecnológicos ou algum computador.
+185|Ei, Madison? Você sabe o que aconteceu no... OH! Nossa...
+186|Talvez o Patrick não esteja morto, e talvez, talvez não haja um assassino nesta casa, e talvez vocês dois estejam... talvez eu prefira não saber. Mas está ficando muito quente aqui.
+187|Certo. Me desculpe. Vou procurar a Madison ou a Ashley e descobrir o que diabos está acontecendo.
+188|Meu Deus, você sabe como fazer uma mulher corar.
+189|Querida, não sei do que você está falando, mas tenho a sensação de que a resposta mais apropriada é um bom e velho tapa.
 
 [Responses]
-339ff8fc-36f4-41c9-861e-b33796cdd9cd|Merda!
-c6351e25-1b63-42a2-a80b-ee7b35cdeef8|Psshhh, eu não estou tão bêbado assim!
-3e546198-1cbd-4cfc-9c46-2b338afbe688|Na verdade, tenho mais um desafio, se você estiver a fim.
-1d3a0240-950e-4acd-88bf-2f0d93f00b3c|Ok, faça o que quiser.
-10981a0d-6b90-41c1-b911-96c4832ed9f0|Uhhh... O Frank me fez perguntar!
-08cd3605-094f-4d09-8c34-f294716f5315|Sim, Frank! Conte a ela!
-d73e014b-1747-498c-94bf-d67e9d722e1e|*Escute*
-c543d3e3-c597-4965-a3ab-8a1362d74dd4|Quente! Ponto para mim!
-a748e922-b37d-431e-b86f-77febc9a01ba|Obrigada, esse é um ótimo feedback, Brittney.
-9e739c97-ed1c-4fc6-8ed1-e91b6e32c49b|Parece bom para mim.
-e8941327-ca80-4ec4-aa00-8b5f25066dea|*Sniff sniff* Ei... aqui está com cheiro de bolinhas, bolinhas para-
-653e6793-ca16-4142-a9d8-8a0e6c1ce773|Isso foi... decepcionante.
-ac6a6539-b8db-4cc1-8997-b2067f472ce8|Sim! Sim, nós-oh. De novo, não para mim. Mesmo assim... Porra, sim!
-4e3561cc-0eb7-4900-afee-21b335003aaa|Obrigada, Brittney!
-57fd293b-c009-4d23-a51b-bdee9638b243|*Pegadinha bem-sucedida!*
-2ecf2678-01c5-44fe-b013-cccb0dbae5cf|*Continuar*
-eb5df2c1-33cf-4c2c-a128-7bae6538611e|Ela agradece seu apoio.
-28f42139-626e-437b-9d83-eb1119ba605a|Claro, está bem aqui.
-ce33c9ef-3f8c-4b04-b553-e8482afaa42f|Na verdade, eu me distraí completamente e esqueci da sua camisa.
-f9857e37-4ca3-47da-a3e6-f8ae2b4e974b|Espere, já volto.
-029560ca-2f8c-44c7-8dfc-a14f35bd0afb|Ops. Culpa minha.
-b2daf45a-d724-461d-b82a-5f1e77bd4454|É para isso que servem os amigos.
-4815dc60-36d0-485b-b827-9fe6d7166178|Estou aqui para dar apoio moral.
-taba65ae-d310-4c68-8026-2148ec2696d5|Feliz em ajudar!
-bd62d740-b0f7-4688-a0d9-f816b4a19703|*Continuar*
-7f2af31b-b036-45ee-a90c-ba5dcc36f642|*Continuar*
-5e59b028-f24a-418e-8909-d6f8f6ecfbeb|*Continuar*
-27d32a9d-a496-446c-8eb1-0cbbcd3b7e14|*Continuar*
-430295b2-2bd0-4755-b0d8-e27ec7c7df63|*Continuar*
-f10effe5-74ab-4d7f-804b-e58d4da58d9b|Sinto muito, Brittney.
-b119a4a8-9c1b-47d9-a124-6e7f7056f486|Não importa, eu fiz sexo.
-c2fb7bbb-9f1b-4e90-a865-37cddd354dba|*Continuar*
-c477ed9d-6561-4ab3-8d9a-372f636accda|Algum conselho de um amigo? Talvez... se abrir e deixar seu coração te guiar?
-035ebde9-ae46-4f3c-b38d-a3fb9087f6be|Espere, espere, espere. Apoio. Você fazia parte de uma seita?
-0920acbe-3f25-4680-a76a-528b54caa618|Me dê uma chance e eu posso te mostrar algo especial.
-6fc7b7df-d071-4aa6-974c-8d1832b1735e|Pensando bem, vamos esquecer o que eu disse.
-145b2ed5-9ca2-4804-a1cc-9907c2d7f194|Vou me comportar da melhor maneira possível.
-0c59c0da-f37f-486a-af4e-e4f29691a258|É assim que você realmente se sente?
-0a1a84a1-81de-45f9-8ddc-a38e11e226b9|O que eu fiz de errado?
-3b00e40d-5455-4e1e-9d25-1069e02359e2|Você gosta do que vê?
-ae0773e0-d301-4df3-8e98-24d09a103afc|Sério? Do que você gostou?
-a61d8670-3bc8-4d67-81a0-881fab9b88c6|*Continuar*
-759059df-2f00-438f-aa34-ee4a29b74712|Acho que você é a garota mais linda que eu já vi. Vamos levar isso para o quarto?
-d67206f1-9aef-4d02-baa8-c02194657d7b|*Beijos Brittney*
-e9d91eba-840b-4350-9d69-5e2671020c93|Está perfeito hoje à noite. Vamos dar uma volta perto da lareira.
-2ae62a80-12f9-474a-8dc7-ea109f2e5080|Na verdade, espere um pouco. Já volto.
-8cbc1cd5-ab64-4178-aaaa-99d64974a72a|Te vejo lá.
-d093c97f-09df-46d8-8d45-7f4d628cf1e3|Deixa que eu cuido disso rapidinho.
-50a9f628-3981-45a9-9d39-164e7d134963|Te vejo lá em cima.
-b744e557-d3fa-4d6a-bc9d-832e8ec1fff5|Já volto.
-032d104e-dd60-45b3-89b5-966c88bc1123|Chega de ser uma boa menina, é hora de ser um pouco má.
-558f4eb4-a316-4819-8b49-ce46916edf19|Segure esse pensamento.
-4a4e716d-0e63-46e9-8294-e0f1ab60d5bb|Você foi incrível!
-dec64883-8491-4f2b-aeec-4f7501e7e6e4|*Fechar*
-d3b00bdf-5a42-4f5f-b152-76ba981a2806|Vamos transar aqui mesmo nesta banheira de hidromassagem.
-df2ee3ed-e21a-4ccc-adf2-2b36728a264e|Na verdade... esquece.
-29946dd4-1ef0-49bd-a3de-85c632bff11f|Pontuação!
-8c7919ef-5df8-45ee-a811-9a4075a0454f|*Continuar*
-c5c65aa7-00b5-44f1-99aa-9b52c4793ed0|*Continuar*
-a18fee00-5e02-4819-8580-d385048b7e2b|*Continuar*
-290afa5b-326e-4881-b10b-6f360ec37276|*Continuar*
-f72efd87-e6b7-4d50-8154-4fed9a8621d2|Te vejo lá.
-16c7d676-03c1-4a42-9e31-46fbce3d36f5|Deixa que eu cuido disso rapidinho.
-72c6ea3e-01e0-4761-b758-b997db60276d|Te vejo lá.
-80cad742-0983-49de-8c42-91202ec36b25|Parece que você realmente amava ser lutador.
-0fed9449-4950-4d11-830d-52b9d9fc8dfe|Quer levar isso para o quarto?
-7a22abe5-57ac-4c71-9182-1034fd6c287e|Entendi o que você quis dizer e topei!
-a630734d-c23e-4aa1-a0f8-d17d5e00f0b7|Vamos ser melhores amigos para sempre.
-68b541d4-b3f9-44b4-976e-fb60c88e889c|Te vejo lá.
-7422cd59-398b-4233-972d-8fcb0440b2d2|Deixa que eu cuido disso rapidinho.
-5daad06d-9a37-48c0-b3c4-8c270930a48a|Vocês dois seriam ótimos juntos. Deixa eu te ajudar!
-f6fe2b74-7c0b-4db9-af85-b3e484b78d9e|É, talvez não seja uma boa ideia.
-a1f2fda6-5ef1-4a01-8f9a-4398ce7ef510|Fico feliz em ajudar.
-9ffa0713-cada-4883-84ad-8480a100b444|Ela adora a banda Panic! At the Disco. Você deveria perguntar a ela sobre eles.
-9bf7bdf6-8d07-41eb-849e-5d15d5a802d6|Ela adora a banda One Direction. Você deveria perguntar a ela sobre eles.
-99e686f2-c883-4eb7-9f44-5d1503a6f734|Amy sente falta de casa, principalmente das fogueiras no quintal no outono.
-d3158432-9f99-4ddf-86fc-a16a2e48340b|Amy odeia Rhode Island e está feliz por ter se mudado.
-e2424d72-b5dd-4227-bf6d-c15c1f6807b8|Amy está tentando entrar para uma irmandade porque está preocupada em se encaixar.
-e2b537d9-50e2-437b-95e4-471c317a3084|Amy é fã de cinema. Principalmente filmes de terror antigos.
-2bd3621d-64c5-4f77-820e-29182acfda18|Você deveria dar este chocolate quente a ela, vai lembrá-la de casa.
-1cdb74b6-ad3c-4bd4-9c0d-87140b1f360c|Você deveria dar esta flor a ela. Ouvi dizer que Amy adora flores.
-fcf5ad68-a8de-48e9-8b1a-a8e5f5410bce|Encontrei este dedo de espuma. Você deveria dar a ela para lembrá-la da irmandade da faculdade.
-4deedc27-5ded-4f6a-95a6-e773c2264764|Acho que já preparamos o terreno o suficiente. Pronto para dar um passo à frente e causar impacto?
-c9dd6d42-85ef-4f2f-b013-a96f470829ae|Na verdade, ainda estou trabalhando nisso.
-d0f66a75-4e5b-4dd4-a1b7-a56421dbb140|Você consegue! Confiança!
-5a47013c-1ba5-40c7-9f66-df03264e3817|*Ouvir*
-dcf7d243-c04b-41b9-b20a-791d8823e9c9|*Ouvir*
-bdbf8b3c-1450-465a-8951-13b6b1938701|*Ouvir*
-7a2b48e6-3db6-4e7e-9 f51-9f203ffe9c0b|*Ouça*
-6a760b15-78d4-40de-a868-d750076fbf7c|*Ouça*
-55f96e10-8c6a-4f84-b9c6-9f90c85a4a4e|*Ouça*
-afa18527-b0fb-4091-8321-0fd4f0db8791|Você arrasou! Vou trabalhar para nos dar outra pista sobre a Amy.
-d5a416ea-849a-4070-ac3e-d901af8b9eed|Penso em algo melhor na próxima vez.
-261c16eb-5ead-452d-8910-41974abb5906|Acho que já preparamos o terreno o suficiente. Pronto para dar um passo à frente e causar impacto?
-deebdc84-2972-4d0c-92e3-bb15be477c6d|Claro. Você consegue!
-65fc0755-f146-4f30-acb3-6201787ec51b|Vou ver que outras informações consigo reunir sobre a Amy.
-61419c5e-b791-472f-a73e-a6710bb9332e|Desculpe, Brittney.
-73715827-cd6f-42af-b828-4aa3fd057970|*Ouvir*
-189f5e14-edec-40f2-ac3e-fabf06a72a7f|*Ouvir*
-f14abf63-057d-4c78-ac35-d8b4f0d77640|*Ouvir*
-573dabb1-61ca-439e-95d3-dd2ae8c00545|*Ouvir*
-1e8a5d3c-3d80-40f0-a24b-53fe73e51605|Você foi ótimo! Estou muito feliz por você e pela Amy!
-8514eb65-3422-4b21-a6f1-1fcaa6f2910e|Desculpe, meninas.
-0c755797-2be2-4521-87ea-2f9279547ea7|Amy?
-2bfbcf16-a616-4de2-bda0-0005d449235f|Vamos nos divertir!
-a05afd96-dee1-4bf7-8388-7b56f5a529a9|Acho que minha cabeça ainda está girando.
-685c7411-6547-4d22-ac60-d13c0fa368db|Não me incomoda nem um pouco. Fico feliz em ajudar!
-1c1e2d5f-8100-4dcc-8dee-bc3349e492d9|Você sabe que eu faria qualquer coisa por você.
-2e8f487d-d2da-4f04-ae5d-415594fbbad4|Eu estava esperando que você me recompensasse com um beijo.
-f3f73593-d17b-47c2-83fa-179e66b33de8|Claro! Mal posso esperar para sair com você.
-85a23ecc-b8ae-47c2-9f9d-eac48572ce67|Por que você precisa dessa blusa? Seus peitos estão incríveis!
-7994ef54-d2e9-43b7-9bda-e38d3868290c|Não posso contestar essa lógica.
-a89cdd59-c749-4e93-ba20-90decd75cbdd|É, porque respeitoso é algo que eu normalmente sou.
-418cc748-25ac-418f-adea-0307f7da5ce3|Vamos ficar no gazebo.
-268bb11c-bcaa-4a97-a986-3c6b7481c5e8|Devíamos ir relaxar perto da lareira no quintal.
-84048cc2-fd7e-44f5-9852-b4be0da29c69|Aposto que posso apostar uma corrida com você até o armário de bebidas. Vamos!
-45dd7c71-dbef-4195-a497-d731e817a8b4|Devíamos dar uma olhada na garagem. Acho que tem beer pong aí.
-4b10544a-0eac-4c8d-a6dc-9a7105c49c86|Pensando bem, esqueça meu primeiro pensamento. Podemos ficar aqui.
-5a32fc3e-28f4-41e2-9f62-f718f4063fbc|Tudo bem, faça o que quiser.
-bda29d60-5be0-4372-9d1f-2b821661c84a|*Continuar*
-e35a237e-128a-4e4b-a1b6-bbabe758bfe0|*Continuar*
-ddf72dc0-05f1-485c-adff-b34b7e1d8e2b|Não sei o que isso significa, mas espero que vocês dois gostem!
-46f49750-a673-4cdd-a252-85872abe30d2|Há alguma chance de eu te ver?
+01f27c42-5a81-4b70-bbf4-8607e3992341|Tenho um desafio para vocês dois: vamos fazer um ménage à trois lá em cima.
+029560ca-2f8c-44c7-8dfc-a14f35bd0afb|Ops. Foi mal.
+032d104e-dd60-45b3-89b5-966c88bc1123|Chega de boazinha, hora de ficar um pouco mais safada.
+035ebde9-ae46-4f3c-b38d-a3fb9087f6be|Espere, espere, espere, volte. Você estava em uma seita?
+038522bf-db22-4721-ad20-1dd1e3558737|Nunca ouvi falar dele...
+03d61988-2d50-40d5-b6c2-673b23c386ff|Eu também me diverti com você!
+066f7373-6fc7-4dda-985c-905cadb39ee4|Ei, o Patrick está procurando o celular dele. Você viu?
 06942df5-1dcc-4fd3-961a-8ce9a18c4f8a|Você nem vai perceber que estou aí!
-5b0cf034-a70f-4a67-8cda-76d1b8563ed3|Boa sorte!
-03d61988-2d50-40d5-b6c2-673b23c386ff|Eu também me diverti muito com você!
-f430a3db-57eb-4487-9a6e-6bd5b7eab38c|Me dá outra chance.
-52ba30d8-c911-4b13-a673-3712efdb3c3c|O que eu fiz de errado?
-a4f183e9-0209-4fb1-96db-55e15c4c3f00|Vou me comportar da melhor maneira possível.
-4d83c39b-c586-4c64-90cd-cb011222ec3f|Desculpe, Brittney.
-d4f008c4-06a1-4020-9154-0044ac7a463c|O que eu fiz de errado?
-1f93f3e8-b410-46f9-9538-ff503bc0e3c7|Sério? Do que você gostou?
-fdcae1e1-aade-401f-8c82-b4567ef0b80b|Isso significa que estamos prestes a ter o nosso momento?
-da6633d5-e993-4373-acd4-12b342b74cc6|Obrigada, Brittney.
-bc459dd1-6ce4-47e2-90f6-ab03c08134de|*Continuar*
-67e22c24-23d8-4448-84ed-8a97fbbe1747|*Continuar*
-6533e916-eda5-4e79-9300-06cb8f4a211a|"Colocamos a "quente" na banheira de hidromassagem."
-96541ab7-70fd-4cc2-b11a-0c791bf7e8fc|Ótimo!
-e21672de-1ea0-4bba-85aa-d082f67d1bfa|Isso está mais perto da verdade do que você imagina.
-48c92b0d-58f1-44fe-a523-34d9bf5526b7|Boas ações? As únicas que eu conheço! Guardo esse pensamento para mim.
-80395836-b5f1-4720-94a2-040215ea4453|Ok, então considere ser menos babaca. ...Vou ver o que posso fazer.
-7a3edaa9-2113-4b29-895e-038d6d1024c1|Você vai ficar aqui a noite toda?
-ce05a628-c0ce-4dae-8e43-03d2bd6e2c75|Quer relaxar na banheira de hidromassagem comigo?
-09e11f61-339d-40db-87f2-2a618da0a119|Sabe o que deixaria essas bolhas ainda melhores? Pele nua. E... quem sabe eu me junto com você!
-cdba3b22-9138-4187-ae7f-98214392e646|Então, Brittney, parece que te peguei na hora certa! Quer sair em outro lugar?
-852fa071-bc6a-4a95-bd56-2a83737fb718|E aí, Brittney, você prefere paus grandes ou bolas grandes?
-28a77408-17ff-468b-80f3-44868bc36eed|Certo, Brittney, falando a verdade. O que você prefere em um homem, um pênis maior ou um par de bolas maiores?
-c2ae9ad9-adba-4e7c-aeee-7d5b41c90c87|Madison disse que precisava de você quando tivesse um tempinho. Ela está lá em cima, no quarto dela.
-daa59390-4c94-4799-9c4e-38d8a34b5a83|Madison está apresentando uma exposição de arte no dormitório dela e queria que eu te convidasse.
-9656c528-f99e-4c7a-83da-ffe1dbe5e3c6|Obrigada por me convidar hoje à noite. E você parece estar se divertindo!
-f427158a-1251-421f-ace8-bc5671fef044|Você realmente não me parece o tipo de pessoa que gosta de festas em casa.
-374e75f4-62a0-44ce-849d-f3e4942efa69|Me conte algo sobre você que eu ainda não saiba.
-0d026c79-a3b7-48b0-92d5-3311fb62a531|Da última vez que saímos, você me disse que estava solteira. Ainda está procurando?
-ae875992-8865-416c-956e-2d5916386689|Conte-me mais sobre esse segredo, alguém que você está de olho.
-799da872-0703-4bb4-9638-edc64a9dd851|Fiz uma pequena pesquisa e suspeito que você possa gostar. É a Amy?
-97f39d5b-c474-44ee-9d57-b089cc8071bb|Decidi que quero te ajudar com a Amy.
-e1cbe791-7466-4a35-a153-1a48a9fa6e09|Você já teve uma queda?
-fa37b9bb-0095-4304-8b81-8999a17ff326|Vou ser direto e dizer: gosto de você.
-3c4879a0-bc69-4684-921a-f678f0805a66|Já pensei nisso e gosto mesmo de você. Só fiquei com receio mais cedo.
-90cdf9e9-7706-4503-91c9-5501902a300c|Ainda espero ter a chance de fazer algo especial com você esta noite. Espero que esteja se sentindo da mesma forma.
-d11bf28a-d3dc-4f25-a5f9-69ed5c9f7d80|Me encontra no quarto?
-ec4c8aab-1ec9-42a0-8b87-0b675cd8b30d|Você está pronto para o nosso momento?
-977270cc-5d92-4d58-ac9e-a014f6aac908|Acho que tenho algumas informações úteis sobre a Amy.
-01f27c42-5a81-4b70-bbf4-8607e3992341|Tenho um desafio para nós dois: vamos fazer um ménage à trois lá em cima.
-611711f3-ab8c-4942-b38f-d257e51fa0f2|Sobre aquela blusa que eu deveria ter trazido para você...
-841f6558-4eff-49d2-b5a4-d11f99a90a72|Tá brincando? Essa blusa ficou ótima em você!
-e02737a4-2c27-412b-b57f-82e13ac126e1|Nem reparei nos seus peitos!
-0c633631-bdf4-4a85-a29e-5cbc17a5c7df|Sem problemas!
-d1829129-23d1-4866-8fdc-b0c2f86e6de8|Desculpe!
-cfdcf195-7859-4887-8f93-f19cab26775b|Fico feliz em ajudar!
-2fe1e5f5-d787-4a80-b872-8c127a255064|Valeu muito a pena...
-fce9df00-fe26-4bd4-b746-4455a90b74fd|Assunto delicado, eu acho.
-9b1936e3-8d58-4818-9b40-de9af3062bbe|Acho que você tem razão.
-be13e605-ffe4-490a-abb3-c2740a062a8b|Ah, desculpe. Eu brinco muito com meu zíper.
-d89cd3fb-40e9-487b-b9cd-da83279fb7ac|Desculpe, mas não desculpe?
-cfd18a61-2f1a-4d1e-bf91-226e45eec841|Ei, ele não tem nenhum problema mental. Ele só está bêbado.
-e07c1358-c6d5-46fa-a5f5-1dc708307140|Ei, ele não tem nenhum problema mental. Ele só está bêbado.
-57000c5d-61cd-4678-984e-b78a23058838|Bem... merda, tudo bem.
-ea1ddb27-e1ce-42a2-bce4-9274fc89896c|::Suspiro:: Tudo bem.
-d6ecbaf8-7c2c-486a-9261-bf65a4f0a776|*Continuar*
-b6e74f0f-dea0-4691-aa9a-4642be88ae9f|*Continuar*
-5ef8c532-0a7c-4f9c-af13-52a5037b5f39|*Continuar*
-8c545fc2-308e-47fd-9302-c8a62ad0fe73|É uma campanha para libertar os peitos!
-1400ae32-813c-4924-95a7-b9da5f42b5d4|É para o Derek tirar a camisa.
-b5bdaff2-6820-4e2b-8a46-36c40eed5af2|É, é!
-841623ec-9c25-4daf-8610-63e91a1306df|É, é!
-a02c2b3b-f662-41a9-b075-a7b12ff8ff6e|Puta merda. Acho que ela não é fã do D-Man.
+06b6341c-3efe-4b9d-92fd-d59cb447e880|Essa não foi a melhor resposta. Merda...
 070f95d9-9480-4dc6-9be4-e16383a5df82|Bom saber, Brittney. Obrigada!
-5309b876-c2ff-443b-a4d7-5f3aaadbf1e3|Bom saber, Brittney.
-9ec91afc-a03a-44a0-b493-42efb81e527e|Sem problemas!
-bf119d09-2497-404d-beff-61700078965d|Acho que você tem razão...
-a5110754-445f-4f75-acf2-a72585b124ea|Se você ficar pelado, ela também fica.
-e0b51f82-7f34-42b2-9159-fc0bae5ce303|Conte-nos sobre uma paixão secreta que você teve no passado.
-3f78c5b3-ed33-4355-9623-917b19e8a31c|Quem aqui você acha mais atraente?
-c13fdd32-3c52-4404-826d-4dfbfc41de26|Qual foi o último vídeo do YouTube que você assistiu?
-b7087280-4935-4a53-9ed7-ec73fc78810f|Você já beijou outra mulher?
-867f6cc1-efed-4469-9005-bb4559408eac|Você está excitado agora?
-71b47af0-1963-42e3-abf1-f7c6467d53d9|Quer saber, esquece. Mudei de ideia.
-e0e943f1-3c59-4fe8-b073-c57f2ffb95fc|Desafio você a tirar a blusa.
-bed86b73-4c4d-44df-8cc1-b973c6e50025|Desafio você a tirar a calça.
-8eecca3a-4ff0-451a-aa51-af738aba6ebc|Sabe de uma coisa? Mudei de ideia...
-9be452f7-1914-4d20-bed3-395674ed415d|Perfeito!
-f62f7dc1-22fd-4317-963e-e19e08964796|Não consigo ver nada!
-62efd38d-33fc-4513-91b0-80150644fe1c|Bom saber.
-6434050a-d506-4319-ba76-4f7b719fd279|Droga!
-ecf3f757-d583-477b-bbed-12eef6b73810|Aww. Obrigada, Brittney! Você é tão fofa!
-f09bae56-3b48-49e4-a983-786d1d8d267d|Ah... certo...
-038522bf-db22-4721-ad20-1dd1e3558737|Nunca ouvi falar...
-555574fe-1659-4006-9470-ab5a7b5fdee8|Bom saber!
-56a35e21-cfc4-4dab-8bbd-3a3e04a338da|Parece justo.
-4e7484d5-fcdb-4713-9116-99f1ea5a160f|*Está funcionando!*
-06b6341c-3efe-4b9d-92fd-d59cb447e880|Ou não é uma resposta tão boa assim... Merda...
-579384e4-8f4b-4b51-8009-39894706bd7d|Ai.
-d7691a01-1f90-4400-8097-e95a82ec3442|De nada...
-5bfac807-4551-4d6d-9f7e-bf963117e504|Criamos um monstro... no bom sentido, é claro...
-70b64b62-1d08-4662-807b-a2827f4f6339|Eu sei. Eu malho...
-30091357-993b-4a0b-9828-ca688f643d15|Muito engraçado. Tchau, Brittney.
-3c202280-1640-47a7-b090-5038848879be|Ufa... entendi, Brittney.
-7263deb8-4063-4e62-8fb7-fe1b8381b02f|De jeito nenhum...
-07968bde-83a8-468c-824a-5f5b2bdc57ce|Ok, entendido.
-819c078a-ad53-4bd2-9591-4855045645d8|Uhhh, ok, Lety, vamos lá!
-ccd11eb5-0b98-40c8-9d81-422f50e52d11|Está acontecendo, está acontecendo mesmo!
-ecee8a74-0829-4b9c-89a0-57e7f8826e41|*Contínuo*
-d08fd778-6955-4cb6-a659-bc5b58ecbec9|*Contínuo*
-eba7596d-6588-4d4d-a749-81ccebb2ab5f|*Contínuo*
-07a79022-2f03-449a-89c7-b2ee81895d3e|*Contínuo*
-311aadeb-5c83-4c86-824 e-326e43848dba|*Contínuo*
-da4977ad-8831-46c9-b5d7-0280269187ed|*Contínuo*
-ce826582-38f5-4dca-a18c-35456efe2e76|Contínuo*
-16c6a310-d9fc-4110-93a3-b2d6c8c804e5|*Contínuo*
-c8507dfe-7537-4501-91c8-9bb5575d6452|*Contínuo vergonhosamente *
-f50f2365-ed90-4059-bf15-c7a6cfcb37cb|*Continuar*
+07968bde-83a8-468c-824a-5f5b2bdc57ce|Ok, entendi.
+07a79022-2f03-449a-89c7-b2ee81895d3e|*Continuar*
+08cd3605-094f-4d09-8c34-f294716f5315|Isso mesmo, Frank! Conte a ele!
+0920acbe-3f25-4680-a76a-528b54caa618|Me dê uma chance e eu posso te mostrar algo especial.
+09d2b9f6-1171-4cd3-b460-777c3adb745f|Lamba, gata.
+09e11f61-339d-40db-87f2-2a618da0a119|Sabe o que tornaria essas bolhas ainda mais gostosas? Ficar nua. E... eu poderia me juntar a você!
+0a1a84a1-81de-45f9-8ddc-a38e11e226b9|O que eu fiz de errado?
+0b8b18b4-1025-4ee7-8b6a-35be28778f12|Chega de boazinha, é hora de ser um pouco mais safada. (Sexo Interativo)
+0c59c0da-f37f-486a-af4e-e4f29691a258|É isso que você acha?
+0c633631-bdf4-4a85-a29e-5cbc17a5c7df|A qualquer hora!
+0c755797-2be2-4521-87ea-2f9279547ea7|Amy?
+0ca47b10-52e9-48da-9094-56f1fa8b224d|Bom saber!
+0d026c79-a3b7-48b0-92d5-3311fb62a531|Da última vez que saímos, você me disse que estava solteira. Ainda está?
+0f27c52a-f581-4a6c-bb92-58cc0c65d95c|Ei, você está bem? Tem uma festa louca lá embaixo.
+0fed9449-4950-4d11-830d-52b9d9fc8dfe|Quer continuar a conversa no quarto?
+10981a0d-6b90-41c1-b911-96c4832ed9f0|Hum... O Frank me fez te perguntar!
+1400ae32-813c-4924-95a7-b9da5f42b5d4|É para fazer o Derek tirar a camisa.
+145b2ed5-9ca2-4804-a1cc-9907c2d7f194|Vou tentar me comportar da melhor maneira possível.
+16c6a310-d9fc-4110-93a3-b2d6c8c804e5|*Continuar*
+16c7d676-03c1-4a42-9e31-46fbce3d36f5|Deixa que eu cuido disso.
+16fef40f-fd38-4cf0-b726-b8430e9ff2c1|Convenci a Stephanie a dançar de topless!
+189f5e14-edec-40f2-ac3e-fabf06a72a7f|*Ouvir*
+19971f15-c909-4ae7-8ad9-e5959aa3b884|Como vai?
+1c1e2d5f-8100-4dcc-8dee-bc3349e492d9|Você sabe que eu faria qualquer coisa por você.
+1cdb74b6-ad3c-4bd4-9c0d-87140b1f360c|Você deveria dar esta flor a ela. Ouvi dizer que a Amy adora flores.
+1d3a0240-950e-4acd-88bf-2f0d93f00b3c|Tudo bem, tanto faz.
+1e8a5d3c-3d80-40f0-a24b-53fe73e51605|Você foi ótima! Estou feliz por você e pela Amy!
+1ea40f3c-373c-415f-b56b-70c87c3c0093|Ei, Brittney, você pode me devolver aquela garrafa de mezcal?
+1f93f3e8-b410-46f9-9538-ff503bc0e3c7|Sério? Do que você gostou?
+208120ce-ec0d-4df4-ade6-68d712ae7e67|Não sou médico, mas posso te examinar mesmo assim?
+233dd631-58ff-482c-a6b4-871581c29a4b|Ei, você poderia assinar esta petição para mim?
+23cdd589-f786-4e8f-b8d7-0888ff9a56d5|Olha só, você está sozinho de novo.
+261c16eb-5ead-452d-8910-41974abb5906|Acho que preparamos o terreno. Pronto para dar o passo e dar o salto?
+268bb11c-bcaa-4a97-a986-3c6b7481c5e8|Devíamos ir relaxar em frente à lareira no quintal.
+27d32a9d-a496-446c-8eb1-0cbbcd3b7e14|*Continuar*
+28194c64-f88b-4291-a2fa-a53cbc1291a6|O assassino está nos dutos de ventilação. Alguma ideia de como tirá-lo daqui?
+28a77408-17ff-468b-80f3-44868bc36eed|Ok, Brittney, a verdade é necessária. O que você prefere em um homem, um pau grande ou bolas grandes?
+28f42139-626e-437b-9d83-eb1119ba605a|Claro, ele está bem aqui.
+290afa5b-326e-4881-b10b-6f360ec37276|*Continuar*
+29946dd4-1ef0-49bd-a3de-85c632bff11f|Ótimo!
+2ae62a80-12f9-474a-8dc7-ea109f2e5080|Na verdade, preciso fazer uma coisa. Já volto.
+2bd3621d-64c5-4f77-820e-29182acfda18|Você deveria dar este chocolate quente a ela. Vai lembrá-la de casa.
+2bf4ae44-6f1f-4252-8d5a-463e940fb460|Que tipo de calcinha você está usando?
+2bfbcf16-a616-4de2-bda0-0005d449235f|Vamos nos divertir!
+2e8f487d-d2da-4f04-ae5d-415594fbbad4|Na verdade, eu esperava que você me recompensasse com um beijo.
+2ecf2678-01c5-44fe-b013-cccb0dbae5cf|*Continuar*
+2f3970d3-c869-4d66-89e8-f6a8fa7ca470|Oi, linda!
+2fe1e5f5-d787-4a80-b872-8c127a255064|Valeu muito a pena...
+30091357-993b-4a0b-9828-ca688f643d15|É, muito engraçado. Até mais, Brittney.
+311aadeb-5c83-4c86-824e-326e43848dba|*Continuar*
+3393bccd-2fac-4ce5-81ae-ad4b93d7de88|Só quero ficar um pouco por enquanto.
+339ff8fc-36f4-41c9-861e-b33796cdd9cd|Merda!
 340d8ce7-5d33-49fe-9abf-644cb004bc89|...
-a1852ea0-2af7-4dc2-a46c-d3836a9b158a|E eu que achava que álcool era um depressor. Obrigada, Brittney
-de34684a-c2c6-44de-9f3a-a3d96ff154fb|*Continuar*
-0ca47b10-52e9-48da-9094-56f1fa8b224d|Bom saber! 
-0f27c52a-f581-4a6c-bb92-58cc0c65d95c|Ei, você está bem? Tem uma festa rolando, sabia?
-23cdd589-f786-4e8f-b8d7-0888ff9a56d5|Olha só. Aqui está você sozinho de novo.
-16fef40f-fd38-4cf0-b726-b8430e9ff2c1|Convenci a Stephanie a dançar sem camisa no primeiro andar!
-208120ce-ec0d-4df4-ade6-68d712ae7e67|Não tenho cartão da biblioteca, mas ainda posso conferir?
-066f7373-6fc7-4dda-985c-905cadb39ee4|Patrick está procurando o celular. Você não viu, viu?
-bf3055b0-3eb1-49ff-9567-fc9d0cffa39e|Ei, você não tem maconha, tem? Meu glaucoma está piorando.
-233dd631-58ff-482c-a6b4-871581c29a4b|Você acha que poderia assinar minha petição?
-fe3e181f-a4cf-43d0-9535-611dd0d981e7|Gostaria de entrar na banheira de hidromassagem comigo?
-2bf4ae44-6f1f-4252-8d5a-463e940fb460|Que tipo de calcinha você tem?
-c827ef40-bf52-4398-8be8-27cd48ec6584|Que tal relaxarmos um pouco na banheira de hidromassagem?
-dac650ba-05d3-4b3d-9ee3-1105a17cbfd3|Você está com um calor nessa banheira de hidromassagem. Talvez devesse tirar alguma coisa.
+374e75f4-62a0-44ce-849d-f3e4942efa69|Me conta algo sobre você que eu ainda não saiba.
+3b00e40d-5455-4e1e-9d25-1069e02359e2|Você gostou do que viu?
+3c202280-1640-47a7-b090-5038848879be|Ugh... Entendi, Brittney.
+3c4879a0-bc69-4684-921a-f678f0805a66|Já pensei nisso e gosto muito de você. Acabei de desistir mais cedo.
+3e546198-1cbd-4cfc-9c46-2b338afbe688|Na verdade, tenho outro desafio para você, se estiver a fim.
+3f78c5b3-ed33-4355-9623-917b19e8a31c|Quem você acha mais atraente aqui?
+418cc748-25ac-418f-adea-0307f7da5ce3|Vamos para o mirante.
 42d61b06-841f-40c6-af25-fd7a48d03036|O que você acha da Amy?
-f8e1bfea-e671-488c-af8d-bacfef62c931|Aposto que consigo fazer a Amy ficar completamente nua nessa banheira de hidromassagem.
-45ce56bf-071a-44c6-9169-c2ab1a98566e|Brittney, você se atreve?
-fa6a60ff-083b-4d6b-a2d8-7a76f2a109f5|Consegui que a Stephanie dançasse de topless lá fora!
-c262f032-d9b7-421b-8a0a-78fa01914065|Alguém está sendo muito crítico e cagando na sua blusa. Você não aguenta isso! Eles estavam indo... uh, para lá!
-1ea40f3c-373c-415f-b56b-70c87c3c0093|Olá, Brittney, você acha que eu consigo recuperar aquele mezcal?
-2f3970d3-c869-4d66-89e8-f6a8fa7ca470|Tchau, linda!
+430295b2-2bd0-4755-b0d8-e27ec7c7df63|*Continuar*
+45ce56bf-071a-44c6-9169-c2ab1a98566e|Brittney, verdade ou desafio?
+45dd7c71-dbef-4195-a497-d731e817a8b4|Devíamos dar uma olhada na garagem. Acho que tem uma mesa de beer pong lá.
+46f49750-a673-4cdd-a252-85872abe30d2|Posso dar uma olhada?
+47da0a9b-fd43-4748-a83d-f122672eb973|Vou considerar isso como um não.
+4815dc60-36d0-485b-b827-9fe6d7166178|Estou aqui para apoio moral.
+48c92b0d-58f1-44fe-a523-34d9bf5526b7|Boas ações? As únicas que conheço!
+4a4e716d-0e63-46e9-8294-e0f1ab60d5bb|Você foi incrível!
+4b10544a-0eac-4c8d-a6dc-9a7105c49c86|Pensando bem, esqueça o que eu disse. Podemos ficar aqui.
+4d16848a-bbab-479b-bcf3-7887c8839dbb|Desculpe.
+4d83c39b-c586-4c64-90cd-cb011222ec3f|Desculpe, Brittney.
+4deedc27-5ded-4f6a-95a6-e773c2264764|Acho que preparamos o terreno. Pronto para dar o passo à frente e dar o salto?
+4e3561cc-0eb7-4900-afee-21b335003aaa|Obrigada, Brittney!
+4e7484d5-fcdb-4713-9116-99f1ea5a160f|*Funcionou!*
+50a9f628-3981-45a9-9d39-164e7d134963|Te vejo lá em cima.
+52ba30d8-c911-4b13-a673-3712efdb3c3c|O que eu fiz de errado?
+5309b876-c2ff-443b-a4d7-5f3aaadbf1e3|Bom saber, Brittney.
+555574fe-1659-4006-9470-ab5a7b5fdee8|Bom saber!
+558f4eb4-a316-4819-8b49-ce46916edf19|Me dá um segundo.
+55f96e10-8c6a-4f84-b9c6-9f90c85a4a4e|*Escute*
+56a35e21-cfc4-4dab-8bbd-3a3e04a338da|Parece justo.
+57000c5d-61cd-4678-984e-b78a23058838|Bem... merda, tudo bem.
+573dabb1-61ca-439e-95d3-dd2ae8c00545|*Ouça*
+579384e4-8f4b-4b51-8009-39894706bd7d|Ooh.
+57fd293b-c009-4d23-a51b-bdee9638b243|*Pegadinha concluída com sucesso*
+5a32fc3e-28f4-41e2-9f62-f718f4063fbc|Ok, como você quiser.
+5a47013c-1ba5-40c7-9f66-df03264e3817|*Escute*
+5af322b5-d763-4fb0-88f7-70dc0c091fad|Liz? O que há de errado com a Liz?
+5b0cf034-a70f-4a67-8cda-76d1b8563ed3|*Boa sorte*
+5bfac807-4551-4d6d-9f7e-bf963117e504|Criamos um monstro... no bom sentido, é claro...
+5c777951-fd47-4ab6-83cd-eac83b81f6b7|Feliz Dia dos Namorados!
+5daad06d-9a37-48c0-b3c4-8c270930a48a|Vocês dois ficariam ótimos juntos. Deixe-me ajudar!
+5e59b028-f24a-418e-8909-d6f8f6ecfbeb|*Continuar*
+5ef8c532-0a7c-4f9c-af13-52a5037b5f39|*Continuar*
+611711f3-ab8c-4942-b38f-d257e51fa0f2|Sobre aquela blusa que eu deveria ter trazido para você...
+61419c5e-b791-472f-a73e-a6710bb9332e|Desculpe, Brittney.
+62efd38d-33fc-4513-91b0-80150644fe1c|Bom saber.
+6434050a-d506-4319-ba76-4f7b719fd279|Caramba!
+6533e916-eda5-4e79-9300-06cb8f4a211a|O que acontece na jacuzzi, fica na jacuzzi.
+653e6793-ca16-4142-a9d8-8a0e6c1ce773|Isso foi... decepcionante.
+65fc0755-f146-4f30-acb3-6201787ec51b|Vou ver que outras informações consigo descobrir sobre a Amy.
+67e22c24-23d8-4448-84ed-8a97fbbe1747|*Continuar*
+685c7411-6547-4d22-ac60-d13c0fa368db|Sem problemas. Fico feliz em ajudar!
+68b541d4-b3f9-44b4-976e-fb60c88e889c|Te vejo lá.
+6a760b15-78d4-40de-a868-d750076fbf7c|*Ouvir*
+6dc4690b-17b1-447a-b058-116421a12b4a|Ótimo! (Sexo Interativo)
+6fc7b7df-d071-4aa6-974c-8d1832b1735e|Pensando bem, esqueça o que eu disse.
+70b64b62-1d08-4662-807b-a2827f4f6339|Eu sei. Eu me exercito...
+71b47af0-1963-42e3-abf1-f7c6467d53d9|Na verdade, esqueça. Mudei de ideia.
+7263deb8-4063-4e62-8fb7-fe1b8381b02f|Ah, qual é...
+729143b4-6f06-47e6-bc34-e3a3cd68c69a|Isso... não parece muito agradável.
+72c6ea3e-01e0-4761-b758-b997db60276d|Te vejo lá.
+73715827-cd6f-42af-b828-4aa3fd057970|*Escute*
+73b54db5-1313-47d6-993c-8be8733278e6|Porra, porra, porra, estou quase gozando...
+7422cd59-398b-4233-972d-8fcb0440b2d2|Deixa que eu cuido disso por um segundo.
+759059df-2f00-438f-aa34-ee4a29b74712|Acho que você é a garota mais linda que eu já vi. Você se importaria se continuássemos a conversa no quarto?
+7994ef54-d2e9-43b7-9bda-e38d3868290c|Você não está totalmente errado.
+799da872-0703-4bb4-9638-edc64a9dd851|Eu investiguei um pouco e tenho uma suspeita sobre por quem você pode estar a fim. É a Amy?
+7a22abe5-57ac-4c71-9182-1034fd6c287e|Eu entendo o que você quer dizer e concordo plenamente!
+7a2b48e6-3db6-4e7e-9f51-9f203ffe9c0b|*Ouça*
+7a3edaa9-2113-4b29-895e-038d6d1024c1|Você pretende ficar aqui a noite toda?
+7f2af31b-b036-45ee-a90c-ba5dcc36f642|*Continue*
+80272987-5a43-4051-81a6-aabbd096af24|Hora do 69.
+80395836-b5f1-4720-94a2-040215ea4453|Ok, então tente ser menos chata... Vou ver o que posso fazer.
+80cad742-0983-49de-8c42-91202ec36b25|Parece que você realmente gostou de ser uma lutadora.
+819c078a-ad53-4bd2-9591-4855045645d8|Uhhh, tá, Lety, vamos lá!
+83f3223a-90e4-4faa-87e0-0430aed02081|Parece uma ótima ideia. Como você faria isso?
+84048cc2-fd7e-44f5-9852-b4be0da29c69|Aposto que consigo chegar ao armário de bebidas primeiro! Vai!
+841f6558-4eff-49d2-b5a4-d11f99a90a72|Tá brincando? Essa blusa ficou ótima em você!
+8514eb65-3422-4b21-a6f1-1fcaa6f2910e|Desculpe, meninas.
+852fa071-bc6a-4a95-bd56-2a83737fb718|Ei, Brittney, você prefere paus grandes ou bolas grandes?
+85a23ecc-b8ae-47c2-9f9d-eac48572ce67|Para que você precisa dessa blusa? Seus peitos são incríveis!
+867f6cc1-efed-4469-9005-bb4559408eac|Você está com tesão agora?
+87d64a2e-5460-4186-91ea-bc361fd5247f|Nossa, você acha que isso é tão grande assim?
+8c545fc2-308e-47fd-9302-c8a62ad0fe73|É uma campanha para permitir que as mulheres andem sem camisa.
+8c7919ef-5df8-45ee-a811-9a4075a0454f|*Continuar*
+8cbc1cd5-ab64-4178-aaaa-99d64974a72a|Te vejo lá.
+8eba9fa6-91d9-499e-ad7b-861bc83be1d4|Acho que devo fazer algumas perguntas a ela.
+8eecca3a-4ff0-451a-aa51-af738aba6ebc|Espera aí, mudei de ideia...
+90cdf9e9-7706-4503-91c9-5501902a300c|Ainda espero ter a chance de fazer algo especial com você esta noite. Você se sente da mesma forma?
+96541ab7-70fd-4cc2-b11a-0c791bf7e8fc|Incrível!
+9656c528-f99e-4c7a-83da-ffe1dbe5e3c6|Obrigada por me convidar. E parece que você está se divertindo!
+977270cc-5d92-4d58-ac9e-a014f6aac908|Acho que tenho algumas informações úteis sobre a Amy.
+97f39d5b-c474-44ee-9d57-b089cc8071bb|Decidi que quero ajudar você com a Amy.
+99e686f2-c883-4eb7-9f44-5d1503a6f734|Amy sente falta de casa, principalmente das fogueiras no quintal no outono.
+9b1936e3-8d58-4818-9b40-de9af3062bbe|Acho que você tem razão.
+9be452f7-1914-4d20-bed3-395674ed415d|Ótimo!
+9bf7bdf6-8d07-41eb-849e-5d15d5a802d6|Ela adora One Direction. Você deveria perguntar a ela sobre eles.
+9e739c97-ed1c-4fc6-8ed1-e91b6e32c49b|Certo.
+9ec91afc-a03a-44a0-b493-42efb81e527e|De nada!
+9ffa0713-cada-4883-84ad-8480a100b444|Ela adora a banda Panic! at the Disco. Você deveria perguntar a ela sobre eles.
+a02c2b3b-f662-41a9-b075-a7b12ff8ff6e|Puta merda. Aparentemente ela não é fã do D-Man.
+a05afd96-dee1-4bf7-8388-7b56f5a529a9|Acho que minha cabeça ainda está girando.
+a1852ea0-2af7-4dc2-a46c-d3836a9b158a|E eu que achava que álcool era um desânimo. Obrigada, Brittney.
+a18fee00-5e02-4819-8580-d385048b7e2b|*Continuar*
+a1f2fda6-5ef1-4a01-8f9a-4398ce7ef510|Feliz em ajudar.
+a4f183e9-0209-4fb1-96db-55e15c4c3f00|Vou me comportar da melhor maneira possível.
+a5110754-445f-4f75-acf2-a72585b124ea|Se você se despir, ela também se despirá.
+a61d8670-3bc8-4d67-81a0-881fab9b88c6|*Continuar*
+a630734d-c23e-4aa1-a0f8-d17d5e00f0b7|Vamos ser melhores amigas para sempre.
+a748e922-b37d-431e-b86f-77febc9a01ba|Obrigada pela excelente resposta, Brittney.
+a85cb0f1-351b-4444-8e40-dbab5bdc8204|Boas Festas!
+a89cdd59-c749-4e93-ba20-90decd75cbdd|Sim, porque "respeitosa" é algo que normalmente sou.
+a9e1e8d1-c819-4afe-b420-2ce6e4dc6f0a|A Madison quer que eu coloque um visco como decoração, mas preciso encontrar algo resistente o suficiente para pendurá-lo.
+ac6a6539-b8db-4cc1-8997-b2067f472ce8|Sim! Sim! Nós, oh... De novo, não para mim. Bem...
+ae0773e0-d301-4df3-8e98-24d09a103afc|Sério? Do que você gostou?
+ae875992-8865-416c-956e-2d5916386689|Conte-me mais sobre essa pessoa secreta que você está de olho.
+afa18527-b0fb-4091-8321-0fd4f0db8791|Você se saiu muito bem! Vou tentar descobrir mais sobre a Amy.
+b119a4a8-9c1b-47d9-a124-6e7f7056f486|Não importa. Eu transei.
+b2daf45a-d724-461d-b82a-5f1e77bd4454|É para isso que servem os amigos.
+b3d8f419-4df8-49de-873b-ae4c6387df2d|Você sabe alguma coisa sobre hacking?
+b5bdaff2-6820-4e2b-8a46-36c40eed5af2|Ok, ok!
+b6e74f0f-dea0-4691-aa9a-4642be88ae9f|*Continuar*
+b7087280-4935-4a53-9ed7-ec73fc78810f|Você já beijou outra mulher?
+b744e557-d3fa-4d6a-bc9d-832e8ec1fff5|Volto já.
+b89c1e5c-ec04-4916-8a4e-ab02c23564cc|Sim, acho que entendi. Você sabe de onde vem o ar para o sistema de ventilação?
+b90cf355-398b-4d4e-9bbe-e4b455a7443b|Você sabe o que isso significa no caderno do Patrick?
+ba6bb2a4-0cec-4423-a13f-d72306c83140|Ótimo. Obrigada, Brittney.
+bc459dd1-6ce4-47e2-90f6-ab03c08134de|*Continuar*
+bc7fc7ef-36f2-4f75-b3b0-f74dcebf6012|Bem, ela disse que foi convidada, só não sabe quem a convidou.
+bd62d740-b0f7-4688-a0d9-f816b4a19703|*Continuar*
+bda29d60-5be0-4372-9d1f-2b821661c84a|*Continuar*
+bdbf8b3c-1450-465a-8951-13b6b1938701|*Ouvir*
+be13e605-ffe4-490a-abb3-c2740a062a8b|Ah, desculpe, o zíper desceu sozinho!
+bed86b73-4c4d-44df-8cc1-b973c6e50025|Desafio você a tirar a parte de baixo do biquíni!
+bf119d09-2497-404d-beff-61700078965d|Acho que você tem razão...
+bf3055b0-3eb1-49ff-9567-fc9d0cffa39e|Ei, você tem maconha aí? Meu glaucoma está me dando problemas.
+c13fdd32-3c52-4404-826d-4dfbfc41de26|Qual foi o último vídeo do YouTube que você assistiu?
+c262f032-d9b7-421b-8a0a-78fa01914065|Alguém estava criticando seu biquíni! Eu não deixaria escapar se fosse você! Ele foi... hum... para lá!
+c2ae9ad9-adba-4e7c-aeee-7d5b41c90c87|A Madison disse que precisa de você assim que tiver um minuto. Ela está lá em cima, no quarto dela.
+c2fb7bbb-9f1b-4e90-a865-37cddd354dba|*Continua*
+c477ed9d-6561-4ab3-8d9a-372f636accda|Conselho de um amigo? Talvez... se abrir e deixar seu coração te guiar?
+c543d3e3-c597-4965-a3ab-8a1362d74dd4|Dói, né? Ponto para mim!
+c5c65aa7-00b5-44f1-99aa-9b52c4793ed0|*Continua*
+c6351e25-1b63-42a2-a80b-ee7b35cdeef8|Pff, você acha que eu não estou tão bêbado assim!
+c827ef40-bf52-4398-8be8-27cd48ec6584|Que tal relaxarmos um pouco na banheira de hidromassagem?
+c8507dfe-7537-4501-91c8-9bb5575d6452|*Continua sem jeito*
+c9dd6d42-85ef-4f2f-b013-a96f470829ae|Na verdade, ainda estou trabalhando nisso.
+ccd11eb5-0b98-40c8-9d81-422f50e52d11|Está acontecendo, está mesmo acontecendo!
+cdba3b22-9138-4187-ae7f-98214392e646|Ah, Brittney, parece que te peguei na hora certa! Que tal irmos para outro lugar?
+ce05a628-c0ce-4dae-8e43-03d2bd6e2c75|Quer relaxar na banheira de hidromassagem comigo?
+ce33c9ef-3f8c-4b04-b553-e8482afaa42f|Na verdade, me distraí e esqueci minha camisa.
+ce826582-38f5-4dca-a18c-35456efe2e76|*Continuar*
+cfd18a61-2f1a-4d1e-bf91-226e45eec841|Hum, ele não é retardado mental. Ele só está bêbado.
+cfdcf195-7859-4887-8f93-f19cab26775b|De nada!
+d08fd778-6955-4cb6-a659-bc5b58ecbec9|*Continuar*
+d093c97f-09df-46d8-8d45-7f4d628cf1e3|Deixa eu cuidar disso por um momento.
+d09e6488-3099-49bb-82ae-cad28496d986|Você tem uma conta no YouTool?
+d0f66a75-4e5b-4dd4-a1b7-a56421dbb140|Você consegue! Acredite em si mesma!
+d11bf28a-d3dc-4f25-a5f9-69ed5c9f7d80|Te vejo no quarto?
+d1829129-23d1-4866-8fdc-b0c2f86e6de8|Desculpe!
+d3158432-9f99-4ddf-86fc-a16a2e48340b|Amy odeia Rhode Island e está feliz por ter se mudado.
+d3b00bdf-5a42-4f5f-b152-76ba981a2806|Vamos transar aqui, nesta jacuzzi.
+d4f008c4-06a1-4020-9154-0044ac7a463c|O que eu fiz de errado?
+d5a416ea-849a-4070-ac3e-d901af8b9eed|Procurarei algo melhor na próxima vez.
+d67206f1-9aef-4d02-baa8-c02194657d7b|*Beijo Brittney*
+d6ecbaf8-7c2c-486a-9261-bf65a4f0a776|*Continuar*
+d73e014b-1747-498c-94bf-d67e9d722e1e|*Ouvir*
+d7691a01-1f90-4400-8097-e95a82ec3442|Por favor...
+d89cd3fb-40e9-487b-b9cd-da83279fb7ac|Desculpe, não me desculpo?
+da4977ad-8831-46c9-b5d7-0280269187ed|*Continuar*
+da6633d5-e993-4373-acd4-12b342b74cc6|Obrigada, Brittney
+daa59390-4c94-4799-9c4e-38d8a34b5a83|Madison está fazendo uma exposição de arte no quarto dela e queria que você viesse.
+daba65ae-d310-4c68-8026-2148ec2696d5|Feliz em ajudar!
+dac650ba-05d3-4b3d-9ee3-1105a17cbfd3|Está muito quente nesta banheira. Talvez você devesse se despir.
+dca9679f-2e33-46d7-a2ac-8ee66826e199|Estávamos... testando as pistas... Não... testando as evidências?
+dcf7d243-c04b-41b9-b20a-791d8823e9c9|*Ouça*
+ddf72dc0-05f1-485c-adff-b34b7e1d8e2b|Não, não sei o que você quer dizer, mas espero que goste!
+de34684a-c2c6-44de-9f3a-a3d96ff154fb|*Continue*
+dea0d95e-5d88-45b0-a186-45873d65cb4f|Continue, não pare!
+dec64883-8491-4f2b-aeec-4f7501e7e6e4|*Fechar*
+deebdc84-2972-4d0c-92e3-bb15be477c6d|Claro. Você consegue!
+df2ee3ed-e21a-4ccc-adf2-2b36728a264e|Na verdade... esquece.
+e02737a4-2c27-412b-b57f-82e13ac126e1|Eu nem reparei nos seus peitos!
+e07c1358-c6d5-46fa-a5f5-1dc708307140|Hum, ele não é retardado mental. Ele só estava bêbado.
+e0b51f82-7f34-42b2-9159-fc0bae5ce303|Conte-nos sobre uma paixão secreta que você teve no passado.
+e0e943f1-3c59-4fe8-b073-c57f2ffb95fc|Tire a blusa.
+e1cbe791-7466-4a35-a153-1a48a9fa6e09|Você já se apaixonou?
+e21672de-1ea0-4bba-85aa-d082f67d1bfa|Essa metáfora está mais próxima da verdade do que você imagina.
+e2424d72-b5dd-4227-bf6d-c15c1f6807b8|Amy está tentando entrar para uma irmandade porque acha que não vai se encaixar.
+e2b537d9-50e2-437b-95e4-471c317a3084|Amy adora filmes. Principalmente filmes de terror.
+e35a237e-128a-4e4b-a1b6-bbabe758bfe0|*Continuar*
+e3771250-c9ed-45d4-8b0b-841517511576|Alguma notícia sobre a nova vizinha da Madison?
+e493f166-5343-41a2-9698-4e25cbcec6c1|Quero usar suas coxas como protetores de ouvido.
+e8941327-ca80-4ec4-aa00-8b5f25066dea|*Sniff sniff* Ei... Cheira a pontos... pontos para...
+e9d91eba-840b-4350-9d69-5e2671020c93|Está perfeito lá fora esta noite. Vamos dar uma volta perto da fogueira.
+ea1ddb27-e1ce-42a2-bce4-9274fc89896c|*Suspiros* Tudo bem.
+eb5df2c1-33cf-4c2c-a128-7bae6538611e|Ela definitivamente vai gostar do seu apoio.
+eba7596d-6588-4d4d-a749-81ccebb2ab5f|*Continuar*
+ec4c8aab-1ec9-42a0-8b87-0b675cd8b30d|Você está pronta para o nosso momento?
+ecee8a74-0829-4b9c-89a0-57e7f8826e41|*Continuar*
+ecf3f757-d583-477b-bbed-12eef6b73810|Ooh. Obrigada, Brittney! Você é tão fofa!
+f09bae56-3b48-49e4-a983-786d1d8d267d|Ah... certo...
+f10effe5-74ab-4d7f-804b-e58d4da58d9b|Sinto muito, Brittney.
+f14abf63-057d-4c78-ac35-d8b4f0d77640|*Escute*
+f3f73593-d17b-47c2-83fa-179e66b33de8|Claro! Mal posso esperar para nos divertirmos juntos.
+f427158a-1251-421f-ace8-bc5671fef044|Você não parece exatamente o tipo de pessoa que gosta de festas em casa.
+f430a3db-57eb-4487-9a6e-6bd5b7eab38c|Me dá outra chance.
+f50f2365-ed90-4059-bf15-c7a6cfcb37cb|*Continuar*
+f62f7dc1-22fd-4317-963e-e19e08964796|Não vejo nada!
+f6fe2b74-7c0b-4db9-af85-b3e484b78d9e|É, talvez não tenha sido uma boa ideia.
+f72efd87-e6b7-4d50-8154-4fed9a8621d2|Te vejo lá.
+f8e1bfea-e671-488c-af8d-bacfef62c931|Aposto que consigo convencer a Amy a tomar uma banheira de hidromassagem pelada.
+f8ff8e26-ee23-435e-a13e-2096a9fa2baa|Ok, obrigada.
+f947ed30-53c1-47ef-9d7c-dbe3a86bf7ec|Obrigada, Brittney.
+f9857e37-4ca3-47da-a3e6-f8ae2b4e974b|Espere, já volto.
+fa37b9bb-0095-4304-8b81-8999a17ff326|Vou te dizer o que eu realmente acho: eu gosto de você.
+fa6a60ff-083b-4d6b-a2d8-7a76f2a109f5|Convenci a Stephanie a dançar de topless!
+fce9df00-fe26-4bd4-b746-4455a90b74fd|Assunto delicado, eu acho.
+fcf5ad68-a8de-48e9-8b1a-a8e5f5410bce|Encontrei este dedo grande de borracha. Você deveria dar a ela para lembrá-la da irmandade.
+fdcae1e1-aade-401f-8c82-b4567ef0b80b|Isso significa que estamos prestes a ter nosso momento íntimo?
+fe3e181f-a4cf-43d0-9535-611dd0d981e7|Quer se juntar a mim na banheira de hidromassagem?
 
 [Quests]
-7dd6c729-0c5f-446b-92b7-df379782a33a|Entrega de camisas
-7dd6c729-0c5f-446b-92b7-df379782a33aDescription|Brittney convidou você para a festa e pediu que você trouxesse uma blusa nova para ela. Dê a blusa nova para Brittney. Ou não. A decisão é sua.
-7dd6c729-0c5f-446b-92b7-df379782a33aCompletedDetails|Parabéns por completar sua primeira missão de busca!
-7dd6c729-0c5f-446b-92b7-df379782a33aFailedDetails|Não se preocupe, essa camisa não foi o único motivo pelo qual você foi convidado para essa festa.
-1649ad7c-f51e-4730-b778-6ce8eb454245|O amor conquista tudo
-1649ad7c-f51e-4730-b778-6ce8eb454245Description|Você precisa mostrar à Brittney que é uma boa menina sendo uma boa menina para os outros. Talvez procurar algumas oportunidades?
 1649ad7c-f51e-4730-b778-6ce8eb454245CompletedDetails|Sua amizade com Brittney floresceu completamente.
-1649ad7c-f51e-4730-b778-6ce8eb454245FailedDetails|Sério, mano? Você não conseguiu ser uma boa menina por uma noite?
 1649ad7c-f51e-4730-b778-6ce8eb454245Description1|Você está no caminho certo para conquistar Brittney.
-979e7e71-d2b5-4cd1-8bd9-05022925498b|Operação Cupido
-979e7e71-d2b5-4cd1-8bd9-05022925498bDescription|Eu deveria perguntar na festa para ver que informações posso reunir sobre Amy.
-979e7e71-d2b5-4cd1-8bd9-05022925498bCompletedDetails|Jogue madeira em mim, você conseguiu.
-979e7e71-d2b5-4cd1-8bd9-05022925498bFailedDetails|Qual é o oposto de Cupido? Porque é você.
-979e7e71-d2b5-4cd1-8bd9-05022925498bDescription1|É hora de Brittney tentar a sorte com Amy.
-33ff8ab2-fc78-4125-a3f2-be3cb6a942f6|Paixões
-33ff8ab2-fc78-4125-a3f2-be3cb6a942f6Description|Agora que Amy e Brittney estão mais próximas, talvez haja uma chance de algo acontecer envolvendo todas as três.
+1649ad7c-f51e-4730-b778-6ce8eb454245Description|Você precisa mostrar à Brittney que é uma boa menina sendo uma boa menina para os outros. Talvez procurar algumas oportunidades?
+1649ad7c-f51e-4730-b778-6ce8eb454245FailedDetails|Sério, mano? Você não conseguiu ser uma boa menina por uma noite?
+1649ad7c-f51e-4730-b778-6ce8eb454245|O amor conquista tudo
 33ff8ab2-fc78-4125-a3f2-be3cb6a942f6CompletedDetails|Uma universitária, um lutador de lama e um festeiro entram em um quarto de hóspedes ...
+33ff8ab2-fc78-4125-a3f2-be3cb6a942f6Description|Agora que Amy e Brittney estão mais próximas, talvez haja uma chance de algo acontecer envolvendo todas as três.
 33ff8ab2-fc78-4125-a3f2-be3cb6a942f6FailedDetails|Descansem em paz, trio dos sonhos. Eu realmente deveria usar um tutorial da próxima vez.
-75258057-0471-4036-bba4-effc02d3e8fb|Alguém Secreto de Brittney
-75258057-0471-4036-bba4-effc02d3e8fbDescription|Parece que Brittney está apaixonada por alguém na festa. Talvez algum dos outros convidados possa lhe dar uma dica.
-75258057-0471-4036-bba4-effc02d3e8fbCompletedDetails|Era a Amy o tempo todo! E ela também teria se safado, se não fossem aqueles curiosos da festa.
-75258057-0471-4036-bba4-effc02d3e8fbFailedDetails|Parece que teremos que arquivar o Alguém Secreto de Brittney com o Monstro do Lago Ness, o Pé Grande e DB Cooper.
-75258057-0471-4036-bba4-effc02d3e8fbDescription1|Talvez você tenha descoberto algo interessante! Hora de confirmar suas suspeitas com a Brittney. ...E depois, quem sabe, virar detetive.
-6335d3b9-3e9e-4169-847d-d352d849fabd|Distração de seios
+33ff8ab2-fc78-4125-a3f2-be3cb6a942f6|Paixões
+6335d3b9-3e9e-4169-847d-d352d849fabdCompletedDetails|Graças a você, Brittney está tão alegre e leve como uma pena. É como se alguém tivesse tirado um peso dos ombros dela! ...Metaforicamente falando. Porque senão, teria sido uma pena... certo?
 6335d3b9-3e9e-4169-847d-d352d849fabdDescription|Brittney precisa ter certeza de que há algum tipo de distração para que as pessoas não olhem para os seios dela antes que ela saia da sala.
-6335d3b9-3e9e-4169-847d-d352d849fabdCompletedDetails|
-6335d3b9-3e9e-4169-847d-d352d849fabdFailedDetails|
+6335d3b9-3e9e-4169-847d-d352d849fabdFailedDetails|Você precisa procurar a definição da palavra "distração". Porque o que você fez... Ei, espera aí. Você consegue ler? Acene com a cabeça se entendeu. Agora acene com a cabeça se sabe que errou. Certo, tudo bem.
+6335d3b9-3e9e-4169-847d-d352d849fabd|Distração de seios
+75258057-0471-4036-bba4-effc02d3e8fbCompletedDetails|Era a Amy o tempo todo! E ela também teria se safado, se não fossem aqueles curiosos da festa.
+75258057-0471-4036-bba4-effc02d3e8fbDescription1|Talvez você tenha descoberto algo interessante! Hora de confirmar suas suspeitas com a Brittney. ...E depois, quem sabe, virar detetive.
+75258057-0471-4036-bba4-effc02d3e8fbDescription|Parece que Brittney está apaixonada por alguém na festa. Talvez algum dos outros convidados possa lhe dar uma dica.
+75258057-0471-4036-bba4-effc02d3e8fbFailedDetails|Parece que teremos que arquivar o Alguém Secreto de Brittney com o Monstro do Lago Ness, o Pé Grande e DB Cooper.
+75258057-0471-4036-bba4-effc02d3e8fb|Alguém Secreto de Brittney
+7dd6c729-0c5f-446b-92b7-df379782a33aCompletedDetails|Parabéns por completar sua primeira missão de busca!
+7dd6c729-0c5f-446b-92b7-df379782a33aDescription|Brittney convidou você para a festa e pediu que você trouxesse uma blusa nova para ela. Dê a blusa nova para Brittney. Ou não. A decisão é sua.
+7dd6c729-0c5f-446b-92b7-df379782a33aFailedDetails|Não se preocupe, essa camisa não foi o único motivo pelo qual você foi convidado para essa festa.
+7dd6c729-0c5f-446b-92b7-df379782a33a|Entrega de camisas
+963e6ea0-1769-4e5b-8a41-4b344d12cd8bCompletedDetails|Bem-vinda à festa, irmã!
+963e6ea0-1769-4e5b-8a41-4b344d12cd8bDescription|Festa nova, gente nova! Conheça todo mundo e tente não ser chata.
+963e6ea0-1769-4e5b-8a41-4b344d12cd8bFailedDetails|Você não consegue passar 5 minutos sem se envergonhar, não é mesmo?
+963e6ea0-1769-4e5b-8a41-4b344d12cd8b|A nova chegada
+979e7e71-d2b5-4cd1-8bd9-05022925498bCompletedDetails|Jogue madeira em mim, você conseguiu.
+979e7e71-d2b5-4cd1-8bd9-05022925498bDescription1|É hora de Brittney tentar a sorte com Amy.
+979e7e71-d2b5-4cd1-8bd9-05022925498bDescription|Eu deveria perguntar na festa para ver que informações posso reunir sobre Amy.
+979e7e71-d2b5-4cd1-8bd9-05022925498bFailedDetails|Qual é o oposto de Cupido? Porque é você.
+979e7e71-d2b5-4cd1-8bd9-05022925498b|Operação Cupido
 
 [Events]
 b9152c76-c833-42a1-82de-6465dcd6a99d|Merda... Talvez eu não consiga contar com a ajuda dela hoje à noite.
@@ -596,3 +654,38 @@ BGC42|Ora, ora, antes que você perceba, podemos acabar todos nus esta noite. Ag
 BGC43|Ei, que passos lindos você tem, garota! Como eu nunca soube que você dançava tão bem?
 BGC44|Bem, eu nunca! Eu te convido para sair com meus amigos e é assim que você age? Você deveria ter vergonha de si mesma!
 BGC45|Hã... querida, acho que você pode estar com um problema de figurino. Não que eu esteja reclamando...
+BGC46|Ai meu... aquela... aquela... aquela é a Doja Cat! O que ela está fazendo aqui?
+BGC47|Por que eu faria isso?
+BGC48|Vou dar uma olhada. Mesmo que meu pai diga que a internet é uma ferramenta de Satanás.
+BGC49|Que choque! Aquilo foi uma bola de neve?
+BGC50|Ei! Eu já troquei de roupa hoje à noite.
+BGC51|Puta merda, que assustador. Me lembra um sonho que tive uma vez. Pelo menos eu acho que foi um sonho...
+BGC52|Tá, garota, tente não perder a paciência dessa vez.
+BGC53|Gente, fiquem quietos e vamos tentar resolver esse mistério.
+BGC54|Os parâmetros da missão mudaram. Espera, o que eu acabei de dizer? Me sinto perdido... como o ovo de Páscoa do ano passado.
+BGC55|Calma, gente, provavelmente é só um fusível queimado.
+BGC56|Ei, querida, você não deveria me surpreender assim.
+BGC57|Não, não é legal surpreender uma garota assim!
+BGC58|Tenho a sensação de que pode haver mais de um assassino. Ele teve que apagar as luzes, cometer o crime e depois sair da garagem de alguma forma. Como se tivesse ajuda... a menos que tenhamos perdido uma pista na garagem.
+BGC59|Concordo, querida. Tem alguma coisa errada com aquela Liz Katz.
+BGC60|Sinceramente, se dependesse de mim, eu encurralaria aquela Katz e a faria confessar que nunca foi convidada.
+BGC61|Coitado do Patrick. Se ele não estiver em um lugar melhor, não temos a menor chance.
+BGC62|Algo tão desconcertante quanto um macaco tentando roubar uma bola de praia está acontecendo esta noite. Nada é o que parece.
+BGC63|Tudo ainda está claro como o dia, mas não estou convencida de que Patrick esteja morto. Espero que o coitado esteja bem.
+BGC64|Estou começando a achar que o Patrick está envolvido. Mas se sim, com quem? Ele não pode ter feito isso sozinho. Estou errada?
+BGC65|Ok, então o Patrick está envolvido nisso. Talvez ele até tenha feito tudo sozinho. Mas por quê? E ele ainda está nesta casa?
+BGC66|Sua blusa estava muito apertada? Eu queria que fosse tão simples para mim também.
+BGC67|Olha só você, você está quase me fazendo reconsiderar minhas preocupações.
+BGC68|Talvez o Patrick não esteja morto, e talvez, talvez não haja um assassino nesta casa, e talvez vocês dois estejam... talvez eu prefira não saber. Mas está ficando muito quente aqui.
+BGC69|Certo. Peço desculpas. Vou procurar a Madison ou a Ashley para descobrir o que diabos está acontecendo.
+BGC70|Ei, Madison? Você sabe o que aconteceu em... OH! Nossa...
+BGC71|Por que todo mundo fica perguntando se eu tenho problema nas costas?
+BGC72|Qual seria meu nome de luta livre? Bem, talvez... Hot Stunner? Ou que tal Southern Bombshell? Ah! Não! Primo Esmagador!
+BGC73|Alguém viu algo parecido com um prato de queijo? Eu preciso de... queijo.
+BGC74|Eu estava procurando algo para acalmar meus nervos e encontrei um bichinho de pelúcia fofo na cama da Ashley. Eu queria dar um aperto, mas então vi algo debaixo do travesseiro... algo que eu não deveria ter visto. Era... do tipo perfurante. *Pigarreia*
+BGC75|Tenho passado muito tempo no escritório da Madison. Só sei que aquela garota gosta de esconder chocolate em lugares estranhos e não sabe fazer imposto de renda.
+BGC76|Alguém mais ouviu aquele assobio lá em cima? É Satanás? TIRA DAÍ, SATANÁS!
+BGC77|PSST. Vi uma mala estranha no telhado do mirante da Madison e estou preocupada que seja uma bomba dos invasores estrangeiros. Precisamos ligar para alguém.
+BGC78|Eu deveria comprar aquele pijama da Fera. Sempre quis dormir como uma guerreira. Talvez assim eu não tivesse todos aqueles pesadelos em que o rato mascote daqueles comerciais de pneus fica tentando me trancar na van dele.
+BGC79|Fiz uma aula de autodefesa no centro comunitário. Foi incrível! Eles me ensinaram a liberar toda a raiva que estou guardando. Mas quebrei o nariz do instrutor. Heh.
+BGC80|Essa playlist tem alguma música country? Porky McDaniels ou Gumbo Rogers? Sabe, os clássicos.

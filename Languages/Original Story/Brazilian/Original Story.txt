@@ -12,52 +12,71 @@ LockedDoor|Está trancado
 CantDoThat|Você não pode fazer isso.
 
 [Item Names]
-Mama Chupacabra's|Mama Chupacabra's
-Laxatives|Laxantes
-Stingy Pinchy Boi|Mesquinho Pinchy Boi
-Cucumber|Pepino
-Dark Long Sleeve Women's Top|Blusa feminina escura de manga comprida
-Fireplace|Lareira
-Fast Food Bag|Sacola de Fast Food
-Paper Bag Crunched|Saco de papel amassado
-Sleeping Mask|Máscara de dormir
-Sundress|Vestido de verão
-Sunglasses|Óculos de sol
+A Dildo|Um vibrador
+A Phone|Um telefone
+AC Unit|Ar condicionado
+Air Vent|Saída de ar
+Airvent ArtRoom|Saída de ar
+Airvent DiningRoom|Saída de ar
+Airvent DownstairsGuestBathroom|Saída de ar
+Airvent Kitchen|Saída de ar
+Airvent LaundryRoom|Saída de ar
+Airvent LivingRoom|Saída de ar
+Airvent MasterBathroom|Saída de ar
+Airvent MasterBedroom|Saída de ar
+Airvent SpareRoom|Saída de ar
+Airvent Study|Saída de ar
+Airvent UpstairsGuestBathroom|Saída de ar
+Amala|Amala
 Amy|Amy
 Arin|Arin
 Armchair|Poltrona
-Window|Janela
-Ashley|Ashley
+Ashley's Clothes|Roupas da Ashley
 Ashley's Panties|Calcinhas da Ashley
 Ashley's Top|Top da Ashley
-Media Dock|Doca de mídia
+Ashley|Ashley
+Back|Voltar
 Bathroom Door|Porta do banheiro
+Bathroom Skeleton Key|Chave Mestra do Banheiro
+Battery Pack|Bateria
 Bed (L)|Cama (E)
 Bed (R)|Cama (D)
 Bedroom Closet Door (L)|Porta do armário do quarto (E)
 Bedroom Closet Door (R)|Porta do armário do quarto (D)
 Bedroom Door|Porta do quarto
 Bike Lock|Cadeado de bicicleta
-Tiny Key|Chave minúscula
+Bin|Lixeira
 Blue Hair Dye|Tintura de cabelo azul
+Blueprints|Projetos
+Box of Nails|Caixa de Pregos
+Breaker Panel|Painel de disjuntores
+Briefcase|Pasta
 Brittney|Brittney
 Broom|Vassoura
 Bug Zapper|Mata-insetos
 Cabernet|Cabernet
 Cabinet (L)|Gabinete (E)
 Cabinet (R)|Gabinete (D)
+Cabinet|Gabinete
 Camera|Camara
 Cat Picture|Photo de un Gato
 Cell Phone Jammer|Bloqueador de teléfono
 Chardonnay|Chardonnay
-Chicken|Pollo
 Chicken Nuggets|Nuggets de Pollo
-Mama Chupacabra’s|Mama Chupacabra's
-Chocolate Syrup|Calda de chocolate
+Chicken|Pollo
 Chocolate Bar|Barra de Chocolate
-Laxative|Laxante
+Chocolate Syrup|Calda de chocolate
 Closed Briefcase|Maleta Fechada
-Ashley's Clothes|Roupas da Ashley
+Closed Toilet|Banheiro fechado
+Closet Door (L)|Porta do armário (E)
+Closet Door (R)|Porta do armário (D)
+ClothesCustomCantDoThatMessage|Não preciso lavá-lo...
+Clue #1|Pista nº 1
+Clue #2|Pista nº 2
+Clue #3|Pista nº 3
+Clue #4|Pista nº 4
+Clue #5|Pista nº 5
+Cock Keyring|Chaveiro de Galo
 Coffee|Café
 Collar|Colar
 Compubrah|Compubrah
@@ -67,87 +86,135 @@ Couch (L)|Sofá (E)
 Couch (M)|Sofá (M)
 Couch (R)|Sofá (D)
 Credit Card|Cartão de crédito
+Cucumber|Pepino
+DVD|DVD
 Dan|Dan
+Dark Long Sleeve Women's Top|Blusa feminina escura de manga comprida
 Dead Snake|Cobra Morta
-Derek|Derek
 Derek's Shirt|Camisa do Derek
+Derek|Derek
+Desk Drawer (L)|Gaveta de mesa (E)
+Desk Drawer (R)|Gaveta de mesa (D)
+Dining Chair 2|Cadeira de jantar 2
+Dining Chair|Cadeira de jantar
+Dining Room TV|TV da Sala de Jantar
+Discarded Magazine|Revista Descartada
+DLiciousOutfitCustomCantDoThatMessage|Não preciso lavá-lo...
+Doja Cat's MP3 Player|MP3 Player da Doja Cat
+Doja Cat|Doja Cat
 Drawer (L)|Gaveta (E)
 Drawer (R)|Gaveta (D)
-Madison's Diary|Diário da Madison
-Dining Chair|Cadeira de jantar
-Dining Chair 2|Cadeira de jantar 2
-Mound of Dirt|Monte de terra
-A Dildo|Um vibrador
-Open Toilet|Banheiro aberto
 Dresser|Cômoda
-Dryer|Secadora
+Drone|Drone
+Dryer Door|Porta da secadora
 Dryer Seat|Assento de secadora
+Dryer|Secadora
+Duct Tape|Fita adesiva
+Dusty Penguin|Pinguim empoeirado
 DVD|DVD
-Vape|Vaporizador
 Eggs|Ovos
+El Escorpion Mezcal|El Escorpion Mezcal
 Empty Cup|Copo vazio
+Empty Vodka Bottle|Garrafa de Vodka Vazia
 Face Cream|Creme para o rosto
+Fast Food Bag|Sacola de Fast Food
 Faucet|Torneira
 Fifty Dollars|Cinquenta Dólares
+Film Camera|Câmera de filme
 Fire Pit|Fogueira
+Fireplace|Lareira
 Flask|Frasco
 Flower|Flor
 Foam Finger|Dedo de espuma
-Frank|Frank
 Frank's Chair|Cadeira do Frank
+Frank|Frank
+Freezer|Freezer
 Fridge|Geladeira
+Front Door|Porta da frente
+Garage Air Vent|Ventilação de garagem
 Garage Door|Porta da garagem
 Gastronomy Book|Livro de Gastronomia
+Gazebo Fuse Box|Caixa de fusíveis do gazebo
+Glasses|Óculos
+Goodbye Kitty Underwear|Calcinha de Goodbye Kitty
 Gut Grip|Boa aderência
 Gutter|Calha
-Hot Tub Stairs|Escadas de hidromassagem
-Hot Tub (R)|Banheira de hidromassagem (D)
-Hot Tub (L)|Banheira de hidromassagem (E)
+Hammer|Martelo
 Hot Tub (B)|Banheira de hidromassagem (T)
 Hot Tub (F)|Banheira de hidromassagem (F)
-Whack Spankiel's|Whack Spankiel's
+Hot Tub (L)|Banheira de hidromassagem (E)
+Hot Tub (R)|Banheira de hidromassagem (D)
+Hot Tub Stairs|Escadas de hidromassagem
+Hot Tub Cover Stage|Palco de cobertura para banheira de hidromassagem
+Hot Tub Cover|Capa para banheira de hidromassagem
+Hot Tub|Hidromassagem
+Jack Daniel's|Jack Daniel's
 Joint|Articulação
 Katana|Katana
 Katherine|Katherine
 Kettle|Chaleira
-Bathroom Skeleton Key|Chave Mestra do Banheiro
-Mysterious Key|Chave Misteriosa
-Cock Keyring|Chaveiro de Galo
-Cabinet|Gabinete
+Key2CustomCantDoThatMessage|A chave é um pouco grande demais...
+KeychainCustomCantDoThatMessage|*Você sente algo como um Patrick... produzindo evacuações violentas...*
+KeyCustomCantDoThatMessage|A chave é um pouco grande demais...
+Knife|Faca
 Laptop|Notebook
 Laundry Room Door|Porta da lavanderia
 Lawn Chair|Cadeira de gramado
+Laxatives|Laxantes
+Laxative|Laxante
 Leah|Leah
 Lety|Lety
-Dining Room TV|TV da Sala de Jantar
-Back|Voltar
-Play All|Reproduzir tudo
-Loop Track 5|Reproduzir faixa 5
-Loop Track 4|Reproduzir faixa 4
+Liz Katz's Butt|Bunda da Liz Katz
+Liz Katz|Liz Katz
 Loop Track 1|Reproduzir faixa 1
-Loop Track 6|Reproduzir faixa 6
-Loop Track 3|Reproduzir faixa 3
 Loop Track 2|Reproduzir faixa 2
+Loop Track 3|Reproduzir faixa 3
+Loop Track 4|Reproduzir faixa 4
+Loop Track 5|Reproduzir faixa 5
+Loop Track 6|Reproduzir faixa 6
+MP3 Player|MP3 Player
+Madison's Diary|Diário da Madison
 Madison|Madison
-A Phone|Um telefone
+Mama Chupacabra's|Mama Chupacabra's
+Mama Chupacabra’s|Mama Chupacabra's
 Marijuana|Maconha
 Master Bathroom Door|Porta do banheiro principal
 Master Bedroom Door|Porta do quarto principal
+Matchbox|Caixa de fósforos
 Mayonnaise|Maionese
+Media Dock|Doca de mídia
 Merlot|Merlot
-Microwave|Microondas
+Microwave Door|Porta de micro-ondas
+Microwave|Micro-ondas
 Money Makers Monthly|Criadores de dinheiro mensais
 Motor Oil|Óleo de motor
-MP3 Player|Leitor de MP3
+Mound of Dirt|Monte de terra
 Mug|Caneca
+Murderer's Hammer|Martelo do Assassino
+Mysterious Key|Chave Misteriosa
+Nana's Special Mistletoe|Visco Especial da Nana
+Natty Lite 10|Natty Lite 10
+Natty Lite 11|Natty Lite 11
+Natty Lite 12|Natty Lite 12
+Natty Lite 13|Natty Lite 13
+Natty Lite 14|Natty Lite 14
+Natty Lite 1|Natty Lite 1
+Natty Lite 2|Natty Lite 2
+Natty Lite 3|Natty Lite 3
+Natty Lite 4|Natty Lite 4
+Natty Lite 5|Natty Lite 5
+Natty Lite 6|Natty Lite 6
+Natty Lite 7|Natty Lite 7
+Natty Lite 8|Natty Lite 8
+Natty Lite 9|Natty Lite 9
+Natty Lite Open|Natty Lite Aberto
 Natty Lite|Natty Lite
-Nightstand Drawer 1|Gaveta de mesa de cabeceira 1
 Nightstand (L)|Mesa de cabeceira (E)
 Nightstand (R)|Mesa de cabeceira (D)
+Nightstand Drawer 1|Gaveta de mesa de cabeceira 1
 Office Chair|Cadeira de escritório
-Desk Drawer (L)|Gaveta de mesa (E)
-Desk Drawer (R)|Gaveta de mesa (D)
 Open Briefcase|Pasta aberta
+Open Toilet|Banheiro aberto
 Orange Bin|Lixeira Laranja
 Outside Sofa (L)|Sofá externo (E)
 Outside Sofa (M)|Sofá externo (M)
@@ -155,82 +222,107 @@ Outside Sofa (R)|Sofá externo (D)
 Outside Sofa 2 (L)|Sofá externo 2 (E)
 Outside Sofa 2 (M)|Sofá externo 2 (M)
 Outside Sofa 2 (R)|Sofá externo 2 (D)
-Painting and Easel|Pintura e Cavalete
+Paddock Button|Botão Paddock
 Painkillers|Analgésicos
+Painting and Easel|Pintura e Cavalete
 Pantry Door (L)|Porta da despensa (E)
 Pantry Door (R)|Porta da despensa (D)
-Paper|Papel
+Paper Bag Crunched|Saco de papel amassado
 Paper Bag|Saco de papel
+Paper|Papel
 Patio Armchair (L)|Poltrona de pátio (E)
 Patio Armchair (R)|Poltrona de pátio (D)
+Patrick's Head|Cabeça do Patrick
+Patrick's Phone|Telefone do Patrick
 Patrick|Patrick
 Pencil|Lápis
-Dusty Penguin|Pinguim empoeirado
+PenguinCustomCantDoThatMessage|Eles ainda não estão prontos para serem amigos de barbatana!
 Petition|Petição
 Phone Call|Chamada telefônica
 Phone2|Telefone 2
-Patrick's Phone|Telefone do Patrick
-Goodbye Kitty Underwear|Calcinha de Goodbye Kitty
 Pizza Box|Caixa de pizza
-You|Você
-Practice!|Prática!
+PlanksFortificationExtraNails|Barricada
+Play All|Reproduzir tudo
+Plexiglass Stage|Palco de Plexiglass
+Plexiglass|Plexiglass
 Popcorn|Pipoca
-Wizbanger Poppers|Wizbanger Poppers
 Potatoes|Batatas
 Pouf|Saco de feijão
+Practice!|Prática!
 Printer|Impressora
 Rachael|Rachael
-TV Remote|Controle remoto da TV
 Ripped Whale Poster|Pôster de Baleia Rasgado
+Room Door|Porta do quarto
 Router|Roteador
 Rum|Rum
+SD Card|Cartão SD
 Safe|Cofre
 Salami|Salame
 Salmon|Salmão
 Satchel|Mochila
-El Escorpion Mezcal|El Escorpion Mezcal
-SD Card|Cartão SD
+Scorpion Tequila|Tequila Escorpião
+Sleazy Sancho|Sancho Sleazy
+Sleeping Mask|Máscara de dormir
 Slider Door|Porta de correr
-Closet Door (L)|Porta do armário (E)
-Closet Door (R)|Porta do armário (D)
+Snowball Bucket|Balde de bolas de neve.
 Soda|Refrigerante
 Sofa (L)|Sofá (E)
 Sofa (R)|Sofá (D)
-Room Door|Porta do quarto
 Spare Room Chair|Cadeira de quarto de hóspedes
 Spare Room Door|Porta do quarto de hóspedes
 Spare Room Sofa (L)|Sofá de quarto de hóspedes (E)
 Spare Room Sofa (M)|Sofá de quarto de hóspedes (M)
 Spare Room Sofa (R)|Sofá de quarto de hóspedes (D)
-Speaker|Buzina
+Speaker|Alto falante
 Spoon|Colher
 Spray Paint|Tinta spray
 Starbomb Box|Caixa Starbomb
+Step Stool|Banquinho
 Stephanie|Stephanie
+Stingy Pinchy Boi|Escorpião perigoso.
 Stove|Forno
 Study Door|Porta do estudo
+Sundress|Vestido de verão
+Sunglasses|Óculos de sol
+Suspicious Hole|Buraco Suspeito
 Sweeties|Doces
+TV Remote|Controle remoto da TV
 Tablet|Tablet
-Sleazy Sancho|Sancho Sleazy
+Tentacle|Tentáculo
 Terrarium|Terrário
-Thermos|Garrafa térmica
 Thermostat|Termostato
+Thermos|Garrafa térmica
+Tiny Key|Chave minúscula
 Toaster|Torradeira
+Towel2|Toalha 2
+Towel3|Toalha 3
 Towel|Toalha
 Trash Can|Cesto de lixo
-Upstairs Bathroom Door|Porta do banheiro no andar de cima
-Closed Toilet|Banheiro fechado
+Trunk Key|Chave do porta-malas
+Trunk|Porta-malas
 USB Stick|Pen drive USB
+Upstairs Bathroom Door|Porta do banheiro no andar de cima
 Utility Closet Door|Porta de armário de utilidades
+Valentine's Chocolates|Chocolates de Dia dos Namorados
 Vanity Chair|Cadeira para maquiagem
+Vape|Vaporizador
 Vibratron 3000|Vibratron 3000
-Vickie|Vickie
 Vickie's Panties|Calcinha da Vickie
-Empty Vodka Bottle|Garrafa de Vodka Vazia
+Vickie|Vickie
+Vodka|Vodka
 Voice Recorder|Gravador de voz
+VoiceRecorderCustomCantDoThatMessage|E desperdiçar uma promoção de US$ 7,99 da Radio Shack em perfeito estado? De jeito nenhum!
 Washer|Máquina de lavar
+Water Main|Cano de água
+Weird Dinosaur Suit|Traje de dinossauro estranho
+Whack Spankiel's|Whack Spankiel's
 Whale Poster|Cartaz da baleia
 Whipped Cream|Chantilly
+Window|Janela
+Wizbanger Poppers|Wizbanger Poppers
+Wood Planks|Tábuas de madeira
+Wrench|Chave inglesa
+You|Você
 
 [Item Actions]
 Sex Radial|Menu radial de Sexo

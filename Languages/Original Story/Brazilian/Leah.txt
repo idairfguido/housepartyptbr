@@ -128,7 +128,7 @@ Name|Leah
 60.2|Franco! Não me admira que você não tenha conseguido atender meus cumprimentos, você está no meio de uma surra!
 61|Sensei Frank, temos uma, hum... criatura solta aqui dentro. Tem uma COBRA na casa.
 61.1|Bem, se você pudesse, sabe, terminar isso, seria ótimo. Porque temos o que pode ser considerado um problema de segurança muito sério. É uma cobra, Frank!
-62|Frank, mas-
+62|Frank, mas...
 63|Não, eu não bebo quando estou trabalhando. Isso me dá nos nervos e tudo mais. Aliás, não deixe o Sensei Frank te ver com isso. Só estou olhando.
 63.1|Ei, me dá isso! Tenho ordens expressas de dar uma surra de bebida na bunda de qualquer um nesta festa. Considere isso seu único passe livre. Da próxima vez que eu te pegar... tenho que fazer o que o Sensei Frank disser.
 63.2|Ei, me dá isso! Você não sabe que o Sensei Frank me colocou a serviço de alguém pego com álcool? Eu gosto de você, então vamos fingir que é daquele cara de camisa florida.
@@ -389,416 +389,459 @@ Name|Leah
 256|Ela é a loira, né? Ela estava lá em cima, no estúdio, da última vez que a vi. Parecia toda triste e tal. Não consegui falar com ela porque estava em patrulha.
 257|Cabelo escuro? Cerca de 1,50 m? Ela parece que consegue correr uma maratona? É, eu já a vi por aí. Eu escuto bastante enquanto ela está em patrulha. Ela parece estar se esforçando muito para ser incluída. Ela é nova no grupo e está tentando encontrar o seu lugar, sabe?
 258|Olha, garota, vou ser sincera com você. Acabei de conhecer essas pessoas hoje à noite, e a única coisa que posso dizer com certeza é que elas são todas malucas. Se alguém está a fim de alguém nessa festa, precisa fazer um exame de consciência.
+259|EI, VOLTEI! Quem me fez fazer isso...
+259.1|Ahhhh minha rainha! É a Doja Cat! É a Doja Cat! E ela está cantando aqui AGORA!
+260|Não, mas eu nunca tinha ido para essa área antes de hoje à noite. Mas tem aquele loiro tarado rondando a festa. Esse cara inspira tudo, menos confiança em mim. Ele tem uma cara que grita "denúncia ambulante de agressão sexual" e, sinceramente, eu ficaria o mais longe possível dele.
+261|Você está falando sério? Parece muito legal, mas eu provavelmente deveria falar com o Frank sobre isso primeiro. Ele é o chefe de operações hoje à noite.
+261.1|Sinceramente, com toda essa merda acontecendo hoje à noite e o Frank não podendo nos ajudar, acho que vou ficar quieta o resto da noite. Talvez, se você precisasse de alguém para te ajudar, devesse ter se certificado de que ele estava por perto. É o que ele faz de melhor.
+262|Nossa! Ei! Droga, você quase levou um chute na gengiva! Acha que consegue acender as luzes de novo?
+263|-- SEM USO --
+264|Esta é a festa mais estranha em que já estive. Vocês estão todos loucos.
+265|Você tem um plano?
+266|E você estava procurando um gorila habilidoso para pegar o assassino?
+267|Certo. Então vamos fazer justiça e vingança nesse desgraçado.
+268|Ah, não, esquece essa de vir aqui me pedir ajuda. Esquece.
+269|Pode apostar! Só preciso decidir se uso o estrangulamento norte-sul, a guilhotina ou o clássico mata-leão duplo.
+270|Está tudo bem, Frank?
+271|E depois dar uma boa surra nele.
+272|Você acha que ele pode não estar morto?
+273|Eu não esperava por isso.
+274|Tenho a sensação de que este não é o caminho da justiça que você quer trilhar comigo.
+275|Não. Não preciso dessas habilidades virtuais quando tenho habilidades da vida real para resolver problemas. Se você mantiver a mente e o corpo em forma e evitar a internet completamente, não precisa se preocupar com esse tipo de problema.
+276|Bem, poderíamos nos revezar vigiando os pontos de acesso e esperar que ele morra de fome. Já fiz desafios de jejum que podem durar alguns dias, mas deve funcionar.
+277|Nossa, para mim? Chocolate é meu doce favorito!
+278|Claro. Todas as pessoas que se prezam deveriam ter um para poderem fazer o mínimo necessário, como girar uma chave inglesa ou trocar um pneu. As pessoas hoje em dia são tão mimadas!
+279|Isso. É isso que está errado com a sociedade atual. Sim, você pode ter. Talvez use você mesmo e aprenda alguma coisa.
 
 [Responses]
-5584eb57-f838-4116-bb56-867565c91f69|Sensei-triplo D? Ah, é! Quer dizer, eu o chamo de Sr. Passas, mas, ei, faça você mesmo.
-a31e44f9-b95f-4288-8d53-54e32a6a0d4b|Então, nada de "Sr. Passas"? Tudo bem, eu fico com essa..."
-32c5670e-f3ce-4b18-ada4-3289d1179a9a|É, exercícios de língua! Quer dizer, é bom para fortalecer a língua. *TIRA AS CALÇAS* Acontece que eu tenho o jeito perfeito de aumentar a resistência.
-53479496-4c4c-43ba-93e1-8893def45e5f|Calma. Então você vai me comer, né? Posso dizer que isso é lição de casa?
-c0ae31d7-aec4-4e1c-85b2-0dabe98c191d|Eu não quero morrer virgem!
-e436ba7d-fcac-4e53-8765-e8012481384b|Sim, senhor. ... Ah, isso não foi literal. Entendido.
-fc67c213-bad0-4675-af33-51c800690472|M-m-mas... alguém, uh, fez cocô no micro-ondas!
-57e48dca-3fcf-4775-88e0-c4284e4384b5|Bem... porra. Eu duvido.
-6b5b6bee-c170-4e9f-8b02-0422a2b93130|Você tem? É, quer dizer... você tem!
-992fa833-d6cb-4b31-bf00-d396a36a9665|Nunca pensei que ouviria você dando desculpas para não fazer nada... mas Tanto faz.
-512afb76-77bb-47b3-9cce-fcee1c815262|*Continuar*
-e287feaa-4192-411a-8edc-91678bab9d54|Gosto de onde sua mente está. E você... hã, deitada, amor! (POV)
-7515dd6d-7091-47ba-a05b-54352219024a|Só me beija. Me beija agora mesmo.
-390c1eba-ca36-4ed7-bcbc-67883dc6b7fa|Tenho que experimentar essa boceta. Fique à vontade...
-66ebdf09-8ad3-4c13-809c-594c57433c65|Você poderia me dar uma enquanto?
-116dadbf-b2ce-4891-a156-4d5b75487860|Sessenta e nove! Vire-se muito rápido...
-a3793253-da63-4c34-a893-c073dd8ebd61|Merda, sim. Isso é... você é incrível! Não pare.
-9c14f9d4-ffd2-4811-8c33-de85245311da|Eu vou... Estou quase lá!
-3b81c716-9ee5-4120-9e34-f330adf636eb|Está tudo bem. Eu... Vou continuar fazendo isso.
-f3aea0bc-641f-43e7-a2aa-34448fb02e92|Ah, droga... desculpe, eu Não consigo me conter... Me desculpe!
-835a9b56-ff64-4461-8911-e3d6404654f8|Droga, o saque dela é-deixa pra lá. Desculpe.
-7b0c40d0-6fe5-4750-90e5-18843617d0b2|E-uh... agora estou bem, mas-MFMFFFRRRFMMMRRR!!
-dd6923cc-67f4-4e5a-8b40-4f9cede2d69f|E-uh... agora estou bem, mas-MFMFFFRRRFMMMRRR!! (POV)
-b753d3b4-98b5-4596-9e91-dbeacf749181|Essas porras estão em excelentes condições! Novinhas... mais ou menos, eu deixo você sabe!
-4d0f001c-70e1-4247-9774-9a84302375ce|A cozinha. Preciso garantir que não tem merda queimando lá dentro. Ou qualquer merda, na verdade.
-d1fce1a7-7a8c-4d93-9386-b5c046444b52|Vamos lá para cima. Provavelmente o melhor lugar para assistir aos ninjas da garganta profunda.
-59271ede-a7c0-4e28-8eed-fdf311ec7b4e|Lá fora, perto daquela árvore no quintal. Acho que vi uma Karen nos espionando por cima da cerca!
-a8739efa-6914-4d20-8582-7aaec36440b9|Vamos esquecer... tudo isso e encontrar um lugar para dançar. Parem com isso Música!
-749c35e1-0ab6-4c93-9f67-89c284ddc7eb|... Deixa pra lá. Frank precisa da sua ajuda para proteger a bebida.
-4190470c-4ec3-40d2-ad87-680d99cce08e|Ah, continue nervoso, ou algo assim, sozinho por um minuto. Eu tenho algo para resolver.
-da6c85d0-398e-46c7-acb4-b4005ccb68e5|Eu te li em alto e bom som.
-343fa2a7-b387-4c1b-822c-1580e2875b67|Ah, qual é...
-d9341919-60f2-41e4-a28f-b10d3debef66|Direto ao ponto. Obrigado, Professora.
-9d922c68-61d4-4348-9334-5525561d0458|Ótimo. Acho que não vamos receber uma resposta dela.
-46603982-fb73-402c-a8e6-275070e12d03|*Acena com a cabeça, mantendo cada uma das suas bolas fechadas*
-482e0cf5-7955-4a66-b6f1-ed25df62bb36|Ótimo.
-5e1196ac-8203-4762-a635-25f5b6a64b47|Ótimo. Mais para nós, então!
-091b4f26-712f-4b43-aaf2-9a6368e02f43|*Socorro!* Anotado!
-0ae9de95-3509-4bd5-9b20-1625d8150137|*Arroto* Valeu, amassador. Espremedor de batatas. ... Mmmm-m-m-amassador. Ha!
-084c97b4-62d9-4f7c-aa87-efa3b9b9522e|Sou muito independente *Soluço!* - Não preciso do seu... hum, sofá. Foda-se o seu sofá!
-277719bb-1adf-4648-9295-fee8a30018e2|Psiu, tenho certeza de que o Frank vai ficar bem. Com certeza!
-74b68c91-26d6-4db8-b722-33d7909ef4aa|Argh. Faça o que tiver que fazer, eu Acho...
-75396ae6-0c4e-4edb-8216-aca9b04ee15a|Bem, uh... tá. Tem certeza de que não quer nem dar uma chance a ele?
-bef2b3a2-5c68-4920-adb8-1ba50d5b27eb|*Continuar*
-9d8deb57-5757-4953-b37c-d0d4b4ce98c4|Tá, bom... te vejo mais tarde.
-ad69b456-1f5c-4375-b8bf-8e63913aca05|*Continuar*
-6c2831ad-f2b4-45f4-95a7-1df49fb85e6b|Obrigado, Professora.
-aad9b717-08a6-4d4d-87d9-cb07830a167d|Que boba, o que eu estava pensando...
-1726c69b-e6a8-4e39-bf32-a5246ccb86f6|Entendo, sem problemas.
-0174a45b-a7bc-4b3a-9e9b-38fb7e84eee3|... V-Vickie?
-256f4a84-c3c8-48d8-94db-dab7dbbedbc9|Você cheira muito bem e está linda com esse moletom!
-e024ff3c-eb9f-47c9-980b-a95634fa9c04|Você passou por muita coisa esta noite. Só queremos te ajudar Relaxa.
-712c27dd-3140-4e17-82ac-72c94e185b53|Você não cheira tão mal assim. Nós vamos permitir.
-79d2c6cc-38cf-4434-a8f9-c41c5e727b9e|Sexo é um bom exercício. Considere-o apenas um treino extra.
-88c0c048-a611-4016-81c8-1beff727e192|Espere aí! Tenho algo muito importante para resolver. Tudo bem, Vickie?
-7be6f12a-3076-4db0-bc9d-66ca76988e3b|Bobagem.
-36a7cb4c-9fd0-47ce-98ad-fbe17e841dbe|Desculpe...
-90d7a6b6-f7fe-4670-a980-93b636cb8c83|Desculpe! Droga.
-6bdd3335-80e9-4b34-b0b2-3a011035a90c|Claro que sim, estou pronta! Vicky?
-0848e4e1-cec9-456d-b0d5-bf688347edba|Ok, nossa... culpa nossa.
-06efa910-b9db-4e35-9a90-c59ad16eceb1|Obrigada, Leah.
-40552849-88f6-49f3-97cd-ccd3597f78b0|*Pegadinha bem-sucedida!*
-81821896-1de6-4247-af19-04c03dd37023|*Continuar*
-5d14fb32-27a3-406f-a8cb-5d61921faec9|Acho que você vai se divertir com isso.
-19742f19-fa6c-4d5b-8d50-3037b13f7eff|Obrigada, Leah.
-5d28c4e9-4e5e-45d7-9c4f-3688dab78bc3|Obrigada, Leah.
-7073c4c3-c7b5-47ec-ab50-03dd7559ca4b|Leah! Estou procurando ameaças, mantendo-me alerta e toda essa merda. Quer explorar comigo?
-9e004590-0c05-4432-a669-001c7cd07bc8|Você pode me dizer se prefere pênis grandes ou bolas grandes?
-961aaaeb-d4e2-4b2f-b689-6f90d2fe60e6|Frank saiu do prédio. Você se importa se algum de nós ficar bêbado agora?
-78d50c94-aed7-4955-8624-2648cedd8652|Mestre, você me permite uma bebida agora?
-41648e01-123d-4b1a-a7e8-fe819696cb89|Madison disse que precisava de você quando tivesse um tempinho. Ela está lá em cima, no quarto dela.
-274f2d4e-2be1-442e-8cd1-de5665279f67|Madison está organizando uma exposição de arte no quarto dela e achou que você deveria vir ver.
-267177b0-2812-4097-9dcf-3b702b51f420|Você sabe onde está Brittney?
-83205233-7e95-4ad2-93fb-e481492b26ef|Você teve notícias da Amy?
-f0092c91-9b57-4f2f-a4c8-91504b358940|Você sabe por quem a Brittney tem uma quedinha?
-b216e930-a92a-454c-ad73-b4959a22a6cc|Eu... acho que sim. O que foi aquilo... Sensei Frank?
-9b930143-ddc4-4a20-be9f-3581d034a35b|Nossa! Entendi, percebi. Espera... desculpe, repetir a parte do Frank de novo?
-9c5fe58f-b200-40e4-9c00-dd3919f0e8ca|Não! Eu... não sabia que o Frank tinha um dojo. Estou impressionado.
-f120f4d8-adeb-49f3-aafc-1ec84da3bd15|Nada... Só não tive o prazer de conhecer esse "Sensei Frank"!
-07bf8a37-dfd4-46ec-aa8a-4c8f10eedd51|Ah... tá bom. Tchau, Leah.
-8b9bbedc-c5be-4449-b0a8-fe731691bd1f|Tá bom, tá bom, desculpe!
-3cc75f8c-c03a-4dff-9a4f-628bd235c239|Tá bom, entendi!
-11c7a2ad-099a-4006-ae8f-f8d6c398377b|Preparem-se! É... por que estou me dando ao trabalho?
-23e98e30-e66b-448d-8e31-78e1bcc9960a|R-E-S-P-E-I-T-O... Eu até que poderia usar uma meia para isso...
-8d666f28-514c-4dc4-87b5-e27f55897686|Que bom que você está gostando do show.
-e19859e3-0c98-4fc1-991d-6018d0dd4e4b|É um privilégio, e com certeza... espera... o quê?!
-82a63406-f7bb-4ef4-a9b1-78b23983508a|Te vejo em alguns segundos, então. Horas. Algumas horas.
-77c97caa-1572-43c0-9529-7a78e503e650|Quem você vai chamar? Nut Busters! *Cantarola o assunto... vigorosamente*
-790147e3-bcbf-468e-be0b-0b9efd3908f9|Merda!
-5bf3f70a-e579-4e11-b602-075bd583cde1|Acho que seu trem da tristeza está um pouco atrasado... mas espere, espere...
-fd90ad0a-eda8-4c72-a962-4bf36736de22|Pobre Frank...
-93757319-1aa2-414e-b905-0721408167c5|*CONTINUA*
-a4210fe1-f8e6-43a6-b1b9-7d33dfeb89d2|*RECONHECE DESCONFORTAVELMENTE SUA CELEBRAÇÃO DA VIOLÊNCIA*
-07a5df9f-d73e-4c15-81ad-2677c894949b|*DESCONFORTAVELMENTE RECONHECE SUA CELEBRAÇÃO DA VIOLÊNCIA*
-6472d998-c54c-4e71-9a24-54f979229708|Tá bom, tá bom! Desculpa, Leah.
-d6aad8ed-6492-48c2-80b7-271bfe8fa270|É, ei-, sabe de uma coisa?
-abd35045-0994-4f02-98f6-3cc45cfe5397|Perder o quê, seu sutiã? Heh.
-974d56b9-87aa-42b4-9ff7-ca3492973cf3|O máximo que você sabe? Ah pu-
-ce6d7491-3a9d-4410-9d8c-99fc171dd016|Na verdade, posso ter exagerado em algumas partes dessa afirmação. Tipo, entrar numa briga...
-59c23162-31d0-4d06-a3a0-18a6a5f5aa2e|É. Eu consegui.
-ca839ee2-cb8d-455c-bd49-14fc1f8774ac|Ei, isso foi muito foda!
-b77e318f-205a-42b3-a67f-d985c9e11fa3|Não, não posso revelar meus segredos. Nunca se sabe quem pode ser o oponente um dia.
-52218689-56a8-40c6-9f28-e51f19e8c6fd|Sim, vou te mostrar como projetar um templo desses e, se tiver sorte, a melhor maneira de usá-lo.
-1592ffd9-04ec-4861-9edd-a5b0ef432769|A compaixão é o coração da força, hein... Joaninha. Vá refletir sobre essas lições.
-ec7b1070-956a-41f0-a12a-cee8bd4174af|Essas nádegas... boas para socos, quero dizer.
-76d3a904-a8e9-4538-bf48-7a634a369f9e|A energia flui pelo núcleo. Essa é uma pergunta rudimentar, aluna!
-1ce943ed-9c8a-41c3-a413-34dc809d50d6|Seus quadris darão força aos golpes monumentais.
-a4edf537-32d5-4a83-b818-27e7aedd40bf|Preciso me familiarizar com cada aspecto da fraqueza dela. Vire-se e dobre a cintura.
-5c9510be-ac23-44b5-8540-7f7c7798dae7|Agache-se mais baixo do que nunca. Esforço supremo! Sua beleza não vencerá lutas... se esforce!
-75c38f77-ac70-452b-8b6d-aa4abd88b122|Deite-se de costas e gire os quadris de um lado para o outro. Vigorosamente! Você não pode ignorar o que já é um trunfo!
-1965b6ae-975b-428e-8236-4c16027dc128|Ajoelhe-se e deslize no ar. Isso definitivamente te deixa em forma rápido e tudo mais.
-127e5b3a-53de-4acb-a26f-31ee040c8221|Sinto sua familiaridade com esta lição, mas não seu comprometimento. Mostre-me o seu melhor... "Burpee do Exterminador do Futuro"!
-061ef693-db9e-4092-a74c-64355780d058|Deite-se de costas e se mexa como o verme nojento que você é.
-57c5e786-43f8-4455-8292-9cf264f061f9|Espere... gafanhoto, ah, foda-se.
-d7e7c966-c024-42b4-b6cd-4e34bdf4c305|É sempre inteligente alongar-se antes de qualquer atividade extenuante. Mãos para cima, depois para baixo... Não pare até tocar os dedos dos pés!
-e20b89d1-3ba9-438a-9443-979a74d27c55|Você precisa praticar a agilidade e aprender a se adaptar. Mostre-me como seu corpo consegue alternar entre formas opostas.
-b0181559-d155-4bec-bbdc-e946fc898f4f|Essa atitude desagrada seu sensei! Continue como o, uh... estudante insolente que você é!
-d05e4d12-6918-4b2b-95df-dc3f207f6556|Sim, proteína! Quer dizer... encha seu corpo com ela. *CALÇA RÁPIDA* Acontece que tenho um estoque suficiente para mim esta noite...
-ac949d1c-147c-422c-bce5-d4144d604e6f|Esforce-se constantemente, porque, muitas vezes, somos nós os nossos maiores inimigos.
-dea33080-66ae-4a78-a6bc-ebdd057ba4f3|O que você está sentindo é, uh... excrementos de puro sucesso! É picante! AH, mãe!
-14fbebc4-90f9-4130-ae0d-4706ffd140ee|E... que a paz esteja com você.
-0bc3ec2b-6182-42d3-9959-10489293c32b|Legal. Então, você vai me estragar, né? Posso dizer que isso é lição de casa?
-38404673-4a2a-4dc7-bda2-2f1182e73439|Eu sei, eu sei, eu não fiz Kung Fu Hustle muito bem fora do modo professor. Não é todo dia que eu consigo fazer isso.
-6362d906-1b1d-4372-b917-6c9b706058e6|Droga.
-d0bf24be-6773-454f-a1e2-daae41d2d93a|É, eu treinei para este momento.
-ed04b0ce-3f63-4748-b8bd-7ea80abc8703|Um grande professor é um aluno para a vida toda. Estou pronto para a demonstração deles...
-c55d637e-f135-4c23-b4ee-11a62dbe602f|Te vejo por aí, Leah.
-80484fcd-6656-4d62-9bb3-40673a1ee7a3|É, eu corro muitos círculos ao redor do grande oval do ponto mais alto central...
-6ebd131b-e33e-4a31-8b12-2bfa05d3261c|Curtir isso. Preste atenção enquanto eu canalizo meu Edward Honda interior...
-03ea8974-5224-449b-b756-cb79b4a03cf0|Mas... é central! No meio de tudo, tipo, seu núcleo e... CARAMBA!
-bbc915af-73d3-463d-afc2-498f4bb2511a|Eu reconheço esse privilégio. Vou até estender os braços para trás, para velocidade máxima.
-46b765ab-926b-4f06-bc3d-7c576b769e3c|Merda.
-5e756b06-1eb5-4250-a501-2cf4303d9220|*Continuar*
-0d5bc07c-40bb-44af-9de1-56d834313919|Eu também tenho uma demonstração... DE QUÃO RÁPIDO EU CONSIGO SAIR DAQUI!
-b243669e-b051-4d7c-bb14-4c83334741fb|Eu também tenho uma demonstração... DE QUÃO RÁPIDO EU CONSIGO SAIR DAQUI!
-b3435bc6-0b9b-48db-b560-61aa359f1f4e|Nossa, obrigado pelo treinamento! Você é um ótimo treinador!
-d7a18f87-c556-4428-b213-f2813db99e42|Não quero morrer virgem!
-4ba5182d-8605-4f85-b65a-2768c1d05221|Entendo perfeitamente.
-10623811-bdc0-4ff0-a1ae-d8dca1c0e9db|Uhhhh... os vagabundos.
-b9df4401-1eba-4c4d-95cb-b80a40a1c855|Todos nós queremos que o Derek tire a camisa, e ele só fará isso se houver assinaturas suficientes nesta petição.
-7f132aff-eb88-4379-a357-d0cf1d8e9d08|Merda...
-a29b3f4b-f7ce-45e1-83a7-cbbbd220f1f9|Princípios são importantes, especialmente quando se trata de cocô.
-8b145323-8487-4151-b29c-0111c6566ae1|Adorei, obrigada!
-785bcdd0-ce8b-4c84-8d13-956042ef86fe|Obrigada mesmo assim.
-220bea15-2d64-4882-aec8-3245149a2d66|Ah Rapaz...
-5cda282d-d8a3-4fd5-b969-ffac6e58f325|*Continuar*
-e56fdd57-8446-4991-a31f-5a625de6b2d4|*Continuar*
-b61ff92c-c947-49fa-9fcd-46311b517787|*Continuar*
-5472b6e6-df35-4a8e-ac13-22b035dc6e37|*Continuar*
 00845644-57b7-4456-8e47-991f34d228ac|*Continuar*
-e0cfc622-c9ef-4a37-9ea6-df9346cb61f9|Isso foi um verdadeiro remorso, certo? lá...
-5490140f-ad65-4a16-8eac-7ca4a53908eb|Escorrer pela economia?... Oh. Merda!
-d5de6c1a-5bb6-41c8-97f8-fb4f4bebab29|Sua lealdade não tem limites.
-d159be2c-38ac-4078-98f2-2830ee692e76|Sua lealdade não tem limites..
-8428cfc5-0290-49be-99e2-55f918fda1ac|Tem uma cobra à solta!
-b8e6428f-9a84-43ff-9e73-5dbf79654820|Alguém cagou no micro-ondas!
-ee8cae06-e297-457a-a84a-adaad54efc5e|Alguém fez cocô no micro-ondas!... De novo!
-23fa419c-f384-422b-a1f3-6017decc80b3|Não importa, ele se cuidou.
-4bc4a172-4978-411e-8046-72956ee64aec|Não importa, ele se cuidou.
-fcc0d39a-0369-42ce-8156-0b706488f734|Sua lealdade não tem limites.
-8d8d640a-908d-4b00-89d4-8b338a6023c4|Temos que agir agora! Não estou tentando ser engolido... Bem, não por uma cobra.
-9e7eaf67-b6a0-4370-bc11-577b465ecbd8|Vamos lá.
-89f6aa3a-70d1-4f2a-99f1-32b6cf752525|Um psicopata, é isso.
-70078f9c-adf3-498c-add6-d5449fdb1fde|Obrigado, Leah!
-8fbd40d5-c282-4eed-aba1-a269976ea45f|*Escute*
-88092689-24d1-4d5f-a957-3001433297d8|Vai ficar bem instável lá embaixo se não encontrarmos aquele desgraçado!
-b1f8e36f-8623-46a0-89c6-b46feba36ffa|*Continuar*
-4275dada-1514-43d0-bd11-89539e31902d|*Continuar*
-558ab07c-f8c1-49fa-8cb1-6ef8812b91ad|Ah, que bom saber! Obrigado!
-d2bc875e-6033-4e61-b6db-0e4ee0f6962b|Bem, droga... obrigado pelo aviso.
-139d6a6d-37a6-49f9-b1d1-7dd3772729f6|Às vezes é preciso decifrar um código para acertar com o seu.
-d097aaa8-e29b-4ac6-81ee-fa6442b5e8a5|Não é dever de um aprendiz se rebelar e derrotar seu mestre? Frank é fraco; prove isso capturando esta cobra.
-7d0d6829-632a-435c-81c9-92e38edb6320|E assim nasceu o Código de Leah.
-9b75f0a2-abe3-45ac-b6e7-87e13bd19dc4|PODER Ilimitado!
-3bfe5418-c285-4f98-a005-82b1f3d86181|Então, você quer que eu compre uma lanterna?
-29e0a388-d040-400c-99a7-f14523740f8e|Não deve ser muito difícil.
-b4fd2f09-6c56-49b3-9a7e-7fa4526267f7|Droga... ei, volte para nós!
-d6875d2d-6bb4-4363-862a-b0288d2d5b8b|...Eu peidei.
-062823f0-a544-4178-934b-bdb197de715e|Meu amigo Bobby pegou... e nunca devolveu. Ele disse: "Simplesmente não existem celulares suficientes neste mundo."
-af15d825-70ae-482c-baea-1531a88846cf|Deixei cair no chuveiro enquanto tirava fotos de pinto.
-fc352eff-46be-4b89-a496-6148b1b6400c|Grito.
-e44d669d-7c2b-499a-9101-11982436055f|Não posso dizer mais nada...
-3ab34452-c20d-468b-ae81-f4d6ea3d9f7b|É... Estou muito envergonhado com isso.
-3837ea43-8067-4991-8c35-477d46b64b0d|Não me importo com isso.
-f67d0977-adc2-4432-9d97-41400c298ffc|Nossa, parece interessante.
-43e30927-111b-4aa9-847a-5e2519b44538|Contanto que eu esteja ensinando autodefesa, e não "Noções básicas de intimidação", estou lá.
-34c85434-e610-4569-8f78-8df52a4b6452|Foda-se a autodefesa, me ensine a arrancar os dentes de alguém e eu estarei lá num piscar de olhos!
-79a882d7-92c3-4608-b888-2c2dacc9fdc4|Arigato.
-14b1c580-7fcd-4fad-8240-c8e29c57a115|Só dizendo, eu quero chutar uns traseiros!... É isso aí!
-9d5461fa-b160-4313-8720-03c505e44759|MINHA. ANACONDA. NÃO... ugh, foda-se.
-06aa579b-0e1e-4567-8845-20f7df8eda7d|Droga... você parece irritante! *Risada*
-9261fda8-f263-42ad-8031-9a8a7e054709|Você disse... noz?
-6f536568-093a-44bb-86d7-76526730fdd5|Sem problemas!
-fda33bb2-bf17-4a53-a8e2-c162aff91728|Espero que eu *não* precise.
-b0d70c7a-e33c-4f50-80c4-44f962f2fa44|Vamos lá!
-6edb452c-847e-43d7-b2d6-0c35810a2dd3|Hã...42?
-b16fc045-bfc6-4e67-9537-842cebe94bab|Ok, estou cuidando disso!
-69bb5ed4-39d8-4d5d-bffc-07bd83212f81|Nojento, mas provavelmente correto.
-f60ceaf0-80a1-4b2e-a121-4fbf3d9f38e8|Ops! Desculpe!
-3ca34b93-4940-447d-ac69-4455d24f4cb0|É melhor ter algum tipo de recompensa por isso...
-ea20d5bc-fff7-4bf1-93a6-af8aac7b74ca|É, e ele se move. Eu... nem vi.
-3bf29baf-6989-48d7-9f62-419b079058dd|Em minha defesa, esta é uma situação MUITO tensa!
-d511e737-a3e4-442d-838e-63fa9b2091ab|Como posso ter medo de alguém como você lutando ao meu lado?
-1e0b00a3-c103-49b8-9065-50395d0a1709|Você estava gritando muito alto e não me disse para onde apontar a luz!
-f38bb066-36bc-4ec9-9699-fd58eeeb9e61|O que você está dizendo?
-a2071f41-81e4-4f18-a508-58d034630a21|O que você está dizendo?
-9df5e085-a90e-4f3d-89c0-cc591c0706a8|O que você está dizendo?
-f06ab3ce-7cbc-48cf-99e9-0b30bad20be0|Tudo bem! Vou ser mais rápido com a lanterna!
-5a0345b4-906d-4264-bc6a-f9296c1a5504|Uau, uau, uau, eu não quero brigar!
-be6690e4-3b06-4b35-9d87-2bab6fe22571|Bem, se você insiste...
-ec251747-0329-4b1a-b20f-e63515b9835a|Eu claramente me sinto intimidado por mulheres fortes, ok?
-99530627-0055-45ed-8389-d5f4e57ac0d1|Posso pensar em outra atividade que seria duas vezes melhor, com a mesma quantidade de suor. *Piscadela*
-346d2e96-028f-400e-be03-4647567e9cb6|Você nem estaria trabalhando no fim de semana!
-f610903f-e8b8-40fa-99b5-380eee961dff|Suei bastante, vou me secar. Talvez ver o que mais está acontecendo. Mas já volto!
-c8ce0387-db66-4aa3-9d64-1acba172c1b7|Estou pronto! Vamos perseguir esse desgraçado até os confins da Terra!... Ou pelo menos até o fim da propriedade.
-d29a2fd6-480f-4597-8b14-5edcccd726b5|Meus braços não estão tão moles assim...
-9cdb3345-e1bc-472f-9c37-9685c536ba1d|É mais como uma situação de "fuga do quarto da Ashley".
-7da9ccd5-6131-46f1-839b-1e8ea41aeb52|Bem aqui.
-90428c1e-57eb-4019-8fa5-27272aaa7ec8|Pensei que ia te pegar desprevenido...
-47b742dc-16c5-47ca-ac2f-a692fd6779e1|Acho que você está se lembrando errado.
-688b9e8d-4cea-494e-8ab5-32781f299c10|A culpa é do Rotary Club, talvez da Associação de Moradores. Então, qual é o nosso próximo passo? Vocês ainda estão procurando?
-414c78d4-6b27-457a-a12f-916243bf097d|Alguém queria que a cobra tivesse liberdade para viver a sua vida!
-c8380b74-8b8a-4850-bf39-35b4843afc1a|Alguém quer derramar sangue hoje à noite... com DENTES.
-b7269889-59b2-43bc-971f-7309f09b7b83|Eles vão cantar canções da nossa vitória aqui hoje à noite.
-c9f2725b-ad9f-4b44-964b-c5a397c093e1|É... seria incrível. Ei, vamos continuar procurando aquela cobra!
-4cb13474-437c-4021-9fbe-2f25426d020a|Nossa, você está realmente se metendo nisso.
-993dbee2-ac8e-458e-aba2-5ffdcbd3e264|Certo. Então vamos encontrar essa víbora logo!
-c8ac1cc7-e631-46ea-a495-0016545791b0|Ah, merda!
-6b129427-55b6-42b8-a6a7-c4b8e55ca7ad|*Suspiro* Por que eu tenho que procurar coisas retorcidas em lugares escuros? Tudo bem...
-b8a3ab3d-d0b8-4b94-a28e-1d6ce0180165|Resolvi este mistério! Não há nada de extraordinário ali, e definitivamente não é uma cobra.
-1c3cb897-9127-4071-a4ce-e74db734fec1|O chiado estava mesmo vindo daqui. *Entrega a lata de spray*
-ffc9820f-a412-4782-95a8-84ca02d9f2c2|Merda!
-06d02e48-6d87-439e-aabc-a82b6830b8d0|O chiado estava vindo daqui. *Entrega a lata de spray*
-384f219f-0dff-4229-93fa-5a4502e9a98b|Vou fazer isso, porque eu sou um menino grande, droga!
-671b43a7-f491-48f0-8163-8f1e4ba160b7|Devo estar usando calças de menino porque isso me assusta muito...
-6b2bcce5-b79e-4a72-881a-91d1098a15b7|O chiado estava vindo daqui. *Entrega a lata de spray*
-0e81a241-9469-4ae9-b031-6450489d9fd1|Pode deixar!
-3ba92241-9cf8-4751-af5b-a95127098f38|Tudo bem...
-7e9e0349-6ec9-42bc-adbc-fc64dbd56a85|Céus, céus, você está com veneno na cara toda!
-94428510-95f9-4f86-9340-105e40b4241f|Ah, bem... ficou ótimo em você!
-f9f27979-0403-4b4c-8b7f-da8bff84d0ba|Simplesmente não podemos vencer!
-33a15e1e-1897-4991-aed5-d007bab78e95|Obrigado pelo voto de confiança. Para onde olhamos agora?
-05ac0875-c173-4d82-ac1e-0d52d343233a|Você não precisa se preocupar comigo. Enfim, para onde olhamos agora?
-658b6ec7-aafe-49e6-8f10-6b63f05514d9|Vou tentar não te deixar tão louco!... Certo, para onde agora?
-a07b6cd7-8e10-41cb-9531-30a76ef39cae|Vamos lá! Siga-me!
-7531baaf-884d-4bf0-8d5e-bb6afe788102|Tenho outras coisas para resolver agora.
-3083afa6-f97a-4e3f-a208-bee7bbb95da6|...como ele sabia?
-c0eca483-7bd0-4eec-8174-2184d2e21a56|Estou com você até agora.
-0cbc8cc3-0f2c-4136-8a7b-0cbe7dd2a435|Entendi. Vou deixar a luz pronta!
-85d2d081-e758-4c31-8168-1d63fc85f1e0|Me siga aqui.
-ebd0e5f3-ca38-41d7-9eb8-ae5e79af2861|Siga-me aqui.
-42f78b1c-267a-4503-85ab-7669b1116897|Jesus Cristo, pensei que você gostaria de saber!
-711fa699-1b3d-4447-b483-a58252751390|Ele está aqui... psicopata...
-eaac6350-1b3f-4cd9-96fe-e84c788164cd|Por que diabos o Patrick está usando essa camisa florida?
-af26186d-754a-4360-8543-8c0813206eb7|Ok, ok!
-9fefcea2-431a-44c7-bb5d-a043c631fc84|É, isso está parecendo cada vez mais um assassino escondido entre nós. Com certeza, na minha cabeça.
-5af8082b-a508-47a9-89c3-cca745143d27|Hmmm, são folhas de maconha na lâmina? Vamos ter cuidado, não queremos pensar demais nisso.
-af79b745-0088-4373-9e91-8927e4e8fbea|Você está indo além do Sr. Fantástico com essa.
-668beb8b-836f-4ea8-8858-f60d9522e073|Então agora eu tenho que encontrar um historiador de espadas? Que porra é essa?
-2e509fba-ecc2-4c9e-8437-6dea150798ac|Então... mistérios? Como o Patrick usa essa porra de camisa florida?
-3fb8a2d1-87df-4460-9a0c-36b4af5a144b|Por que você?
-b307e2c2-ded1-465f-921c-359d4bbf6aaf|Quer dizer, sim. Faz sentido.
-ef6afa99-d30b-4283-ab7a-740c236002c2|Talvez eu possa pedir para alguém dar uma olhada nessa katana e verificar sua autenticidade.
-e69ecdfc-13d4-4d82-a67f-5885c71f11c0|Esqueci que preciso ligar para minha mãe e me avisar. Podemos continuar isso mais tarde?
-32c88fc7-c57f-4b21-a245-2d4b255be41b|Não há mais nada em que pensar. Alguém está tentando te tirar do jogo com uma combinação mortal de cobra e espada.
-fcab56a7-247a-49e0-852e-85ea0a90f54c|Sim... na vida real.
-b3cdac05-6678-4330-8ce2-d736dfea86d6|Ela é a número 2 na minha lista de discagem rápida, logo depois da minha pizzaria favorita.
-ff7ab474-fa34-4f2b-8609-0be3e7a0a497|O homem, o mito, o bastardo-... erm, estou com você!
-3ea6d9ac-4e46-4d8f-a026-e7ce42f78d97|Asiático?
-a301c319-0e8f-4c00-92fa-d9ace1bfcd9d|Não diga mais nada. Por favor. Vou ver o que posso fazer.
-b65b60de-efc7-435a-9663-6c1a68dbe481|O quê?
-8addb018-81bb-4759-87a3-4cdc3b0a2006|Ok, vou me esquivar! Meu Deus ---- Jesus Cristo.
-0f1c65ad-0173-4781-81e1-db7a3f158d45|Ok, claro!
-98215f10-5cb5-4523-b62d-f7b205f8fb3c|Ok, claro!
-0e2f7dc7-69e7-4263-97a5-fe3b9fa60513|Ok, aqui está. É, sobre aquela katana...
-84da2c55-dc7f-420c-bff6-07bb5173edd8|Merda, você pintou o rosto com spray?
-118d2017-dbdf-4e8a-bebe-b6eaca30b0fb|Ok, ok! Ei, rapidinho, sobre aquela katana...
-694e3c30-5caa-4aae-8c5a-19ed52e40572|...Sim.
-b2c97660-6f52-4829-bc80-4cffa4420a9d|Com certeza. Enfim, sobre aquela katana...
-6d3b24b0-3b4a-4d9a-b305-071c6f683f31|Amy verificou que não passa de uma espada barata comprada num parque de diversões.
-57e13b7c-ce07-4556-a4fa-7ba6ae0d362e|Temos um problema. Aquela katana é uma ferramenta de destruição direta!
-18a36fc6-5add-49a2-bae7-2af0c55d2e3d|Não consegui encontrar nada. Mistério total... você terá que confiar na sua intuição.
-9fb6b8a3-d1c3-4805-afb2-50f1250fccb7|Ainda acho que a katana é uma ferramenta de destruição direta...
-2f07335c-eef2-42af-bf2e-a5cdbed7e01d|É, nada. Deixa pra lá. Siga o que a sua intuição diz.
-5a6d5e92-2392-4d76-a572-e43dc080c249|Nós te pegamos agora, Cobra-Espere...
-d471fb77-821c-4f80-a813-9679039704d8|Nós te pegamos agora, Cobra-Espere...
-5403ea10-7b76-4eea-9664-fb57ad0dd39a|Nós te pegamos agora, Cobra-Espere...
-703b37cc-6fa8-4f2c-ad76-5792fade812f|Isso foi... bem intenso.
-8c4d48ca-8f3e-4500-b76f-733e16254b79|Leah, você consegue se recuperar disso. Lembre-se do código! Olhe para a luz!
-ff9cab57-5831-4b25-8c45-a2392ed7a8b9|Sim... abra-se para o lado negro...
-33edc444-e6f6-49cb-9d88-e8d908d31647|Ei, espera! Aonde você está indo?!
-42240467-96fd-4439-8d56-3944bfc12c67|Desejo-lhe sorte na sua jornada de autodescoberta. Eu descubro muita coisa. Principalmente na hora de dormir.
-648272f3-3a12-478f-8374-936495012bb4|Leah... ela vai ficar bem.
-e707de46-3a4c-4814-bb3f-95379b36fcd0|*Sorri maldosamente e solta uma risada assustadora*
-03f2ef5a-f5c0-44b1-9e5d-c12ea5764f1c|Shhh...
-c976cc9a-5d3e-494e-8dfa-59f66669eb78|Puta merda, você está pelada!
-9a49d71a-69c4-4317-b81f-88efab4b8015|Leah, a cobra... ESTÁ DENTRO DE VOCÊ!
-60fc76ec-8463-48f5-b54e-16cc0ba6b127|Ah, merda, qual é!
-6ff303bc-f18d-405c-b57b-2611f5e92c07|Tudo bem...
-c2db26e3-ae2f-49bc-98eb-d9bfdc896b6f|Na verdade, eu trouxe o Frank aqui para me desculpar com você.
-b55ebd2e-8367-402b-92d4-653c5997c618|Do outro lado do pátio. Vamos dar uma olhada.
+0174a45b-a7bc-4b3a-9e9b-38fb7e84eee3|...V-Vickie?
+01e58b31-6403-40c8-a9cd-03bb9de93aeb|Claro. Certo.
+03ea8974-5224-449b-b756-cb79b4a03cf0|Mas... é central! No centro de tudo, e no centro está a essência de... MERDA!
+03f2ef5a-f5c0-44b1-9e5d-c12ea5764f1c|Sssssssiiiiiimmmmm...
+05ac0875-c173-4d82-ac1e-0d52d343233a|Não precisa se preocupar comigo. Enfim, para onde estamos olhando agora?
 05bef5f5-ca71-4761-862c-5bcb7dd83684|*Olha para cima, seguindo o olhar de Leah*
-f5c37d7c-5927-4c98-a006-df7305eed122|*Escute*
-63192593-cf37-4004-9c3c-b5d8320a8a1f|Nossa, eu fiz tudo isso?
-de028809-fdad-47ea-b292-0b7cb6af5ecc|Leah, acorda!
-06472f76-9580-4955-990d-60b1cbed035d|Posso ser um risco à segurança, mas gosto da sua atitude!
-2ae3da13-8c23-43fa-9806-6f7696bff76e|É-é, isso foi um insulto à cobra? Estou atrasado na cultura politicamente correta... e se ela se espalhou até aqui?
-e9617b96-a848-47a8-a87a-ad07ea03347e|E daí? Vamos só balançar um saco de comida de cobra e ele vem rastejando! Certo?
-81a67aad-4927-44c4-838a-d5473dba92fd|Uhhhh... meu coração está dizendo "diga pênis". Mas meu cérebro... está reagindo.
-e6ec093f-0f8d-41df-aa7a-c402b9c3e986|Precisamos bolar um plano!
-e61a8684-0230-47ec-9393-005eafb1fa00|Eu derrubo o Frank enquanto você o distrai!
-6717cbaf-9e47-4995-b09a-d196fedf70bd|Deixe-me ser a distração. Você o flanqueia.
-0f4e2947-035a-4b7e-9855-53f67b89a533|Este não é o World of Frankcraft... como assim?
-26dac5f7-df44-4da8-81ca-20789e442bd9|Gostei deste plano. Quebre!
-ab959a2a-21a4-4126-a518-dd7fee914e95|*Continuar*
-2c2932bf-26a5-42e4-a862-c051dcbf7b0c|Porra, ela é mesmo.
-43304e80-afaf-4c96-8d87-b247387ad8a9|Provavelmente gorda.
-93c384de-c8a5-4a1e-8159-cf4eb694cdda|Puta merda, funcionou!
-83343301-4509-431f-bc9c-8e96382d3b44|E realmente valeu a pena!
-5e9a2b16-1f9a-4705-9f89-7ca9d2a0b090|Pode contar comigo, Sensei.
-e56557d4-0aae-4592-911c-8cd78d0a1854|Siiiiiiiiiiiiiiiiii!
-9ed21320-c67f-434f-8006-4cc8ae8c237b|OH, PORRA, SIM! *COMEÇA A RASGAR SUAS ROUPAS* FODA-SE ESSA PORRA DE CADEADO-
-ba380fae-5cd2-4b08-857e-8e1795060823|O que é isso, o que é isso?!
-6b6dc6a7-5643-47d0-a220-c31b4b67e578|O que está acontecendo?
+061ef693-db9e-4092-a74c-64355780d058|Deite de costas e rasteje como o verme nojento que você é.
+062823f0-a544-4178-934b-bdb197de715e|Meu amigo Bobby pegou... e nunca devolveu. Ele disse: "Não há celulares suficientes neste mundo."
+06472f76-9580-4955-990d-60b1cbed035d|Pode ser um risco à segurança, mas gosto da sua atitude!
+06aa579b-0e1e-4567-8845-20f7df8eda7d|Droga... você parece irritado! *Ri baixinho*
+06d02e48-6d87-439e-aabc-a82b6830b8d0|Na verdade, o chiado vinha deste. *Me dá a lata de spray*
+06efa910-b9db-4e35-9a90-c59ad16eceb1|Obrigado, Leah.
+07380f75-bc36-4c2c-b54f-42aac378212c|Pfff, já pensei em tudo. Fiquem atentos!
+07a5df9f-d73e-4c15-81ad-2677c894949b|*PARECE ENVERGONHADAMENTE APROVAR A CELEBRAÇÃO DESTA VIOLÊNCIA*
+07bf8a37-dfd4-46ec-aa8a-4c8f10eedd51|Ah... tá. Até mais, Leah.
+0848e4e1-cec9-456d-b0d5-bf688347edba|Tá bom, tá... pedimos desculpas.
+084c97b4-62d9-4f7c-aa87-efa3b9b9522e|Sou forte e independente. *Soluço!* Não preciso da sua... uh... cadeira. Foda-se a sua cadeira!
+0853e43a-c86c-419b-b351-83aba1bd253a|Hum, entendi. Ou eu transo, ou alguém leva uma bronca.
+091b4f26-712f-4b43-aaf2-9a6368e02f43|*Hic* Entendi de novo!
+0ae9de95-3509-4bd5-9b20-1625d8150137|*Arroto* Valeu, maescio. Mascio. ...Mmm-m-m-mascio limpo. Hehe!
+0bc3ec2b-6182-42d3-9959-10489293c32b|Legal. Então você vai me chupar, né? Posso dizer que isso é lição de casa?
+0cbc8cc3-0f2c-4136-8a7b-0cbe7dd2a435|Ok. Vou explicar!
+0d5bc07c-40bb-44af-9de1-56d834313919|Também tenho uma demonstração para fazer... o quão rápido eu consigo correr como um pato!
+0ddd5f1e-3adf-4cc5-8394-2a307a8e7563|Posso te oferecer algo para beber?
+0e2f7dc7-69e7-4263-97a5-fe3b9fa60513|Ok, aqui está. Hum, sobre aquela katana...
+0e81a241-9469-4ae9-b031-6450489d9fd1|Ok!
+0f1c65ad-0173-4781-81e1-db7a3f158d45|Ok, ok. Céus!
+0f4e2947-035a-4b7e-9855-53f67b89a533|Este não é o World of Frankcraft... o que você quer dizer com "ataques à distância"?
+0f7e88b3-532d-4ec0-8593-e6218b01123b|Eu? Não consigo vencer o Frank! É impossível! Sou muito fraco...
+104b4333-d7da-44d2-a419-1dff3e4693c1|É hora de caçar essa cobra. Vamos lá fora.
+10623811-bdc0-4ff0-a1ae-d8dca1c0e9db|Eeeeer... para os pobres.
+10928200-e79f-45f5-9716-f7bb9a6313b8|Você sabe alguma coisa sobre hacking?
+116dadbf-b2ce-4891-a156-4d5b75487860|Vamos fazer um sessenta e nove. Vire-se por um segundo...
+118d2017-dbdf-4e8a-bebe-b6eaca30b0fb|Ok, ok! Ei, sobre aquela katana...
+118dfc0a-d431-428e-8d6c-777fb5b9906d|Leah, acho que te transformei em um monstro.
+11c7a2ad-099a-4006-ae8f-f8d6c398377b|Mãos ao alto! Eh... por que estou perdendo meu tempo com essa besteira?
+122264ad-8291-4f0c-acc2-6f4654e7e45e|Você disse que queria abrir um dojo?
+127e5b3a-53de-4acb-a26f-31ee040c8221|Sinto que você conhece esta lição, mas não o seu comprometimento... Mostre-me o seu melhor, hum... "Burpee do Exterminador do Futuro"!
+139d6a6d-37a6-49f9-b1d1-7dd3772729f6|Às vezes, é preciso quebrar um código para fazer o que é certo de acordo com o seu código.
+13e3bfe3-562b-494e-a870-7729c8495a61|*Fim da sessão*
+13e9beda-d015-440c-8c14-2f7937c221eb|Então, sobre essa coisa do triunfo sexual... É, acho que já ouvi pelo menos uma dessas duas palavras.
+14b1c580-7fcd-4fad-8240-c8e29c57a115|Só estou dizendo que quero bater nas pessoas! ...Ah, é!
+14fbebc4-90f9-4130-ae0d-4706ffd140ee|E... que a paz esteja com você.
+1592ffd9-04ec-4861-9edd-a5b0ef432769|A compaixão é o coração da força, hum... joaninha. Vá meditar sobre esta lição.
+16bf798c-b1a5-42cd-8ec5-f87045c29b5c|Provavelmente... espera... E os outros?
+1726c69b-e6a8-4e39-bf32-a5246ccb86f6|Entendo, sem problemas.
+189ecd97-c6a9-4528-ab3b-603d4258b3a4|É! Mas... ah, ah, estes não são equipamentos de combate regulamentares... vamos tirá-los! Ou... hum, talvez devêssemos ir para outro lugar?
+18a36fc6-5add-49a2-bae7-2af0c55d2e3d|Não encontrei nada. É um verdadeiro mistério... você terá que seguir seus instintos.
+18bdaa45-0bad-45f8-b1af-fc8b2caeceab|O assassino está nos dutos de ventilação. Alguma ideia de como tirá-lo de lá?
+1965b6ae-975b-428e-8236-4c16027dc128|Ajoelhe-se e balance os quadris para a frente e para trás! Com certeza vou te ajudar a deixar seus quadris em forma.
+19742f19-fa6c-4d5b-8d50-3037b13f7eff|Obrigada, Leah.
+1a4a81e4-85de-4aa8-b30d-14ba72520fbe|Você tem uma conta no YouTool?
+1c1c8530-32e6-45c7-a275-2033db40e249|Eu consigo fazer isso... Eu consigo fazer isso...
+1c3cb897-9127-4071-a4ce-e74db734fec1|Na verdade, o chiado vinha daqui. *Me dá a lata de spray*
+1ce943ed-9c8a-41c3-a413-34dc809d50d6|Para dar um golpe monumental, você tem que saber usar os quadris.
+1e0b00a3-c103-49b8-9065-50395d0a1709|Você está gritando demais sem nem me dizer para onde apontar a luz!
+1fb8fbd3-f5ad-4b9f-812b-9fa3eb2a3bc0|*Pular*
+2066e23d-5556-4263-a368-9fcf97c3ebfe|*Pular*
 21e6ef25-da5c-4c09-82dc-92674ae5bce2|O que está acontecendo?
-86d8428c-c231-4262-bea0-f88c42c3041f|Ok, aqui vamos nós.
-354083ed-0b66-494a-8ada-4ec35b65616f|Experimente... tranquilidade.
-cb0c658a-c7f1-4df2-b1b1-0978be726384|Estou ouvindo...
-761931e6-1d1b-4ec7-8d88-72f862e428ab|Por justiça! E sexo!
-189ecd97-c6a9-4528-ab3b-603d4258b3a4|Sim! Mas, ah, esses não são processos anti-regulamentação... vamos acabar com eles! Ou... talvez devêssemos ir para outro lugar?
-a2948f8a-9d25-4c25-8e66-2b84dbf68a6c|Sim! Aqui e agora?
-64b5be47-2931-4217-be99-f6fc07c88f6d|Ah, espere aí. Já volto!
-3b055448-c71b-45b0-a01b-c351635e1b87|Pode contar com isso...
-8804a7bb-fade-4353-bd3d-f900ae0dda2e|Por Deus e pela pátria!
-30452301-98d6-4079-a10b-9a19e6628f97|Sua cara de O vai me assombrar de todas as melhores maneiras!
-54f6b54a-d250-4edf-a506-c49fca7b633b|É, eu adoraria alguns pontos de discussão.
-bf01269e-22da-48e9-8b86-a1632633f348|Confie em mim, eu conheço o Frank muito bem. Estou bem.
-f3e29d73-ca12-4092-ae00-185eea8e507c|Bem, vamos fazer o melhor que pudermos... Ei, Frank!
-a5e7135b-27ac-4c07-a881-b28918deec2f|Eu diria que está bem claro que ele está negligenciando a segurança desta festa.
-6a478b1e-f8a4-43fb-9ae1-b48c447375a7|*Escute*
-879dce1a-bf3c-4c56-b1be-f8a1bcefa2c6|*Escute*
-5224a21b-e001-4368-b741-722f577984e1|Vocês vão cair!
-118dfc0a-d431-428e-8d6c-777fb5b9906d|Leah, acho que te forcei demais.
-404abecc-73e5-4727-b12b-96c28d82d12f|Vamos manter a calma.
-ea3b8b7e-6388-4263-a46a-7ce1e47cd1e0|*Gulp*
-4f4fee77-ac32-4647-86be-6bf56a460415|Eu chamaria isso de "presságio", Frank...
-361a46c2-1ad3-41d2-be88-66b2372c8ed9|Uhhh...
-84fc4ef1-e02f-4856-97ff-148b005f7535|Sua ordem é minha ordem, mestre.
-6c663838-9dd4-4208-a859-ecc0be5c09fe|Isso está ficando fora de controle!
-a596a9dc-c5a3-403e-916b-0ca202327471|Não, não, não! Vou chamar o Frank...
-7642d6d8-e919-4c54-9509-fb3c26410f31|É, eu... Acho que vou dizer não para essa merda que você acabou de dizer.
-ad5acd34-3531-4faa-9641-f4543d7c1db5|Tenho o que você procura, Senhor Leah.
-56aff9ad-5ee8-40db-9bf3-0fa1449d8481|Claro! Estou pronto *agora*, vai, Frank!
-0f7e88b3-532d-4ec0-8593-e6218b01123b|Eu? Não tem como eu vencer o Frank! Sou muito fraco...
-ff06e8f7-af55-4721-bc57-1b87ede11e72|Leah, você foi longe demais. Estou livrando o mundo da sua maldade aqui e agora!
-07380f75-bc36-4c2c-b54f-42aac378212c|Pffffft, eu já pensei muito nisso, en garde!
-b5ce7ae4-dfef-4525-bafb-e2429dd6d515|Ahh, espera, eu amo meus dentes. Afinal, mamãe e papai pagaram por isso. Estou fraco demais para lutar com o Frank agora...
-1c1c8530-32e6-45c7-a275-2033db40e249|Eu consigo... Eu consigo...
-ec7a8dc6-9b8f-4e7b-9c26-5a7823eafcc8|Dê-me seu conhecimento, Lorde Leah.
-441cff76-752c-494b-b356-bd5571be116f|...o quê?
-38cfaeef-6db0-4061-96fe-2b597a19e600|Acho que estou chegando aonde isso vai dar...
-8808fc33-1536-4300-bc23-862f48af07ba|YYAAAAAHHHHH!
-3ed313c9-5e6a-466a-95fb-4b52e7803bbd|É, você realmente deveria comprar um colchão novo. E controlar a raiva.
-b0f49fef-fae4-43d8-bda1-401d4053d965|*Continuar*
-7f899401-2f98-4a97-ac59-5e37c194e1a8|Sim, mestre do *Respiro*. Eu só preciso de um segundo.
-0853e43a-c86c-419b-b351-83aba1bd253a|Uhh, eu te peguei... Vou te mostrar um pouco de pele, ou você pode colocar a língua de volta.
-c47029d3-1aed-4b89-811e-af97ee991885|Fodido, eu sou! Super rápido em tudo... mas não nisso- PORRA!
-3f024ce7-2826-4115-85ae-b572e6496778|Caramba! Espera, eu... acabei de me esquivar de uma bala? Que porra é essa?
-b41b900c-2196-4502-9045-ceadcabb79ac|Ei- bom pra caralho!
-16bf798c-b1a5-42cd-8ec5-f87045c29b5c|Por favor, espere... que tal, você sabe... todos os outros aqui esta noite?
-49024030-ca67-435f-97f7-403abff6a379|Gostei de onde sua mente está. E seu... ahem, deitado, mestre!
-6677e43d-f1da-4a28-b314-dd1884d025bd|Tudo bem, tudo bem. Legal.
-798cc59c-8cae-4092-ba39-1fe3ed0282b7|Cheguei tarde!
-cad38166-60c6-4acd-9d5c-219f91a2a28a|Enlouqueça!
-afd6b2e9-3a36-405f-80df-868ed37c8390|Ok, vamos lá!
-cb9c2de2-5d6c-4b77-abf0-cbe799301f17|*Sair*
-13e3bfe3-562b-494e-a870-7729c8495a61|*Sair*
-bd9fbdd2-c66a-4f08-959a-9619fd1f775b|Deixa eu tentar...
-964e0958-6ab2-40c9-a1a7-2589b2ad355a|Hmmm, ele sempre quis dar um tapa em uma celebridade...
-9853a2e7-b0b5-459d-94f6-047df8dedd45|Nossa, que festa.
-a740ba7b-de19-47a8-a314-367f7f7d76f7|Não, sempre há espaço para sonhos! Droga!
-B1ff166a-6859-4914-b65a-2dd34672861b|...incrível pra caralho.
-42957a50-cbd4-4cfb-8941-416fa7690642|...De nada?
-c3aaaa1d-d4ec-4996-ade8-90ecb5797f2e|Então, qual é a sua história?
-df8eb9b4-a40b-4a08-9274-ee15fdc0e2e0|Aposto que você gosta de malhar.
-0ddd5f1e-3adf-4cc5-8394-2a307a8e7563|Posso te oferecer uma bebida?
-ace689ca-ef0c-40b9-8656-642f74601db1|Como você conhece todo mundo?
-6abe37b1-a3f7-4e46-94fb-45ed0bcf84fb|Por que você não tem mais conteúdo disponível agora?
-cca61945-7e3c-4f62-9e75-dae371877cfe|Por acaso você não teria o número de telefone do Patrick, teria?
-30ccbb46-b9c8-4084-acc6-4ea675d5c0dc|Ei, Leah, você assinaria esta petição para mim?
-57fd65bd-a947-4830-9c09-cd6359124137|Leah, você parece uma patriota. Está usando alguma coisa com a bandeira americana?
-74361fec-4d10-4272-8365-6c7f289505f7|Ei, Leah, acho que o Frank precisa da sua ajuda para proteger a bebida.
+220bea15-2d64-4882-aec8-3245149a2d66|Meu Deus...
+23e98e30-e66b-448d-8e31-78e1bcc9960a|R-I-S-P-E-I-T-O... Agora que penso nisso, eu poderia usar uma meia...
+256f4a84-c3c8-48d8-94db-dab7dbbedbc9|Você cheira bem e essas leggings te deixam sexy!
+267177b0-2812-4097-9dcf-3b702b51f420|Você sabe onde está a Brittney?
+26dac5f7-df44-4da8-81ca-20789e442bd9|Gostei desse plano. Vamos lá!
+274f2d4e-2be1-442e-8cd1-de5665279f67|A Madison está fazendo uma exposição de arte no quarto dela e achou que você deveria ir ver.
+277719bb-1adf-4648-9295-fee8a30018e2|Pfff, tenho certeza de que o Frank não fará nada. Não tenho dúvidas!
+29e0a388-d040-400c-99a7-f14523740f8e|Não deve ser muito difícil.
+2ae3da13-8c23-43fa-9806-6f7696bff76e|Isso é... algum tipo de insulto? Estou um pouco atrasada na cultura politicamente correta... se ela é tão disseminada.
+2c1da941-2bc5-4452-8343-5971e4ce22c8|Ok, hum... faça o que seu coração mandar, Leah!
+2c2932bf-26a5-42e4-a862-c051dcbf7b0c|Droga, acho que já é.
 2c56e792-7d72-437e-91ef-90a162b427d7|Há uma ameaça à segurança e preciso da sua ajuda!
-f72cb8eb-2ee4-4c49-bd28-9b272cab9fca|Leah, com certeza vamos atrás daquela cobra.
-a142dee9-3057-4122-aaba-45ab851df0b0|Espere, não podemos usar seu telefone?
-122264ad-8291-4f0c-acc2-6f4654e7e45e|Então, o que é isso, um estudo de autodefesa?
-ca422961-40ea-4d0a-9541-52b6a782fdc0|Alguma ideia de onde devemos procurar a cobra?
-cf6741b8-44ee-4fad-827b-d148e7a815e0|É hora de caçarmos essa cobra. Qual é o próximo passo?
-104b4333-d7da-44d2-a419-1dff3e4693c1|É hora de caçarmos essa cobra! Vamos lá fora.
-d518ab6d-66a8-4b54-bfcc-c2334d5feeb3|Encontrei algo que você talvez queira ver. Há uma espada presa na cerca, logo depois do mirante.
-4e46eeff-f5f4-40a1-8664-2c12dcfc1eb3|A quem devo pedir mais informações sobre a katana?
-c069d530-f42e-48af-9a44-eeaf120d1eaf|A quem devo pedir mais informações sobre a katana?
-96711b68-37bc-44d3-b818-90cf23b67bc3|Ok, acho que consegui nossa lanterna!
-b23e74e4-0cf0-48d4-b325-bb0d32536eb5|Sobre aquela espada...
-e8af08ae-66ce-4c25-b74e-3095968eb9db|Ok, acho que consegui a nossa luz!
-f3aad4d4-0d18-47ff-9552-9145fcc7a7db|Então, sobre aquele presente...
-13e9beda-d015-440c-8c14-2f7937c221eb|Então, sobre aquele triunfo sexual... coisas. É. Eu ouvi pelo menos uma dessas palavras, eu acho.
-a091b9cb-8255-4116-b381-f15e06a1ab7e|Te vejo mais tarde, Leah.
+2e1e1c53-b8f1-4bcc-aff5-c3895a149904|Sim, sim, estou trabalhando nisso.
+2e509fba-ecc2-4c9e-8437-6dea150798ac|Então é um... mistério? Tipo, como o Patrick usa aquela maldita camisa havaiana?
+2f07335c-eef2-42af-bf2e-a5cdbed7e01d|Hã, nada. Deixa pra lá. Siga seus instintos.
+30452301-98d6-4079-a10b-9a19e6628f97|Sua "cara de orgasmo" vai me assombrar da melhor maneira possível!
+3083afa6-f97a-4e3f-a208-bee7bbb95da6|...Como ele sabia?
+30ccbb46-b9c8-4084-acc6-4ea675d5c0dc|Ei, Leah, você gostaria de assinar esta petição para mim?
+32c5670e-f3ce-4b18-ada4-3289d1179a9a|Sim, exercícios de língua! Quer dizer, você precisa fortalecer sua língua também. *RASGA AS CALÇAS* Acontece que eu tenho a maneira perfeita de aumentar sua resistência.
+32c88fc7-c57f-4b21-a245-2d4b255be41b|Não adianta mais pensar nisso. Alguém está tentando te derrotar com uma combinação mortal de cobra e lâmina.
+33a15e1e-1897-4991-aed5-d007bab78e95|Obrigado pela confiança. Onde devemos procurar agora?
+33edc444-e6f6-49cb-9d88-e8d908d31647|O... ei, espera! Aonde você está indo?!
+343fa2a7-b387-4c1b-822c-1580e2875b67|Ah, qual é...
+346d2e96-028f-400e-be03-4647567e9cb6|Você pode nem trabalhar nos fins de semana!
+34c85434-e610-4569-8f78-8df52a4b6452|Que se dane a autodefesa! Me ensina a arrancar os dentes de alguém e eu chego aí rapidinho!
+354083ed-0b66-494a-8ada-4ec35b65616f|Encontre paz interior...
+36150151-cf87-4fed-80dc-207bac897315|Madison quer que eu coloque um pouco de visco como decoração, mas preciso encontrar algo resistente o suficiente para pendurá-lo.
+361a46c2-1ad3-41d2-be88-66b2372c8ed9|Hum...
+36a7cb4c-9fd0-47ce-98ad-fbe17e841dbe|Desculpe...
+3837ea43-8067-4991-8c35-477d46b64b0d|Eu não me importo.
+38404673-4a2a-4dc7-bda2-2f1182e73439|Eu sei, eu sei. Não saí do modo professor da melhor maneira. Não faço esse tipo de coisa todos os dias.
+384f219f-0dff-4229-93fa-5a4502e9a98b|Vou fazer, porque sou adulta e não tenho medo, droga!
+38be4dbf-0db1-4793-8347-dd810a8d51bf|Precisamos da sua ajuda para pegar o assassino do Patrick.
+38cfaeef-6db0-4061-96fe-2b597a19e600|Acho que entendi o que você quer dizer...
+390c1eba-ca36-4ed7-bcbc-67883dc6b7fa|Quero lamber sua boceta. Fique à vontade...
+3ab34452-c20d-468b-ae81-f4d6ea3d9f7b|É... é bem constrangedor, na verdade.
+3b055448-c71b-45b0-a01b-c351635e1b87|Pode contar com isso...
+3b81c716-9ee5-4120-9e34-f330adf636eb|Hum, tá. Eu... vou continuar fazendo o que eu estava fazendo.
+3ba92241-9cf8-4751-af5b-a95127098f38|Ok...
+3bf29baf-6989-48d7-9f62-419b079058dd|Em minha defesa, foi uma situação MUITO tensa!
+3bfe5418-c285-4f98-a005-82b1f3d86181|Então você quer que eu encontre uma lanterna?
+3ca34b93-4940-447d-ac69-4455d24f4cb0|Espero que haja uma recompensa por isso...
+3cc75f8c-c03a-4dff-9a4f-628bd235c239|Ok, entendi!
+3ea6d9ac-4e46-4d8f-a026-e7ce42f78d97|Asiática?
+3ed313c9-5e6a-466a-95fb-4b52e7803bbd|Talvez você precise de um colchão novo. E de uma aula de controle da raiva.
+3f024ce7-2826-4115-85ae-b572e6496778|Merda! Espera, eu... Estou errado ou passei por um aperto? Que porra é essa?
+3fb8a2d1-87df-4460-9a0c-36b4af5a144b|Por que você?
+404abecc-73e5-4727-b12b-96c28d82d12f|Vamos manter a calma.
+40552849-88f6-49f3-97cd-ccd3597f78b0|*Brincadeira bem-sucedida!*
+414c78d4-6b27-457a-a12f-916243bf097d|Alguém queria que a cobra tivesse liberdade para viver a sua vida!
+41648e01-123d-4b1a-a7e8-fe819696cb89|Madison disse que precisava de você assim que tivesse um minuto. Ela está lá em cima, no quarto dela.
+4190470c-4ec3-40d2-ad87-680d99cce08e|Hum, fique em guarda, ou seja lá o que for que você esteja fazendo. Tenho algo para resolver.
+42240467-96fd-4439-8d56-3944bfc12c67|Desejo-lhe sorte. Eu também descubro muito sobre mim. Principalmente na hora de dormir.
+4275dada-1514-43d0-bd11-89539e31902d|*Continuar*
+42957a50-cbd4-4cfb-8941-416fa7690642|...de nada?
+42f78b1c-267a-4503-85ab-7669b1116897|Puta merda, achei que tinha que te contar!
+43304e80-afaf-4c96-8d87-b247387ad8a9|Vida longa aos cavalos...
+43e30927-111b-4aa9-847a-5e2519b44538|Contanto que seja um curso de autodefesa e não "Noções básicas de intimidação", estou dentro.
+441cff76-752c-494b-b356-bd5571be116f|...o quê?
+46603982-fb73-402c-a8e6-275070e12d03|*Acena com a cabeça sem dizer uma palavra*
+46b765ab-926b-4f06-bc3d-7c576b769e3c|Merda.
+47b742dc-16c5-47ca-ac2f-a692fd6779e1|Acho que você está se lembrando errado.
+482e0cf5-7955-4a66-b6f1-ed25df62bb36|Ótimo.
+49024030-ca67-435f-97f7-403abff6a379|Gostei da sua maneira de pensar. E o seu... hum, estou deitado no chão, mestre!
+4ba5182d-8605-4f85-b65a-2768c1d05221|Entendo perfeitamente.
+4bc4a172-4978-411e-8046-72956ee64aec|Esqueça. O problema se resolveu sozinho.
+4cb13474-437c-4021-9fbe-2f25426d020a|Nossa, vejo que você está gostando muito disso.
+4d0f001c-70e1-4247-9774-9a84302375ce|A cozinha. Preciso ter certeza de que não tem nada pegando fogo. Ou... nada em geral.
+4e46eeff-f5f4-40a1-8664-2c12dcfc1eb3|A quem devo perguntar para saber mais sobre esta katana?
+4f4fee77-ac32-4647-86be-6bf56a460415|Eu diria que você mereceu, Frank...
+512afb76-77bb-47b3-9cce-fcee1c815262|*Continuar*
+52218689-56a8-40c6-9f28-e51f19e8c6fd|Sim, e também lhe mostrarei como construir e manter um templo desses e, se tiver sorte, como aproveitá-lo ao máximo.
+5224a21b-e001-4368-b741-722f577984e1|Cuidado! Você pode cair!
+53479496-4c4c-43ba-93e1-8893def45e5f|Ótimo. Então... agora você vai me lamber, né? Posso dizer que isso é lição de casa?
+5403ea10-7b76-4eea-9664-fb57ad0dd39a|Pegamos você, cobra... espera...
+5472b6e6-df35-4a8e-ac13-22b035dc6e37|*Continuar*
+5490140f-ad65-4a16-8eac-7ca4a53908eb|A Teoria do Gotejamento? ...ah. Merda!
+54f6b54a-d250-4edf-a506-c49fca7b633b|É, eu adoraria começar uma conversa.
+5584eb57-f838-4116-bb56-867565c91f69|Sensei Triple D? Ah, sim! Quer dizer, eu o chamo de Sr. Bolas Grandes, mas faça como quiser.
+558ab07c-f8c1-49fa-8cb1-6ef8812b91ad|Ah, que bom saber! Obrigado!
+55cea3d4-72ce-4f61-836c-89db18857ec9|Você viu algo estranho na vizinhança?
+56aff9ad-5ee8-40db-9bf3-0fa1449d8481|Pode falar! Estou pronto! Vamos lá, Frank!
+57c5e786-43f8-4455-8292-9cf264f061f9|Jovem aprendiz, espere... Merda.
+57e13b7c-ce07-4556-a4fa-7ba6ae0d362e|Temos um problema. Essa katana é um instrumento de destruição!
+57e48dca-3fcf-4775-88e0-c4284e4384b5|Bem... merda. Por algum motivo, duvido.
+57fd65bd-a947-4830-9c09-cd6359124137|Leah, você parece uma patriota. Está usando alguma coisa com estrelas e listras?
+59271ede-a7c0-4e28-8eed-fdf311ec7b4e|Lá fora, perto daquela árvore no quintal. Acho que vi uma Karen nos espionando do lado de fora da cerca!
+59c23162-31d0-4d06-a3a0-18a6a5f5aa2e|Sim, isso é obra minha.
+5a0345b4-906d-4264-bc6a-f9296c1a5504|Uau, uau, uau, eu não quero brigar!
+5a6d5e92-2392-4d76-a572-e43dc080c249|Pegamos você, cobra... espera...
+5af8082b-a508-47a9-89c3-cca745143d27|Mmm, são folhas de maconha na lâmina? É melhor ter cuidado e não analisar demais as coisas.
+5bf3f70a-e579-4e11-b602-075bd583cde1|Acho que seu "trem da dor" está atrasado... Ah, não, aí vem ele...
+5c9510be-ac23-44b5-8540-7f7c7798dae7|Agache-se como nunca antes. Esforço máximo! Sua beleza não vai te ajudar a vencer uma luta... Esforce-se!
+5cda282d-d8a3-4fd5-b969-ffac6e58f325|*Continuar*
+5d14fb32-27a3-406f-a8cb-5d61921faec9|Acho que você vai gostar.
+5d28c4e9-4e5e-45d7-9c4f-3688dab78bc3|Obrigada, Leah.
+5e1196ac-8203-4762-a635-25f5b6a64b47|Ok. Mais emoção para nós, então!
+5e756b06-1eb5-4250-a501-2cf4303d9220|*Continuar*
+5e9a2b16-1f9a-4705-9f89-7ca9d2a0b090|Pode contar comigo, Sensei.
+60fc76ec-8463-48f5-b54e-16cc0ba6b127|Ah é, merda, vamos lá!
+63192593-cf37-4004-9c3c-b5d8320a8a1f|Nossa, eu fiz isso?
+6361aa49-365b-4d11-b078-4ebf61b187da|O assassino está nos dutos de ventilação e estamos prestes a deixá-lo sair para a garagem.
+6362d906-1b1d-4372-b917-6c9b706058e6|Merda.
+6472d998-c54c-4e71-9a24-54f979229708|Tá bom, tá bom! Desculpa, Leah.
+648272f3-3a12-478f-8374-936495012bb4|Leah... vai ficar tudo bem.
+64b5be47-2931-4217-be99-f6fc07c88f6d|Hum... só um segundo. Já volto!
+658b6ec7-aafe-49e6-8f10-6b63f05514d9|Vou tentar não te deixar louca! ...bem, para onde vamos agora?
+6677e43d-f1da-4a28-b314-dd1884d025bd|Ok, ok. Sem problemas.
+668beb8b-836f-4ea8-8858-f60d9522e073|Então agora eu tenho que encontrar um estudioso de espadas antigas? Que porra é essa?
+66e309a5-1381-43dd-b91f-8e19dcd85609|*Pular*
+66ebdf09-8ad3-4c13-809c-594c57433c65|Vamos fazer sexo oral, certo?
+6717cbaf-9e47-4995-b09a-d196fedf70bd|Deixe-me distraí-lo. Você vai pegá-lo desprevenido.
+671b43a7-f491-48f0-8163-8f1e4ba160b7|Talvez você tenha razão sobre eu ser covarde, porque tenho muito medo de fazer isso...
+688b9e8d-4cea-494e-8ab5-32781f299c10|Acho que a culpa é do Rotary Club ou da associação de moradores. Bem, e agora?
+694e3c30-5caa-4aae-8c5a-19ed52e40572|...Sim.
+69bb5ed4-39d8-4d5d-bffc-07bd83212f81|Repugnante, mas provavelmente preciso.
+6a478b1e-f8a4-43fb-9ae1-b48c447375a7|*Escute*
+6b129427-55b6-42b8-a6a7-c4b8e55ca7ad|*Suspiros* Por que eu tenho que procurar coisas que rastejam em lugares escuros? Tudo bem...
+6b2bcce5-b79e-4a72-881a-91d1098a15b7|Na verdade, o chiado vinha deste. *Me dá a lata de spray*
+6b5b6bee-c170-4e9f-8b02-0422a2b93130|Sério? Hum... tá!
+6b6dc6a7-5643-47d0-a220-c31b4b67e578|O que está acontecendo?
+6bdd3335-80e9-4b34-b0b2-3a011035a90c|É, droga, mal posso esperar! Vickie?
+6c2831ad-f2b4-45f4-95a7-1df49fb85e6b|Obrigada, mestre.
+6c663838-9dd4-4208-a859-ecc0be5c09fe|Isso está saindo do controle!
+6d3b24b0-3b4a-4d9a-b305-071c6f683f31|Amy verificou e disse que é só um brinquedo de feira.
+6ebd131b-e33e-4a31-8b12-2bfa05d3261c|Curtir. Veja-me canalizar meu Edward Honda interior...
+6edb452c-847e-43d7-b2d6-0c35810a2dd3|Hum... 42?
+6f536568-093a-44bb-86d7-76526730fdd5|Sem problemas!
+6ff303bc-f18d-405c-b57b-2611f5e92c07|Ok...
+70078f9c-adf3-498c-add6-d5449fdb1fde|Obrigada, Leah!
+703b37cc-6fa8-4f2c-ad76-5792fade812f|Isso foi... muito intenso.
+7073c4c3-c7b5-47ec-ab50-03dd7559ca4b|Leah! Estou vigiando a casa toda. Quer explorar comigo?
+711fa699-1b3d-4447-b483-a58252751390|Ela está aqui... psicopata...
+712c27dd-3140-4e17-82ac-72c94e185b53|Você não cheira tão mal assim. Não é um problema para nós.
+7297ad84-01cd-44ba-9f6c-40c332663585|Só de pensar me dá fome.
+749a7ec3-fa6e-4f53-a655-10139b964648|Está pronta, Leah?
+749c35e1-0ab6-4c93-9f67-89c284ddc7eb|...Esqueça. Frank precisa da sua ajuda para cuidar do álcool.
+74b68c91-26d6-4db8-b722-33d7909ef4aa|Argh. Faça o que tiver que fazer...
+7515dd6d-7091-47ba-a05b-54352219024a|Me beija. Agora.
+7531baaf-884d-4bf0-8d5e-bb6afe788102|Tenho outras coisas para cuidar agora.
+75396ae6-0c4e-4edb-8216-aca9b04ee15a|Bem, hum... tá. Tem certeza de que nem quer tentar?
+75c38f77-ac70-452b-8b6d-aa4abd88b122|Deite-se de costas e gire os quadris de um lado para o outro. Com vigor! Você não pode negligenciar o que já é um ponto forte!
+761931e6-1d1b-4ec7-8d88-72f862e428ab|Por justiça! E POR SEXO!
+7642d6d8-e919-4c54-9509-fb3c26410f31|É, eu... acho que vou dizer não para qualquer loucura que você acabou de dizer.
+76d3a904-a8e9-4538-bf48-7a634a369f9e|A força vem do centro. Essa é uma pergunta básica, aluno!
+77c97caa-1572-43c0-9529-7a78e503e650|E quem você vai chamar? Os Caçadores de Esperma! *Canta a música tema enquanto corre para salvar a vida*
+785bcdd0-ce8b-4c84-8d13-956042ef86fe|Obrigado mesmo assim.
+78d50c94-aed7-4955-8624-2648cedd8652|Mestre, posso beber agora?
+790147e3-bcbf-468e-be0b-0b9efd3908f9|Merda!
+790a9568-0492-443c-8549-7a066337b845|Você está indo muito bem, Leah.
+798cc59c-8cae-4092-ba39-1fe3ed0282b7|Tarde demais!
+79a882d7-92c3-4608-b888-2c2dacc9fdc4|Arigato.
+79d2c6cc-38cf-4434-a8f9-c41c5e727b9e|Sexo é um bom exercício. Pense nisso como um treino extra.
+7b0c40d0-6fe5-4750-90e5-18843617d0b2|Eu, hum... Estou um pouco ocupado agora... MFMFFFRRFMMMRRR!!
+7be6f12a-3076-4db0-bc9d-66ca76988e3b|Merda.
+7d0d6829-632a-435c-81c9-92e38edb6320|E foi assim que nasceu o código da Leah.
+7da9ccd5-6131-46f1-839b-1e8ea41aeb52|Por aqui.
+7e9e0349-6ec9-42bc-adbc-fc64dbd56a85|Ai, ai, ai, você tem veneno na cara toda!
+7f00c795-d7af-4199-a56d-63844ff2240e|Quer ser o chefe de segurança da Doja Cat?
+7f132aff-eb88-4379-a357-d0cf1d8e9d08|Merda...
+7f899401-2f98-4a97-ac59-5e37c194e1a8|Sim, *respire* mestre. Só preciso *respirar* por um segundo.
+80484fcd-6656-4d62-9bb3-40673a1ee7a3|Hum... Dou muitas voltas no grande oval da mais central das escolas de ensino médio...
+81821896-1de6-4247-af19-04c03dd37023|*Continua*
+81a67aad-4927-44c4-838a-d5473dba92fd|Eeeeehm... meu coração me diz para responder "ao meu pênis". Mas meu cérebro... está com problemas.
+822d0378-50d1-4ae1-814f-356791ffa320|*Pular*
+82a63406-f7bb-4ef4-a9b1-78b23983508a|Te vejo em alguns segundos. Agora. Em algumas horas.
+83205233-7e95-4ad2-93fb-e481492b26ef|Você sabe alguma coisa sobre a Amy?
+83343301-4509-431f-bc9c-8e96382d3b44|Valeu a pena!
+835a9b56-ff64-4461-8911-e3d6404654f8|Argh. Que pena para mim. Peço desculpas.
+8428cfc5-0290-49be-99e2-55f918fda1ac|Tem uma cobra solta!
+84da2c55-dc7f-420c-bff6-07bb5173edd8|Puta merda, você pintou o rosto com essa tinta spray?
+84fc4ef1-e02f-4856-97ff-148b005f7535|Seu desejo é uma ordem, mestre.
+85d2d081-e758-4c31-8168-1d63fc85f1e0|Siga-me.
+86d8428c-c231-4262-bea0-f88c42c3041f|Ok, estou pronto.
+879dce1a-bf3c-4c56-b1be-f8a1bcefa2c6|*Escute*
+8804a7bb-fade-4353-bd3d-f900ae0dda2e|Por Deus e pela pátria!
+8808fc33-1536-4300-bc23-862f48af07ba|YYAAAAAHHHHH!
+88092689-24d1-4d5f-a957-3001433297d8|As coisas vão ficar bem complicadas se não encontrarmos aquele desgraçado!
+88c0c048-a611-4016-81c8-1beff727e192|Me dá um segundo! Tenho algo importante para resolver. Ok, Vickie?
+89f6aa3a-70d1-4f2a-99f1-32b6cf752525|Um psicopata, é isso.
+8addb018-81bb-4759-87a3-4cdc3b0a2006|Ok, vou descer. Droga.
+8b145323-8487-4151-b29c-0111c6566ae1|Muito obrigada!
+8b9bbedc-c5be-4449-b0a8-fe731691bd1f|Parece justo.
+8c4d48ca-8f3e-4500-b76f-733e16254b79|Leah, você tem que se segurar. Lembre-se do código! Olhe para a luz!
+8d666f28-514c-4dc4-87b5-e27f55897686|Que bom que você está gostando do show.
+8d8d640a-908d-4b00-89d4-8b338a6023c4|Preciso agir imediatamente! Não quero ser engolido... bem, não por uma cobra.
+8fbd40d5-c282-4eed-aba1-a269976ea45f|*Ouvir*
+8fe7a6f7-d1bf-4c70-9d39-13606c180df9|*Pular*
+90428c1e-57eb-4019-8fa5-27272aaa7ec8|Pensei em te surpreender...
+90d7a6b6-f7fe-4670-a980-93b636cb8c83|Desculpa! ...Droga.
+9261fda8-f263-42ad-8031-9a8a7e054709|Você quer dar... para um louco?
+93757319-1aa2-414e-b905-0721408167c5|*Continuar*
+93c384de-c8a5-4a1e-8159-cf4eb694cdda|Caramba, funcionou!
+94428510-95f9-4f86-9340-105e40b4241f|Ah, bom... que bom!
+961aaaeb-d4e2-4b2f-b689-6f90d2fe60e6|O Frank foi embora. Te incomoda se começarmos a beber agora?
+964e0958-6ab2-40c9-a1a7-2589b2ad355a|Mmm, eu sempre quis dar um tapa em uma celebridade...
+96711b68-37bc-44d3-b818-90cf23b67bc3|Ok, acho que encontrei nossa lanterna!
+974d56b9-87aa-42b4-9ff7-ca3492973cf3|Na verdade não... Puta merda...
+98215f10-5cb5-4523-b62d-f7b205f8fb3c|Ok, ok. Meu Deus!
+9853a2e7-b0b5-459d-94f6-047df8dedd45|Meu Deus, que festa.
+992fa833-d6cb-4b31-bf00-d396a36a9665|Não pensei que ouviria você inventando desculpas para não fazer nada, mas... Não importa.
+993dbee2-ac8e-458e-aba2-5ffdcbd3e264|Certo. Então vamos logo encontrar essa cobra!
+99530627-0055-45ed-8389-d5f4e57ac0d1|Posso pensar em outra atividade que te faz gostar duas vezes mais e te faz suar tanto quanto. *Piscadela*
+9a49d71a-69c4-4317-b81f-88efab4b8015|Leah, a cobra... você arrasa!
+9b75f0a2-abe3-45ac-b6e7-87e13bd19dc4|POOOTEEEEERE ILLLIMIITAAATOOOO!
+9b930143-ddc4-4a20-be9f-3581d034a35b|Uau! Ok, vou anotar. Espera... desculpa, pode repetir a parte sobre o Frank?
+9c14f9d4-ffd2-4811-8c33-de85245311da|Estou quase... quase lá!
+9c5fe58f-b200-40e4-9c00-dd3919f0e8ca|Ah, entendi, ela só não fazia ideia de que ele era um... senpai? Desculpa, sensei.
+9cdb3345-e1bc-472f-9c37-9685c536ba1d|É mais uma situação de "fuga do quarto da Ashley".
+9d5461fa-b160-4313-8720-03c505e44759|MINHA. ANACONDA. NÃO... argh, foda-se.
+9d8deb57-5757-4953-b37c-d0d4b4ce98c4|Ok, bom... te vejo mais tarde.
+9d922c68-61d4-4348-9334-5525561d0458|Ok, acho que não vamos receber uma resposta dele.
+9df5e085-a90e-4f3d-89c0-cc591c0706a8|O que você quer dizer?
+9e004590-0c05-4432-a669-001c7cd07bc8|Você pode me dizer se prefere pênis grandes ou bolas grandes?
+9e7eaf67-b6a0-4370-bc11-577b465ecbd8|Ok, vamos trabalhar.
+9ed21320-c67f-434f-8006-4cc8ae8c237b|SIM, PORRA! *COMEÇA A TIRAR A ROUPA* SEU ZIP DE MERDA...
+9fb6b8a3-d1c3-4805-afb2-50f1250fccb7|Ainda acho que a katana é um instrumento de destruição...
+9fefcea2-431a-44c7-bb5d-a043c631fc84|É, parece cada vez mais que tem um assassino entre nós. Não tenho dúvidas.
+a07b6cd7-8e10-41cb-9531-30a76ef39cae|Vamos lá fora! Sigam-me!
+a091b9cb-8255-4116-b381-f15e06a1ab7e|Até mais, Leah.
+a142dee9-3057-4122-aaba-45ab851df0b0|Espere, por que não podemos usar seu telefone?
+a2071f41-81e4-4f18-a508-58d034630a21|Como assim?
+a2948f8a-9d25-4c25-8e66-2b84dbf68a6c|Sim! Aqui e agora?
+a29b3f4b-f7ce-45e1-83a7-cbbbd220f1f9|Princípios são importantes, especialmente quando se trata de fezes.
+a301c319-0e8f-4c00-92fa-d9ace1bfcd9d|Chega de conversa. Vou ver o que posso fazer.
+a31e44f9-b95f-4288-8d53-54e32a6a0d4b|Então, não ao "Sr. Bolas Grandes"? Certo.
+a3793253-da63-4c34-a893-c073dd8ebd61|Porra, sim! Isso é... você é incrível! Não pare.
+a4210fe1-f8e6-43a6-b1b9-7d33dfeb89d2|*PARECE ENVERGONHADAMENTE COMEMORAR ESTA VIOLÊNCIA*
+a4edf537-32d5-4a83-b818-27e7aedd40bf|Preciso me familiarizar com todos os aspectos das suas fraquezas. Vire-se e incline-se para a frente.
+a596a9dc-c5a3-403e-916b-0ca202327471|Não, não, não! Vou ligar para o Frank...
+a5e7135b-27ac-4c07-a881-b28918deec2f|Eu diria que é bem óbvio que ele está negligenciando a segurança desta festa.
+a740ba7b-de19-47a8-a314-367f7f7d76f7|Não! Sempre há espaço para sonhos! Que se dane!
+a859b0d0-cf4a-46a0-a6c0-686f42a3f838|Feliz Dia dos Namorados!
+a8739efa-6914-4d20-8582-7aaec36440b9|Vamos esquecer... tudo isso e encontrar um lugar para dançar. Ao som da música!
+aad9b717-08a6-4d4d-87d9-cb07830a167d|Que pessoa estúpida eu sou. O que eu estava pensando...?
+ab959a2a-21a4-4126-a518-dd7fee914e95|*Continuar*
+abd35045-0994-4f02-98f6-3cc45cfe5397|Por que você não "tira" a roupa? Hehe.
+ac949d1c-147c-422c-bce5-d4144d604e6f|Supere seus limites, pois somos nossos maiores inimigos.
+ace689ca-ef0c-40b9-8656-642f74601db1|Como você conheceu todas essas pessoas?
+ad5acd34-3531-4faa-9641-f4543d7c1db5|Encontrei quem você procurava, minha senhora.
+ad69b456-1f5c-4375-b8bf-8e63913aca05|*Continuar*
+ae7adb8e-c160-48ef-9bf0-60b678a73a52|Bem, sim, você realmente acertou em cheio.
+af15d825-70ae-482c-baea-1531a88846cf|Deixei cair no chuveiro enquanto tirava fotos.
+af26186d-754a-4360-8543-8c0813206eb7|Ok, ok!
+af79b745-0088-4373-9e91-8927e4e8fbea|Você não acha que está inventando joguinhos mentais demais?
+afd6b2e9-3a36-405f-80df-868ed37c8390|Bem, vamos lá!
+b0181559-d155-4bec-bbdc-e946fc898f4f|Sua atitude é um insulto ao seu sensei! Prostre-se como, hum... o estudante insolente que você é!
+b0d70c7a-e33c-4f50-80c4-44f962f2fa44|Vamos trabalhar!
+b0f49fef-fae4-43d8-bda1-401d4053d965|*Continua*
+b16fc045-bfc6-4e67-9537-842cebe94bab|Ok, eu cuido disso!
+b1f8e36f-8623-46a0-89c6-b46feba36ffa|*Continua*
+b1ff166a-6859-4914-b65a-2dd34672861b|...vida de merda.
+b216e930-a92a-454c-ad73-b4959a22a6cc|Hum... Acho que você acertou em cheio. Espera... Sensei Frank?
+b23e74e4-0cf0-48d4-b325-bb0d32536eb5|Falando daquela espada...
+b243669e-b051-4d7c-bb14-4c83334741fb|Eu também tenho uma demonstração para fazer... o quão rápido eu consigo correr!
+b2c97660-6f52-4829-bc80-4cffa4420a9d|Não temos dúvidas sobre isso... no entanto, sobre aquela katana...
+b307e2c2-ded1-465f-921c-359d4bbf6aaf|Na verdade, sim. É perfeitamente crível.
+b3435bc6-0b9b-48db-b560-61aa359f1f4e|Nossa, obrigado pelo treino! Você é um bom treinador!
+b3cdac05-6678-4330-8ce2-d736dfea86d6|É o segundo número na minha discagem rápida, logo depois da minha pizzaria favorita.
+b41b900c-2196-4502-9045-ceadcabb79ac|Droga, tudo bem!
+b4fd2f09-6c56-49b3-9a7e-7fa4526267f7|Droga... ei, pare de sonhar!
+b55ebd2e-8367-402b-92d4-653c5997c618|Em algum lugar do outro lado do jardim. Vamos até ele.
+b5ce7ae4-dfef-4525-bafb-e2429dd6d515|Hum, espera. Mudei de ideia. Mamãe e papai pagaram caro pelos meus dentes, e eu sou fraco demais para lutar com o Frank...
+b61ff92c-c947-49fa-9fcd-46311b517787|*Continuar*
+b65b60de-efc7-435a-9663-6c1a68dbe481|O quê...?
+b7269889-59b2-43bc-971f-7309f09b7b83|Eles vão cantar histórias da nossa vitória.
+b753d3b4-98b5-4596-9e91-dbeacf749181|Só para constar, essa coisa enrugada está em perfeitas condições! Novíssimo... tipo!
+b77e318f-205a-42b3-a67f-d985c9e11fa3|Não, não posso revelar meus segredos. Nunca se sabe quem será seu próximo oponente um dia.
+b8a3ab3d-d0b8-4b94-a28e-1d6ce0180165|Já resolvi o mistério! Nada de grave aqui, e muito menos uma cobra.
+b8e6428f-9a84-43ff-9e73-5dbf79654820|Alguém cagou no micro-ondas!
+b9df4401-1eba-4c4d-95cb-b80a40a1c855|Todos nós queremos que o Derek tire a camisa, e ele só fará isso se houver assinaturas suficientes nesta petição.
+ba380fae-5cd2-4b08-857e-8e1795060823|O que é isso, o que é isso?!
+bbc915af-73d3-463d-afc2-498f4bb2511a|Eu reconheço esse privilégio. E esticarei meus braços para trás para atingir a velocidade máxima.
+bd9fbdd2-c66a-4f08-959a-9619fd1f775b|Deixe-me tentar...
+be6690e4-3b06-4b35-9d87-2bab6fe22571|Bem, se você insiste...
+bef2b3a2-5c68-4920-adb8-1ba50d5b27eb|*Continuar*
+bf01269e-22da-48e9-8b86-a1632633f348|Acredite, eu conheço o Frank muito bem. Ele não terá problemas.
+c0ae31d7-aec4-4e1c-85b2-0dabe98c191d|Eu não quero morrer virgem!
+c0eca483-7bd0-4eec-8174-2184d2e21a56|Estou com você por enquanto.
+c2db26e3-ae2f-49bc-98eb-d9bfdc896b6f|Na verdade, eu trouxe o Frank aqui para que ele pudesse se desculpar com você.
+c3aaaa1d-d4ec-4996-ade8-90ecb5797f2e|Então, qual é a sua história?
+c47029d3-1aed-4b89-811e-af97ee991885|Ei, EU SOU, rápido! Super rápido em tudo... mas não nisso. PORRA!
+c55d637e-f135-4c23-b4ee-11a62dbe602f|Te vejo mais tarde, Leah.
+c8380b74-8b8a-4850-bf39-35b4843afc1a|Alguém está querendo sangue hoje à noite... e esse alguém tem umas PRESAS de verdade.
+c8ac1cc7-e631-46ea-a495-0016545791b0|Puta merda!
+c8ce0387-db66-4aa3-9d64-1acba172c1b7|Estou pronto! Vamos perseguir esse desgraçado até os confins da Terra! ...Ou pelo menos, até os limites da propriedade.
+c976cc9a-5d3e-494e-8dfa-59f66669eb78|Puta merda, você está pelado!
+c9f2725b-ad9f-4b44-964b-c5a397c093e1|É... não seria ruim. Ei, vamos continuar procurando por aquela cobra!
+ca422961-40ea-4d0a-9541-52b6a782fdc0|Alguma ideia de onde devemos procurar por essa cobra?
+ca839ee2-cb8d-455c-bd49-14fc1f8774ac|Ei, você parecia o Frank... que merda!
+cad38166-60c6-4acd-9d5c-219f91a2a28a|Que p... que merda!
+cb0c658a-c7f1-4df2-b1b1-0978be726384|Estou ouvindo...
+cb9c2de2-5d6c-4b77-abf0-cbe799301f17|*Encerrar sessão*
+cc456951-62bb-4364-b195-b302bf613fb2|Parece um plano brilhante!
+cca61945-7e3c-4f62-9e75-dae371877cfe|Você não tem o telefone do Patrick, tem?
+ce6d7491-3a9d-4410-9d8c-99fc171dd016|Na verdade, talvez eu tenha exagerado em algumas partes dessa afirmação. Tipo... o fato de eu ter lutado...
+cf6741b8-44ee-4fad-827b-d148e7a815e0|É hora de caçar essa cobra. Qual é o próximo passo?
+d05e4d12-6918-4b2b-95df-dc3f207f6556|Sim, proteína! Quer dizer... proteína nunca é suficiente. *TIRA AS CALÇAS* Acontece que eu tenho uma fonte de proteína bem aqui...
+d097aaa8-e29b-4ac6-81ee-fa6442b5e8a5|Não é dever de um aprendiz melhorar e superar seu mestre? Frank é fraco, prove isso pegando a cobra.
+d0bf24be-6773-454f-a1e2-daae41d2d93a|Sim. Estou treinando há muito tempo para este momento.
+d1fce1a7-7a8c-4d93-9386-b5c046444b52|Vamos lá para cima. Provavelmente é o melhor lugar para procurar, hum... ninjas chupadores de rola.
+d29a2fd6-480f-4597-8b14-5edcccd726b5|Meus braços não estão flácidos...
+d2bc875e-6033-4e61-b6db-0e4ee0f6962b|Ok, droga... obrigado pela informação.
+d471fb77-821c-4f80-a813-9679039704d8|Pegamos você, cobra... espere...
+d511e737-a3e4-442d-838e-63fa9b2091ab|Como posso ter medo com alguém como você lutando ao meu lado?
+d518ab6d-66a8-4b54-bfcc-c2334d5feeb3|Encontrei algo que você deveria ver. Há uma espada presa na cerca, logo depois do mirante.
+d5de6c1a-5bb6-41c8-97f8-fb4f4bebab29|Sua lealdade não tem limites.
+d6875d2d-6bb4-4363-862a-b0288d2d5b8b|...Eu peidei.
+d6aad8ed-6492-48c2-80b7-271bfe8fa270|Hum... Eu... o quê, você não sabia?
+d6b4e421-e108-416d-ae35-198fd1c38fa6|É... enfim, você pode me dar suas credenciais para que eu possa mostrar ao Derek um vídeo sobre como consertar uma pia?
+d7a18f87-c556-4428-b213-f2813db99e42|Eu não quero morrer virgem!
+d7e7c966-c024-42b4-b6cd-4e34bdf4c305|É uma boa ideia se aquecer antes de uma atividade extenuante. Mãos para cima, depois para baixo... não pare até tocar os dedos dos pés!
+d9341919-60f2-41e4-a28f-b10d3debef66|Direto ao ponto. Obrigado, maestro.
+da6c85d0-398e-46c7-acb4-b4005ccb68e5|Recebido com clareza e clareza.
+dd6923cc-67f4-4e5a-8b40-4f9cede2d69f|Eu, hum... Estou um pouco ocupado agora... MFMFFFRRFMMMRRR!! (Sexo Interativo)
+de028809-fdad-47ea-b292-0b7cb6af5ecc|Leah, recupere o juízo!
+dea33080-66ae-4a78-a6bc-ebdd057ba4f3|É o cheiro das secreções do sucesso que você sente! É um cheiro pungente! MEU DEUS!
+df8eb9b4-a40b-4a08-9274-ee15fdc0e2e0|Aposto que você gosta de malhar.
+e024ff3c-eb9f-47c9-980b-a95634fa9c04|Você passou por muita coisa esta noite. Só queríamos te ajudar a liberar a tensão.
+e0cfc622-c9ef-4a37-9ea6-df9346cb61f9|Nunca vi tanto remorso na minha vida...
+e19859e3-0c98-4fc1-991d-6018d0dd4e4b|Isso é um privilégio e tanto e um absoluto... espera... o quê?!
+e20b89d1-3ba9-438a-9443-979a74d27c55|Você precisa se treinar para ser mais ágil e aprender a se adaptar. Mostre-me como seu corpo pode mudar de uma forma para a oposta.
+e287feaa-4192-411a-8edc-91678bab9d54|Gosto do seu jeito de pensar. E seu... aham. Estou deitado no chão, mestre! (Sexo Interativo)
+e436ba7d-fcac-4e53-8765-e8012481384b|Ah. Merda. Eu tinha certeza de que daria certo...
+e44d669d-7c2b-499a-9101-11982436055f|Não posso dizer mais nada...
+e56557d4-0aae-4592-911c-8cd78d0a1854|Sh... 
+e56fdd57-8446-4991-a31f-5a625de6b2d4|*Continuar*
+e61a8684-0230-47ec-9393-005eafb1fa00|Vou mandar o Frank lá embaixo enquanto você o distrai!
+e69ecdfc-13d4-4d82-a67f-5885c71f11c0|Esqueci de ligar para minha mãe. Podemos deixar isso para depois?
+e6ec093f-0f8d-41df-aa7a-c402b9c3e986|Precisamos bolar um plano!
+e707de46-3a4c-4814-bb3f-95379b36fcd0|*Você sorri maldosamente, soltando uma risadinha sem graça*
+e8af08ae-66ce-4c25-b74e-3095968eb9db|Ok, acho que encontrei nossa lanterna!
+e9617b96-a848-47a8-a87a-ad07ea03347e|E daí? É só sacudir um saco de comida de cobra e ela rasteja até a gente! Certo?
+ea20d5bc-fff7-4bf1-93a6-af8aac7b74ca|É, e ela se move. Eu, hum... nem vi.
+ea3b8b7e-6388-4263-a46a-7ce1e47cd1e0|*Gulp*
+eaac6350-1b3f-4cd9-96fe-e84c788164cd|Mistérios como, por que o Patrick está usando uma camisa havaiana?
+ebd0e5f3-ca38-41d7-9eb8-ae5e79af2861|Siga-me.
+ec251747-0329-4b1a-b20f-e63515b9835a|Mulheres fortes me intimidam, ok?
+ec7a8dc6-9b8f-4e7b-9c26-5a7823eafcc8|Dê-me seu conhecimento, senhora das trevas.
+ec7b1070-956a-41f0-a12a-cee8bd4174af|Que bunda incrível... glúteos. A força vem dos glúteos.
+ed04b0ce-3f63-4748-b8bd-7ea80abc8703|Um ótimo professor é um eterno aluno. Estou pronto para sua demonstração...
+ee8cae06-e297-457a-a84a-adaad54efc5e|Alguém cagou no micro-ondas! ...De novo!
+ef6afa99-d30b-4283-ab7a-740c236002c2|Talvez eu devesse pedir para alguém dar uma olhada na espada para verificar sua autenticidade.
+f0092c91-9b57-4f2f-a4c8-91504b358940|Você sabe por quem a Brittney está apaixonada?
+f052e013-3165-4813-a893-f269f5b7b920|O papel coadjuvante provavelmente combina mais comigo na vida.
+f06ab3ce-7cbc-48cf-99e9-0b30bad20be0|Ok. Ok! Vou ser mais rápida com a lanterna!
+f120f4d8-adeb-49f3-aafc-1ec84da3bd15|Não. Ainda não tive o prazer de conhecer esse "Sensei Frank"!
+f38bb066-36bc-4ec9-9699-fd58eeeb9e61|O que você quer dizer?
+f3aad4d4-0d18-47ff-9552-9145fcc7a7db|Sobre aquele presente...
+f3aea0bc-641f-43e7-a2aa-34448fb02e92|Ah, merda... desculpe, não consegui me conter mais... Desculpe!
+f3e29d73-ca12-4092-ae00-185eea8e507c|Bem, vamos fazer o nosso melhor... Eeeehiii Frank!
+f5c37d7c-5927-4c98-a006-df7305eed122|*Escute*
+f60ceaf0-80a1-4b2e-a121-4fbf3d9f38e8|Ops! Desculpe!
+f610903f-e8b8-40fa-99b5-380eee961dff|Estou suando pra caramba, então vou me secar. E talvez ver o que todo mundo está dizendo. Mas já volto!
+f67d0977-adc2-4432-9d97-41400c298ffc|Nossa, parece interessante.
+f72cb8eb-2ee4-4c49-bd28-9b272cab9fca|Leah, ainda temos que pegar aquela cobra.
+f7c78eaa-4481-47f3-8777-11b873c672a0|Hum, tá.
+f9f27979-0403-4b4c-8b7f-da8bff84d0ba|Não podemos vencer!
+fbce04d5-6416-438c-9047-f3f1851e8d4f|Te vejo na garagem quando estiver pronto.
+fc352eff-46be-4b89-a496-6148b1b6400c|Ótimo.
+fc67c213-bad0-4675-af33-51c800690472|M-mas... alguém, hum... cagou no micro-ondas!
+fcab56a7-247a-49e0-852e-85ea0a90f54c|Sim... na vida real.
+fd90ad0a-eda8-4c72-a962-4bf36736de22|Pobre Frank...
+fda33bb2-bf17-4a53-a8e2-c162aff91728|Espero que não chegue a esse ponto.
+ff06e8f7-af55-4721-bc57-1b87ede11e72|Leah, isso é demais. Vou livrar o mundo da sua maldade, aqui e agora!
+ff7ab474-fa34-4f2b-8609-0be3e7a0a497|O homem, o mito, o babaca... hum... sim, estou com você!
+ff9cab57-5831-4b25-8c45-a2392ed7a8b9|Sim... abra-se para o lado negro...
+ffc9820f-a412-4782-95a8-84ca02d9f2c2|Merda!
 
 [Quests]
 9939b774-0dc6-47be-8518-296638df8028|...Ele transa como uma abelha?
@@ -1012,3 +1055,33 @@ BGC88|Tudo bem, atenção todas as mulheres e todos os homens fracos... Estou ol
 BGC89|Ok, bom, agora você está brincando com a sua vagina. Você realmente está com a cabeça no jogo, não é? Droga, estou pirando.
 BGC90|Garota... não me faça colocar as mãos em você. Estou tentando manter a calma, mas você está agindo de forma muito nojenta agora.
 BGC91|Ugh, garota, pare com isso. O que diabos você está pensando agora? Por que eu continuo me inscrevendo para esses empregos de segurança? Toda vez...
+BGC92|Doja Cat? Droga, será que ela vai precisar de um pouco mais de proteção hoje à noite? Eu cuido dela... Hum... porque eu adoraria ajudar, só isso.
+BGC93|Nós deveríamos, hum... nós deveríamos fazer isso. Acho que você deveria me beijar.
+BGC94|Certo, certo, sem problemas. Vou refrescar meus pensamentos.
+BGC95|Eu poderia dizer a mesma coisa sobre você... na verdade... é o que eu vou fazer.
+BGC96|Desculpe, eu estava tão entretido em como essa conversa estava indo que esqueci o que você disse.
+BGC97|Ei, que p...? Ah, entendi. Você quer me testar. Tenta de novo e vê se consigo desfazê-la com um golpe de judô.
+BGC98|Ufa, alarme falso.
+BGC99|Certo, eu tenho praticado para essas situações. Vamos lá, Leah. Hora de dar uma surra em alguns babacas! ... BGC100|Por que as luzes se apagaram?
+BGC101|Sem luz? Tudo bem. Eu tenho outros cinco sentidos e meus instintos!
+BGC102|Ninguém se mexe!
+BGC103|Uau. Ei! Droga, você quase levou um chute na cara! Acha que consegue acender as luzes de novo?
+BGC104|Estou com um mau pressentimento.
+BGC105|Merda, esqueci qual forma usar. Ok, ponche sóbrio serve. Sente-se! Pare de lutar ou vai ser pior para você!
+BGC106|Vou ficar de olho naquela tal de Liz como um falcão. Ela disse que foi convidada por um cliente misterioso. Parece um álibi muito conveniente.
+BGC107|Sensei Frank? Como você pôde? Eu tentei ficar do seu lado a noite toda.
+BGC108|E como matar Patrick ajudaria nisso?
+BGC109|Sensei Frank, não fui eu. E agora acho que você está indo por um caminho que eu não consigo seguir.
+BGC110|Nossa, você tem um corpo definido. Não sei se precisava ver tudo, mas eu também o exibiria. Impressionante.
+BGC111|Alguém mais está suando nos lugares errados ou sou só eu?
+BGC112|Preciso da atenção de todos. Vi uma espécie de lagarto lá fora. Como monitor desta festa, estou dando um ALERTA DE NÍVEL 5. Não entendo nada de lagartos, mas este parece bem suspeito.
+BGC113|Vá para o jardim. Olhe para as montanhas. Está vendo aquelas luzes vermelhas piscando lá em cima? Que diabos são elas? São alienígenas. ALIENÍGENAS.
+BGC114|Metrópolis tem o Superman. Gotham tem o Batman. Pinecone Valley precisa de sua super-heroína, e eu sou a que está usando a capa, porque sou a Tracksuit. Não, preciso encontrar um nome melhor.
+BGC115|Alguém quer brincar de alguma coisa? Charadas? Talvez Twister?
+BGC116|Madison tem muitos vestidos fofos. Será que ela me emprestaria alguns? O quê? Você acha que eu não gosto de ser fofa?
+BGC117|Preciso ajudar Brittney a sair da concha. Talvez eu possa fingir que a sequestrei para despertar seus instintos de sobrevivência. Não, nunca funciona como você espera.
+BGC118|Ashley e Madison deveriam deixar a rivalidade de lado. Uma irmã não é uma boa rival de qualquer maneira. Um homem misterioso em um beco que matou seus pais bem na sua frente é uma boa rival.
+BGC119|Amy pode parecer fofa e inocente, mas tenho a sensação de que ela tem alguns truques na manga.
+BGC120|Quer dançar? Vou dançar no seu túmulo. Nossa, desculpe, isso saiu muito mais violento do que eu pretendia.
+BGC121|Aquelas luzes no banheiro de cima criam uma certa atmosfera.
+

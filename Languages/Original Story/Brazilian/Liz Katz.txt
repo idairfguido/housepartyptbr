@@ -184,8 +184,7 @@ Name|Liz Katz
 168|Bem, poderíamos tentar entrar nas aberturas escuras e claustrofóbicas. Soltar o assassino com um lança-chamas sem o elemento surpresa. Tudo contra um predador furioso que já sabe navegar pelas aberturas melhor do que nós. E tudo isso enquanto torcemos para que não morramos sufocados pela fumaça.
 169|Ou podemos começar uma fogueira. Cedo ou tarde, as aberturas vão se encher de fumaça, e ele terá que sair antes que a casa vire cinzas — tomara que sem a gente ainda lá dentro.
 170|Talvez pudéssemos ver se alguém tem algo que possamos todos tragar e deixar a fumaça passar pelas aberturas até o assassino sair... e aí ele provavelmente vai nos matar enquanto estivermos rindo. Hmm.
-171|Talvez pudéssemos ver se alguém tem algo que todos possamos tragar e deixar a fumaça sair pelas aberturas até o assassino sair... e então ele provavelmente nos matará enquanto estivermos rindo. Hmm.
-172| 171|Ou também poderíamos encontrar os componentes do feitiço para invocar um portal dimensional do sistema de ventilação para o forno, e então queimar algo no forno para encher as chaminés com fumaça. Mas há uma pequena complicação nisso.
+171|Ou também poderíamos encontrar os componentes do feitiço para invocar um portal dimensional do sistema de ventilação para o forno, e então queimar algo no forno para encher as chaminés com fumaça. Mas há uma pequena complicação nisso.
 172|É, eu não sou um mago de nível nove.
 173|Ok, vou continuar pensando. Talvez pudéssemos inventar algum tipo de arma de energia que dispare discos multidimensionais que possam conectar diferentes locais no espaço e no tempo sem distorcer a gravidade, e então encontrar um vulcão fumegante...
 174|Uau, você fez um ótimo trabalho.
@@ -247,7 +246,7 @@ Name|Liz Katz
 229|Você está falando da profecia do escolhido que será capaz de lidar com a sétima vinda de Liz Katz?
 230|Não, esta é a parte em que ninguém acredita que você é o escolhido ainda. A cena de amor começa depois que você se prova.
 231|Não tenho certeza se sou o antigo mentor, mas agradeço a confiança.
-229| 232|Sua sabedoria está aparecendo. Não a perca.
+232|Sua sabedoria está aparecendo. Não a perca.
 233|Você pode tentar, mas será melhor se nos concentrarmos em aproveitar a festa.
 234|Haha, com nossos poderes combinados... veremos o que o destino nos reserva esta noite.
 235|Me fazer? Talvez você pudesse fazer coisas "comigo" algum dia, mas, hum, acabamos de nos conhecer. Talvez você devesse conhecer uma garota primeiro.

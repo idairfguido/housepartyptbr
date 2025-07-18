@@ -1,4 +1,5 @@
-﻿0|SEJA SOCIAL: Se você estiver preso em uma oportunidade específica, tente conversar com outros personagens. Eles podem ter uma sugestão para você.
+﻿[General]
+0|SEJA SOCIAL: Se você estiver preso em uma oportunidade específica, tente conversar com outros personagens. Eles podem ter uma sugestão para você.
 1|CONSIGA UMA AJUDA: Pressione o botão direito do mouse/selecione o analógico direito (padrão) para pegar certos itens. Você pode usá-los para interagir com, ou jogar, muitos itens na casa!
 2|MULTITAREFAS: Você pode mover a câmera enquanto o diálogo de um personagem estiver na tela! Arraste o botão direito do mouse/selecione o analógico direito (padrão) para executar esta estratégia de alta inteligência.
 3|DÊ A ELES O P: Jogando com um cara? Pressione "P"/gatilho direito (R2) (padrão) para expor suas partes íntimas ao mundo. Sério, e não se esqueça de rebolar um pouco. Rebolar? É, um depois o outro.

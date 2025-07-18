@@ -189,8 +189,6 @@ d7acd498-a842-4e04-be04-1de8198d4b81|Eu, uh... eu literalmente tenho que ir para
 [Quests]
 f1629f86-ba14-4756-ab60-3eab7d36a095|O Retorno dos Grumps
 f1629f86-ba14-4756-ab60-3eab7d36a095Description|Os Game Grumps já estão aqui. E, assim como você, eles odeiam este lugar. Use essa parte de você para endireitar o navio e colocá-los a caminho. Ou... deixe-os tentar encontrar a própria saída.
-f1629f86-ba14-4756-ab60-3eab7d36a095CompletedDetails|
-f1629f86-ba14-4756-ab60-3eab7d36a095FailedDetails|
 
 [Events]
 5112888d-1e4d-4b2d-b016-332d63695ec1|Não tenho certeza se o Frank consegue nos ouvir... Eu deveria tentar puxar o Arin um pouco mais para perto dele.
